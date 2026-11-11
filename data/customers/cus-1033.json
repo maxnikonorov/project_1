@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1033",
+  "first_name": "Владлен",
+  "last_name": "Киселев",
+  "email": "kalashnikovakira@example.com",
+  "phone": "+7 794 619 61 18",
+  "birth_date": "2005-04-30",
+  "gender": "female",
+  "registration_date": "2026-11-10T16:08:40.551511",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-A71D81520B",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "п. Нефтегорск (Самар.)",
+    "street": "ул. Свободная",
+    "house": "40",
+    "postal_code": "707821",
+    "coordinates": {
+      "latitude": -68.899129,
+      "longitude": 28.922537
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Нефтегорск (Самар.)",
+    "street": "ш. Ясное",
+    "house": "1",
+    "apartment": "52",
+    "postal_code": "256820"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

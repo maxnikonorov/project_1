@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1029",
+  "first_name": "Родион",
+  "last_name": "Дьячкова",
+  "email": "frjabov@example.org",
+  "phone": "8 (180) 631-46-63",
+  "birth_date": "1960-05-12",
+  "gender": "female",
+  "registration_date": "2026-11-10T16:08:40.544986",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-CE5EA2A77D",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "п. Адлер",
+    "street": "ул. Поселковая",
+    "house": "7",
+    "postal_code": "712439",
+    "coordinates": {
+      "latitude": -25.411828,
+      "longitude": -49.198765
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Адлер",
+    "street": "алл. Интернациональная",
+    "house": "71",
+    "apartment": "50",
+    "postal_code": "925676"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00107",
+  "customer": {
+    "customer_id": "cus-1007",
+    "first_name": "Владимир",
+    "last_name": "Меркушева"
+  },
+  "store": {
+    "store_id": "store-004",
+    "store_name": "Большая Пикча — Магазин на пр. Донской",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Арзамас",
+      "street": "ул. Войкова",
+      "house": "709",
+      "postal_code": "686059",
+      "coordinates": {
+        "latitude": 27.408209,
+        "longitude": -47.579346
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "name": "Что",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 139.68,
+      "total_price": 698.4,
+      "kbju": {
+        "calories": 231.7,
+        "protein": 17.6,
+        "fat": 9.2,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "Петухова Лимитед",
+        "country": "Россия",
+        "website": "https://ip.net",
+        "inn": "2487454296"
+      }
+    }
+  ],
+  "total_amount": 698.4,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Кажим",
+    "street": "пер. Таманский",
+    "house": "86",
+    "apartment": "80",
+    "postal_code": "389065"
+  },
+  "purchase_datetime": "2026-09-23T16:08:40.725000"
+}

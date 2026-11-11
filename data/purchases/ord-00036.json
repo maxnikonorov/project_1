@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00036",
+  "customer": {
+    "customer_id": "cus-1002",
+    "first_name": "Лора",
+    "last_name": "Фомина"
+  },
+  "store": {
+    "store_id": "store-031",
+    "store_name": "Маленькая Пикча — Магазин на пр. Громова",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Александровск",
+      "street": "пер. Енисейский",
+      "house": "274",
+      "postal_code": "929656",
+      "coordinates": {
+        "latitude": 38.393706,
+        "longitude": -51.525823
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1011",
+      "name": "Через",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 205.21,
+      "total_price": 205.21,
+      "kbju": {
+        "calories": 277.9,
+        "protein": 10.7,
+        "fat": 14.2,
+        "carbohydrates": 1.5
+      },
+      "manufacturer": {
+        "name": "НПО «Бурова»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "3200066091"
+      }
+    }
+  ],
+  "total_amount": 205.21,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Калач-на-Дону",
+    "street": "пр. Серова",
+    "house": "9",
+    "apartment": "81",
+    "postal_code": "868446"
+  },
+  "purchase_datetime": "2026-09-03T16:08:40.616176"
+}

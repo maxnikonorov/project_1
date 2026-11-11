@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00061",
+  "customer": {
+    "customer_id": "cus-1009",
+    "first_name": "Иннокентий",
+    "last_name": "Ларионова"
+  },
+  "store": {
+    "store_id": "store-023",
+    "store_name": "Большая Пикча — Магазин на пр. Красногвардейский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Далматово",
+      "street": "бул. 50 лет ВЛКСМ",
+      "house": "59",
+      "postal_code": "821629",
+      "coordinates": {
+        "latitude": 19.1968455,
+        "longitude": -119.926477
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "name": "Пространство",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 169.18,
+      "total_price": 338.36,
+      "kbju": {
+        "calories": 244.0,
+        "protein": 13.8,
+        "fat": 6.9,
+        "carbohydrates": 6.3
+      },
+      "manufacturer": {
+        "name": "ИП «Силин, Лапина и Федосеев»",
+        "country": "Россия",
+        "website": "https://rao.com",
+        "inn": "0793948672"
+      }
+    },
+    {
+      "product_id": "prd-1016",
+      "name": "Вытаскивать",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 53.87,
+      "total_price": 269.35,
+      "kbju": {
+        "calories": 56.8,
+        "protein": 6.1,
+        "fat": 2.9,
+        "carbohydrates": 30.8
+      },
+      "manufacturer": {
+        "name": "ОАО «Беспалова»",
+        "country": "Россия",
+        "website": "https://smirnova.com",
+        "inn": "3793340215"
+      }
+    },
+    {
+      "product_id": "prd-1002",
+      "name": "Единый",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 289.68,
+      "total_price": 869.04,
+      "kbju": {
+        "calories": 265.0,
+        "protein": 19.8,
+        "fat": 7.9,
+        "carbohydrates": 44.8
+      },
+      "manufacturer": {
+        "name": "ИП «Мартынова»",
+        "country": "Россия",
+        "website": "https://ao.ru",
+        "inn": "6920417941"
+      }
+    }
+  ],
+  "total_amount": 1476.75,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Бронницы",
+    "street": "пер. Деповский",
+    "house": "12",
+    "apartment": "36",
+    "postal_code": "187304"
+  },
+  "purchase_datetime": "2026-10-05T16:08:40.656271"
+}

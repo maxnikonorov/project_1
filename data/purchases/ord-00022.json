@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00022",
+  "customer": {
+    "customer_id": "cus-1006",
+    "first_name": "Агафья",
+    "last_name": "Гурьева"
+  },
+  "store": {
+    "store_id": "store-028",
+    "store_name": "Большая Пикча — Магазин на пер. Приморский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Учалы",
+      "street": "алл. Клубная",
+      "house": "625",
+      "postal_code": "972146",
+      "coordinates": {
+        "latitude": -62.261145,
+        "longitude": 122.407164
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1010",
+      "name": "Наткнуться",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 109.99,
+      "total_price": 549.95,
+      "kbju": {
+        "calories": 111.4,
+        "protein": 5.0,
+        "fat": 2.9,
+        "carbohydrates": 48.1
+      },
+      "manufacturer": {
+        "name": "АО «Третьяков, Кабанов и Казакова»",
+        "country": "Россия",
+        "website": "https://rao.edu",
+        "inn": "0018510627"
+      }
+    },
+    {
+      "product_id": "prd-1018",
+      "name": "Смеяться",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 143.87,
+      "total_price": 719.35,
+      "kbju": {
+        "calories": 175.7,
+        "protein": 9.9,
+        "fat": 11.6,
+        "carbohydrates": 36.9
+      },
+      "manufacturer": {
+        "name": "АО «Архипов»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "6430660253"
+      }
+    },
+    {
+      "product_id": "prd-1016",
+      "name": "Вытаскивать",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 53.87,
+      "total_price": 53.87,
+      "kbju": {
+        "calories": 56.8,
+        "protein": 6.1,
+        "fat": 2.9,
+        "carbohydrates": 30.8
+      },
+      "manufacturer": {
+        "name": "ОАО «Беспалова»",
+        "country": "Россия",
+        "website": "https://smirnova.com",
+        "inn": "3793340215"
+      }
+    }
+  ],
+  "total_amount": 1323.17,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Лагань",
+    "street": "пр. Просвещения",
+    "house": "61",
+    "apartment": "60",
+    "postal_code": "059264"
+  },
+  "purchase_datetime": "2026-09-21T16:08:40.595109"
+}

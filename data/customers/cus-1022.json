@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1022",
+  "first_name": "Анастасия",
+  "last_name": "Крылов",
+  "email": "militsa57@example.com",
+  "phone": "87652057007",
+  "birth_date": "1991-04-23",
+  "gender": "male",
+  "registration_date": "2026-11-10T16:08:40.533002",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-D7636313EA",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Далматово",
+    "street": "бул. 50 лет ВЛКСМ",
+    "house": "59",
+    "postal_code": "821629",
+    "coordinates": {
+      "latitude": 19.1968455,
+      "longitude": -119.926477
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Далматово",
+    "street": "ш. Гафури",
+    "house": "2",
+    "apartment": "72",
+    "postal_code": "185055"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

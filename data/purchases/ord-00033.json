@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00033",
+  "customer": {
+    "customer_id": "cus-1015",
+    "first_name": "Ипат",
+    "last_name": "Панова"
+  },
+  "store": {
+    "store_id": "store-022",
+    "store_name": "Большая Пикча — Магазин на алл. Пригородная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Нарткала",
+      "street": "ул. Труда",
+      "house": "62",
+      "postal_code": "710312",
+      "coordinates": {
+        "latitude": -12.1783105,
+        "longitude": 146.648455
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1018",
+      "name": "Смеяться",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 143.87,
+      "total_price": 143.87,
+      "kbju": {
+        "calories": 175.7,
+        "protein": 9.9,
+        "fat": 11.6,
+        "carbohydrates": 36.9
+      },
+      "manufacturer": {
+        "name": "АО «Архипов»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "6430660253"
+      }
+    },
+    {
+      "product_id": "prd-1006",
+      "name": "Иной",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 38.14,
+      "total_price": 38.14,
+      "kbju": {
+        "calories": 240.4,
+        "protein": 11.6,
+        "fat": 4.1,
+        "carbohydrates": 46.3
+      },
+      "manufacturer": {
+        "name": "Шарова Лтд",
+        "country": "Россия",
+        "website": "https://trofimov.net",
+        "inn": "2302699549"
+      }
+    }
+  ],
+  "total_amount": 182.01,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Нижний Новгород",
+    "street": "ш. Ярославское",
+    "house": "59",
+    "apartment": "36",
+    "postal_code": "793316"
+  },
+  "purchase_datetime": "2026-10-09T16:08:40.612160"
+}

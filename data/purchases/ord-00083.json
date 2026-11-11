@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00083",
+  "customer": {
+    "customer_id": "cus-1020",
+    "first_name": "Севастьян",
+    "last_name": "Павлова"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на бул. 30 лет Победы",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Зеленоград",
+      "street": "пр. Цветочный",
+      "house": "4",
+      "postal_code": "546752",
+      "coordinates": {
+        "latitude": -37.668492,
+        "longitude": 170.691745
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1010",
+      "name": "Наткнуться",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 109.99,
+      "total_price": 219.98,
+      "kbju": {
+        "calories": 111.4,
+        "protein": 5.0,
+        "fat": 2.9,
+        "carbohydrates": 48.1
+      },
+      "manufacturer": {
+        "name": "АО «Третьяков, Кабанов и Казакова»",
+        "country": "Россия",
+        "website": "https://rao.edu",
+        "inn": "0018510627"
+      }
+    }
+  ],
+  "total_amount": 219.98,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Соль-Илецк",
+    "street": "ш. Лесозаводское",
+    "house": "316",
+    "apartment": "11",
+    "postal_code": "278229"
+  },
+  "purchase_datetime": "2026-08-23T16:08:40.691407"
+}

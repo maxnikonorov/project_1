@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00139",
+  "customer": {
+    "customer_id": "cus-1016",
+    "first_name": "Зосима",
+    "last_name": "Шубина"
+  },
+  "store": {
+    "store_id": "store-034",
+    "store_name": "Маленькая Пикча — Магазин на бул. Энергетиков",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Нефтегорск (Самар.)",
+      "street": "ул. Свободная",
+      "house": "40",
+      "postal_code": "707821",
+      "coordinates": {
+        "latitude": -68.899129,
+        "longitude": 28.922537
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1006",
+      "name": "Иной",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 38.14,
+      "total_price": 76.28,
+      "kbju": {
+        "calories": 240.4,
+        "protein": 11.6,
+        "fat": 4.1,
+        "carbohydrates": 46.3
+      },
+      "manufacturer": {
+        "name": "Шарова Лтд",
+        "country": "Россия",
+        "website": "https://trofimov.net",
+        "inn": "2302699549"
+      }
+    },
+    {
+      "product_id": "prd-1017",
+      "name": "Пол",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 150.17,
+      "total_price": 750.85,
+      "kbju": {
+        "calories": 127.5,
+        "protein": 3.3,
+        "fat": 7.5,
+        "carbohydrates": 41.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Родионова-Осипов»",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "4308518530"
+      }
+    },
+    {
+      "product_id": "prd-1019",
+      "name": "Выражение",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 211.74,
+      "total_price": 211.74,
+      "kbju": {
+        "calories": 157.2,
+        "protein": 13.4,
+        "fat": 2.7,
+        "carbohydrates": 6.2
+      },
+      "manufacturer": {
+        "name": "Ковалева Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://zao.ru",
+        "inn": "4325136422"
+      }
+    }
+  ],
+  "total_amount": 1038.87,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Калевала",
+    "street": "пер. Городской",
+    "house": "6/1",
+    "apartment": "91",
+    "postal_code": "325594"
+  },
+  "purchase_datetime": "2026-11-08T16:08:40.771606"
+}

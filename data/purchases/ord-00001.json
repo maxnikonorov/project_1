@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00001",
+  "customer": {
+    "customer_id": "cus-1003",
+    "first_name": "Трофим",
+    "last_name": "Мамонтова"
+  },
+  "store": {
+    "store_id": "store-004",
+    "store_name": "Большая Пикча — Магазин на пр. Донской",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Арзамас",
+      "street": "ул. Войкова",
+      "house": "709",
+      "postal_code": "686059",
+      "coordinates": {
+        "latitude": 27.408209,
+        "longitude": -47.579346
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1007",
+      "name": "Соответствие",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 254.38,
+      "total_price": 508.76,
+      "kbju": {
+        "calories": 250.9,
+        "protein": 11.5,
+        "fat": 3.2,
+        "carbohydrates": 44.9
+      },
+      "manufacturer": {
+        "name": "Терентьев Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://ip.info",
+        "inn": "3390887494"
+      }
+    },
+    {
+      "product_id": "prd-1008",
+      "name": "Горький",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 203.15,
+      "total_price": 406.3,
+      "kbju": {
+        "calories": 271.9,
+        "protein": 15.0,
+        "fat": 7.2,
+        "carbohydrates": 40.0
+      },
+      "manufacturer": {
+        "name": "Шарапов Групп",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "3346683207"
+      }
+    },
+    {
+      "product_id": "prd-1006",
+      "name": "Иной",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 38.14,
+      "total_price": 152.56,
+      "kbju": {
+        "calories": 240.4,
+        "protein": 11.6,
+        "fat": 4.1,
+        "carbohydrates": 46.3
+      },
+      "manufacturer": {
+        "name": "Шарова Лтд",
+        "country": "Россия",
+        "website": "https://trofimov.net",
+        "inn": "2302699549"
+      }
+    }
+  ],
+  "total_amount": 1067.62,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Арзамас",
+    "street": "бул. Рылеева",
+    "house": "6/3",
+    "apartment": "8",
+    "postal_code": "348548"
+  },
+  "purchase_datetime": "2026-09-10T16:08:40.569051"
+}

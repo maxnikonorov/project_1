@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00178",
+  "customer": {
+    "customer_id": "cus-1024",
+    "first_name": "Бажен",
+    "last_name": "Меркушева"
+  },
+  "store": {
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на ул. Высоковольтная",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Усть-Кут",
+      "street": "ул. Профсоюзная",
+      "house": "4/5",
+      "postal_code": "679522",
+      "coordinates": {
+        "latitude": -71.6251535,
+        "longitude": 126.315479
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "name": "Что",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 139.68,
+      "total_price": 558.72,
+      "kbju": {
+        "calories": 231.7,
+        "protein": 17.6,
+        "fat": 9.2,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "Петухова Лимитед",
+        "country": "Россия",
+        "website": "https://ip.net",
+        "inn": "2487454296"
+      }
+    },
+    {
+      "product_id": "prd-1011",
+      "name": "Через",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 205.21,
+      "total_price": 205.21,
+      "kbju": {
+        "calories": 277.9,
+        "protein": 10.7,
+        "fat": 14.2,
+        "carbohydrates": 1.5
+      },
+      "manufacturer": {
+        "name": "НПО «Бурова»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "3200066091"
+      }
+    }
+  ],
+  "total_amount": 763.93,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Кабанск",
+    "street": "пр. Высоковольтный",
+    "house": "9",
+    "apartment": "34",
+    "postal_code": "100346"
+  },
+  "purchase_datetime": "2026-10-05T16:08:40.843838"
+}

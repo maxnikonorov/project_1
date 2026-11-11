@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00037",
+  "customer": {
+    "customer_id": "cus-1017",
+    "first_name": "Дмитрий",
+    "last_name": "Наумов"
+  },
+  "store": {
+    "store_id": "store-033",
+    "store_name": "Маленькая Пикча — Магазин на ул. Больничная",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Домбай",
+      "street": "ул. Заливная",
+      "house": "77",
+      "postal_code": "721769",
+      "coordinates": {
+        "latitude": -79.236949,
+        "longitude": -85.283823
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1001",
+      "name": "Природа",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 270.47,
+      "total_price": 540.94,
+      "kbju": {
+        "calories": 82.7,
+        "protein": 5.3,
+        "fat": 7.1,
+        "carbohydrates": 48.4
+      },
+      "manufacturer": {
+        "name": "ОАО «Аксенов-Елисеева»",
+        "country": "Россия",
+        "website": "https://npo.biz",
+        "inn": "2579256074"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "name": "Пространство",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 169.18,
+      "total_price": 338.36,
+      "kbju": {
+        "calories": 244.0,
+        "protein": 13.8,
+        "fat": 6.9,
+        "carbohydrates": 6.3
+      },
+      "manufacturer": {
+        "name": "ИП «Силин, Лапина и Федосеев»",
+        "country": "Россия",
+        "website": "https://rao.com",
+        "inn": "0793948672"
+      }
+    },
+    {
+      "product_id": "prd-1017",
+      "name": "Пол",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 150.17,
+      "total_price": 300.34,
+      "kbju": {
+        "calories": 127.5,
+        "protein": 3.3,
+        "fat": 7.5,
+        "carbohydrates": 41.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Родионова-Осипов»",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "4308518530"
+      }
+    }
+  ],
+  "total_amount": 1179.64,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Бологое",
+    "street": "пр. Толбухина",
+    "house": "625",
+    "apartment": "20",
+    "postal_code": "483680"
+  },
+  "purchase_datetime": "2026-11-02T16:08:40.617175"
+}

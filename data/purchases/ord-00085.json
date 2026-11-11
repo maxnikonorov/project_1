@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00085",
+  "customer": {
+    "customer_id": "cus-1041",
+    "first_name": "Станислав",
+    "last_name": "Сысоева"
+  },
+  "store": {
+    "store_id": "store-044",
+    "store_name": "Маленькая Пикча — Магазин на пр. Иванова",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Калач-на-Дону",
+      "street": "бул. Дарвина",
+      "house": "6/7",
+      "postal_code": "484693",
+      "coordinates": {
+        "latitude": -56.9071505,
+        "longitude": 39.077082
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1005",
+      "name": "Тысяча",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 109.23,
+      "total_price": 327.69,
+      "kbju": {
+        "calories": 215.7,
+        "protein": 8.5,
+        "fat": 8.5,
+        "carbohydrates": 5.4
+      },
+      "manufacturer": {
+        "name": "Исаева Групп",
+        "country": "Россия",
+        "website": "https://ao.com",
+        "inn": "0005832495"
+      }
+    },
+    {
+      "product_id": "prd-1011",
+      "name": "Через",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 205.21,
+      "total_price": 820.84,
+      "kbju": {
+        "calories": 277.9,
+        "protein": 10.7,
+        "fat": 14.2,
+        "carbohydrates": 1.5
+      },
+      "manufacturer": {
+        "name": "НПО «Бурова»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "3200066091"
+      }
+    },
+    {
+      "product_id": "prd-1006",
+      "name": "Иной",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 38.14,
+      "total_price": 76.28,
+      "kbju": {
+        "calories": 240.4,
+        "protein": 11.6,
+        "fat": 4.1,
+        "carbohydrates": 46.3
+      },
+      "manufacturer": {
+        "name": "Шарова Лтд",
+        "country": "Россия",
+        "website": "https://trofimov.net",
+        "inn": "2302699549"
+      }
+    }
+  ],
+  "total_amount": 1224.81,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Усть-Кут",
+    "street": "ш. Репина",
+    "house": "11",
+    "apartment": "65",
+    "postal_code": "997797"
+  },
+  "purchase_datetime": "2026-08-26T16:08:40.694408"
+}

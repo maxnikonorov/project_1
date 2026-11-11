@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1021",
+  "first_name": "Сила",
+  "last_name": "Голубева",
+  "email": "viktorijamerkusheva@example.net",
+  "phone": "+7 (304) 501-94-32",
+  "birth_date": "1993-08-30",
+  "gender": "female",
+  "registration_date": "2026-11-10T16:08:40.530985",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-6F7FC3CF79",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "д. Нарткала",
+    "street": "ул. Труда",
+    "house": "62",
+    "postal_code": "710312",
+    "coordinates": {
+      "latitude": -12.1783105,
+      "longitude": 146.648455
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Нарткала",
+    "street": "бул. Кооперативный",
+    "house": "573",
+    "apartment": "52",
+    "postal_code": "398005"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1042",
+  "first_name": "Ульян",
+  "last_name": "Юдина",
+  "email": "epetuhov@example.net",
+  "phone": "+7 524 340 16 12",
+  "birth_date": "1962-09-27",
+  "gender": "female",
+  "registration_date": "2026-11-10T16:08:40.565040",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-721FDC7469",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "к. Александровск",
+    "street": "ш. Комсомольское",
+    "house": "1",
+    "postal_code": "044769",
+    "coordinates": {
+      "latitude": -8.57721,
+      "longitude": 52.71837
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Александровск",
+    "street": "алл. Краснодарская",
+    "house": "53",
+    "apartment": "68",
+    "postal_code": "874464"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

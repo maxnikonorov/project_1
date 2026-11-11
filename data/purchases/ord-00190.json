@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00190",
+  "customer": {
+    "customer_id": "cus-1015",
+    "first_name": "Ипат",
+    "last_name": "Панова"
+  },
+  "store": {
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на пер. Красный",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Соловки",
+      "street": "пер. Космический",
+      "house": "7",
+      "postal_code": "821818",
+      "coordinates": {
+        "latitude": -8.30231,
+        "longitude": 144.533567
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "name": "Пространство",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 169.18,
+      "total_price": 507.54,
+      "kbju": {
+        "calories": 244.0,
+        "protein": 13.8,
+        "fat": 6.9,
+        "carbohydrates": 6.3
+      },
+      "manufacturer": {
+        "name": "ИП «Силин, Лапина и Федосеев»",
+        "country": "Россия",
+        "website": "https://rao.com",
+        "inn": "0793948672"
+      }
+    }
+  ],
+  "total_amount": 507.54,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Нижний Новгород",
+    "street": "ш. Ярославское",
+    "house": "59",
+    "apartment": "36",
+    "postal_code": "793316"
+  },
+  "purchase_datetime": "2026-10-26T16:08:40.866671"
+}

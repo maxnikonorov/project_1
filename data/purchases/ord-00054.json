@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00054",
+  "customer": {
+    "customer_id": "cus-1021",
+    "first_name": "Сила",
+    "last_name": "Голубева"
+  },
+  "store": {
+    "store_id": "store-007",
+    "store_name": "Большая Пикча — Магазин на алл. Жуковского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Лагань",
+      "street": "пр. Тополиный",
+      "house": "6/4",
+      "postal_code": "084092",
+      "coordinates": {
+        "latitude": 49.030439,
+        "longitude": -59.077561
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1019",
+      "name": "Выражение",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 211.74,
+      "total_price": 635.22,
+      "kbju": {
+        "calories": 157.2,
+        "protein": 13.4,
+        "fat": 2.7,
+        "carbohydrates": 6.2
+      },
+      "manufacturer": {
+        "name": "Ковалева Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://zao.ru",
+        "inn": "4325136422"
+      }
+    },
+    {
+      "product_id": "prd-1011",
+      "name": "Через",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 205.21,
+      "total_price": 820.84,
+      "kbju": {
+        "calories": 277.9,
+        "protein": 10.7,
+        "fat": 14.2,
+        "carbohydrates": 1.5
+      },
+      "manufacturer": {
+        "name": "НПО «Бурова»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "3200066091"
+      }
+    },
+    {
+      "product_id": "prd-1001",
+      "name": "Природа",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 270.47,
+      "total_price": 540.94,
+      "kbju": {
+        "calories": 82.7,
+        "protein": 5.3,
+        "fat": 7.1,
+        "carbohydrates": 48.4
+      },
+      "manufacturer": {
+        "name": "ОАО «Аксенов-Елисеева»",
+        "country": "Россия",
+        "website": "https://npo.biz",
+        "inn": "2579256074"
+      }
+    }
+  ],
+  "total_amount": 1997.0,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Нарткала",
+    "street": "бул. Кооперативный",
+    "house": "573",
+    "apartment": "52",
+    "postal_code": "398005"
+  },
+  "purchase_datetime": "2026-09-06T16:08:40.644267"
+}

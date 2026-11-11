@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00151",
+  "customer": {
+    "customer_id": "cus-1033",
+    "first_name": "Владлен",
+    "last_name": "Киселев"
+  },
+  "store": {
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на пр. Виноградный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Кабанск",
+      "street": "наб. Ватутина",
+      "house": "71",
+      "postal_code": "430475",
+      "coordinates": {
+        "latitude": 56.1539,
+        "longitude": -125.144973
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "name": "Что",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 139.68,
+      "total_price": 279.36,
+      "kbju": {
+        "calories": 231.7,
+        "protein": 17.6,
+        "fat": 9.2,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "Петухова Лимитед",
+        "country": "Россия",
+        "website": "https://ip.net",
+        "inn": "2487454296"
+      }
+    },
+    {
+      "product_id": "prd-1005",
+      "name": "Тысяча",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 109.23,
+      "total_price": 327.69,
+      "kbju": {
+        "calories": 215.7,
+        "protein": 8.5,
+        "fat": 8.5,
+        "carbohydrates": 5.4
+      },
+      "manufacturer": {
+        "name": "Исаева Групп",
+        "country": "Россия",
+        "website": "https://ao.com",
+        "inn": "0005832495"
+      }
+    }
+  ],
+  "total_amount": 607.05,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Нефтегорск (Самар.)",
+    "street": "ш. Ясное",
+    "house": "1",
+    "apartment": "52",
+    "postal_code": "256820"
+  },
+  "purchase_datetime": "2026-08-12T16:08:40.796698"
+}

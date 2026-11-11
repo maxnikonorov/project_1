@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00161",
+  "customer": {
+    "customer_id": "cus-1002",
+    "first_name": "Лора",
+    "last_name": "Фомина"
+  },
+  "store": {
+    "store_id": "store-015",
+    "store_name": "Большая Пикча — Магазин на бул. Буденного",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Руза",
+      "street": "ш. Радужное",
+      "house": "7/7",
+      "postal_code": "372559",
+      "coordinates": {
+        "latitude": -51.107463,
+        "longitude": 85.868379
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1016",
+      "name": "Вытаскивать",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 53.87,
+      "total_price": 53.87,
+      "kbju": {
+        "calories": 56.8,
+        "protein": 6.1,
+        "fat": 2.9,
+        "carbohydrates": 30.8
+      },
+      "manufacturer": {
+        "name": "ОАО «Беспалова»",
+        "country": "Россия",
+        "website": "https://smirnova.com",
+        "inn": "3793340215"
+      }
+    },
+    {
+      "product_id": "prd-1017",
+      "name": "Пол",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 150.17,
+      "total_price": 750.85,
+      "kbju": {
+        "calories": 127.5,
+        "protein": 3.3,
+        "fat": 7.5,
+        "carbohydrates": 41.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Родионова-Осипов»",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "4308518530"
+      }
+    },
+    {
+      "product_id": "prd-1001",
+      "name": "Природа",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 270.47,
+      "total_price": 270.47,
+      "kbju": {
+        "calories": 82.7,
+        "protein": 5.3,
+        "fat": 7.1,
+        "carbohydrates": 48.4
+      },
+      "manufacturer": {
+        "name": "ОАО «Аксенов-Елисеева»",
+        "country": "Россия",
+        "website": "https://npo.biz",
+        "inn": "2579256074"
+      }
+    }
+  ],
+  "total_amount": 1075.19,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Калач-на-Дону",
+    "street": "пр. Серова",
+    "house": "9",
+    "apartment": "81",
+    "postal_code": "868446"
+  },
+  "purchase_datetime": "2026-10-15T16:08:40.811799"
+}

@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00042",
+  "customer": {
+    "customer_id": "cus-1001",
+    "first_name": "Варлаам",
+    "last_name": "Лаврентьева"
+  },
+  "store": {
+    "store_id": "store-037",
+    "store_name": "Маленькая Пикча — Магазин на ш. Омское",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Кудымкар",
+      "street": "бул. Путевой",
+      "house": "6/5",
+      "postal_code": "462437",
+      "coordinates": {
+        "latitude": 86.5741415,
+        "longitude": -36.177029
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1011",
+      "name": "Через",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 205.21,
+      "total_price": 1026.05,
+      "kbju": {
+        "calories": 277.9,
+        "protein": 10.7,
+        "fat": 14.2,
+        "carbohydrates": 1.5
+      },
+      "manufacturer": {
+        "name": "НПО «Бурова»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "3200066091"
+      }
+    },
+    {
+      "product_id": "prd-1014",
+      "name": "Что",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 139.68,
+      "total_price": 558.72,
+      "kbju": {
+        "calories": 231.7,
+        "protein": 17.6,
+        "fat": 9.2,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "Петухова Лимитед",
+        "country": "Россия",
+        "website": "https://ip.net",
+        "inn": "2487454296"
+      }
+    }
+  ],
+  "total_amount": 1584.77,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Горячий Ключ",
+    "street": "бул. Щетинкина",
+    "house": "3",
+    "apartment": "39",
+    "postal_code": "329085"
+  },
+  "purchase_datetime": "2026-08-16T16:08:40.625683"
+}

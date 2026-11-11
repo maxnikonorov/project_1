@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00004",
+  "customer": {
+    "customer_id": "cus-1013",
+    "first_name": "Майя",
+    "last_name": "Третьякова"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на бул. 30 лет Победы",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Зеленоград",
+      "street": "пр. Цветочный",
+      "house": "4",
+      "postal_code": "546752",
+      "coordinates": {
+        "latitude": -37.668492,
+        "longitude": 170.691745
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "name": "Горький",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 203.15,
+      "total_price": 406.3,
+      "kbju": {
+        "calories": 271.9,
+        "protein": 15.0,
+        "fat": 7.2,
+        "carbohydrates": 40.0
+      },
+      "manufacturer": {
+        "name": "Шарапов Групп",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "3346683207"
+      }
+    }
+  ],
+  "total_amount": 406.3,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Завьялиха",
+    "street": "пр. Первомайский",
+    "house": "58",
+    "apartment": "88",
+    "postal_code": "991132"
+  },
+  "purchase_datetime": "2026-10-16T16:08:40.572573"
+}

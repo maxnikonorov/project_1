@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00171",
+  "customer": {
+    "customer_id": "cus-1001",
+    "first_name": "Варлаам",
+    "last_name": "Лаврентьева"
+  },
+  "store": {
+    "store_id": "store-044",
+    "store_name": "Маленькая Пикча — Магазин на пр. Иванова",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Калач-на-Дону",
+      "street": "бул. Дарвина",
+      "house": "6/7",
+      "postal_code": "484693",
+      "coordinates": {
+        "latitude": -56.9071505,
+        "longitude": 39.077082
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "name": "Горький",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 203.15,
+      "total_price": 203.15,
+      "kbju": {
+        "calories": 271.9,
+        "protein": 15.0,
+        "fat": 7.2,
+        "carbohydrates": 40.0
+      },
+      "manufacturer": {
+        "name": "Шарапов Групп",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "3346683207"
+      }
+    }
+  ],
+  "total_amount": 203.15,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Горячий Ключ",
+    "street": "бул. Щетинкина",
+    "house": "3",
+    "apartment": "39",
+    "postal_code": "329085"
+  },
+  "purchase_datetime": "2026-08-26T16:08:40.830736"
+}

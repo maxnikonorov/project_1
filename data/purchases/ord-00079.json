@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00079",
+  "customer": {
+    "customer_id": "cus-1003",
+    "first_name": "Трофим",
+    "last_name": "Мамонтова"
+  },
+  "store": {
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на пр. Виноградный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Кабанск",
+      "street": "наб. Ватутина",
+      "house": "71",
+      "postal_code": "430475",
+      "coordinates": {
+        "latitude": 56.1539,
+        "longitude": -125.144973
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1002",
+      "name": "Единый",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 289.68,
+      "total_price": 869.04,
+      "kbju": {
+        "calories": 265.0,
+        "protein": 19.8,
+        "fat": 7.9,
+        "carbohydrates": 44.8
+      },
+      "manufacturer": {
+        "name": "ИП «Мартынова»",
+        "country": "Россия",
+        "website": "https://ao.ru",
+        "inn": "6920417941"
+      }
+    }
+  ],
+  "total_amount": 869.04,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Арзамас",
+    "street": "бул. Рылеева",
+    "house": "6/3",
+    "apartment": "8",
+    "postal_code": "348548"
+  },
+  "purchase_datetime": "2026-09-14T16:08:40.684343"
+}

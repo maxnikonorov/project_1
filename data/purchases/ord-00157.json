@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00157",
+  "customer": {
+    "customer_id": "cus-1006",
+    "first_name": "Агафья",
+    "last_name": "Гурьева"
+  },
+  "store": {
+    "store_id": "store-014",
+    "store_name": "Большая Пикча — Магазин на бул. Школьный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Завьялиха",
+      "street": "пр. Октябрьский",
+      "house": "25",
+      "postal_code": "058240",
+      "coordinates": {
+        "latitude": 25.905304,
+        "longitude": -6.320316
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "name": "Пространство",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 169.18,
+      "total_price": 507.54,
+      "kbju": {
+        "calories": 244.0,
+        "protein": 13.8,
+        "fat": 6.9,
+        "carbohydrates": 6.3
+      },
+      "manufacturer": {
+        "name": "ИП «Силин, Лапина и Федосеев»",
+        "country": "Россия",
+        "website": "https://rao.com",
+        "inn": "0793948672"
+      }
+    }
+  ],
+  "total_amount": 507.54,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Лагань",
+    "street": "пр. Просвещения",
+    "house": "61",
+    "apartment": "60",
+    "postal_code": "059264"
+  },
+  "purchase_datetime": "2026-09-27T16:08:40.806231"
+}

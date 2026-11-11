@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00055",
+  "customer": {
+    "customer_id": "cus-1010",
+    "first_name": "Ипполит",
+    "last_name": "Гаврилова"
+  },
+  "store": {
+    "store_id": "store-001",
+    "store_name": "Большая Пикча — Магазин на бул. Профсоюзный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Инта",
+      "street": "бул. Элеваторный",
+      "house": "1",
+      "postal_code": "499383",
+      "coordinates": {
+        "latitude": -4.584087,
+        "longitude": 138.935818
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1004",
+      "name": "Социалистический",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 254.38,
+      "total_price": 763.14,
+      "kbju": {
+        "calories": 104.4,
+        "protein": 6.0,
+        "fat": 0.7,
+        "carbohydrates": 13.6
+      },
+      "manufacturer": {
+        "name": "ООО «Савельев»",
+        "country": "Россия",
+        "website": "https://rao.info",
+        "inn": "2063622252"
+      }
+    },
+    {
+      "product_id": "prd-1001",
+      "name": "Природа",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 270.47,
+      "total_price": 1352.35,
+      "kbju": {
+        "calories": 82.7,
+        "protein": 5.3,
+        "fat": 7.1,
+        "carbohydrates": 48.4
+      },
+      "manufacturer": {
+        "name": "ОАО «Аксенов-Елисеева»",
+        "country": "Россия",
+        "website": "https://npo.biz",
+        "inn": "2579256074"
+      }
+    }
+  ],
+  "total_amount": 2115.49,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Асино",
+    "street": "бул. Кузнецова",
+    "house": "8",
+    "apartment": "18",
+    "postal_code": "222108"
+  },
+  "purchase_datetime": "2026-08-22T16:08:40.646261"
+}

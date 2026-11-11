@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00158",
+  "customer": {
+    "customer_id": "cus-1009",
+    "first_name": "Иннокентий",
+    "last_name": "Ларионова"
+  },
+  "store": {
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на пр. Виноградный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Кабанск",
+      "street": "наб. Ватутина",
+      "house": "71",
+      "postal_code": "430475",
+      "coordinates": {
+        "latitude": 56.1539,
+        "longitude": -125.144973
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1019",
+      "name": "Выражение",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 211.74,
+      "total_price": 635.22,
+      "kbju": {
+        "calories": 157.2,
+        "protein": 13.4,
+        "fat": 2.7,
+        "carbohydrates": 6.2
+      },
+      "manufacturer": {
+        "name": "Ковалева Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://zao.ru",
+        "inn": "4325136422"
+      }
+    }
+  ],
+  "total_amount": 635.22,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Бронницы",
+    "street": "пер. Деповский",
+    "house": "12",
+    "apartment": "36",
+    "postal_code": "187304"
+  },
+  "purchase_datetime": "2026-08-28T16:08:40.807259"
+}

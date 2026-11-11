@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1011",
+  "first_name": "Елисей",
+  "last_name": "Фролов",
+  "email": "valerija_36@example.com",
+  "phone": "+7 (803) 930-37-82",
+  "birth_date": "1987-07-17",
+  "gender": "female",
+  "registration_date": "2026-11-10T16:08:40.510442",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-DE1BBC660D",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "к. Чита",
+    "street": "ул. Солнечная",
+    "house": "9",
+    "postal_code": "424493",
+    "coordinates": {
+      "latitude": -80.5563485,
+      "longitude": 94.276817
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Чита",
+    "street": "бул. Братский",
+    "house": "53",
+    "apartment": "3",
+    "postal_code": "373485"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

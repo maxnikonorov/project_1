@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00086",
+  "customer": {
+    "customer_id": "cus-1027",
+    "first_name": "Поликарп",
+    "last_name": "Виноградова"
+  },
+  "store": {
+    "store_id": "store-032",
+    "store_name": "Маленькая Пикча — Магазин на ш. Овражное",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Оренбург",
+      "street": "бул. Первомайский",
+      "house": "5",
+      "postal_code": "215822",
+      "coordinates": {
+        "latitude": -49.481629,
+        "longitude": -31.452333
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1013",
+      "name": "Крутой",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 209.78,
+      "total_price": 419.56,
+      "kbju": {
+        "calories": 246.6,
+        "protein": 5.6,
+        "fat": 14.7,
+        "carbohydrates": 20.5
+      },
+      "manufacturer": {
+        "name": "ОАО «Костин Крюкова»",
+        "country": "Россия",
+        "website": "https://mmk.info",
+        "inn": "9008610160"
+      }
+    },
+    {
+      "product_id": "prd-1007",
+      "name": "Соответствие",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 254.38,
+      "total_price": 254.38,
+      "kbju": {
+        "calories": 250.9,
+        "protein": 11.5,
+        "fat": 3.2,
+        "carbohydrates": 44.9
+      },
+      "manufacturer": {
+        "name": "Терентьев Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://ip.info",
+        "inn": "3390887494"
+      }
+    }
+  ],
+  "total_amount": 673.94,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Учалы",
+    "street": "пр. 70 лет Октября",
+    "house": "1/7",
+    "apartment": "80",
+    "postal_code": "258817"
+  },
+  "purchase_datetime": "2026-09-01T16:08:40.695404"
+}

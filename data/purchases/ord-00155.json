@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00155",
+  "customer": {
+    "customer_id": "cus-1020",
+    "first_name": "Севастьян",
+    "last_name": "Павлова"
+  },
+  "store": {
+    "store_id": "store-019",
+    "store_name": "Большая Пикча — Магазин на ул. 50 лет ВЛКСМ",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Казань",
+      "street": "наб. Лазо",
+      "house": "14",
+      "postal_code": "597074",
+      "coordinates": {
+        "latitude": 10.7166325,
+        "longitude": 152.518277
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1001",
+      "name": "Природа",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 270.47,
+      "total_price": 811.41,
+      "kbju": {
+        "calories": 82.7,
+        "protein": 5.3,
+        "fat": 7.1,
+        "carbohydrates": 48.4
+      },
+      "manufacturer": {
+        "name": "ОАО «Аксенов-Елисеева»",
+        "country": "Россия",
+        "website": "https://npo.biz",
+        "inn": "2579256074"
+      }
+    }
+  ],
+  "total_amount": 811.41,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Соль-Илецк",
+    "street": "ш. Лесозаводское",
+    "house": "316",
+    "apartment": "11",
+    "postal_code": "278229"
+  },
+  "purchase_datetime": "2026-10-08T16:08:40.802695"
+}

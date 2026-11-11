@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00028",
+  "customer": {
+    "customer_id": "cus-1018",
+    "first_name": "Клавдий",
+    "last_name": "Воробьева"
+  },
+  "store": {
+    "store_id": "store-033",
+    "store_name": "Маленькая Пикча — Магазин на ул. Больничная",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Домбай",
+      "street": "ул. Заливная",
+      "house": "77",
+      "postal_code": "721769",
+      "coordinates": {
+        "latitude": -79.236949,
+        "longitude": -85.283823
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "name": "Что",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 139.68,
+      "total_price": 558.72,
+      "kbju": {
+        "calories": 231.7,
+        "protein": 17.6,
+        "fat": 9.2,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "Петухова Лимитед",
+        "country": "Россия",
+        "website": "https://ip.net",
+        "inn": "2487454296"
+      }
+    },
+    {
+      "product_id": "prd-1000",
+      "name": "Приятель",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 105.42,
+      "total_price": 421.68,
+      "kbju": {
+        "calories": 94.5,
+        "protein": 2.3,
+        "fat": 1.3,
+        "carbohydrates": 23.5
+      },
+      "manufacturer": {
+        "name": "ЗАО «Соболев»",
+        "country": "Россия",
+        "website": "https://zao.net",
+        "inn": "3597427512"
+      }
+    },
+    {
+      "product_id": "prd-1001",
+      "name": "Природа",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 270.47,
+      "total_price": 811.41,
+      "kbju": {
+        "calories": 82.7,
+        "protein": 5.3,
+        "fat": 7.1,
+        "carbohydrates": 48.4
+      },
+      "manufacturer": {
+        "name": "ОАО «Аксенов-Елисеева»",
+        "country": "Россия",
+        "website": "https://npo.biz",
+        "inn": "2579256074"
+      }
+    }
+  ],
+  "total_amount": 1791.81,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Казань",
+    "street": "ш. Энгельса",
+    "house": "3/6",
+    "apartment": "50",
+    "postal_code": "895132"
+  },
+  "purchase_datetime": "2026-08-28T16:08:40.604631"
+}

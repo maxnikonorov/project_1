@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00092",
+  "customer": {
+    "customer_id": "cus-1040",
+    "first_name": "Богдан",
+    "last_name": "Терентьев"
+  },
+  "store": {
+    "store_id": "store-036",
+    "store_name": "Маленькая Пикча — Магазин на пер. 50 лет Октября",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Борзя",
+      "street": "пер. Тенистый",
+      "house": "45",
+      "postal_code": "771850",
+      "coordinates": {
+        "latitude": -65.3852585,
+        "longitude": -79.050702
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1017",
+      "name": "Пол",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 150.17,
+      "total_price": 450.51,
+      "kbju": {
+        "calories": 127.5,
+        "protein": 3.3,
+        "fat": 7.5,
+        "carbohydrates": 41.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Родионова-Осипов»",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "4308518530"
+      }
+    }
+  ],
+  "total_amount": 450.51,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Соловки",
+    "street": "алл. Блюхера",
+    "house": "259",
+    "apartment": "94",
+    "postal_code": "602320"
+  },
+  "purchase_datetime": "2026-10-10T16:08:40.702934"
+}

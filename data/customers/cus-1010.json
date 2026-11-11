@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1010",
+  "first_name": "Ипполит",
+  "last_name": "Гаврилова",
+  "email": "ljubov_1997@example.org",
+  "phone": "8 (119) 856-3059",
+  "birth_date": "2006-01-13",
+  "gender": "male",
+  "registration_date": "2026-11-10T16:08:40.509441",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-F8DC5DE202",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "г. Асино",
+    "street": "наб. Байкальская",
+    "house": "517",
+    "postal_code": "930637",
+    "coordinates": {
+      "latitude": 55.229271,
+      "longitude": -50.234086
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Асино",
+    "street": "бул. Кузнецова",
+    "house": "8",
+    "apartment": "18",
+    "postal_code": "222108"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00170",
+  "customer": {
+    "customer_id": "cus-1025",
+    "first_name": "Спартак",
+    "last_name": "Афанасьева"
+  },
+  "store": {
+    "store_id": "store-016",
+    "store_name": "Большая Пикча — Магазин на бул. Станиславского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Нижний Новгород",
+      "street": "пр. Ручейный",
+      "house": "530",
+      "postal_code": "705935",
+      "coordinates": {
+        "latitude": 61.581504,
+        "longitude": 58.143602
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "name": "Что",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 139.68,
+      "total_price": 139.68,
+      "kbju": {
+        "calories": 231.7,
+        "protein": 17.6,
+        "fat": 9.2,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "Петухова Лимитед",
+        "country": "Россия",
+        "website": "https://ip.net",
+        "inn": "2487454296"
+      }
+    }
+  ],
+  "total_amount": 139.68,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Кингисепп",
+    "street": "бул. Гастелло",
+    "house": "445",
+    "apartment": "72",
+    "postal_code": "138900"
+  },
+  "purchase_datetime": "2026-10-03T16:08:40.827912"
+}

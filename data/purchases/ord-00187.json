@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00187",
+  "customer": {
+    "customer_id": "cus-1044",
+    "first_name": "Владимир",
+    "last_name": "Нестерова"
+  },
+  "store": {
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на ул. Высоковольтная",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Усть-Кут",
+      "street": "ул. Профсоюзная",
+      "house": "4/5",
+      "postal_code": "679522",
+      "coordinates": {
+        "latitude": -71.6251535,
+        "longitude": 126.315479
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1013",
+      "name": "Крутой",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 209.78,
+      "total_price": 419.56,
+      "kbju": {
+        "calories": 246.6,
+        "protein": 5.6,
+        "fat": 14.7,
+        "carbohydrates": 20.5
+      },
+      "manufacturer": {
+        "name": "ОАО «Костин Крюкова»",
+        "country": "Россия",
+        "website": "https://mmk.info",
+        "inn": "9008610160"
+      }
+    }
+  ],
+  "total_amount": 419.56,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Зеленоград",
+    "street": "ш. Цветочное",
+    "house": "3",
+    "apartment": "97",
+    "postal_code": "979941"
+  },
+  "purchase_datetime": "2026-10-23T16:08:40.856145"
+}

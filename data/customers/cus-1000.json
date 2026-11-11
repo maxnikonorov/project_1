@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1000",
+  "first_name": "Поликарп",
+  "last_name": "Константинова",
+  "email": "lkozlova@example.com",
+  "phone": "+7 (381) 766-51-73",
+  "birth_date": "1960-12-24",
+  "gender": "female",
+  "registration_date": "2026-11-10T16:08:40.488880",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-CCB4877A87",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "п. Инта",
+    "street": "бул. Элеваторный",
+    "house": "1",
+    "postal_code": "499383",
+    "coordinates": {
+      "latitude": -4.584087,
+      "longitude": 138.935818
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Инта",
+    "street": "пр. Машиностроителей",
+    "house": "3/9",
+    "apartment": "71",
+    "postal_code": "023372"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

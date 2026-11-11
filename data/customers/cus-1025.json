@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1025",
+  "first_name": "Спартак",
+  "last_name": "Афанасьева",
+  "email": "kasjan98@example.com",
+  "phone": "8 (802) 269-08-51",
+  "birth_date": "1996-10-27",
+  "gender": "female",
+  "registration_date": "2026-11-10T16:08:40.538984",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-BEE1DE2A73",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "к. Кингисепп",
+    "street": "ш. Смоленское",
+    "house": "9/3",
+    "postal_code": "469008",
+    "coordinates": {
+      "latitude": -78.4942005,
+      "longitude": -6.090966
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Кингисепп",
+    "street": "бул. Гастелло",
+    "house": "445",
+    "apartment": "72",
+    "postal_code": "138900"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

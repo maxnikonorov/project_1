@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00089",
+  "customer": {
+    "customer_id": "cus-1020",
+    "first_name": "Севастьян",
+    "last_name": "Павлова"
+  },
+  "store": {
+    "store_id": "store-007",
+    "store_name": "Большая Пикча — Магазин на алл. Жуковского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Лагань",
+      "street": "пр. Тополиный",
+      "house": "6/4",
+      "postal_code": "084092",
+      "coordinates": {
+        "latitude": 49.030439,
+        "longitude": -59.077561
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1007",
+      "name": "Соответствие",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 254.38,
+      "total_price": 763.14,
+      "kbju": {
+        "calories": 250.9,
+        "protein": 11.5,
+        "fat": 3.2,
+        "carbohydrates": 44.9
+      },
+      "manufacturer": {
+        "name": "Терентьев Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://ip.info",
+        "inn": "3390887494"
+      }
+    }
+  ],
+  "total_amount": 763.14,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Соль-Илецк",
+    "street": "ш. Лесозаводское",
+    "house": "316",
+    "apartment": "11",
+    "postal_code": "278229"
+  },
+  "purchase_datetime": "2026-08-21T16:08:40.698402"
+}

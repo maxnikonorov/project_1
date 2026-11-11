@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00156",
+  "customer": {
+    "customer_id": "cus-1002",
+    "first_name": "Лора",
+    "last_name": "Фомина"
+  },
+  "store": {
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на ш. Светлое",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Бронницы",
+      "street": "алл. Геологов",
+      "house": "8/6",
+      "postal_code": "153671",
+      "coordinates": {
+        "latitude": 37.778015,
+        "longitude": 47.325165
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1017",
+      "name": "Пол",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 150.17,
+      "total_price": 300.34,
+      "kbju": {
+        "calories": 127.5,
+        "protein": 3.3,
+        "fat": 7.5,
+        "carbohydrates": 41.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Родионова-Осипов»",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "4308518530"
+      }
+    },
+    {
+      "product_id": "prd-1006",
+      "name": "Иной",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 38.14,
+      "total_price": 38.14,
+      "kbju": {
+        "calories": 240.4,
+        "protein": 11.6,
+        "fat": 4.1,
+        "carbohydrates": 46.3
+      },
+      "manufacturer": {
+        "name": "Шарова Лтд",
+        "country": "Россия",
+        "website": "https://trofimov.net",
+        "inn": "2302699549"
+      }
+    }
+  ],
+  "total_amount": 338.48,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Калач-на-Дону",
+    "street": "пр. Серова",
+    "house": "9",
+    "apartment": "81",
+    "postal_code": "868446"
+  },
+  "purchase_datetime": "2026-09-13T16:08:40.804704"
+}

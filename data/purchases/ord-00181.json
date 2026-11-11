@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00181",
+  "customer": {
+    "customer_id": "cus-1043",
+    "first_name": "Мария",
+    "last_name": "Фомичев"
+  },
+  "store": {
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на пер. Красный",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Соловки",
+      "street": "пер. Космический",
+      "house": "7",
+      "postal_code": "821818",
+      "coordinates": {
+        "latitude": -8.30231,
+        "longitude": 144.533567
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1012",
+      "name": "Помолчать",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 177.06,
+      "total_price": 531.18,
+      "kbju": {
+        "calories": 142.7,
+        "protein": 15.3,
+        "fat": 9.2,
+        "carbohydrates": 1.7
+      },
+      "manufacturer": {
+        "name": "НПО «Силин-Богданова»",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "8788386125"
+      }
+    }
+  ],
+  "total_amount": 531.18,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Калач-на-Дону",
+    "street": "ул. Харьковская",
+    "house": "4",
+    "apartment": "43",
+    "postal_code": "419155"
+  },
+  "purchase_datetime": "2026-08-18T16:08:40.847607"
+}

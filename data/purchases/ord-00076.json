@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00076",
+  "customer": {
+    "customer_id": "cus-1004",
+    "first_name": "Нина",
+    "last_name": "Моисеева"
+  },
+  "store": {
+    "store_id": "store-005",
+    "store_name": "Большая Пикча — Магазин на пр. Донской",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Бузулук",
+      "street": "бул. Енисейский",
+      "house": "736",
+      "postal_code": "369079",
+      "coordinates": {
+        "latitude": -17.571044,
+        "longitude": 161.569143
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1016",
+      "name": "Вытаскивать",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 53.87,
+      "total_price": 215.48,
+      "kbju": {
+        "calories": 56.8,
+        "protein": 6.1,
+        "fat": 2.9,
+        "carbohydrates": 30.8
+      },
+      "manufacturer": {
+        "name": "ОАО «Беспалова»",
+        "country": "Россия",
+        "website": "https://smirnova.com",
+        "inn": "3793340215"
+      }
+    },
+    {
+      "product_id": "prd-1010",
+      "name": "Наткнуться",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 109.99,
+      "total_price": 109.99,
+      "kbju": {
+        "calories": 111.4,
+        "protein": 5.0,
+        "fat": 2.9,
+        "carbohydrates": 48.1
+      },
+      "manufacturer": {
+        "name": "АО «Третьяков, Кабанов и Казакова»",
+        "country": "Россия",
+        "website": "https://rao.edu",
+        "inn": "0018510627"
+      }
+    }
+  ],
+  "total_amount": 325.47,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Бузулук",
+    "street": "пр. Рабочий",
+    "house": "8",
+    "apartment": "100",
+    "postal_code": "083430"
+  },
+  "purchase_datetime": "2026-09-14T16:08:40.680341"
+}

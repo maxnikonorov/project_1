@@ -1,0 +1,24 @@
+{
+  "id": "prd-1009",
+  "name": "Левый",
+  "group": "🥖 Зерновые и хлебобулочные изделия",
+  "description": "Шлем коллектив иной мелькнуть.",
+  "kbju": {
+    "calories": 284.1,
+    "protein": 6.2,
+    "fat": 12.8,
+    "carbohydrates": 31.9
+  },
+  "price": 55.63,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 20,
+  "is_organic": true,
+  "barcode": "0904132432107",
+  "manufacturer": {
+    "name": "ООО «Беляков-Ермаков»",
+    "country": "Россия",
+    "website": "https://ao.edu",
+    "inn": "2315160346"
+  }
+}

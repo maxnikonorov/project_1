@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00172",
+  "customer": {
+    "customer_id": "cus-1035",
+    "first_name": "Евсей",
+    "last_name": "Гордеева"
+  },
+  "store": {
+    "store_id": "store-008",
+    "store_name": "Большая Пикча — Магазин на пер. Карьерный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Кажим",
+      "street": "алл. Зои Космодемьянской",
+      "house": "673",
+      "postal_code": "831404",
+      "coordinates": {
+        "latitude": -84.04877,
+        "longitude": -153.592169
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1001",
+      "name": "Природа",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 270.47,
+      "total_price": 540.94,
+      "kbju": {
+        "calories": 82.7,
+        "protein": 5.3,
+        "fat": 7.1,
+        "carbohydrates": 48.4
+      },
+      "manufacturer": {
+        "name": "ОАО «Аксенов-Елисеева»",
+        "country": "Россия",
+        "website": "https://npo.biz",
+        "inn": "2579256074"
+      }
+    }
+  ],
+  "total_amount": 540.94,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Борзя",
+    "street": "ш. Набережное",
+    "house": "700",
+    "apartment": "69",
+    "postal_code": "777744"
+  },
+  "purchase_datetime": "2026-11-02T16:08:40.833264"
+}

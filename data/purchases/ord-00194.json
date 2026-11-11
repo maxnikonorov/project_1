@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00194",
+  "customer": {
+    "customer_id": "cus-1011",
+    "first_name": "Елисей",
+    "last_name": "Фролов"
+  },
+  "store": {
+    "store_id": "store-002",
+    "store_name": "Большая Пикча — Магазин на наб. Тельмана",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Горячий Ключ",
+      "street": "ул. Олега Кошевого",
+      "house": "884",
+      "postal_code": "992826",
+      "coordinates": {
+        "latitude": -71.5740635,
+        "longitude": 119.930479
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "name": "Что",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 139.68,
+      "total_price": 279.36,
+      "kbju": {
+        "calories": 231.7,
+        "protein": 17.6,
+        "fat": 9.2,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "Петухова Лимитед",
+        "country": "Россия",
+        "website": "https://ip.net",
+        "inn": "2487454296"
+      }
+    }
+  ],
+  "total_amount": 279.36,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Чита",
+    "street": "бул. Братский",
+    "house": "53",
+    "apartment": "3",
+    "postal_code": "373485"
+  },
+  "purchase_datetime": "2026-10-05T16:08:40.876195"
+}

@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00097",
+  "customer": {
+    "customer_id": "cus-1006",
+    "first_name": "Агафья",
+    "last_name": "Гурьева"
+  },
+  "store": {
+    "store_id": "store-008",
+    "store_name": "Большая Пикча — Магазин на пер. Карьерный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Кажим",
+      "street": "алл. Зои Космодемьянской",
+      "house": "673",
+      "postal_code": "831404",
+      "coordinates": {
+        "latitude": -84.04877,
+        "longitude": -153.592169
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1017",
+      "name": "Пол",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 150.17,
+      "total_price": 600.68,
+      "kbju": {
+        "calories": 127.5,
+        "protein": 3.3,
+        "fat": 7.5,
+        "carbohydrates": 41.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Родионова-Осипов»",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "4308518530"
+      }
+    },
+    {
+      "product_id": "prd-1003",
+      "name": "Порт",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 300.0,
+      "total_price": 1200.0,
+      "kbju": {
+        "calories": 129.9,
+        "protein": 1.0,
+        "fat": 9.4,
+        "carbohydrates": 17.8
+      },
+      "manufacturer": {
+        "name": "Абрамов и партнеры",
+        "country": "Россия",
+        "website": "https://koka-kola.biz",
+        "inn": "0599854783"
+      }
+    }
+  ],
+  "total_amount": 1800.68,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Лагань",
+    "street": "пр. Просвещения",
+    "house": "61",
+    "apartment": "60",
+    "postal_code": "059264"
+  },
+  "purchase_datetime": "2026-11-01T16:08:40.710466"
+}

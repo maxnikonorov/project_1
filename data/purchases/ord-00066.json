@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00066",
+  "customer": {
+    "customer_id": "cus-1037",
+    "first_name": "Лукьян",
+    "last_name": "Ершов"
+  },
+  "store": {
+    "store_id": "store-036",
+    "store_name": "Маленькая Пикча — Магазин на пер. 50 лет Октября",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Борзя",
+      "street": "пер. Тенистый",
+      "house": "45",
+      "postal_code": "771850",
+      "coordinates": {
+        "latitude": -65.3852585,
+        "longitude": -79.050702
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1010",
+      "name": "Наткнуться",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 109.99,
+      "total_price": 329.97,
+      "kbju": {
+        "calories": 111.4,
+        "protein": 5.0,
+        "fat": 2.9,
+        "carbohydrates": 48.1
+      },
+      "manufacturer": {
+        "name": "АО «Третьяков, Кабанов и Казакова»",
+        "country": "Россия",
+        "website": "https://rao.edu",
+        "inn": "0018510627"
+      }
+    }
+  ],
+  "total_amount": 329.97,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Ижевск",
+    "street": "алл. Отрадная",
+    "house": "2/5",
+    "apartment": "54",
+    "postal_code": "688111"
+  },
+  "purchase_datetime": "2026-08-16T16:08:40.665285"
+}

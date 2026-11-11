@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00188",
+  "customer": {
+    "customer_id": "cus-1044",
+    "first_name": "Владимир",
+    "last_name": "Нестерова"
+  },
+  "store": {
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на пр. Виноградный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Кабанск",
+      "street": "наб. Ватутина",
+      "house": "71",
+      "postal_code": "430475",
+      "coordinates": {
+        "latitude": 56.1539,
+        "longitude": -125.144973
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1018",
+      "name": "Смеяться",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 143.87,
+      "total_price": 143.87,
+      "kbju": {
+        "calories": 175.7,
+        "protein": 9.9,
+        "fat": 11.6,
+        "carbohydrates": 36.9
+      },
+      "manufacturer": {
+        "name": "АО «Архипов»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "6430660253"
+      }
+    }
+  ],
+  "total_amount": 143.87,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Зеленоград",
+    "street": "ш. Цветочное",
+    "house": "3",
+    "apartment": "97",
+    "postal_code": "979941"
+  },
+  "purchase_datetime": "2026-09-21T16:08:40.858141"
+}

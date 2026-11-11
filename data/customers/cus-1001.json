@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1001",
+  "first_name": "Варлаам",
+  "last_name": "Лаврентьева",
+  "email": "radimevdokimov@example.org",
+  "phone": "+7 679 573 29 90",
+  "birth_date": "1968-12-13",
+  "gender": "female",
+  "registration_date": "2026-11-10T16:08:40.490885",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-F7B97CCE30",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "ст. Горячий Ключ",
+    "street": "ул. Олега Кошевого",
+    "house": "884",
+    "postal_code": "992826",
+    "coordinates": {
+      "latitude": -71.5740635,
+      "longitude": 119.930479
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Горячий Ключ",
+    "street": "бул. Щетинкина",
+    "house": "3",
+    "apartment": "39",
+    "postal_code": "329085"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

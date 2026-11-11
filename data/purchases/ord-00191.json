@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00191",
+  "customer": {
+    "customer_id": "cus-1040",
+    "first_name": "Богдан",
+    "last_name": "Терентьев"
+  },
+  "store": {
+    "store_id": "store-040",
+    "store_name": "Маленькая Пикча — Магазин на пер. Славянский",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Карпинск",
+      "street": "ш. 8-е Марта",
+      "house": "3",
+      "postal_code": "247366",
+      "coordinates": {
+        "latitude": 22.14391,
+        "longitude": 31.509525
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1013",
+      "name": "Крутой",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 209.78,
+      "total_price": 629.34,
+      "kbju": {
+        "calories": 246.6,
+        "protein": 5.6,
+        "fat": 14.7,
+        "carbohydrates": 20.5
+      },
+      "manufacturer": {
+        "name": "ОАО «Костин Крюкова»",
+        "country": "Россия",
+        "website": "https://mmk.info",
+        "inn": "9008610160"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "name": "Пространство",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 169.18,
+      "total_price": 845.9,
+      "kbju": {
+        "calories": 244.0,
+        "protein": 13.8,
+        "fat": 6.9,
+        "carbohydrates": 6.3
+      },
+      "manufacturer": {
+        "name": "ИП «Силин, Лапина и Федосеев»",
+        "country": "Россия",
+        "website": "https://rao.com",
+        "inn": "0793948672"
+      }
+    }
+  ],
+  "total_amount": 1475.24,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Соловки",
+    "street": "алл. Блюхера",
+    "house": "259",
+    "apartment": "94",
+    "postal_code": "602320"
+  },
+  "purchase_datetime": "2026-09-24T16:08:40.868672"
+}

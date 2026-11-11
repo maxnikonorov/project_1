@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00142",
+  "customer": {
+    "customer_id": "cus-1017",
+    "first_name": "Дмитрий",
+    "last_name": "Наумов"
+  },
+  "store": {
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на пер. Красный",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Соловки",
+      "street": "пер. Космический",
+      "house": "7",
+      "postal_code": "821818",
+      "coordinates": {
+        "latitude": -8.30231,
+        "longitude": 144.533567
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1019",
+      "name": "Выражение",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 211.74,
+      "total_price": 846.96,
+      "kbju": {
+        "calories": 157.2,
+        "protein": 13.4,
+        "fat": 2.7,
+        "carbohydrates": 6.2
+      },
+      "manufacturer": {
+        "name": "Ковалева Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://zao.ru",
+        "inn": "4325136422"
+      }
+    },
+    {
+      "product_id": "prd-1018",
+      "name": "Смеяться",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 143.87,
+      "total_price": 719.35,
+      "kbju": {
+        "calories": 175.7,
+        "protein": 9.9,
+        "fat": 11.6,
+        "carbohydrates": 36.9
+      },
+      "manufacturer": {
+        "name": "АО «Архипов»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "6430660253"
+      }
+    }
+  ],
+  "total_amount": 1566.31,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Бологое",
+    "street": "пр. Толбухина",
+    "house": "625",
+    "apartment": "20",
+    "postal_code": "483680"
+  },
+  "purchase_datetime": "2026-10-26T16:08:40.776605"
+}

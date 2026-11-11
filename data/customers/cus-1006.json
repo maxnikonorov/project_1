@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1006",
+  "first_name": "Агафья",
+  "last_name": "Гурьева",
+  "email": "oleg_2018@example.net",
+  "phone": "+7 303 986 5592",
+  "birth_date": "1975-07-20",
+  "gender": "male",
+  "registration_date": "2026-11-10T16:08:40.501906",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-DD38D0EDAF",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Лагань",
+    "street": "пр. Тополиный",
+    "house": "6/4",
+    "postal_code": "084092",
+    "coordinates": {
+      "latitude": 49.030439,
+      "longitude": -59.077561
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Лагань",
+    "street": "пр. Просвещения",
+    "house": "61",
+    "apartment": "60",
+    "postal_code": "059264"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

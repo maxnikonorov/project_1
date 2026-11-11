@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00147",
+  "customer": {
+    "customer_id": "cus-1033",
+    "first_name": "Владлен",
+    "last_name": "Киселев"
+  },
+  "store": {
+    "store_id": "store-033",
+    "store_name": "Маленькая Пикча — Магазин на ул. Больничная",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Домбай",
+      "street": "ул. Заливная",
+      "house": "77",
+      "postal_code": "721769",
+      "coordinates": {
+        "latitude": -79.236949,
+        "longitude": -85.283823
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1009",
+      "name": "Левый",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 55.63,
+      "total_price": 55.63,
+      "kbju": {
+        "calories": 284.1,
+        "protein": 6.2,
+        "fat": 12.8,
+        "carbohydrates": 31.9
+      },
+      "manufacturer": {
+        "name": "ООО «Беляков-Ермаков»",
+        "country": "Россия",
+        "website": "https://ao.edu",
+        "inn": "2315160346"
+      }
+    },
+    {
+      "product_id": "prd-1010",
+      "name": "Наткнуться",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 109.99,
+      "total_price": 219.98,
+      "kbju": {
+        "calories": 111.4,
+        "protein": 5.0,
+        "fat": 2.9,
+        "carbohydrates": 48.1
+      },
+      "manufacturer": {
+        "name": "АО «Третьяков, Кабанов и Казакова»",
+        "country": "Россия",
+        "website": "https://rao.edu",
+        "inn": "0018510627"
+      }
+    }
+  ],
+  "total_amount": 275.61,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Нефтегорск (Самар.)",
+    "street": "ш. Ясное",
+    "house": "1",
+    "apartment": "52",
+    "postal_code": "256820"
+  },
+  "purchase_datetime": "2026-08-14T16:08:40.786158"
+}

@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1035",
+  "first_name": "Евсей",
+  "last_name": "Гордеева",
+  "email": "prokofi76@example.com",
+  "phone": "8 217 743 9869",
+  "birth_date": "1983-03-20",
+  "gender": "female",
+  "registration_date": "2026-11-10T16:08:40.554509",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-1A25DB812C",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "д. Борзя",
+    "street": "пер. Тенистый",
+    "house": "45",
+    "postal_code": "771850",
+    "coordinates": {
+      "latitude": -65.3852585,
+      "longitude": -79.050702
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Борзя",
+    "street": "ш. Набережное",
+    "house": "700",
+    "apartment": "69",
+    "postal_code": "777744"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

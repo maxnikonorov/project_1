@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00189",
+  "customer": {
+    "customer_id": "cus-1006",
+    "first_name": "Агафья",
+    "last_name": "Гурьева"
+  },
+  "store": {
+    "store_id": "store-039",
+    "store_name": "Маленькая Пикча — Магазин на бул. Физкультурный",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Орск",
+      "street": "ул. Фурманова",
+      "house": "7",
+      "postal_code": "936758",
+      "coordinates": {
+        "latitude": 82.9780965,
+        "longitude": 145.602677
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1001",
+      "name": "Природа",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 270.47,
+      "total_price": 270.47,
+      "kbju": {
+        "calories": 82.7,
+        "protein": 5.3,
+        "fat": 7.1,
+        "carbohydrates": 48.4
+      },
+      "manufacturer": {
+        "name": "ОАО «Аксенов-Елисеева»",
+        "country": "Россия",
+        "website": "https://npo.biz",
+        "inn": "2579256074"
+      }
+    },
+    {
+      "product_id": "prd-1009",
+      "name": "Левый",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 55.63,
+      "total_price": 222.52,
+      "kbju": {
+        "calories": 284.1,
+        "protein": 6.2,
+        "fat": 12.8,
+        "carbohydrates": 31.9
+      },
+      "manufacturer": {
+        "name": "ООО «Беляков-Ермаков»",
+        "country": "Россия",
+        "website": "https://ao.edu",
+        "inn": "2315160346"
+      }
+    },
+    {
+      "product_id": "prd-1019",
+      "name": "Выражение",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 211.74,
+      "total_price": 635.22,
+      "kbju": {
+        "calories": 157.2,
+        "protein": 13.4,
+        "fat": 2.7,
+        "carbohydrates": 6.2
+      },
+      "manufacturer": {
+        "name": "Ковалева Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://zao.ru",
+        "inn": "4325136422"
+      }
+    }
+  ],
+  "total_amount": 1128.21,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Лагань",
+    "street": "пр. Просвещения",
+    "house": "61",
+    "apartment": "60",
+    "postal_code": "059264"
+  },
+  "purchase_datetime": "2026-10-14T16:08:40.859659"
+}

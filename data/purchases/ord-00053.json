@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00053",
+  "customer": {
+    "customer_id": "cus-1022",
+    "first_name": "Анастасия",
+    "last_name": "Крылов"
+  },
+  "store": {
+    "store_id": "store-043",
+    "store_name": "Маленькая Пикча — Магазин на наб. Воровского",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Александровск",
+      "street": "ш. Комсомольское",
+      "house": "1",
+      "postal_code": "044769",
+      "coordinates": {
+        "latitude": -8.57721,
+        "longitude": 52.71837
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1019",
+      "name": "Выражение",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 211.74,
+      "total_price": 635.22,
+      "kbju": {
+        "calories": 157.2,
+        "protein": 13.4,
+        "fat": 2.7,
+        "carbohydrates": 6.2
+      },
+      "manufacturer": {
+        "name": "Ковалева Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://zao.ru",
+        "inn": "4325136422"
+      }
+    },
+    {
+      "product_id": "prd-1010",
+      "name": "Наткнуться",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 109.99,
+      "total_price": 329.97,
+      "kbju": {
+        "calories": 111.4,
+        "protein": 5.0,
+        "fat": 2.9,
+        "carbohydrates": 48.1
+      },
+      "manufacturer": {
+        "name": "АО «Третьяков, Кабанов и Казакова»",
+        "country": "Россия",
+        "website": "https://rao.edu",
+        "inn": "0018510627"
+      }
+    }
+  ],
+  "total_amount": 965.19,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Далматово",
+    "street": "ш. Гафури",
+    "house": "2",
+    "apartment": "72",
+    "postal_code": "185055"
+  },
+  "purchase_datetime": "2026-08-28T16:08:40.643251"
+}

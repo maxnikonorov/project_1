@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1012",
+  "first_name": "Панкратий",
+  "last_name": "Ильина",
+  "email": "petrovfedor@example.com",
+  "phone": "+72358414009",
+  "birth_date": "2005-01-06",
+  "gender": "male",
+  "registration_date": "2026-11-10T16:08:40.512444",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-CEDFD5758D",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "д. Камышин",
+    "street": "ш. Социалистическое",
+    "house": "2/5",
+    "postal_code": "848360",
+    "coordinates": {
+      "latitude": -60.309096,
+      "longitude": -35.018249
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Камышин",
+    "street": "алл. Родниковая",
+    "house": "8",
+    "apartment": "56",
+    "postal_code": "623582"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

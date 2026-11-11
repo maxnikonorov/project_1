@@ -1,0 +1,24 @@
+{
+  "id": "prd-1008",
+  "name": "Горький",
+  "group": "🥦 Овощи и зелень",
+  "description": "Витрина прошептать виднеться палец поставить.",
+  "kbju": {
+    "calories": 271.9,
+    "protein": 15.0,
+    "fat": 7.2,
+    "carbohydrates": 40.0
+  },
+  "price": 203.15,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 28,
+  "is_organic": true,
+  "barcode": "9211906256458",
+  "manufacturer": {
+    "name": "Шарапов Групп",
+    "country": "Россия",
+    "website": "https://ooo.edu",
+    "inn": "3346683207"
+  }
+}

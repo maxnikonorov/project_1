@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1020",
+  "first_name": "Севастьян",
+  "last_name": "Павлова",
+  "email": "stanimir1985@example.org",
+  "phone": "+7 493 294 49 51",
+  "birth_date": "1980-10-22",
+  "gender": "female",
+  "registration_date": "2026-11-10T16:08:40.529991",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-69D143C990",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "клх Соль-Илецк",
+    "street": "пр. Беляева",
+    "house": "70",
+    "postal_code": "700510",
+    "coordinates": {
+      "latitude": -3.1154965,
+      "longitude": -45.366801
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Соль-Илецк",
+    "street": "ш. Лесозаводское",
+    "house": "316",
+    "apartment": "11",
+    "postal_code": "278229"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

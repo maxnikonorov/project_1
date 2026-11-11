@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00025",
+  "customer": {
+    "customer_id": "cus-1016",
+    "first_name": "Зосима",
+    "last_name": "Шубина"
+  },
+  "store": {
+    "store_id": "store-028",
+    "store_name": "Большая Пикча — Магазин на пер. Приморский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Учалы",
+      "street": "алл. Клубная",
+      "house": "625",
+      "postal_code": "972146",
+      "coordinates": {
+        "latitude": -62.261145,
+        "longitude": 122.407164
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1011",
+      "name": "Через",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 205.21,
+      "total_price": 820.84,
+      "kbju": {
+        "calories": 277.9,
+        "protein": 10.7,
+        "fat": 14.2,
+        "carbohydrates": 1.5
+      },
+      "manufacturer": {
+        "name": "НПО «Бурова»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "3200066091"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "name": "Крутой",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 209.78,
+      "total_price": 209.78,
+      "kbju": {
+        "calories": 246.6,
+        "protein": 5.6,
+        "fat": 14.7,
+        "carbohydrates": 20.5
+      },
+      "manufacturer": {
+        "name": "ОАО «Костин Крюкова»",
+        "country": "Россия",
+        "website": "https://mmk.info",
+        "inn": "9008610160"
+      }
+    }
+  ],
+  "total_amount": 1030.62,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Калевала",
+    "street": "пер. Городской",
+    "house": "6/1",
+    "apartment": "91",
+    "postal_code": "325594"
+  },
+  "purchase_datetime": "2026-09-14T16:08:40.600107"
+}

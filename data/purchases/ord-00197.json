@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00197",
+  "customer": {
+    "customer_id": "cus-1015",
+    "first_name": "Ипат",
+    "last_name": "Панова"
+  },
+  "store": {
+    "store_id": "store-032",
+    "store_name": "Маленькая Пикча — Магазин на ш. Овражное",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Оренбург",
+      "street": "бул. Первомайский",
+      "house": "5",
+      "postal_code": "215822",
+      "coordinates": {
+        "latitude": -49.481629,
+        "longitude": -31.452333
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1016",
+      "name": "Вытаскивать",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 53.87,
+      "total_price": 107.74,
+      "kbju": {
+        "calories": 56.8,
+        "protein": 6.1,
+        "fat": 2.9,
+        "carbohydrates": 30.8
+      },
+      "manufacturer": {
+        "name": "ОАО «Беспалова»",
+        "country": "Россия",
+        "website": "https://smirnova.com",
+        "inn": "3793340215"
+      }
+    }
+  ],
+  "total_amount": 107.74,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Нижний Новгород",
+    "street": "ш. Ярославское",
+    "house": "59",
+    "apartment": "36",
+    "postal_code": "793316"
+  },
+  "purchase_datetime": "2026-09-29T16:08:40.881210"
+}

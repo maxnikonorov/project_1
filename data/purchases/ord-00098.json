@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00098",
+  "customer": {
+    "customer_id": "cus-1014",
+    "first_name": "Якуб",
+    "last_name": "Кондратьева"
+  },
+  "store": {
+    "store_id": "store-003",
+    "store_name": "Большая Пикча — Магазин на ул. 30 лет Победы",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Калач-на-Дону",
+      "street": "ул. Чайковского",
+      "house": "3",
+      "postal_code": "014762",
+      "coordinates": {
+        "latitude": -64.9630345,
+        "longitude": 97.600119
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1002",
+      "name": "Единый",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 289.68,
+      "total_price": 1158.72,
+      "kbju": {
+        "calories": 265.0,
+        "protein": 19.8,
+        "fat": 7.9,
+        "carbohydrates": 44.8
+      },
+      "manufacturer": {
+        "name": "ИП «Мартынова»",
+        "country": "Россия",
+        "website": "https://ao.ru",
+        "inn": "6920417941"
+      }
+    },
+    {
+      "product_id": "prd-1008",
+      "name": "Горький",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 203.15,
+      "total_price": 203.15,
+      "kbju": {
+        "calories": 271.9,
+        "protein": 15.0,
+        "fat": 7.2,
+        "carbohydrates": 40.0
+      },
+      "manufacturer": {
+        "name": "Шарапов Групп",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "3346683207"
+      }
+    }
+  ],
+  "total_amount": 1361.87,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Руза",
+    "street": "бул. Славянский",
+    "house": "43",
+    "apartment": "66",
+    "postal_code": "478987"
+  },
+  "purchase_datetime": "2026-09-27T16:08:40.712459"
+}

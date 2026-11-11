@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00012",
+  "customer": {
+    "customer_id": "cus-1004",
+    "first_name": "Нина",
+    "last_name": "Моисеева"
+  },
+  "store": {
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на ул. Высоковольтная",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Усть-Кут",
+      "street": "ул. Профсоюзная",
+      "house": "4/5",
+      "postal_code": "679522",
+      "coordinates": {
+        "latitude": -71.6251535,
+        "longitude": 126.315479
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1007",
+      "name": "Соответствие",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 254.38,
+      "total_price": 1017.52,
+      "kbju": {
+        "calories": 250.9,
+        "protein": 11.5,
+        "fat": 3.2,
+        "carbohydrates": 44.9
+      },
+      "manufacturer": {
+        "name": "Терентьев Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://ip.info",
+        "inn": "3390887494"
+      }
+    },
+    {
+      "product_id": "prd-1012",
+      "name": "Помолчать",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 177.06,
+      "total_price": 885.3,
+      "kbju": {
+        "calories": 142.7,
+        "protein": 15.3,
+        "fat": 9.2,
+        "carbohydrates": 1.7
+      },
+      "manufacturer": {
+        "name": "НПО «Силин-Богданова»",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "8788386125"
+      }
+    }
+  ],
+  "total_amount": 1902.82,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Бузулук",
+    "street": "пр. Рабочий",
+    "house": "8",
+    "apartment": "100",
+    "postal_code": "083430"
+  },
+  "purchase_datetime": "2026-09-20T16:08:40.582575"
+}

@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00021",
+  "customer": {
+    "customer_id": "cus-1033",
+    "first_name": "Владлен",
+    "last_name": "Киселев"
+  },
+  "store": {
+    "store_id": "store-031",
+    "store_name": "Маленькая Пикча — Магазин на пр. Громова",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Александровск",
+      "street": "пер. Енисейский",
+      "house": "274",
+      "postal_code": "929656",
+      "coordinates": {
+        "latitude": 38.393706,
+        "longitude": -51.525823
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "name": "Горький",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 203.15,
+      "total_price": 203.15,
+      "kbju": {
+        "calories": 271.9,
+        "protein": 15.0,
+        "fat": 7.2,
+        "carbohydrates": 40.0
+      },
+      "manufacturer": {
+        "name": "Шарапов Групп",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "3346683207"
+      }
+    }
+  ],
+  "total_amount": 203.15,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Нефтегорск (Самар.)",
+    "street": "ш. Ясное",
+    "house": "1",
+    "apartment": "52",
+    "postal_code": "256820"
+  },
+  "purchase_datetime": "2026-09-17T16:08:40.594105"
+}

@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00122",
+  "customer": {
+    "customer_id": "cus-1013",
+    "first_name": "Майя",
+    "last_name": "Третьякова"
+  },
+  "store": {
+    "store_id": "store-004",
+    "store_name": "Большая Пикча — Магазин на пр. Донской",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Арзамас",
+      "street": "ул. Войкова",
+      "house": "709",
+      "postal_code": "686059",
+      "coordinates": {
+        "latitude": 27.408209,
+        "longitude": -47.579346
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "name": "Пространство",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 169.18,
+      "total_price": 507.54,
+      "kbju": {
+        "calories": 244.0,
+        "protein": 13.8,
+        "fat": 6.9,
+        "carbohydrates": 6.3
+      },
+      "manufacturer": {
+        "name": "ИП «Силин, Лапина и Федосеев»",
+        "country": "Россия",
+        "website": "https://rao.com",
+        "inn": "0793948672"
+      }
+    },
+    {
+      "product_id": "prd-1007",
+      "name": "Соответствие",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 254.38,
+      "total_price": 254.38,
+      "kbju": {
+        "calories": 250.9,
+        "protein": 11.5,
+        "fat": 3.2,
+        "carbohydrates": 44.9
+      },
+      "manufacturer": {
+        "name": "Терентьев Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://ip.info",
+        "inn": "3390887494"
+      }
+    }
+  ],
+  "total_amount": 761.92,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Завьялиха",
+    "street": "пр. Первомайский",
+    "house": "58",
+    "apartment": "88",
+    "postal_code": "991132"
+  },
+  "purchase_datetime": "2026-08-29T16:08:40.746537"
+}

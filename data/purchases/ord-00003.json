@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00003",
+  "customer": {
+    "customer_id": "cus-1008",
+    "first_name": "Тимофей",
+    "last_name": "Наумов"
+  },
+  "store": {
+    "store_id": "store-037",
+    "store_name": "Маленькая Пикча — Магазин на ш. Омское",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Кудымкар",
+      "street": "бул. Путевой",
+      "house": "6/5",
+      "postal_code": "462437",
+      "coordinates": {
+        "latitude": 86.5741415,
+        "longitude": -36.177029
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1014",
+      "name": "Что",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 139.68,
+      "total_price": 279.36,
+      "kbju": {
+        "calories": 231.7,
+        "protein": 17.6,
+        "fat": 9.2,
+        "carbohydrates": 6.7
+      },
+      "manufacturer": {
+        "name": "Петухова Лимитед",
+        "country": "Россия",
+        "website": "https://ip.net",
+        "inn": "2487454296"
+      }
+    },
+    {
+      "product_id": "prd-1002",
+      "name": "Единый",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 289.68,
+      "total_price": 1448.4,
+      "kbju": {
+        "calories": 265.0,
+        "protein": 19.8,
+        "fat": 7.9,
+        "carbohydrates": 44.8
+      },
+      "manufacturer": {
+        "name": "ИП «Мартынова»",
+        "country": "Россия",
+        "website": "https://ao.ru",
+        "inn": "6920417941"
+      }
+    }
+  ],
+  "total_amount": 1727.76,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Юрюзань",
+    "street": "пр. Севастопольский",
+    "house": "4",
+    "apartment": "19",
+    "postal_code": "740336"
+  },
+  "purchase_datetime": "2026-09-14T16:08:40.571559"
+}

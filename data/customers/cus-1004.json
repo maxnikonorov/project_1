@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1004",
+  "first_name": "Нина",
+  "last_name": "Моисеева",
+  "email": "radovan14@example.com",
+  "phone": "+78542162648",
+  "birth_date": "1986-03-11",
+  "gender": "male",
+  "registration_date": "2026-11-10T16:08:40.497908",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-112E6139CC",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "к. Бузулук",
+    "street": "бул. Енисейский",
+    "house": "736",
+    "postal_code": "369079",
+    "coordinates": {
+      "latitude": -17.571044,
+      "longitude": 161.569143
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Бузулук",
+    "street": "пр. Рабочий",
+    "house": "8",
+    "apartment": "100",
+    "postal_code": "083430"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

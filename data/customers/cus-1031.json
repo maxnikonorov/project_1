@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1031",
+  "first_name": "Софрон",
+  "last_name": "Савин",
+  "email": "pavel2025@example.net",
+  "phone": "+7 (368) 774-83-68",
+  "birth_date": "1980-09-21",
+  "gender": "female",
+  "registration_date": "2026-11-10T16:08:40.548987",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-BA0C423441",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "г. Оренбург",
+    "street": "бул. Первомайский",
+    "house": "5",
+    "postal_code": "215822",
+    "coordinates": {
+      "latitude": -49.481629,
+      "longitude": -31.452333
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Оренбург",
+    "street": "наб. 60 лет СССР",
+    "house": "8/3",
+    "apartment": "63",
+    "postal_code": "955944"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

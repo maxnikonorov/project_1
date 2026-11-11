@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00069",
+  "customer": {
+    "customer_id": "cus-1027",
+    "first_name": "Поликарп",
+    "last_name": "Виноградова"
+  },
+  "store": {
+    "store_id": "store-003",
+    "store_name": "Большая Пикча — Магазин на ул. 30 лет Победы",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Калач-на-Дону",
+      "street": "ул. Чайковского",
+      "house": "3",
+      "postal_code": "014762",
+      "coordinates": {
+        "latitude": -64.9630345,
+        "longitude": 97.600119
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1006",
+      "name": "Иной",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 38.14,
+      "total_price": 38.14,
+      "kbju": {
+        "calories": 240.4,
+        "protein": 11.6,
+        "fat": 4.1,
+        "carbohydrates": 46.3
+      },
+      "manufacturer": {
+        "name": "Шарова Лтд",
+        "country": "Россия",
+        "website": "https://trofimov.net",
+        "inn": "2302699549"
+      }
+    }
+  ],
+  "total_amount": 38.14,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Учалы",
+    "street": "пр. 70 лет Октября",
+    "house": "1/7",
+    "apartment": "80",
+    "postal_code": "258817"
+  },
+  "purchase_datetime": "2026-09-05T16:08:40.669814"
+}

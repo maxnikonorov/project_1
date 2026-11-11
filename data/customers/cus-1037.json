@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1037",
+  "first_name": "Лукьян",
+  "last_name": "Ершов",
+  "email": "luchezar06@example.com",
+  "phone": "8 802 098 77 39",
+  "birth_date": "1969-03-29",
+  "gender": "male",
+  "registration_date": "2026-11-10T16:08:40.557525",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-081CC53C86",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "к. Ижевск",
+    "street": "ш. Кольцова",
+    "house": "41",
+    "postal_code": "025390",
+    "coordinates": {
+      "latitude": -85.3445585,
+      "longitude": 168.771964
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Ижевск",
+    "street": "алл. Отрадная",
+    "house": "2/5",
+    "apartment": "54",
+    "postal_code": "688111"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

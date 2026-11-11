@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00065",
+  "customer": {
+    "customer_id": "cus-1035",
+    "first_name": "Евсей",
+    "last_name": "Гордеева"
+  },
+  "store": {
+    "store_id": "store-026",
+    "store_name": "Большая Пикча — Магазин на пр. Лазурный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Кингисепп",
+      "street": "ш. Смоленское",
+      "house": "9/3",
+      "postal_code": "469008",
+      "coordinates": {
+        "latitude": -78.4942005,
+        "longitude": -6.090966
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1007",
+      "name": "Соответствие",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 254.38,
+      "total_price": 1017.52,
+      "kbju": {
+        "calories": 250.9,
+        "protein": 11.5,
+        "fat": 3.2,
+        "carbohydrates": 44.9
+      },
+      "manufacturer": {
+        "name": "Терентьев Инкорпорэйтед",
+        "country": "Россия",
+        "website": "https://ip.info",
+        "inn": "3390887494"
+      }
+    }
+  ],
+  "total_amount": 1017.52,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Борзя",
+    "street": "ш. Набережное",
+    "house": "700",
+    "apartment": "69",
+    "postal_code": "777744"
+  },
+  "purchase_datetime": "2026-10-19T16:08:40.664321"
+}

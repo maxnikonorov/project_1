@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00068",
+  "customer": {
+    "customer_id": "cus-1035",
+    "first_name": "Евсей",
+    "last_name": "Гордеева"
+  },
+  "store": {
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на ш. Светлое",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Бронницы",
+      "street": "алл. Геологов",
+      "house": "8/6",
+      "postal_code": "153671",
+      "coordinates": {
+        "latitude": 37.778015,
+        "longitude": 47.325165
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1002",
+      "name": "Единый",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 289.68,
+      "total_price": 1158.72,
+      "kbju": {
+        "calories": 265.0,
+        "protein": 19.8,
+        "fat": 7.9,
+        "carbohydrates": 44.8
+      },
+      "manufacturer": {
+        "name": "ИП «Мартынова»",
+        "country": "Россия",
+        "website": "https://ao.ru",
+        "inn": "6920417941"
+      }
+    },
+    {
+      "product_id": "prd-1017",
+      "name": "Пол",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 150.17,
+      "total_price": 450.51,
+      "kbju": {
+        "calories": 127.5,
+        "protein": 3.3,
+        "fat": 7.5,
+        "carbohydrates": 41.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Родионова-Осипов»",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "4308518530"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "name": "Пространство",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 169.18,
+      "total_price": 169.18,
+      "kbju": {
+        "calories": 244.0,
+        "protein": 13.8,
+        "fat": 6.9,
+        "carbohydrates": 6.3
+      },
+      "manufacturer": {
+        "name": "ИП «Силин, Лапина и Федосеев»",
+        "country": "Россия",
+        "website": "https://rao.com",
+        "inn": "0793948672"
+      }
+    }
+  ],
+  "total_amount": 1778.41,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Борзя",
+    "street": "ш. Набережное",
+    "house": "700",
+    "apartment": "69",
+    "postal_code": "777744"
+  },
+  "purchase_datetime": "2026-10-14T16:08:40.667799"
+}

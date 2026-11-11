@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00176",
+  "customer": {
+    "customer_id": "cus-1022",
+    "first_name": "Анастасия",
+    "last_name": "Крылов"
+  },
+  "store": {
+    "store_id": "store-029",
+    "store_name": "Большая Пикча — Магазин на ш. Макаренко",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Новгород Великий",
+      "street": "алл. Культуры",
+      "house": "2/2",
+      "postal_code": "193662",
+      "coordinates": {
+        "latitude": 52.706471,
+        "longitude": -141.974096
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1018",
+      "name": "Смеяться",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 143.87,
+      "total_price": 143.87,
+      "kbju": {
+        "calories": 175.7,
+        "protein": 9.9,
+        "fat": 11.6,
+        "carbohydrates": 36.9
+      },
+      "manufacturer": {
+        "name": "АО «Архипов»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "6430660253"
+      }
+    }
+  ],
+  "total_amount": 143.87,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Далматово",
+    "street": "ш. Гафури",
+    "house": "2",
+    "apartment": "72",
+    "postal_code": "185055"
+  },
+  "purchase_datetime": "2026-08-23T16:08:40.840294"
+}

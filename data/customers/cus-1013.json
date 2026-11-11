@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1013",
+  "first_name": "Майя",
+  "last_name": "Третьякова",
+  "email": "silanti_1998@example.net",
+  "phone": "8 431 251 0414",
+  "birth_date": "2008-08-24",
+  "gender": "male",
+  "registration_date": "2026-11-10T16:08:40.514443",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-0B65ECFFD5",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Завьялиха",
+    "street": "пр. Октябрьский",
+    "house": "25",
+    "postal_code": "058240",
+    "coordinates": {
+      "latitude": 25.905304,
+      "longitude": -6.320316
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Завьялиха",
+    "street": "пр. Первомайский",
+    "house": "58",
+    "apartment": "88",
+    "postal_code": "991132"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

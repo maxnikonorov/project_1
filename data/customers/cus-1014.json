@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1014",
+  "first_name": "Якуб",
+  "last_name": "Кондратьева",
+  "email": "anzhela21@example.net",
+  "phone": "81546249799",
+  "birth_date": "1978-10-09",
+  "gender": "female",
+  "registration_date": "2026-11-10T16:08:40.516444",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-612D347A4B",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "п. Руза",
+    "street": "ш. Радужное",
+    "house": "7/7",
+    "postal_code": "372559",
+    "coordinates": {
+      "latitude": -51.107463,
+      "longitude": 85.868379
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Руза",
+    "street": "бул. Славянский",
+    "house": "43",
+    "apartment": "66",
+    "postal_code": "478987"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

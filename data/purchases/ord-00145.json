@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00145",
+  "customer": {
+    "customer_id": "cus-1021",
+    "first_name": "Сила",
+    "last_name": "Голубева"
+  },
+  "store": {
+    "store_id": "store-033",
+    "store_name": "Маленькая Пикча — Магазин на ул. Больничная",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Домбай",
+      "street": "ул. Заливная",
+      "house": "77",
+      "postal_code": "721769",
+      "coordinates": {
+        "latitude": -79.236949,
+        "longitude": -85.283823
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1009",
+      "name": "Левый",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 55.63,
+      "total_price": 222.52,
+      "kbju": {
+        "calories": 284.1,
+        "protein": 6.2,
+        "fat": 12.8,
+        "carbohydrates": 31.9
+      },
+      "manufacturer": {
+        "name": "ООО «Беляков-Ермаков»",
+        "country": "Россия",
+        "website": "https://ao.edu",
+        "inn": "2315160346"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "name": "Пространство",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 169.18,
+      "total_price": 507.54,
+      "kbju": {
+        "calories": 244.0,
+        "protein": 13.8,
+        "fat": 6.9,
+        "carbohydrates": 6.3
+      },
+      "manufacturer": {
+        "name": "ИП «Силин, Лапина и Федосеев»",
+        "country": "Россия",
+        "website": "https://rao.com",
+        "inn": "0793948672"
+      }
+    }
+  ],
+  "total_amount": 730.06,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Нарткала",
+    "street": "бул. Кооперативный",
+    "house": "573",
+    "apartment": "52",
+    "postal_code": "398005"
+  },
+  "purchase_datetime": "2026-09-09T16:08:40.781605"
+}

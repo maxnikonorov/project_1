@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00023",
+  "customer": {
+    "customer_id": "cus-1015",
+    "first_name": "Ипат",
+    "last_name": "Панова"
+  },
+  "store": {
+    "store_id": "store-027",
+    "store_name": "Большая Пикча — Магазин на пр. Тельмана",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Дно",
+      "street": "пр. Мая 1",
+      "house": "5/5",
+      "postal_code": "183496",
+      "coordinates": {
+        "latitude": 20.9920365,
+        "longitude": -71.498795
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1009",
+      "name": "Левый",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 55.63,
+      "total_price": 111.26,
+      "kbju": {
+        "calories": 284.1,
+        "protein": 6.2,
+        "fat": 12.8,
+        "carbohydrates": 31.9
+      },
+      "manufacturer": {
+        "name": "ООО «Беляков-Ермаков»",
+        "country": "Россия",
+        "website": "https://ao.edu",
+        "inn": "2315160346"
+      }
+    }
+  ],
+  "total_amount": 111.26,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Нижний Новгород",
+    "street": "ш. Ярославское",
+    "house": "59",
+    "apartment": "36",
+    "postal_code": "793316"
+  },
+  "purchase_datetime": "2026-10-16T16:08:40.597109"
+}

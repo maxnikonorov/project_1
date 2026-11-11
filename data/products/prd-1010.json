@@ -1,0 +1,24 @@
+{
+  "id": "prd-1010",
+  "name": "Наткнуться",
+  "group": "🍏 Фрукты и ягоды",
+  "description": "Неожиданно подробность изучить очутиться уточнить выраженный расстегнуть.",
+  "kbju": {
+    "calories": 111.4,
+    "protein": 5.0,
+    "fat": 2.9,
+    "carbohydrates": 48.1
+  },
+  "price": 109.99,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 29,
+  "is_organic": true,
+  "barcode": "7151875489780",
+  "manufacturer": {
+    "name": "АО «Третьяков, Кабанов и Казакова»",
+    "country": "Россия",
+    "website": "https://rao.edu",
+    "inn": "0018510627"
+  }
+}

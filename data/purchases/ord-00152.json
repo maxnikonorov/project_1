@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00152",
+  "customer": {
+    "customer_id": "cus-1032",
+    "first_name": "Флорентин",
+    "last_name": "Рогов"
+  },
+  "store": {
+    "store_id": "store-022",
+    "store_name": "Большая Пикча — Магазин на алл. Пригородная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Нарткала",
+      "street": "ул. Труда",
+      "house": "62",
+      "postal_code": "710312",
+      "coordinates": {
+        "latitude": -12.1783105,
+        "longitude": 146.648455
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "name": "Горький",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 203.15,
+      "total_price": 812.6,
+      "kbju": {
+        "calories": 271.9,
+        "protein": 15.0,
+        "fat": 7.2,
+        "carbohydrates": 40.0
+      },
+      "manufacturer": {
+        "name": "Шарапов Групп",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "3346683207"
+      }
+    }
+  ],
+  "total_amount": 812.6,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Домбай",
+    "street": "пер. Докучаева",
+    "house": "17",
+    "apartment": "97",
+    "postal_code": "921129"
+  },
+  "purchase_datetime": "2026-10-09T16:08:40.798698"
+}

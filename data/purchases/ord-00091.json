@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00091",
+  "customer": {
+    "customer_id": "cus-1016",
+    "first_name": "Зосима",
+    "last_name": "Шубина"
+  },
+  "store": {
+    "store_id": "store-023",
+    "store_name": "Большая Пикча — Магазин на пр. Красногвардейский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "с. Далматово",
+      "street": "бул. 50 лет ВЛКСМ",
+      "house": "59",
+      "postal_code": "821629",
+      "coordinates": {
+        "latitude": 19.1968455,
+        "longitude": -119.926477
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1004",
+      "name": "Социалистический",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 254.38,
+      "total_price": 1017.52,
+      "kbju": {
+        "calories": 104.4,
+        "protein": 6.0,
+        "fat": 0.7,
+        "carbohydrates": 13.6
+      },
+      "manufacturer": {
+        "name": "ООО «Савельев»",
+        "country": "Россия",
+        "website": "https://rao.info",
+        "inn": "2063622252"
+      }
+    }
+  ],
+  "total_amount": 1017.52,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Калевала",
+    "street": "пер. Городской",
+    "house": "6/1",
+    "apartment": "91",
+    "postal_code": "325594"
+  },
+  "purchase_datetime": "2026-09-02T16:08:40.701924"
+}

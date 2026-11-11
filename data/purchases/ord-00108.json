@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00108",
+  "customer": {
+    "customer_id": "cus-1019",
+    "first_name": "Андрон",
+    "last_name": "Матвеева"
+  },
+  "store": {
+    "store_id": "store-009",
+    "store_name": "Большая Пикча — Магазин на ул. Моховая",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Юрюзань",
+      "street": "наб. Заозерная",
+      "house": "5/4",
+      "postal_code": "194830",
+      "coordinates": {
+        "latitude": 81.654657,
+        "longitude": -154.844563
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1000",
+      "name": "Приятель",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 105.42,
+      "total_price": 316.26,
+      "kbju": {
+        "calories": 94.5,
+        "protein": 2.3,
+        "fat": 1.3,
+        "carbohydrates": 23.5
+      },
+      "manufacturer": {
+        "name": "ЗАО «Соболев»",
+        "country": "Россия",
+        "website": "https://zao.net",
+        "inn": "3597427512"
+      }
+    }
+  ],
+  "total_amount": 316.26,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Коломна",
+    "street": "ул. 9 мая",
+    "house": "96",
+    "apartment": "100",
+    "postal_code": "378421"
+  },
+  "purchase_datetime": "2026-10-18T16:08:40.726991"
+}

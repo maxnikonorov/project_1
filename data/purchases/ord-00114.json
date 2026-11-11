@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00114",
+  "customer": {
+    "customer_id": "cus-1006",
+    "first_name": "Агафья",
+    "last_name": "Гурьева"
+  },
+  "store": {
+    "store_id": "store-022",
+    "store_name": "Большая Пикча — Магазин на алл. Пригородная",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Нарткала",
+      "street": "ул. Труда",
+      "house": "62",
+      "postal_code": "710312",
+      "coordinates": {
+        "latitude": -12.1783105,
+        "longitude": 146.648455
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1003",
+      "name": "Порт",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 300.0,
+      "total_price": 1200.0,
+      "kbju": {
+        "calories": 129.9,
+        "protein": 1.0,
+        "fat": 9.4,
+        "carbohydrates": 17.8
+      },
+      "manufacturer": {
+        "name": "Абрамов и партнеры",
+        "country": "Россия",
+        "website": "https://koka-kola.biz",
+        "inn": "0599854783"
+      }
+    }
+  ],
+  "total_amount": 1200.0,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Лагань",
+    "street": "пр. Просвещения",
+    "house": "61",
+    "apartment": "60",
+    "postal_code": "059264"
+  },
+  "purchase_datetime": "2026-09-21T16:08:40.735538"
+}

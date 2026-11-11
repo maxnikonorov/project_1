@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1023",
+  "first_name": "Силантий",
+  "last_name": "Мельников",
+  "email": "naumovaljudmila@example.org",
+  "phone": "8 630 120 9875",
+  "birth_date": "1966-09-05",
+  "gender": "male",
+  "registration_date": "2026-11-10T16:08:40.534989",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-E233DD3FD4",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "с. Бирск",
+    "street": "ул. Солнечная",
+    "house": "17",
+    "postal_code": "499651",
+    "coordinates": {
+      "latitude": 5.2410395,
+      "longitude": 119.571827
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Бирск",
+    "street": "пр. Прудовой",
+    "house": "46",
+    "apartment": "12",
+    "postal_code": "812000"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

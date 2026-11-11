@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00193",
+  "customer": {
+    "customer_id": "cus-1043",
+    "first_name": "Мария",
+    "last_name": "Фомичев"
+  },
+  "store": {
+    "store_id": "store-011",
+    "store_name": "Большая Пикча — Магазин на пр. Пожарского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Асино",
+      "street": "наб. Байкальская",
+      "house": "517",
+      "postal_code": "930637",
+      "coordinates": {
+        "latitude": 55.229271,
+        "longitude": -50.234086
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1012",
+      "name": "Помолчать",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 177.06,
+      "total_price": 531.18,
+      "kbju": {
+        "calories": 142.7,
+        "protein": 15.3,
+        "fat": 9.2,
+        "carbohydrates": 1.7
+      },
+      "manufacturer": {
+        "name": "НПО «Силин-Богданова»",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "8788386125"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "name": "Крутой",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 209.78,
+      "total_price": 209.78,
+      "kbju": {
+        "calories": 246.6,
+        "protein": 5.6,
+        "fat": 14.7,
+        "carbohydrates": 20.5
+      },
+      "manufacturer": {
+        "name": "ОАО «Костин Крюкова»",
+        "country": "Россия",
+        "website": "https://mmk.info",
+        "inn": "9008610160"
+      }
+    },
+    {
+      "product_id": "prd-1005",
+      "name": "Тысяча",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 109.23,
+      "total_price": 327.69,
+      "kbju": {
+        "calories": 215.7,
+        "protein": 8.5,
+        "fat": 8.5,
+        "carbohydrates": 5.4
+      },
+      "manufacturer": {
+        "name": "Исаева Групп",
+        "country": "Россия",
+        "website": "https://ao.com",
+        "inn": "0005832495"
+      }
+    }
+  ],
+  "total_amount": 1068.65,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Калач-на-Дону",
+    "street": "ул. Харьковская",
+    "house": "4",
+    "apartment": "43",
+    "postal_code": "419155"
+  },
+  "purchase_datetime": "2026-11-08T16:08:40.874196"
+}

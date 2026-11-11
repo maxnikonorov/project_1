@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1024",
+  "first_name": "Бажен",
+  "last_name": "Меркушева",
+  "email": "nkuznetsov@example.com",
+  "phone": "8 088 630 53 87",
+  "birth_date": "1958-08-13",
+  "gender": "male",
+  "registration_date": "2026-11-10T16:08:40.536989",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-38A4A0E4D3",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "д. Кабанск",
+    "street": "наб. Ватутина",
+    "house": "71",
+    "postal_code": "430475",
+    "coordinates": {
+      "latitude": 56.1539,
+      "longitude": -125.144973
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Кабанск",
+    "street": "пр. Высоковольтный",
+    "house": "9",
+    "apartment": "34",
+    "postal_code": "100346"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

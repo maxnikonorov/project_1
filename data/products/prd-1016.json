@@ -1,0 +1,24 @@
+{
+  "id": "prd-1016",
+  "name": "Вытаскивать",
+  "group": "🥩 Мясо, рыба, яйца и бобовые",
+  "description": "Выбирать миллиард исследование полностью приходить уничтожение миллиард затянуться.",
+  "kbju": {
+    "calories": 56.8,
+    "protein": 6.1,
+    "fat": 2.9,
+    "carbohydrates": 30.8
+  },
+  "price": 53.87,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 22,
+  "is_organic": true,
+  "barcode": "0495028190893",
+  "manufacturer": {
+    "name": "ОАО «Беспалова»",
+    "country": "Россия",
+    "website": "https://smirnova.com",
+    "inn": "3793340215"
+  }
+}

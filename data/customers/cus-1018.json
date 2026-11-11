@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1018",
+  "first_name": "Клавдий",
+  "last_name": "Воробьева",
+  "email": "boris_17@example.org",
+  "phone": "+7 159 228 8978",
+  "birth_date": "2000-10-23",
+  "gender": "female",
+  "registration_date": "2026-11-10T16:08:40.525456",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-847CC83A24",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "клх Казань",
+    "street": "наб. Лазо",
+    "house": "14",
+    "postal_code": "597074",
+    "coordinates": {
+      "latitude": 10.7166325,
+      "longitude": 152.518277
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Казань",
+    "street": "ш. Энгельса",
+    "house": "3/6",
+    "apartment": "50",
+    "postal_code": "895132"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": false
+  }
+}

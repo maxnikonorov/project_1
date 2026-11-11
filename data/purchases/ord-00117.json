@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00117",
+  "customer": {
+    "customer_id": "cus-1005",
+    "first_name": "Гурий",
+    "last_name": "Панова"
+  },
+  "store": {
+    "store_id": "store-043",
+    "store_name": "Маленькая Пикча — Магазин на наб. Воровского",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Александровск",
+      "street": "ш. Комсомольское",
+      "house": "1",
+      "postal_code": "044769",
+      "coordinates": {
+        "latitude": -8.57721,
+        "longitude": 52.71837
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1002",
+      "name": "Единый",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 289.68,
+      "total_price": 1158.72,
+      "kbju": {
+        "calories": 265.0,
+        "protein": 19.8,
+        "fat": 7.9,
+        "carbohydrates": 44.8
+      },
+      "manufacturer": {
+        "name": "ИП «Мартынова»",
+        "country": "Россия",
+        "website": "https://ao.ru",
+        "inn": "6920417941"
+      }
+    }
+  ],
+  "total_amount": 1158.72,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Апшеронск",
+    "street": "бул. Полевой",
+    "house": "900",
+    "apartment": "34",
+    "postal_code": "114573"
+  },
+  "purchase_datetime": "2026-08-29T16:08:40.739545"
+}

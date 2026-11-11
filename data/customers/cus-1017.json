@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1017",
+  "first_name": "Дмитрий",
+  "last_name": "Наумов",
+  "email": "tvorimir1981@example.net",
+  "phone": "+7 (676) 010-7499",
+  "birth_date": "1981-07-15",
+  "gender": "female",
+  "registration_date": "2026-11-10T16:08:40.523454",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-ED61379C67",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "клх Бологое",
+    "street": "ш. Стахановское",
+    "house": "2/7",
+    "postal_code": "892181",
+    "coordinates": {
+      "latitude": 71.681777,
+      "longitude": 39.954897
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Бологое",
+    "street": "пр. Толбухина",
+    "house": "625",
+    "apartment": "20",
+    "postal_code": "483680"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

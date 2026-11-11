@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1008",
+  "first_name": "Тимофей",
+  "last_name": "Наумов",
+  "email": "alevtinapetuhova@example.org",
+  "phone": "+7 420 548 37 26",
+  "birth_date": "1994-09-11",
+  "gender": "female",
+  "registration_date": "2026-11-10T16:08:40.504906",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-075C990BD7",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "клх Юрюзань",
+    "street": "наб. Заозерная",
+    "house": "5/4",
+    "postal_code": "194830",
+    "coordinates": {
+      "latitude": 81.654657,
+      "longitude": -154.844563
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Юрюзань",
+    "street": "пр. Севастопольский",
+    "house": "4",
+    "apartment": "19",
+    "postal_code": "740336"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

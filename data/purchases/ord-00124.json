@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00124",
+  "customer": {
+    "customer_id": "cus-1007",
+    "first_name": "Владимир",
+    "last_name": "Меркушева"
+  },
+  "store": {
+    "store_id": "store-034",
+    "store_name": "Маленькая Пикча — Магазин на бул. Энергетиков",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Нефтегорск (Самар.)",
+      "street": "ул. Свободная",
+      "house": "40",
+      "postal_code": "707821",
+      "coordinates": {
+        "latitude": -68.899129,
+        "longitude": 28.922537
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1009",
+      "name": "Левый",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 55.63,
+      "total_price": 111.26,
+      "kbju": {
+        "calories": 284.1,
+        "protein": 6.2,
+        "fat": 12.8,
+        "carbohydrates": 31.9
+      },
+      "manufacturer": {
+        "name": "ООО «Беляков-Ермаков»",
+        "country": "Россия",
+        "website": "https://ao.edu",
+        "inn": "2315160346"
+      }
+    },
+    {
+      "product_id": "prd-1002",
+      "name": "Единый",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 289.68,
+      "total_price": 1158.72,
+      "kbju": {
+        "calories": 265.0,
+        "protein": 19.8,
+        "fat": 7.9,
+        "carbohydrates": 44.8
+      },
+      "manufacturer": {
+        "name": "ИП «Мартынова»",
+        "country": "Россия",
+        "website": "https://ao.ru",
+        "inn": "6920417941"
+      }
+    },
+    {
+      "product_id": "prd-1012",
+      "name": "Помолчать",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 177.06,
+      "total_price": 354.12,
+      "kbju": {
+        "calories": 142.7,
+        "protein": 15.3,
+        "fat": 9.2,
+        "carbohydrates": 1.7
+      },
+      "manufacturer": {
+        "name": "НПО «Силин-Богданова»",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "8788386125"
+      }
+    }
+  ],
+  "total_amount": 1624.1,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Кажим",
+    "street": "пер. Таманский",
+    "house": "86",
+    "apartment": "80",
+    "postal_code": "389065"
+  },
+  "purchase_datetime": "2026-09-21T16:08:40.748539"
+}

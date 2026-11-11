@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00169",
+  "customer": {
+    "customer_id": "cus-1038",
+    "first_name": "Радислав",
+    "last_name": "Костина"
+  },
+  "store": {
+    "store_id": "store-020",
+    "store_name": "Большая Пикча — Магазин на пр. Красноармейский",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Коломна",
+      "street": "пр. Социалистический",
+      "house": "2",
+      "postal_code": "948719",
+      "coordinates": {
+        "latitude": 55.7082815,
+        "longitude": 95.496798
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "name": "Горький",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 203.15,
+      "total_price": 1015.75,
+      "kbju": {
+        "calories": 271.9,
+        "protein": 15.0,
+        "fat": 7.2,
+        "carbohydrates": 40.0
+      },
+      "manufacturer": {
+        "name": "Шарапов Групп",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "3346683207"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "name": "Крутой",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 209.78,
+      "total_price": 839.12,
+      "kbju": {
+        "calories": 246.6,
+        "protein": 5.6,
+        "fat": 14.7,
+        "carbohydrates": 20.5
+      },
+      "manufacturer": {
+        "name": "ОАО «Костин Крюкова»",
+        "country": "Россия",
+        "website": "https://mmk.info",
+        "inn": "9008610160"
+      }
+    },
+    {
+      "product_id": "prd-1003",
+      "name": "Порт",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 300.0,
+      "total_price": 1500.0,
+      "kbju": {
+        "calories": 129.9,
+        "protein": 1.0,
+        "fat": 9.4,
+        "carbohydrates": 17.8
+      },
+      "manufacturer": {
+        "name": "Абрамов и партнеры",
+        "country": "Россия",
+        "website": "https://koka-kola.biz",
+        "inn": "0599854783"
+      }
+    }
+  ],
+  "total_amount": 3354.87,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Орск",
+    "street": "бул. Учительский",
+    "house": "3",
+    "apartment": "13",
+    "postal_code": "389971"
+  },
+  "purchase_datetime": "2026-10-26T16:08:40.826891"
+}

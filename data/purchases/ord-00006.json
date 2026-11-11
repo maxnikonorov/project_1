@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00006",
+  "customer": {
+    "customer_id": "cus-1041",
+    "first_name": "Станислав",
+    "last_name": "Сысоева"
+  },
+  "store": {
+    "store_id": "store-038",
+    "store_name": "Маленькая Пикча — Магазин на пер. Трактовый",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Ижевск",
+      "street": "ш. Кольцова",
+      "house": "41",
+      "postal_code": "025390",
+      "coordinates": {
+        "latitude": -85.3445585,
+        "longitude": 168.771964
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1002",
+      "name": "Единый",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 289.68,
+      "total_price": 579.36,
+      "kbju": {
+        "calories": 265.0,
+        "protein": 19.8,
+        "fat": 7.9,
+        "carbohydrates": 44.8
+      },
+      "manufacturer": {
+        "name": "ИП «Мартынова»",
+        "country": "Россия",
+        "website": "https://ao.ru",
+        "inn": "6920417941"
+      }
+    },
+    {
+      "product_id": "prd-1017",
+      "name": "Пол",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 150.17,
+      "total_price": 150.17,
+      "kbju": {
+        "calories": 127.5,
+        "protein": 3.3,
+        "fat": 7.5,
+        "carbohydrates": 41.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Родионова-Осипов»",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "4308518530"
+      }
+    },
+    {
+      "product_id": "prd-1003",
+      "name": "Порт",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 300.0,
+      "total_price": 300.0,
+      "kbju": {
+        "calories": 129.9,
+        "protein": 1.0,
+        "fat": 9.4,
+        "carbohydrates": 17.8
+      },
+      "manufacturer": {
+        "name": "Абрамов и партнеры",
+        "country": "Россия",
+        "website": "https://koka-kola.biz",
+        "inn": "0599854783"
+      }
+    }
+  ],
+  "total_amount": 1029.53,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Усть-Кут",
+    "street": "ш. Репина",
+    "house": "11",
+    "apartment": "65",
+    "postal_code": "997797"
+  },
+  "purchase_datetime": "2026-10-22T16:08:40.575574"
+}

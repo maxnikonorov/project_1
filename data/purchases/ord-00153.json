@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00153",
+  "customer": {
+    "customer_id": "cus-1040",
+    "first_name": "Богдан",
+    "last_name": "Терентьев"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на бул. 30 лет Победы",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Зеленоград",
+      "street": "пр. Цветочный",
+      "house": "4",
+      "postal_code": "546752",
+      "coordinates": {
+        "latitude": -37.668492,
+        "longitude": 170.691745
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1006",
+      "name": "Иной",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 38.14,
+      "total_price": 152.56,
+      "kbju": {
+        "calories": 240.4,
+        "protein": 11.6,
+        "fat": 4.1,
+        "carbohydrates": 46.3
+      },
+      "manufacturer": {
+        "name": "Шарова Лтд",
+        "country": "Россия",
+        "website": "https://trofimov.net",
+        "inn": "2302699549"
+      }
+    },
+    {
+      "product_id": "prd-1008",
+      "name": "Горький",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 203.15,
+      "total_price": 812.6,
+      "kbju": {
+        "calories": 271.9,
+        "protein": 15.0,
+        "fat": 7.2,
+        "carbohydrates": 40.0
+      },
+      "manufacturer": {
+        "name": "Шарапов Групп",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "3346683207"
+      }
+    }
+  ],
+  "total_amount": 965.16,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Соловки",
+    "street": "алл. Блюхера",
+    "house": "259",
+    "apartment": "94",
+    "postal_code": "602320"
+  },
+  "purchase_datetime": "2026-11-09T16:08:40.799701"
+}

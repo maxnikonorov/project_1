@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00182",
+  "customer": {
+    "customer_id": "cus-1032",
+    "first_name": "Флорентин",
+    "last_name": "Рогов"
+  },
+  "store": {
+    "store_id": "store-035",
+    "store_name": "Маленькая Пикча — Магазин на пер. Партизанский",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Адыгейск",
+      "street": "ш. Тихое",
+      "house": "8/7",
+      "postal_code": "991184",
+      "coordinates": {
+        "latitude": 86.5739715,
+        "longitude": -158.142391
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1018",
+      "name": "Смеяться",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 143.87,
+      "total_price": 143.87,
+      "kbju": {
+        "calories": 175.7,
+        "protein": 9.9,
+        "fat": 11.6,
+        "carbohydrates": 36.9
+      },
+      "manufacturer": {
+        "name": "АО «Архипов»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "6430660253"
+      }
+    }
+  ],
+  "total_amount": 143.87,
+  "payment_method": "card",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Домбай",
+    "street": "пер. Докучаева",
+    "house": "17",
+    "apartment": "97",
+    "postal_code": "921129"
+  },
+  "purchase_datetime": "2026-09-28T16:08:40.849124"
+}

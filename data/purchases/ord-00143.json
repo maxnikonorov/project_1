@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00143",
+  "customer": {
+    "customer_id": "cus-1037",
+    "first_name": "Лукьян",
+    "last_name": "Ершов"
+  },
+  "store": {
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на пр. Виноградный",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "д. Кабанск",
+      "street": "наб. Ватутина",
+      "house": "71",
+      "postal_code": "430475",
+      "coordinates": {
+        "latitude": 56.1539,
+        "longitude": -125.144973
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "name": "Горький",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 203.15,
+      "total_price": 203.15,
+      "kbju": {
+        "calories": 271.9,
+        "protein": 15.0,
+        "fat": 7.2,
+        "carbohydrates": 40.0
+      },
+      "manufacturer": {
+        "name": "Шарапов Групп",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "3346683207"
+      }
+    }
+  ],
+  "total_amount": 203.15,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "к. Ижевск",
+    "street": "алл. Отрадная",
+    "house": "2/5",
+    "apartment": "54",
+    "postal_code": "688111"
+  },
+  "purchase_datetime": "2026-09-09T16:08:40.778604"
+}

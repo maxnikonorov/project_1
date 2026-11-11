@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00059",
+  "customer": {
+    "customer_id": "cus-1016",
+    "first_name": "Зосима",
+    "last_name": "Шубина"
+  },
+  "store": {
+    "store_id": "store-016",
+    "store_name": "Большая Пикча — Магазин на бул. Станиславского",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Нижний Новгород",
+      "street": "пр. Ручейный",
+      "house": "530",
+      "postal_code": "705935",
+      "coordinates": {
+        "latitude": 61.581504,
+        "longitude": 58.143602
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1018",
+      "name": "Смеяться",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 143.87,
+      "total_price": 575.48,
+      "kbju": {
+        "calories": 175.7,
+        "protein": 9.9,
+        "fat": 11.6,
+        "carbohydrates": 36.9
+      },
+      "manufacturer": {
+        "name": "АО «Архипов»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "6430660253"
+      }
+    },
+    {
+      "product_id": "prd-1001",
+      "name": "Природа",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 270.47,
+      "total_price": 1081.88,
+      "kbju": {
+        "calories": 82.7,
+        "protein": 5.3,
+        "fat": 7.1,
+        "carbohydrates": 48.4
+      },
+      "manufacturer": {
+        "name": "ОАО «Аксенов-Елисеева»",
+        "country": "Россия",
+        "website": "https://npo.biz",
+        "inn": "2579256074"
+      }
+    }
+  ],
+  "total_amount": 1657.36,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Калевала",
+    "street": "пер. Городской",
+    "house": "6/1",
+    "apartment": "91",
+    "postal_code": "325594"
+  },
+  "purchase_datetime": "2026-09-26T16:08:40.652270"
+}

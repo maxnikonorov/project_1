@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00196",
+  "customer": {
+    "customer_id": "cus-1015",
+    "first_name": "Ипат",
+    "last_name": "Панова"
+  },
+  "store": {
+    "store_id": "store-002",
+    "store_name": "Большая Пикча — Магазин на наб. Тельмана",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "ст. Горячий Ключ",
+      "street": "ул. Олега Кошевого",
+      "house": "884",
+      "postal_code": "992826",
+      "coordinates": {
+        "latitude": -71.5740635,
+        "longitude": 119.930479
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1002",
+      "name": "Единый",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 289.68,
+      "total_price": 869.04,
+      "kbju": {
+        "calories": 265.0,
+        "protein": 19.8,
+        "fat": 7.9,
+        "carbohydrates": 44.8
+      },
+      "manufacturer": {
+        "name": "ИП «Мартынова»",
+        "country": "Россия",
+        "website": "https://ao.ru",
+        "inn": "6920417941"
+      }
+    },
+    {
+      "product_id": "prd-1017",
+      "name": "Пол",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 150.17,
+      "total_price": 150.17,
+      "kbju": {
+        "calories": 127.5,
+        "protein": 3.3,
+        "fat": 7.5,
+        "carbohydrates": 41.2
+      },
+      "manufacturer": {
+        "name": "ОАО «Родионова-Осипов»",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "4308518530"
+      }
+    }
+  ],
+  "total_amount": 1019.21,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Нижний Новгород",
+    "street": "ш. Ярославское",
+    "house": "59",
+    "apartment": "36",
+    "postal_code": "793316"
+  },
+  "purchase_datetime": "2026-08-12T16:08:40.879196"
+}

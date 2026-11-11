@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00106",
+  "customer": {
+    "customer_id": "cus-1034",
+    "first_name": "Агап",
+    "last_name": "Гусева"
+  },
+  "store": {
+    "store_id": "store-038",
+    "store_name": "Маленькая Пикча — Магазин на пер. Трактовый",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Ижевск",
+      "street": "ш. Кольцова",
+      "house": "41",
+      "postal_code": "025390",
+      "coordinates": {
+        "latitude": -85.3445585,
+        "longitude": 168.771964
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1004",
+      "name": "Социалистический",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 254.38,
+      "total_price": 254.38,
+      "kbju": {
+        "calories": 104.4,
+        "protein": 6.0,
+        "fat": 0.7,
+        "carbohydrates": 13.6
+      },
+      "manufacturer": {
+        "name": "ООО «Савельев»",
+        "country": "Россия",
+        "website": "https://rao.info",
+        "inn": "2063622252"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "name": "Крутой",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 209.78,
+      "total_price": 629.34,
+      "kbju": {
+        "calories": 246.6,
+        "protein": 5.6,
+        "fat": 14.7,
+        "carbohydrates": 20.5
+      },
+      "manufacturer": {
+        "name": "ОАО «Костин Крюкова»",
+        "country": "Россия",
+        "website": "https://mmk.info",
+        "inn": "9008610160"
+      }
+    }
+  ],
+  "total_amount": 883.72,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Адыгейск",
+    "street": "наб. Высоцкого",
+    "house": "8/2",
+    "apartment": "23",
+    "postal_code": "002931"
+  },
+  "purchase_datetime": "2026-09-10T16:08:40.723996"
+}

@@ -1,0 +1,59 @@
+{
+  "purchase_id": "ord-00150",
+  "customer": {
+    "customer_id": "cus-1034",
+    "first_name": "Агап",
+    "last_name": "Гусева"
+  },
+  "store": {
+    "store_id": "store-037",
+    "store_name": "Маленькая Пикча — Магазин на ш. Омское",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "к. Кудымкар",
+      "street": "бул. Путевой",
+      "house": "6/5",
+      "postal_code": "462437",
+      "coordinates": {
+        "latitude": 86.5741415,
+        "longitude": -36.177029
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "name": "Пространство",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 169.18,
+      "total_price": 169.18,
+      "kbju": {
+        "calories": 244.0,
+        "protein": 13.8,
+        "fat": 6.9,
+        "carbohydrates": 6.3
+      },
+      "manufacturer": {
+        "name": "ИП «Силин, Лапина и Федосеев»",
+        "country": "Россия",
+        "website": "https://rao.com",
+        "inn": "0793948672"
+      }
+    }
+  ],
+  "total_amount": 169.18,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Адыгейск",
+    "street": "наб. Высоцкого",
+    "house": "8/2",
+    "apartment": "23",
+    "postal_code": "002931"
+  },
+  "purchase_datetime": "2026-08-14T16:08:40.794159"
+}

@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00127",
+  "customer": {
+    "customer_id": "cus-1003",
+    "first_name": "Трофим",
+    "last_name": "Мамонтова"
+  },
+  "store": {
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на ш. Светлое",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Бронницы",
+      "street": "алл. Геологов",
+      "house": "8/6",
+      "postal_code": "153671",
+      "coordinates": {
+        "latitude": 37.778015,
+        "longitude": 47.325165
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "name": "Пространство",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 169.18,
+      "total_price": 507.54,
+      "kbju": {
+        "calories": 244.0,
+        "protein": 13.8,
+        "fat": 6.9,
+        "carbohydrates": 6.3
+      },
+      "manufacturer": {
+        "name": "ИП «Силин, Лапина и Федосеев»",
+        "country": "Россия",
+        "website": "https://rao.com",
+        "inn": "0793948672"
+      }
+    },
+    {
+      "product_id": "prd-1008",
+      "name": "Горький",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 203.15,
+      "total_price": 203.15,
+      "kbju": {
+        "calories": 271.9,
+        "protein": 15.0,
+        "fat": 7.2,
+        "carbohydrates": 40.0
+      },
+      "manufacturer": {
+        "name": "Шарапов Групп",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "3346683207"
+      }
+    }
+  ],
+  "total_amount": 710.69,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "ст. Арзамас",
+    "street": "бул. Рылеева",
+    "house": "6/3",
+    "apartment": "8",
+    "postal_code": "348548"
+  },
+  "purchase_datetime": "2026-09-07T16:08:40.753057"
+}

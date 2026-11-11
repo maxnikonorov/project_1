@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00102",
+  "customer": {
+    "customer_id": "cus-1013",
+    "first_name": "Майя",
+    "last_name": "Третьякова"
+  },
+  "store": {
+    "store_id": "store-035",
+    "store_name": "Маленькая Пикча — Магазин на пер. Партизанский",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Адыгейск",
+      "street": "ш. Тихое",
+      "house": "8/7",
+      "postal_code": "991184",
+      "coordinates": {
+        "latitude": 86.5739715,
+        "longitude": -158.142391
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1009",
+      "name": "Левый",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 55.63,
+      "total_price": 55.63,
+      "kbju": {
+        "calories": 284.1,
+        "protein": 6.2,
+        "fat": 12.8,
+        "carbohydrates": 31.9
+      },
+      "manufacturer": {
+        "name": "ООО «Беляков-Ермаков»",
+        "country": "Россия",
+        "website": "https://ao.edu",
+        "inn": "2315160346"
+      }
+    },
+    {
+      "product_id": "prd-1008",
+      "name": "Горький",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 203.15,
+      "total_price": 609.45,
+      "kbju": {
+        "calories": 271.9,
+        "protein": 15.0,
+        "fat": 7.2,
+        "carbohydrates": 40.0
+      },
+      "manufacturer": {
+        "name": "Шарапов Групп",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "3346683207"
+      }
+    },
+    {
+      "product_id": "prd-1000",
+      "name": "Приятель",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 105.42,
+      "total_price": 210.84,
+      "kbju": {
+        "calories": 94.5,
+        "protein": 2.3,
+        "fat": 1.3,
+        "carbohydrates": 23.5
+      },
+      "manufacturer": {
+        "name": "ЗАО «Соболев»",
+        "country": "Россия",
+        "website": "https://zao.net",
+        "inn": "3597427512"
+      }
+    }
+  ],
+  "total_amount": 875.92,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "с. Завьялиха",
+    "street": "пр. Первомайский",
+    "house": "58",
+    "apartment": "88",
+    "postal_code": "991132"
+  },
+  "purchase_datetime": "2026-09-16T16:08:40.717465"
+}

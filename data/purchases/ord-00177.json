@@ -1,0 +1,101 @@
+{
+  "purchase_id": "ord-00177",
+  "customer": {
+    "customer_id": "cus-1009",
+    "first_name": "Иннокентий",
+    "last_name": "Ларионова"
+  },
+  "store": {
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на пер. Красный",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Соловки",
+      "street": "пер. Космический",
+      "house": "7",
+      "postal_code": "821818",
+      "coordinates": {
+        "latitude": -8.30231,
+        "longitude": 144.533567
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1010",
+      "name": "Наткнуться",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 109.99,
+      "total_price": 329.97,
+      "kbju": {
+        "calories": 111.4,
+        "protein": 5.0,
+        "fat": 2.9,
+        "carbohydrates": 48.1
+      },
+      "manufacturer": {
+        "name": "АО «Третьяков, Кабанов и Казакова»",
+        "country": "Россия",
+        "website": "https://rao.edu",
+        "inn": "0018510627"
+      }
+    },
+    {
+      "product_id": "prd-1001",
+      "name": "Природа",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 270.47,
+      "total_price": 540.94,
+      "kbju": {
+        "calories": 82.7,
+        "protein": 5.3,
+        "fat": 7.1,
+        "carbohydrates": 48.4
+      },
+      "manufacturer": {
+        "name": "ОАО «Аксенов-Елисеева»",
+        "country": "Россия",
+        "website": "https://npo.biz",
+        "inn": "2579256074"
+      }
+    },
+    {
+      "product_id": "prd-1003",
+      "name": "Порт",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 300.0,
+      "total_price": 1200.0,
+      "kbju": {
+        "calories": 129.9,
+        "protein": 1.0,
+        "fat": 9.4,
+        "carbohydrates": 17.8
+      },
+      "manufacturer": {
+        "name": "Абрамов и партнеры",
+        "country": "Россия",
+        "website": "https://koka-kola.biz",
+        "inn": "0599854783"
+      }
+    }
+  ],
+  "total_amount": 2070.91,
+  "payment_method": "cash",
+  "is_delivery": true,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Бронницы",
+    "street": "пер. Деповский",
+    "house": "12",
+    "apartment": "36",
+    "postal_code": "187304"
+  },
+  "purchase_datetime": "2026-09-30T16:08:40.841837"
+}

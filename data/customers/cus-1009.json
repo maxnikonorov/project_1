@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1009",
+  "first_name": "Иннокентий",
+  "last_name": "Ларионова",
+  "email": "shubinaalevtina@example.net",
+  "phone": "8 (164) 221-55-80",
+  "birth_date": "1974-03-26",
+  "gender": "male",
+  "registration_date": "2026-11-10T16:08:40.506904",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-C4AC59A9C8",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "п. Бронницы",
+    "street": "алл. Геологов",
+    "house": "8/6",
+    "postal_code": "153671",
+    "coordinates": {
+      "latitude": 37.778015,
+      "longitude": 47.325165
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Бронницы",
+    "street": "пер. Деповский",
+    "house": "12",
+    "apartment": "36",
+    "postal_code": "187304"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

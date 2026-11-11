@@ -1,0 +1,24 @@
+{
+  "id": "prd-1005",
+  "name": "Тысяча",
+  "group": "🍏 Фрукты и ягоды",
+  "description": "Мягкий степь четко находить изображать.",
+  "kbju": {
+    "calories": 215.7,
+    "protein": 8.5,
+    "fat": 8.5,
+    "carbohydrates": 5.4
+  },
+  "price": 109.23,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 13,
+  "is_organic": false,
+  "barcode": "2606203780459",
+  "manufacturer": {
+    "name": "Исаева Групп",
+    "country": "Россия",
+    "website": "https://ao.com",
+    "inn": "0005832495"
+  }
+}

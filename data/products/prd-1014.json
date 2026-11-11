@@ -1,0 +1,24 @@
+{
+  "id": "prd-1014",
+  "name": "Что",
+  "group": "🥩 Мясо, рыба, яйца и бобовые",
+  "description": "Инфекция материя поговорить головной исполнять бочок.",
+  "kbju": {
+    "calories": 231.7,
+    "protein": 17.6,
+    "fat": 9.2,
+    "carbohydrates": 6.7
+  },
+  "price": 139.68,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 22,
+  "is_organic": true,
+  "barcode": "0190292378052",
+  "manufacturer": {
+    "name": "Петухова Лимитед",
+    "country": "Россия",
+    "website": "https://ip.net",
+    "inn": "2487454296"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00087",
+  "customer": {
+    "customer_id": "cus-1033",
+    "first_name": "Владлен",
+    "last_name": "Киселев"
+  },
+  "store": {
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на пер. Красный",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Соловки",
+      "street": "пер. Космический",
+      "house": "7",
+      "postal_code": "821818",
+      "coordinates": {
+        "latitude": -8.30231,
+        "longitude": 144.533567
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1018",
+      "name": "Смеяться",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 143.87,
+      "total_price": 575.48,
+      "kbju": {
+        "calories": 175.7,
+        "protein": 9.9,
+        "fat": 11.6,
+        "carbohydrates": 36.9
+      },
+      "manufacturer": {
+        "name": "АО «Архипов»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "6430660253"
+      }
+    },
+    {
+      "product_id": "prd-1009",
+      "name": "Левый",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 55.63,
+      "total_price": 166.89,
+      "kbju": {
+        "calories": 284.1,
+        "protein": 6.2,
+        "fat": 12.8,
+        "carbohydrates": 31.9
+      },
+      "manufacturer": {
+        "name": "ООО «Беляков-Ермаков»",
+        "country": "Россия",
+        "website": "https://ao.edu",
+        "inn": "2315160346"
+      }
+    }
+  ],
+  "total_amount": 742.37,
+  "payment_method": "card",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Нефтегорск (Самар.)",
+    "street": "ш. Ясное",
+    "house": "1",
+    "apartment": "52",
+    "postal_code": "256820"
+  },
+  "purchase_datetime": "2026-09-16T16:08:40.696408"
+}

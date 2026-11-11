@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1016",
+  "first_name": "Зосима",
+  "last_name": "Шубина",
+  "email": "alevtinachernova@example.org",
+  "phone": "8 (279) 210-63-42",
+  "birth_date": "1957-03-13",
+  "gender": "male",
+  "registration_date": "2026-11-10T16:08:40.521456",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-99C9F1085B",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "клх Калевала",
+    "street": "пр. Рылеева",
+    "house": "51",
+    "postal_code": "902361",
+    "coordinates": {
+      "latitude": -6.760841,
+      "longitude": 88.974374
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Калевала",
+    "street": "пер. Городской",
+    "house": "6/1",
+    "apartment": "91",
+    "postal_code": "325594"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
+  }
+}

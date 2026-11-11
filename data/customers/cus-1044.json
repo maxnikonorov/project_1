@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1044",
+  "first_name": "Владимир",
+  "last_name": "Нестерова",
+  "email": "irina_2008@example.net",
+  "phone": "8 809 615 11 19",
+  "birth_date": "1976-07-04",
+  "gender": "male",
+  "registration_date": "2026-11-10T16:08:40.567041",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-3F43316A77",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "клх Зеленоград",
+    "street": "пр. Цветочный",
+    "house": "4",
+    "postal_code": "546752",
+    "coordinates": {
+      "latitude": -37.668492,
+      "longitude": 170.691745
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Зеленоград",
+    "street": "ш. Цветочное",
+    "house": "3",
+    "apartment": "97",
+    "postal_code": "979941"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00116",
+  "customer": {
+    "customer_id": "cus-1012",
+    "first_name": "Панкратий",
+    "last_name": "Ильина"
+  },
+  "store": {
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на ул. Высоковольтная",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "г. Усть-Кут",
+      "street": "ул. Профсоюзная",
+      "house": "4/5",
+      "postal_code": "679522",
+      "coordinates": {
+        "latitude": -71.6251535,
+        "longitude": 126.315479
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1004",
+      "name": "Социалистический",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 254.38,
+      "total_price": 254.38,
+      "kbju": {
+        "calories": 104.4,
+        "protein": 6.0,
+        "fat": 0.7,
+        "carbohydrates": 13.6
+      },
+      "manufacturer": {
+        "name": "ООО «Савельев»",
+        "country": "Россия",
+        "website": "https://rao.info",
+        "inn": "2063622252"
+      }
+    },
+    {
+      "product_id": "prd-1018",
+      "name": "Смеяться",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 143.87,
+      "total_price": 719.35,
+      "kbju": {
+        "calories": 175.7,
+        "protein": 9.9,
+        "fat": 11.6,
+        "carbohydrates": 36.9
+      },
+      "manufacturer": {
+        "name": "АО «Архипов»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "6430660253"
+      }
+    }
+  ],
+  "total_amount": 973.73,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "д. Камышин",
+    "street": "алл. Родниковая",
+    "house": "8",
+    "apartment": "56",
+    "postal_code": "623582"
+  },
+  "purchase_datetime": "2026-09-14T16:08:40.738536"
+}

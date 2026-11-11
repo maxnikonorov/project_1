@@ -1,0 +1,24 @@
+{
+  "id": "prd-1019",
+  "name": "Выражение",
+  "group": "🥛 Молочные продукты",
+  "description": "Анализ ручей карандаш полюбить фонарик соответствие поздравлять.",
+  "kbju": {
+    "calories": 157.2,
+    "protein": 13.4,
+    "fat": 2.7,
+    "carbohydrates": 6.2
+  },
+  "price": 211.74,
+  "unit": "шт",
+  "origin_country": "Россия",
+  "expiry_days": 22,
+  "is_organic": false,
+  "barcode": "8186127115673",
+  "manufacturer": {
+    "name": "Ковалева Инкорпорэйтед",
+    "country": "Россия",
+    "website": "https://zao.ru",
+    "inn": "4325136422"
+  }
+}

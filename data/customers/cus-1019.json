@@ -1,0 +1,36 @@
+{
+  "customer_id": "cus-1019",
+  "first_name": "Андрон",
+  "last_name": "Матвеева",
+  "email": "irina2014@example.net",
+  "phone": "+73241899698",
+  "birth_date": "1968-10-05",
+  "gender": "male",
+  "registration_date": "2026-11-10T16:08:40.527458",
+  "is_loyalty_member": true,
+  "loyalty_card_number": "LOYAL-E11B69ED57",
+  "purchase_location": {
+    "country": "Россия",
+    "city": "клх Коломна",
+    "street": "пр. Социалистический",
+    "house": "2",
+    "postal_code": "948719",
+    "coordinates": {
+      "latitude": 55.7082815,
+      "longitude": 95.496798
+    }
+  },
+  "delivery_address": {
+    "country": "Россия",
+    "city": "клх Коломна",
+    "street": "ул. 9 мая",
+    "house": "96",
+    "apartment": "100",
+    "postal_code": "378421"
+  },
+  "preferences": {
+    "preferred_language": "ru",
+    "preferred_payment_method": "card",
+    "receive_promotions": true
+  }
+}

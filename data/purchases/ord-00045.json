@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00045",
+  "customer": {
+    "customer_id": "cus-1040",
+    "first_name": "Богдан",
+    "last_name": "Терентьев"
+  },
+  "store": {
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на бул. 30 лет Победы",
+    "store_network": "Маленькая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "клх Зеленоград",
+      "street": "пр. Цветочный",
+      "house": "4",
+      "postal_code": "546752",
+      "coordinates": {
+        "latitude": -37.668492,
+        "longitude": 170.691745
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1015",
+      "name": "Пространство",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 169.18,
+      "total_price": 338.36,
+      "kbju": {
+        "calories": 244.0,
+        "protein": 13.8,
+        "fat": 6.9,
+        "carbohydrates": 6.3
+      },
+      "manufacturer": {
+        "name": "ИП «Силин, Лапина и Федосеев»",
+        "country": "Россия",
+        "website": "https://rao.com",
+        "inn": "0793948672"
+      }
+    },
+    {
+      "product_id": "prd-1000",
+      "name": "Приятель",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 105.42,
+      "total_price": 421.68,
+      "kbju": {
+        "calories": 94.5,
+        "protein": 2.3,
+        "fat": 1.3,
+        "carbohydrates": 23.5
+      },
+      "manufacturer": {
+        "name": "ЗАО «Соболев»",
+        "country": "Россия",
+        "website": "https://zao.net",
+        "inn": "3597427512"
+      }
+    }
+  ],
+  "total_amount": 760.04,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "г. Соловки",
+    "street": "алл. Блюхера",
+    "house": "259",
+    "apartment": "94",
+    "postal_code": "602320"
+  },
+  "purchase_datetime": "2026-10-31T16:08:40.629439"
+}

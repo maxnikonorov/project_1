@@ -1,0 +1,80 @@
+{
+  "purchase_id": "ord-00020",
+  "customer": {
+    "customer_id": "cus-1027",
+    "first_name": "Поликарп",
+    "last_name": "Виноградова"
+  },
+  "store": {
+    "store_id": "store-030",
+    "store_name": "Большая Пикча — Магазин на ш. Центральное",
+    "store_network": "Большая Пикча",
+    "location": {
+      "country": "Россия",
+      "city": "п. Адлер",
+      "street": "ул. Поселковая",
+      "house": "7",
+      "postal_code": "712439",
+      "coordinates": {
+        "latitude": -25.411828,
+        "longitude": -49.198765
+      }
+    }
+  },
+  "items": [
+    {
+      "product_id": "prd-1008",
+      "name": "Горький",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 203.15,
+      "total_price": 406.3,
+      "kbju": {
+        "calories": 271.9,
+        "protein": 15.0,
+        "fat": 7.2,
+        "carbohydrates": 40.0
+      },
+      "manufacturer": {
+        "name": "Шарапов Групп",
+        "country": "Россия",
+        "website": "https://ooo.edu",
+        "inn": "3346683207"
+      }
+    },
+    {
+      "product_id": "prd-1000",
+      "name": "Приятель",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 105.42,
+      "total_price": 421.68,
+      "kbju": {
+        "calories": 94.5,
+        "protein": 2.3,
+        "fat": 1.3,
+        "carbohydrates": 23.5
+      },
+      "manufacturer": {
+        "name": "ЗАО «Соболев»",
+        "country": "Россия",
+        "website": "https://zao.net",
+        "inn": "3597427512"
+      }
+    }
+  ],
+  "total_amount": 827.98,
+  "payment_method": "cash",
+  "is_delivery": false,
+  "delivery_address": {
+    "country": "Россия",
+    "city": "п. Учалы",
+    "street": "пр. 70 лет Октября",
+    "house": "1/7",
+    "apartment": "80",
+    "postal_code": "258817"
+  },
+  "purchase_datetime": "2026-10-15T16:08:40.593093"
+}
