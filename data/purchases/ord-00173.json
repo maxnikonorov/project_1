@@ -1,101 +1,80 @@
 {
   "purchase_id": "ord-00173",
   "customer": {
-    "customer_id": "cus-1041",
-    "first_name": "Станислав",
-    "last_name": "Сысоева"
+    "customer_id": "cus-1038",
+    "first_name": "Любовь",
+    "last_name": "Александров"
   },
   "store": {
-    "store_id": "store-008",
-    "store_name": "Большая Пикча — Магазин на пер. Карьерный",
+    "store_id": "store-006",
+    "store_name": "Большая Пикча — Магазин на наб. Луговая",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Кажим",
-      "street": "алл. Зои Космодемьянской",
-      "house": "673",
-      "postal_code": "831404",
+      "city": "ст. Нефтеюганск",
+      "street": "пер. Театральный",
+      "house": "618",
+      "postal_code": "050186",
       "coordinates": {
-        "latitude": -84.04877,
-        "longitude": -153.592169
+        "latitude": -31.9835125,
+        "longitude": -84.55101
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1009",
-      "name": "Левый",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 5,
-      "unit": "шт",
-      "price_per_unit": 55.63,
-      "total_price": 278.15,
-      "kbju": {
-        "calories": 284.1,
-        "protein": 6.2,
-        "fat": 12.8,
-        "carbohydrates": 31.9
-      },
-      "manufacturer": {
-        "name": "ООО «Беляков-Ермаков»",
-        "country": "Россия",
-        "website": "https://ao.edu",
-        "inn": "2315160346"
-      }
-    },
-    {
       "product_id": "prd-1004",
-      "name": "Социалистический",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "name": "Сверкающий",
+      "category": "🥛 Молочные продукты",
       "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 254.38,
-      "total_price": 254.38,
+      "price_per_unit": 42.31,
+      "total_price": 42.31,
       "kbju": {
-        "calories": 104.4,
-        "protein": 6.0,
-        "fat": 0.7,
-        "carbohydrates": 13.6
+        "calories": 260.1,
+        "protein": 7.8,
+        "fat": 9.0,
+        "carbohydrates": 43.0
       },
       "manufacturer": {
-        "name": "ООО «Савельев»",
+        "name": "Продо",
         "country": "Россия",
-        "website": "https://rao.info",
-        "inn": "2063622252"
+        "website": "https://ip.org",
+        "inn": "2875238332"
       }
     },
     {
-      "product_id": "prd-1003",
-      "name": "Порт",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 3,
+      "product_id": "prd-1002",
+      "name": "Разводить",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 300.0,
-      "total_price": 900.0,
+      "price_per_unit": 118.06,
+      "total_price": 118.06,
       "kbju": {
-        "calories": 129.9,
-        "protein": 1.0,
-        "fat": 9.4,
-        "carbohydrates": 17.8
+        "calories": 260.2,
+        "protein": 13.0,
+        "fat": 3.0,
+        "carbohydrates": 17.6
       },
       "manufacturer": {
-        "name": "Абрамов и партнеры",
+        "name": "РАО «Ковалев Шестакова»",
         "country": "Россия",
-        "website": "https://koka-kola.biz",
-        "inn": "0599854783"
+        "website": "https://rao.org",
+        "inn": "6087012080"
       }
     }
   ],
-  "total_amount": 1432.53,
-  "payment_method": "card",
-  "is_delivery": false,
+  "total_amount": 160.37,
+  "payment_method": "cash",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "г. Усть-Кут",
-    "street": "ш. Репина",
-    "house": "11",
-    "apartment": "65",
-    "postal_code": "997797"
+    "city": "п. Тулпан",
+    "street": "алл. Таежная",
+    "house": "7",
+    "apartment": "67",
+    "postal_code": "781943"
   },
-  "purchase_datetime": "2026-09-20T16:08:40.834275"
+  "purchase_datetime": "2026-08-27T12:46:39.837885"
 }

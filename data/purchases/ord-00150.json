@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00150",
   "customer": {
-    "customer_id": "cus-1034",
-    "first_name": "Агап",
-    "last_name": "Гусева"
+    "customer_id": "cus-1000",
+    "first_name": "Виссарион",
+    "last_name": "Степанова"
   },
   "store": {
-    "store_id": "store-037",
-    "store_name": "Маленькая Пикча — Магазин на ш. Омское",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-012",
+    "store_name": "Большая Пикча — Магазин на наб. Шишкина",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Кудымкар",
-      "street": "бул. Путевой",
-      "house": "6/5",
-      "postal_code": "462437",
+      "city": "д. Агата",
+      "street": "наб. Циолковского",
+      "house": "3",
+      "postal_code": "369956",
       "coordinates": {
-        "latitude": 86.5741415,
-        "longitude": -36.177029
+        "latitude": 26.12203,
+        "longitude": 29.74753
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1015",
-      "name": "Пространство",
-      "category": "🥛 Молочные продукты",
-      "quantity": 1,
+      "product_id": "prd-1005",
+      "name": "Конструкция",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 169.18,
-      "total_price": 169.18,
+      "price_per_unit": 204.55,
+      "total_price": 818.2,
       "kbju": {
-        "calories": 244.0,
-        "protein": 13.8,
-        "fat": 6.9,
-        "carbohydrates": 6.3
+        "calories": 86.4,
+        "protein": 1.8,
+        "fat": 13.4,
+        "carbohydrates": 19.0
       },
       "manufacturer": {
-        "name": "ИП «Силин, Лапина и Федосеев»",
+        "name": "ОАО «Гордеев, Никитин и Кулакова»",
         "country": "Россия",
-        "website": "https://rao.com",
-        "inn": "0793948672"
+        "website": "https://ooo.org",
+        "inn": "4077468251"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "name": "Падать",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 124.57,
+      "total_price": 124.57,
+      "kbju": {
+        "calories": 259.4,
+        "protein": 12.0,
+        "fat": 0.9,
+        "carbohydrates": 11.7
+      },
+      "manufacturer": {
+        "name": "СДС Азот",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "7509245881"
       }
     }
   ],
-  "total_amount": 169.18,
-  "payment_method": "cash",
+  "total_amount": 942.77,
+  "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "г. Адыгейск",
-    "street": "наб. Высоцкого",
-    "house": "8/2",
-    "apartment": "23",
-    "postal_code": "002931"
+    "city": "клх Тында",
+    "street": "ш. Октябрьское",
+    "house": "68",
+    "apartment": "100",
+    "postal_code": "957197"
   },
-  "purchase_datetime": "2026-08-14T16:08:40.794159"
+  "purchase_datetime": "2026-10-18T12:46:39.835027"
 }

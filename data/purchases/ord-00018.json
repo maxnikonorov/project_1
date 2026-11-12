@@ -1,101 +1,80 @@
 {
   "purchase_id": "ord-00018",
   "customer": {
-    "customer_id": "cus-1034",
-    "first_name": "Агап",
-    "last_name": "Гусева"
+    "customer_id": "cus-1032",
+    "first_name": "Феликс",
+    "last_name": "Громова"
   },
   "store": {
-    "store_id": "store-022",
-    "store_name": "Большая Пикча — Магазин на алл. Пригородная",
+    "store_id": "store-014",
+    "store_name": "Большая Пикча — Магазин на ул. Веселая",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Нарткала",
-      "street": "ул. Труда",
-      "house": "62",
-      "postal_code": "710312",
+      "city": "к. Норильск",
+      "street": "наб. М.Горького",
+      "house": "67",
+      "postal_code": "266232",
       "coordinates": {
-        "latitude": -12.1783105,
-        "longitude": 146.648455
+        "latitude": -72.7223925,
+        "longitude": 8.13973
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1012",
-      "name": "Помолчать",
-      "category": "🥛 Молочные продукты",
-      "quantity": 3,
-      "unit": "шт",
-      "price_per_unit": 177.06,
-      "total_price": 531.18,
-      "kbju": {
-        "calories": 142.7,
-        "protein": 15.3,
-        "fat": 9.2,
-        "carbohydrates": 1.7
-      },
-      "manufacturer": {
-        "name": "НПО «Силин-Богданова»",
-        "country": "Россия",
-        "website": "https://ip.org",
-        "inn": "8788386125"
-      }
-    },
-    {
-      "product_id": "prd-1009",
-      "name": "Левый",
+      "product_id": "prd-1000",
+      "name": "Наступать",
       "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 55.63,
-      "total_price": 111.26,
+      "price_per_unit": 49.11,
+      "total_price": 98.22,
       "kbju": {
-        "calories": 284.1,
-        "protein": 6.2,
-        "fat": 12.8,
-        "carbohydrates": 31.9
+        "calories": 261.8,
+        "protein": 10.9,
+        "fat": 3.4,
+        "carbohydrates": 22.6
       },
       "manufacturer": {
-        "name": "ООО «Беляков-Ермаков»",
+        "name": "ИП «Шилов»",
         "country": "Россия",
-        "website": "https://ao.edu",
-        "inn": "2315160346"
+        "website": "https://zao.com",
+        "inn": "6198265072"
       }
     },
     {
-      "product_id": "prd-1004",
-      "name": "Социалистический",
+      "product_id": "prd-1014",
+      "name": "Еврейский",
       "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 4,
+      "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 254.38,
-      "total_price": 1017.52,
+      "price_per_unit": 228.93,
+      "total_price": 1144.65,
       "kbju": {
-        "calories": 104.4,
-        "protein": 6.0,
-        "fat": 0.7,
-        "carbohydrates": 13.6
+        "calories": 224.9,
+        "protein": 11.4,
+        "fat": 13.1,
+        "carbohydrates": 22.4
       },
       "manufacturer": {
-        "name": "ООО «Савельев»",
+        "name": "ООО «Котова-Белякова»",
         "country": "Россия",
-        "website": "https://rao.info",
-        "inn": "2063622252"
+        "website": "https://yakushev.org",
+        "inn": "1032222274"
       }
     }
   ],
-  "total_amount": 1659.96,
+  "total_amount": 1242.87,
   "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "г. Адыгейск",
-    "street": "наб. Высоцкого",
-    "house": "8/2",
-    "apartment": "23",
-    "postal_code": "002931"
+    "city": "с. Миасс",
+    "street": "наб. Нижняя",
+    "house": "741",
+    "apartment": "71",
+    "postal_code": "519114"
   },
-  "purchase_datetime": "2026-10-08T16:08:40.590570"
+  "purchase_datetime": "2026-09-07T12:46:39.817877"
 }

@@ -2,58 +2,58 @@
   "purchase_id": "ord-00143",
   "customer": {
     "customer_id": "cus-1037",
-    "first_name": "Лукьян",
-    "last_name": "Ершов"
+    "first_name": "Владлен",
+    "last_name": "Лобанова"
   },
   "store": {
-    "store_id": "store-025",
-    "store_name": "Большая Пикча — Магазин на пр. Виноградный",
+    "store_id": "store-023",
+    "store_name": "Большая Пикча — Магазин на ш. Казачье",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Кабанск",
-      "street": "наб. Ватутина",
-      "house": "71",
-      "postal_code": "430475",
+      "city": "д. Муром",
+      "street": "ш. Рябиновое",
+      "house": "87",
+      "postal_code": "036540",
       "coordinates": {
-        "latitude": 56.1539,
-        "longitude": -125.144973
+        "latitude": 13.359529,
+        "longitude": 75.524317
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1008",
-      "name": "Горький",
-      "category": "🥦 Овощи и зелень",
+      "product_id": "prd-1009",
+      "name": "Трясти",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 203.15,
-      "total_price": 203.15,
+      "price_per_unit": 242.58,
+      "total_price": 242.58,
       "kbju": {
-        "calories": 271.9,
-        "protein": 15.0,
-        "fat": 7.2,
-        "carbohydrates": 40.0
+        "calories": 217.7,
+        "protein": 17.1,
+        "fat": 5.8,
+        "carbohydrates": 15.7
       },
       "manufacturer": {
-        "name": "Шарапов Групп",
+        "name": "РАО «Рябова-Фадеев»",
         "country": "Россия",
-        "website": "https://ooo.edu",
-        "inn": "3346683207"
+        "website": "https://kargill.biz",
+        "inn": "3583516885"
       }
     }
   ],
-  "total_amount": 203.15,
-  "payment_method": "cash",
+  "total_amount": 242.58,
+  "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "к. Ижевск",
-    "street": "алл. Отрадная",
-    "house": "2/5",
-    "apartment": "54",
-    "postal_code": "688111"
+    "city": "ст. Каменск-Уральский",
+    "street": "ул. Ватутина",
+    "house": "3",
+    "apartment": "59",
+    "postal_code": "945194"
   },
-  "purchase_datetime": "2026-09-09T16:08:40.778604"
+  "purchase_datetime": "2026-09-27T12:46:39.834222"
 }

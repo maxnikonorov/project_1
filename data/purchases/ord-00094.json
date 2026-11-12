@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00094",
   "customer": {
-    "customer_id": "cus-1020",
-    "first_name": "Севастьян",
-    "last_name": "Павлова"
+    "customer_id": "cus-1003",
+    "first_name": "Максим",
+    "last_name": "Филиппова"
   },
   "store": {
-    "store_id": "store-018",
-    "store_name": "Большая Пикча — Магазин на наб. Щетинкина",
+    "store_id": "store-004",
+    "store_name": "Большая Пикча — Магазин на ул. Детская",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "клх Бологое",
-      "street": "ш. Стахановское",
-      "house": "2/7",
-      "postal_code": "892181",
+      "city": "с. Ростов",
+      "street": "ул. Высоцкого",
+      "house": "4",
+      "postal_code": "184207",
       "coordinates": {
-        "latitude": 71.681777,
-        "longitude": 39.954897
+        "latitude": 80.817373,
+        "longitude": -66.913832
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1014",
-      "name": "Что",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "product_id": "prd-1016",
+      "name": "Слать",
+      "category": "🥛 Молочные продукты",
       "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 139.68,
-      "total_price": 279.36,
+      "price_per_unit": 171.77,
+      "total_price": 343.54,
       "kbju": {
-        "calories": 231.7,
-        "protein": 17.6,
-        "fat": 9.2,
-        "carbohydrates": 6.7
+        "calories": 238.6,
+        "protein": 7.6,
+        "fat": 7.0,
+        "carbohydrates": 27.5
       },
       "manufacturer": {
-        "name": "Петухова Лимитед",
+        "name": "ЗАО «Белова, Кудряшов и Федоров»",
         "country": "Россия",
-        "website": "https://ip.net",
-        "inn": "2487454296"
+        "website": "https://rao.com",
+        "inn": "5049040702"
+      }
+    },
+    {
+      "product_id": "prd-1004",
+      "name": "Сверкающий",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 42.31,
+      "total_price": 42.31,
+      "kbju": {
+        "calories": 260.1,
+        "protein": 7.8,
+        "fat": 9.0,
+        "carbohydrates": 43.0
+      },
+      "manufacturer": {
+        "name": "Продо",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "2875238332"
       }
     }
   ],
-  "total_amount": 279.36,
-  "payment_method": "cash",
+  "total_amount": 385.85,
+  "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Соль-Илецк",
-    "street": "ш. Лесозаводское",
-    "house": "316",
-    "apartment": "11",
-    "postal_code": "278229"
+    "city": "с. Ростов",
+    "street": "наб. Безымянная",
+    "house": "85",
+    "apartment": "32",
+    "postal_code": "283541"
   },
-  "purchase_datetime": "2026-09-06T16:08:40.706927"
+  "purchase_datetime": "2026-09-08T12:46:39.828117"
 }

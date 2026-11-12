@@ -1,101 +1,80 @@
 {
   "purchase_id": "ord-00047",
   "customer": {
-    "customer_id": "cus-1021",
-    "first_name": "Сила",
-    "last_name": "Голубева"
+    "customer_id": "cus-1034",
+    "first_name": "Николай",
+    "last_name": "Гришина"
   },
   "store": {
-    "store_id": "store-041",
-    "store_name": "Маленькая Пикча — Магазин на пер. Красный",
+    "store_id": "store-031",
+    "store_name": "Маленькая Пикча — Магазин на алл. Полтавская",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "г. Соловки",
-      "street": "пер. Космический",
-      "house": "7",
-      "postal_code": "821818",
+      "city": "ст. Цимлянск",
+      "street": "наб. Индустриальная",
+      "house": "3",
+      "postal_code": "593716",
       "coordinates": {
-        "latitude": -8.30231,
-        "longitude": 144.533567
+        "latitude": -60.422421,
+        "longitude": -111.181048
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1011",
-      "name": "Через",
-      "category": "🥦 Овощи и зелень",
+      "product_id": "prd-1019",
+      "name": "Военный",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
       "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 205.21,
-      "total_price": 410.42,
+      "price_per_unit": 166.7,
+      "total_price": 333.4,
       "kbju": {
-        "calories": 277.9,
-        "protein": 10.7,
-        "fat": 14.2,
-        "carbohydrates": 1.5
+        "calories": 160.4,
+        "protein": 11.7,
+        "fat": 4.3,
+        "carbohydrates": 21.4
       },
       "manufacturer": {
-        "name": "НПО «Бурова»",
+        "name": "ИП «Голубева»",
         "country": "Россия",
-        "website": "https://zao.org",
-        "inn": "3200066091"
+        "website": "https://gruppa.ru",
+        "inn": "3931722625"
       }
     },
     {
-      "product_id": "prd-1003",
-      "name": "Порт",
-      "category": "🥦 Овощи и зелень",
+      "product_id": "prd-1009",
+      "name": "Трясти",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 300.0,
-      "total_price": 1200.0,
+      "price_per_unit": 242.58,
+      "total_price": 970.32,
       "kbju": {
-        "calories": 129.9,
-        "protein": 1.0,
-        "fat": 9.4,
-        "carbohydrates": 17.8
+        "calories": 217.7,
+        "protein": 17.1,
+        "fat": 5.8,
+        "carbohydrates": 15.7
       },
       "manufacturer": {
-        "name": "Абрамов и партнеры",
+        "name": "РАО «Рябова-Фадеев»",
         "country": "Россия",
-        "website": "https://koka-kola.biz",
-        "inn": "0599854783"
-      }
-    },
-    {
-      "product_id": "prd-1002",
-      "name": "Единый",
-      "category": "🥛 Молочные продукты",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 289.68,
-      "total_price": 579.36,
-      "kbju": {
-        "calories": 265.0,
-        "protein": 19.8,
-        "fat": 7.9,
-        "carbohydrates": 44.8
-      },
-      "manufacturer": {
-        "name": "ИП «Мартынова»",
-        "country": "Россия",
-        "website": "https://ao.ru",
-        "inn": "6920417941"
+        "website": "https://kargill.biz",
+        "inn": "3583516885"
       }
     }
   ],
-  "total_amount": 2189.78,
+  "total_amount": 1303.72,
   "payment_method": "cash",
-  "is_delivery": false,
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Нарткала",
-    "street": "бул. Кооперативный",
-    "house": "573",
-    "apartment": "52",
-    "postal_code": "398005"
+    "city": "г. Щелково",
+    "street": "бул. Ильича",
+    "house": "616",
+    "apartment": "77",
+    "postal_code": "362223"
   },
-  "purchase_datetime": "2026-08-15T16:08:40.632953"
+  "purchase_datetime": "2026-10-01T12:46:39.821862"
 }

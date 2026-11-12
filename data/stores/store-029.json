@@ -1,6 +1,6 @@
 {
   "store_id": "store-029",
-  "store_name": "Большая Пикча — Магазин на ш. Макаренко",
+  "store_name": "Большая Пикча — Магазин на алл. Геологическая",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Горшкова Милица Ниловна",
-    "phone": "8 138 926 8088",
-    "email": "wlapina@example.org"
+    "name": "Феврония Юльевна Елисеева",
+    "phone": "8 (530) 637-81-16",
+    "email": "igorshcherbakov@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "д. Новгород Великий",
-    "street": "алл. Культуры",
-    "house": "2/2",
-    "postal_code": "193662",
+    "city": "г. Астрахань",
+    "street": "ш. Огородное",
+    "house": "6",
+    "postal_code": "307664",
     "coordinates": {
-      "latitude": 52.706471,
-      "longitude": -141.974096
+      "latitude": -48.22529,
+      "longitude": -9.595417
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "last_inventory_date": "2026-11-12"
 }

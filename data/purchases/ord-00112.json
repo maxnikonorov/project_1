@@ -2,79 +2,79 @@
   "purchase_id": "ord-00112",
   "customer": {
     "customer_id": "cus-1027",
-    "first_name": "Поликарп",
-    "last_name": "Виноградова"
+    "first_name": "Егор",
+    "last_name": "Волков"
   },
   "store": {
-    "store_id": "store-020",
-    "store_name": "Большая Пикча — Магазин на пр. Красноармейский",
+    "store_id": "store-004",
+    "store_name": "Большая Пикча — Магазин на ул. Детская",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "клх Коломна",
-      "street": "пр. Социалистический",
-      "house": "2",
-      "postal_code": "948719",
+      "city": "с. Ростов",
+      "street": "ул. Высоцкого",
+      "house": "4",
+      "postal_code": "184207",
       "coordinates": {
-        "latitude": 55.7082815,
-        "longitude": 95.496798
+        "latitude": 80.817373,
+        "longitude": -66.913832
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1017",
-      "name": "Пол",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 150.17,
-      "total_price": 150.17,
-      "kbju": {
-        "calories": 127.5,
-        "protein": 3.3,
-        "fat": 7.5,
-        "carbohydrates": 41.2
-      },
-      "manufacturer": {
-        "name": "ОАО «Родионова-Осипов»",
-        "country": "Россия",
-        "website": "https://ip.ru",
-        "inn": "4308518530"
-      }
-    },
-    {
-      "product_id": "prd-1002",
-      "name": "Единый",
+      "product_id": "prd-1003",
+      "name": "Палец",
       "category": "🥛 Молочные продукты",
       "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 289.68,
-      "total_price": 1158.72,
+      "price_per_unit": 123.81,
+      "total_price": 495.24,
       "kbju": {
-        "calories": 265.0,
-        "protein": 19.8,
-        "fat": 7.9,
-        "carbohydrates": 44.8
+        "calories": 287.5,
+        "protein": 19.7,
+        "fat": 14.4,
+        "carbohydrates": 47.2
       },
       "manufacturer": {
-        "name": "ИП «Мартынова»",
+        "name": "АО «Воронцов»",
         "country": "Россия",
-        "website": "https://ao.ru",
-        "inn": "6920417941"
+        "website": "https://zao.edu",
+        "inn": "2681589498"
+      }
+    },
+    {
+      "product_id": "prd-1019",
+      "name": "Военный",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 166.7,
+      "total_price": 833.5,
+      "kbju": {
+        "calories": 160.4,
+        "protein": 11.7,
+        "fat": 4.3,
+        "carbohydrates": 21.4
+      },
+      "manufacturer": {
+        "name": "ИП «Голубева»",
+        "country": "Россия",
+        "website": "https://gruppa.ru",
+        "inn": "3931722625"
       }
     }
   ],
-  "total_amount": 1308.89,
-  "payment_method": "card",
+  "total_amount": 1328.74,
+  "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "п. Учалы",
-    "street": "пр. 70 лет Октября",
-    "house": "1/7",
-    "apartment": "80",
-    "postal_code": "258817"
+    "city": "д. Нефтекамск",
+    "street": "алл. Карьерная",
+    "house": "640",
+    "apartment": "68",
+    "postal_code": "936463"
   },
-  "purchase_datetime": "2026-10-26T16:08:40.732537"
+  "purchase_datetime": "2026-09-05T12:46:39.830367"
 }

@@ -1,6 +1,6 @@
 {
   "store_id": "store-022",
-  "store_name": "Большая Пикча — Магазин на алл. Пригородная",
+  "store_name": "Большая Пикча — Магазин на ш. Макарова",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Ростислав Трофимович Кулагин",
-    "phone": "8 672 523 4678",
-    "email": "kondratevonufri@example.net"
+    "name": "Виноградова Анжела Оскаровна",
+    "phone": "+76133865796",
+    "email": "feliksbeljaev@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "д. Нарткала",
-    "street": "ул. Труда",
-    "house": "62",
-    "postal_code": "710312",
+    "city": "г. Пушкино (Моск.)",
+    "street": "ул. Учительская",
+    "house": "16",
+    "postal_code": "772187",
     "coordinates": {
-      "latitude": -12.1783105,
-      "longitude": 146.648455
+      "latitude": 36.759859,
+      "longitude": 71.357431
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "last_inventory_date": "2026-11-12"
 }

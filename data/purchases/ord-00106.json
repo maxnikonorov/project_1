@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00106",
   "customer": {
-    "customer_id": "cus-1034",
-    "first_name": "Агап",
-    "last_name": "Гусева"
+    "customer_id": "cus-1014",
+    "first_name": "Дементий",
+    "last_name": "Кудряшов"
   },
   "store": {
-    "store_id": "store-038",
-    "store_name": "Маленькая Пикча — Магазин на пер. Трактовый",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на ул. Войкова",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Ижевск",
-      "street": "ш. Кольцова",
-      "house": "41",
-      "postal_code": "025390",
+      "city": "д. Курск",
+      "street": "наб. Королева",
+      "house": "220",
+      "postal_code": "140036",
       "coordinates": {
-        "latitude": -85.3445585,
-        "longitude": 168.771964
+        "latitude": -45.5219915,
+        "longitude": 41.178766
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1004",
-      "name": "Социалистический",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 1,
+      "product_id": "prd-1009",
+      "name": "Трясти",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 254.38,
-      "total_price": 254.38,
+      "price_per_unit": 242.58,
+      "total_price": 970.32,
       "kbju": {
-        "calories": 104.4,
-        "protein": 6.0,
-        "fat": 0.7,
-        "carbohydrates": 13.6
+        "calories": 217.7,
+        "protein": 17.1,
+        "fat": 5.8,
+        "carbohydrates": 15.7
       },
       "manufacturer": {
-        "name": "ООО «Савельев»",
+        "name": "РАО «Рябова-Фадеев»",
         "country": "Россия",
-        "website": "https://rao.info",
-        "inn": "2063622252"
-      }
-    },
-    {
-      "product_id": "prd-1013",
-      "name": "Крутой",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 3,
-      "unit": "шт",
-      "price_per_unit": 209.78,
-      "total_price": 629.34,
-      "kbju": {
-        "calories": 246.6,
-        "protein": 5.6,
-        "fat": 14.7,
-        "carbohydrates": 20.5
-      },
-      "manufacturer": {
-        "name": "ОАО «Костин Крюкова»",
-        "country": "Россия",
-        "website": "https://mmk.info",
-        "inn": "9008610160"
+        "website": "https://kargill.biz",
+        "inn": "3583516885"
       }
     }
   ],
-  "total_amount": 883.72,
+  "total_amount": 970.32,
   "payment_method": "cash",
-  "is_delivery": false,
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "г. Адыгейск",
-    "street": "наб. Высоцкого",
-    "house": "8/2",
-    "apartment": "23",
-    "postal_code": "002931"
+    "city": "п. Буденновск",
+    "street": "пр. Пионерский",
+    "house": "18",
+    "apartment": "5",
+    "postal_code": "207686"
   },
-  "purchase_datetime": "2026-09-10T16:08:40.723996"
+  "purchase_datetime": "2026-08-26T12:46:39.829692"
 }

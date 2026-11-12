@@ -1,80 +1,80 @@
 {
   "purchase_id": "ord-00098",
   "customer": {
-    "customer_id": "cus-1014",
-    "first_name": "Якуб",
-    "last_name": "Кондратьева"
+    "customer_id": "cus-1027",
+    "first_name": "Егор",
+    "last_name": "Волков"
   },
   "store": {
-    "store_id": "store-003",
-    "store_name": "Большая Пикча — Магазин на ул. 30 лет Победы",
+    "store_id": "store-004",
+    "store_name": "Большая Пикча — Магазин на ул. Детская",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "клх Калач-на-Дону",
-      "street": "ул. Чайковского",
-      "house": "3",
-      "postal_code": "014762",
+      "city": "с. Ростов",
+      "street": "ул. Высоцкого",
+      "house": "4",
+      "postal_code": "184207",
       "coordinates": {
-        "latitude": -64.9630345,
-        "longitude": 97.600119
+        "latitude": 80.817373,
+        "longitude": -66.913832
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1002",
-      "name": "Единый",
-      "category": "🥛 Молочные продукты",
+      "product_id": "prd-1009",
+      "name": "Трясти",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 289.68,
-      "total_price": 1158.72,
+      "price_per_unit": 242.58,
+      "total_price": 970.32,
       "kbju": {
-        "calories": 265.0,
-        "protein": 19.8,
-        "fat": 7.9,
-        "carbohydrates": 44.8
+        "calories": 217.7,
+        "protein": 17.1,
+        "fat": 5.8,
+        "carbohydrates": 15.7
       },
       "manufacturer": {
-        "name": "ИП «Мартынова»",
+        "name": "РАО «Рябова-Фадеев»",
         "country": "Россия",
-        "website": "https://ao.ru",
-        "inn": "6920417941"
+        "website": "https://kargill.biz",
+        "inn": "3583516885"
       }
     },
     {
       "product_id": "prd-1008",
-      "name": "Горький",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 1,
+      "name": "Увеличиваться",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 203.15,
-      "total_price": 203.15,
+      "price_per_unit": 298.83,
+      "total_price": 1195.32,
       "kbju": {
-        "calories": 271.9,
-        "protein": 15.0,
-        "fat": 7.2,
-        "carbohydrates": 40.0
+        "calories": 57.9,
+        "protein": 1.9,
+        "fat": 5.5,
+        "carbohydrates": 26.7
       },
       "manufacturer": {
-        "name": "Шарапов Групп",
+        "name": "АО «Горбунов»",
         "country": "Россия",
-        "website": "https://ooo.edu",
-        "inn": "3346683207"
+        "website": "https://oao.ru",
+        "inn": "1791173907"
       }
     }
   ],
-  "total_amount": 1361.87,
-  "payment_method": "cash",
+  "total_amount": 2165.64,
+  "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "п. Руза",
-    "street": "бул. Славянский",
-    "house": "43",
-    "apartment": "66",
-    "postal_code": "478987"
+    "city": "д. Нефтекамск",
+    "street": "алл. Карьерная",
+    "house": "640",
+    "apartment": "68",
+    "postal_code": "936463"
   },
-  "purchase_datetime": "2026-09-27T16:08:40.712459"
+  "purchase_datetime": "2026-09-27T12:46:39.828783"
 }

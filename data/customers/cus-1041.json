@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1041",
-  "first_name": "Станислав",
-  "last_name": "Сысоева",
-  "email": "ribakovaevgenija@example.com",
-  "phone": "8 (852) 612-0712",
-  "birth_date": "1994-10-22",
+  "first_name": "Светозар",
+  "last_name": "Миронов",
+  "email": "antonovnazar@example.org",
+  "phone": "8 (456) 562-1859",
+  "birth_date": "1974-03-09",
   "gender": "female",
-  "registration_date": "2026-11-10T16:08:40.563045",
+  "registration_date": "2026-11-12T12:46:39.812560",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-663FADD18A",
+  "loyalty_card_number": "LOYAL-F73ECA80E2",
   "purchase_location": {
     "country": "Россия",
-    "city": "г. Усть-Кут",
-    "street": "ул. Профсоюзная",
-    "house": "4/5",
-    "postal_code": "679522",
+    "city": "п. Апшеронск",
+    "street": "наб. Инженерная",
+    "house": "6",
+    "postal_code": "746141",
     "coordinates": {
-      "latitude": -71.6251535,
-      "longitude": 126.315479
+      "latitude": -83.1501905,
+      "longitude": 84.215661
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "г. Усть-Кут",
-    "street": "ш. Репина",
-    "house": "11",
-    "apartment": "65",
-    "postal_code": "997797"
+    "city": "п. Апшеронск",
+    "street": "наб. Декабристов",
+    "house": "765",
+    "apartment": "9",
+    "postal_code": "304657"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "card",
-    "receive_promotions": true
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
   }
 }

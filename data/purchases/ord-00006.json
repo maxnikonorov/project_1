@@ -1,101 +1,101 @@
 {
   "purchase_id": "ord-00006",
   "customer": {
-    "customer_id": "cus-1041",
-    "first_name": "Станислав",
-    "last_name": "Сысоева"
+    "customer_id": "cus-1034",
+    "first_name": "Николай",
+    "last_name": "Гришина"
   },
   "store": {
-    "store_id": "store-038",
-    "store_name": "Маленькая Пикча — Магазин на пер. Трактовый",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-004",
+    "store_name": "Большая Пикча — Магазин на ул. Детская",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Ижевск",
-      "street": "ш. Кольцова",
-      "house": "41",
-      "postal_code": "025390",
+      "city": "с. Ростов",
+      "street": "ул. Высоцкого",
+      "house": "4",
+      "postal_code": "184207",
       "coordinates": {
-        "latitude": -85.3445585,
-        "longitude": 168.771964
+        "latitude": 80.817373,
+        "longitude": -66.913832
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1002",
-      "name": "Единый",
-      "category": "🥛 Молочные продукты",
+      "product_id": "prd-1008",
+      "name": "Увеличиваться",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 289.68,
-      "total_price": 579.36,
+      "price_per_unit": 298.83,
+      "total_price": 597.66,
       "kbju": {
-        "calories": 265.0,
-        "protein": 19.8,
-        "fat": 7.9,
-        "carbohydrates": 44.8
+        "calories": 57.9,
+        "protein": 1.9,
+        "fat": 5.5,
+        "carbohydrates": 26.7
       },
       "manufacturer": {
-        "name": "ИП «Мартынова»",
+        "name": "АО «Горбунов»",
         "country": "Россия",
-        "website": "https://ao.ru",
-        "inn": "6920417941"
+        "website": "https://oao.ru",
+        "inn": "1791173907"
       }
     },
     {
-      "product_id": "prd-1017",
-      "name": "Пол",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 1,
+      "product_id": "prd-1018",
+      "name": "Пища",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 150.17,
-      "total_price": 150.17,
+      "price_per_unit": 48.83,
+      "total_price": 97.66,
       "kbju": {
-        "calories": 127.5,
-        "protein": 3.3,
-        "fat": 7.5,
-        "carbohydrates": 41.2
+        "calories": 275.1,
+        "protein": 12.4,
+        "fat": 0.2,
+        "carbohydrates": 34.3
       },
       "manufacturer": {
-        "name": "ОАО «Родионова-Осипов»",
+        "name": "НПО «Алексеева, Русакова и Лебедев»",
         "country": "Россия",
-        "website": "https://ip.ru",
-        "inn": "4308518530"
+        "website": "https://zao.org",
+        "inn": "6006312092"
       }
     },
     {
-      "product_id": "prd-1003",
-      "name": "Порт",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 1,
+      "product_id": "prd-1012",
+      "name": "Июнь",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 300.0,
-      "total_price": 300.0,
+      "price_per_unit": 64.74,
+      "total_price": 323.7,
       "kbju": {
-        "calories": 129.9,
-        "protein": 1.0,
-        "fat": 9.4,
-        "carbohydrates": 17.8
+        "calories": 74.5,
+        "protein": 16.4,
+        "fat": 3.9,
+        "carbohydrates": 41.7
       },
       "manufacturer": {
-        "name": "Абрамов и партнеры",
+        "name": "Корпорация Гринн",
         "country": "Россия",
-        "website": "https://koka-kola.biz",
-        "inn": "0599854783"
+        "website": "https://shcherbakova.ru",
+        "inn": "1467725699"
       }
     }
   ],
-  "total_amount": 1029.53,
-  "payment_method": "cash",
+  "total_amount": 1019.02,
+  "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "г. Усть-Кут",
-    "street": "ш. Репина",
-    "house": "11",
-    "apartment": "65",
-    "postal_code": "997797"
+    "city": "г. Щелково",
+    "street": "бул. Ильича",
+    "house": "616",
+    "apartment": "77",
+    "postal_code": "362223"
   },
-  "purchase_datetime": "2026-10-22T16:08:40.575574"
+  "purchase_datetime": "2026-10-14T12:46:39.814100"
 }

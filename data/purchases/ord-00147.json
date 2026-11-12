@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00147",
   "customer": {
-    "customer_id": "cus-1033",
-    "first_name": "Владлен",
-    "last_name": "Киселев"
+    "customer_id": "cus-1021",
+    "first_name": "Прокофий",
+    "last_name": "Шашков"
   },
   "store": {
-    "store_id": "store-033",
-    "store_name": "Маленькая Пикча — Магазин на ул. Больничная",
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на пер. Горького",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Домбай",
-      "street": "ул. Заливная",
-      "house": "77",
-      "postal_code": "721769",
+      "city": "г. Яр-Сале",
+      "street": "алл. Железнодорожная",
+      "house": "133",
+      "postal_code": "360004",
       "coordinates": {
-        "latitude": -79.236949,
-        "longitude": -85.283823
+        "latitude": -88.296027,
+        "longitude": -30.594842
       }
     }
   },
   "items": [
     {
       "product_id": "prd-1009",
-      "name": "Левый",
+      "name": "Трясти",
       "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 1,
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 55.63,
-      "total_price": 55.63,
+      "price_per_unit": 242.58,
+      "total_price": 727.74,
       "kbju": {
-        "calories": 284.1,
-        "protein": 6.2,
-        "fat": 12.8,
-        "carbohydrates": 31.9
+        "calories": 217.7,
+        "protein": 17.1,
+        "fat": 5.8,
+        "carbohydrates": 15.7
       },
       "manufacturer": {
-        "name": "ООО «Беляков-Ермаков»",
+        "name": "РАО «Рябова-Фадеев»",
         "country": "Россия",
-        "website": "https://ao.edu",
-        "inn": "2315160346"
-      }
-    },
-    {
-      "product_id": "prd-1010",
-      "name": "Наткнуться",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 109.99,
-      "total_price": 219.98,
-      "kbju": {
-        "calories": 111.4,
-        "protein": 5.0,
-        "fat": 2.9,
-        "carbohydrates": 48.1
-      },
-      "manufacturer": {
-        "name": "АО «Третьяков, Кабанов и Казакова»",
-        "country": "Россия",
-        "website": "https://rao.edu",
-        "inn": "0018510627"
+        "website": "https://kargill.biz",
+        "inn": "3583516885"
       }
     }
   ],
-  "total_amount": 275.61,
-  "payment_method": "cash",
-  "is_delivery": true,
+  "total_amount": 727.74,
+  "payment_method": "card",
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "п. Нефтегорск (Самар.)",
-    "street": "ш. Ясное",
-    "house": "1",
-    "apartment": "52",
-    "postal_code": "256820"
+    "city": "г. Пушкино (Моск.)",
+    "street": "бул. Азовский",
+    "house": "4",
+    "apartment": "72",
+    "postal_code": "976622"
   },
-  "purchase_datetime": "2026-08-14T16:08:40.786158"
+  "purchase_datetime": "2026-11-12T12:46:39.834671"
 }

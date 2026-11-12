@@ -1,6 +1,6 @@
 {
   "store_id": "store-033",
-  "store_name": "Маленькая Пикча — Магазин на ул. Больничная",
+  "store_name": "Маленькая Пикча — Магазин на ул. Березовая",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Элеонора Олеговна Дементьева",
-    "phone": "8 747 074 61 66",
-    "email": "silvestr97@example.net"
+    "name": "Иванна Станиславовна Носкова",
+    "phone": "+79187434245",
+    "email": "volkovalukija@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "д. Домбай",
-    "street": "ул. Заливная",
-    "house": "77",
-    "postal_code": "721769",
+    "city": "с. Миасс",
+    "street": "пр. Блюхера",
+    "house": "8/1",
+    "postal_code": "133921",
     "coordinates": {
-      "latitude": -79.236949,
-      "longitude": -85.283823
+      "latitude": -45.7733475,
+      "longitude": 87.71629
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": false,
-  "last_inventory_date": "2026-11-10"
+  "last_inventory_date": "2026-11-12"
 }

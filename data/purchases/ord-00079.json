@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00079",
   "customer": {
-    "customer_id": "cus-1003",
-    "first_name": "Трофим",
-    "last_name": "Мамонтова"
+    "customer_id": "cus-1018",
+    "first_name": "Ипполит",
+    "last_name": "Павлов"
   },
   "store": {
-    "store_id": "store-025",
-    "store_name": "Большая Пикча — Магазин на пр. Виноградный",
-    "store_network": "Большая Пикча",
+    "store_id": "store-038",
+    "store_name": "Маленькая Пикча — Магазин на пер. Весенний",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Кабанск",
-      "street": "наб. Ватутина",
-      "house": "71",
-      "postal_code": "430475",
+      "city": "ст. Каменск-Уральский",
+      "street": "бул. Бульварный",
+      "house": "94",
+      "postal_code": "410592",
       "coordinates": {
-        "latitude": 56.1539,
-        "longitude": -125.144973
+        "latitude": -77.446573,
+        "longitude": 164.029875
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1002",
-      "name": "Единый",
+      "product_id": "prd-1006",
+      "name": "Медицина",
       "category": "🥛 Молочные продукты",
-      "quantity": 3,
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 289.68,
-      "total_price": 869.04,
+      "price_per_unit": 196.38,
+      "total_price": 392.76,
       "kbju": {
-        "calories": 265.0,
-        "protein": 19.8,
-        "fat": 7.9,
-        "carbohydrates": 44.8
+        "calories": 217.8,
+        "protein": 15.1,
+        "fat": 12.2,
+        "carbohydrates": 4.8
       },
       "manufacturer": {
-        "name": "ИП «Мартынова»",
+        "name": "Ковалев Групп",
         "country": "Россия",
-        "website": "https://ao.ru",
-        "inn": "6920417941"
+        "website": "https://rao.biz",
+        "inn": "9365070690"
       }
     }
   ],
-  "total_amount": 869.04,
+  "total_amount": 392.76,
   "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "ст. Арзамас",
-    "street": "бул. Рылеева",
-    "house": "6/3",
-    "apartment": "8",
-    "postal_code": "348548"
+    "city": "п. Медногорск",
+    "street": "ул. Буденного",
+    "house": "24",
+    "apartment": "37",
+    "postal_code": "429476"
   },
-  "purchase_datetime": "2026-09-14T16:08:40.684343"
+  "purchase_datetime": "2026-08-28T12:46:39.826172"
 }

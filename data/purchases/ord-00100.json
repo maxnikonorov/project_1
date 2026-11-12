@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00100",
   "customer": {
-    "customer_id": "cus-1042",
-    "first_name": "Ульян",
-    "last_name": "Юдина"
+    "customer_id": "cus-1004",
+    "first_name": "Всеволод",
+    "last_name": "Гуляева"
   },
   "store": {
-    "store_id": "store-024",
-    "store_name": "Большая Пикча — Магазин на наб. Коминтерна",
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на ул. Войкова",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "с. Бирск",
-      "street": "ул. Солнечная",
-      "house": "17",
-      "postal_code": "499651",
+      "city": "д. Курск",
+      "street": "наб. Королева",
+      "house": "220",
+      "postal_code": "140036",
       "coordinates": {
-        "latitude": 5.2410395,
-        "longitude": 119.571827
+        "latitude": -45.5219915,
+        "longitude": 41.178766
       }
     }
   },
   "items": [
     {
       "product_id": "prd-1003",
-      "name": "Порт",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 4,
+      "name": "Палец",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 300.0,
-      "total_price": 1200.0,
+      "price_per_unit": 123.81,
+      "total_price": 619.05,
       "kbju": {
-        "calories": 129.9,
-        "protein": 1.0,
-        "fat": 9.4,
-        "carbohydrates": 17.8
+        "calories": 287.5,
+        "protein": 19.7,
+        "fat": 14.4,
+        "carbohydrates": 47.2
       },
       "manufacturer": {
-        "name": "Абрамов и партнеры",
+        "name": "АО «Воронцов»",
         "country": "Россия",
-        "website": "https://koka-kola.biz",
-        "inn": "0599854783"
+        "website": "https://zao.edu",
+        "inn": "2681589498"
       }
     }
   ],
-  "total_amount": 1200.0,
+  "total_amount": 619.05,
   "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "к. Александровск",
-    "street": "алл. Краснодарская",
-    "house": "53",
-    "apartment": "68",
-    "postal_code": "874464"
+    "city": "с. Абакан",
+    "street": "ш. 40 лет Победы",
+    "house": "7/2",
+    "apartment": "23",
+    "postal_code": "682455"
   },
-  "purchase_datetime": "2026-10-06T16:08:40.714466"
+  "purchase_datetime": "2026-08-15T12:46:39.829020"
 }

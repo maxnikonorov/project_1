@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00108",
   "customer": {
-    "customer_id": "cus-1019",
-    "first_name": "Андрон",
-    "last_name": "Матвеева"
+    "customer_id": "cus-1038",
+    "first_name": "Любовь",
+    "last_name": "Александров"
   },
   "store": {
-    "store_id": "store-009",
-    "store_name": "Большая Пикча — Магазин на ул. Моховая",
+    "store_id": "store-011",
+    "store_name": "Большая Пикча — Магазин на бул. Пархоменко",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "клх Юрюзань",
-      "street": "наб. Заозерная",
-      "house": "5/4",
-      "postal_code": "194830",
+      "city": "п. Троицко-Печорск",
+      "street": "алл. Тюленина",
+      "house": "480",
+      "postal_code": "085570",
       "coordinates": {
-        "latitude": 81.654657,
-        "longitude": -154.844563
+        "latitude": 41.8025665,
+        "longitude": -20.208392
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1000",
-      "name": "Приятель",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 3,
+      "product_id": "prd-1017",
+      "name": "Академик",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 105.42,
-      "total_price": 316.26,
+      "price_per_unit": 281.63,
+      "total_price": 1126.52,
       "kbju": {
-        "calories": 94.5,
-        "protein": 2.3,
+        "calories": 57.7,
+        "protein": 17.3,
         "fat": 1.3,
-        "carbohydrates": 23.5
+        "carbohydrates": 0.5
       },
       "manufacturer": {
-        "name": "ЗАО «Соболев»",
+        "name": "ЗАО «Симонов Колесников»",
         "country": "Россия",
-        "website": "https://zao.net",
-        "inn": "3597427512"
+        "website": "https://ip.org",
+        "inn": "6779612478"
       }
     }
   ],
-  "total_amount": 316.26,
+  "total_amount": 1126.52,
   "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Коломна",
-    "street": "ул. 9 мая",
-    "house": "96",
-    "apartment": "100",
-    "postal_code": "378421"
+    "city": "п. Тулпан",
+    "street": "алл. Таежная",
+    "house": "7",
+    "apartment": "67",
+    "postal_code": "781943"
   },
-  "purchase_datetime": "2026-10-18T16:08:40.726991"
+  "purchase_datetime": "2026-10-15T12:46:39.829914"
 }

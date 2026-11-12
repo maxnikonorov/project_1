@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00041",
   "customer": {
-    "customer_id": "cus-1040",
-    "first_name": "Богдан",
-    "last_name": "Терентьев"
+    "customer_id": "cus-1037",
+    "first_name": "Владлен",
+    "last_name": "Лобанова"
   },
   "store": {
-    "store_id": "store-033",
-    "store_name": "Маленькая Пикча — Магазин на ул. Больничная",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-009",
+    "store_name": "Большая Пикча — Магазин на пер. 50 лет Октября",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Домбай",
-      "street": "ул. Заливная",
-      "house": "77",
-      "postal_code": "721769",
+      "city": "клх Ессентуки",
+      "street": "пер. Дорожников",
+      "house": "5",
+      "postal_code": "580869",
       "coordinates": {
-        "latitude": -79.236949,
-        "longitude": -85.283823
+        "latitude": -63.4804455,
+        "longitude": 155.539662
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1012",
-      "name": "Помолчать",
-      "category": "🥛 Молочные продукты",
+      "product_id": "prd-1014",
+      "name": "Еврейский",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
       "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 177.06,
-      "total_price": 885.3,
+      "price_per_unit": 228.93,
+      "total_price": 1144.65,
       "kbju": {
-        "calories": 142.7,
-        "protein": 15.3,
-        "fat": 9.2,
-        "carbohydrates": 1.7
+        "calories": 224.9,
+        "protein": 11.4,
+        "fat": 13.1,
+        "carbohydrates": 22.4
       },
       "manufacturer": {
-        "name": "НПО «Силин-Богданова»",
+        "name": "ООО «Котова-Белякова»",
         "country": "Россия",
-        "website": "https://ip.org",
-        "inn": "8788386125"
+        "website": "https://yakushev.org",
+        "inn": "1032222274"
+      }
+    },
+    {
+      "product_id": "prd-1019",
+      "name": "Военный",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 166.7,
+      "total_price": 833.5,
+      "kbju": {
+        "calories": 160.4,
+        "protein": 11.7,
+        "fat": 4.3,
+        "carbohydrates": 21.4
+      },
+      "manufacturer": {
+        "name": "ИП «Голубева»",
+        "country": "Россия",
+        "website": "https://gruppa.ru",
+        "inn": "3931722625"
       }
     }
   ],
-  "total_amount": 885.3,
+  "total_amount": 1978.15,
   "payment_method": "cash",
-  "is_delivery": false,
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "г. Соловки",
-    "street": "алл. Блюхера",
-    "house": "259",
-    "apartment": "94",
-    "postal_code": "602320"
+    "city": "ст. Каменск-Уральский",
+    "street": "ул. Ватутина",
+    "house": "3",
+    "apartment": "59",
+    "postal_code": "945194"
   },
-  "purchase_datetime": "2026-10-03T16:08:40.623702"
+  "purchase_datetime": "2026-10-19T12:46:39.821139"
 }

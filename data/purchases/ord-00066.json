@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00066",
   "customer": {
-    "customer_id": "cus-1037",
-    "first_name": "Лукьян",
-    "last_name": "Ершов"
+    "customer_id": "cus-1008",
+    "first_name": "Серафим",
+    "last_name": "Терентьев"
   },
   "store": {
-    "store_id": "store-036",
-    "store_name": "Маленькая Пикча — Магазин на пер. 50 лет Октября",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-015",
+    "store_name": "Большая Пикча — Магазин на пер. Песочный",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Борзя",
-      "street": "пер. Тенистый",
-      "house": "45",
-      "postal_code": "771850",
+      "city": "п. Буденновск",
+      "street": "наб. Ушакова",
+      "house": "7/3",
+      "postal_code": "566530",
       "coordinates": {
-        "latitude": -65.3852585,
-        "longitude": -79.050702
+        "latitude": -69.920769,
+        "longitude": -170.838449
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1010",
-      "name": "Наткнуться",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 3,
+      "product_id": "prd-1002",
+      "name": "Разводить",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 109.99,
-      "total_price": 329.97,
+      "price_per_unit": 118.06,
+      "total_price": 236.12,
       "kbju": {
-        "calories": 111.4,
-        "protein": 5.0,
-        "fat": 2.9,
-        "carbohydrates": 48.1
+        "calories": 260.2,
+        "protein": 13.0,
+        "fat": 3.0,
+        "carbohydrates": 17.6
       },
       "manufacturer": {
-        "name": "АО «Третьяков, Кабанов и Казакова»",
+        "name": "РАО «Ковалев Шестакова»",
         "country": "Россия",
-        "website": "https://rao.edu",
-        "inn": "0018510627"
+        "website": "https://rao.org",
+        "inn": "6087012080"
+      }
+    },
+    {
+      "product_id": "prd-1018",
+      "name": "Пища",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 48.83,
+      "total_price": 48.83,
+      "kbju": {
+        "calories": 275.1,
+        "protein": 12.4,
+        "fat": 0.2,
+        "carbohydrates": 34.3
+      },
+      "manufacturer": {
+        "name": "НПО «Алексеева, Русакова и Лебедев»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "6006312092"
       }
     }
   ],
-  "total_amount": 329.97,
-  "payment_method": "cash",
-  "is_delivery": false,
+  "total_amount": 284.95,
+  "payment_method": "card",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "к. Ижевск",
-    "street": "алл. Отрадная",
-    "house": "2/5",
-    "apartment": "54",
-    "postal_code": "688111"
+    "city": "клх Ессентуки",
+    "street": "ш. Станционное",
+    "house": "4/8",
+    "apartment": "27",
+    "postal_code": "732508"
   },
-  "purchase_datetime": "2026-08-16T16:08:40.665285"
+  "purchase_datetime": "2026-10-17T12:46:39.824569"
 }

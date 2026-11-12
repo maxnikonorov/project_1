@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00015",
   "customer": {
-    "customer_id": "cus-1030",
-    "first_name": "Феофан",
-    "last_name": "Полякова"
+    "customer_id": "cus-1029",
+    "first_name": "Устин",
+    "last_name": "Крюков"
   },
   "store": {
-    "store_id": "store-044",
-    "store_name": "Маленькая Пикча — Магазин на пр. Иванова",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-021",
+    "store_name": "Большая Пикча — Магазин на алл. Ленинская",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Калач-на-Дону",
-      "street": "бул. Дарвина",
-      "house": "6/7",
-      "postal_code": "484693",
+      "city": "п. Фатеж",
+      "street": "ул. Нахимова",
+      "house": "1",
+      "postal_code": "673909",
       "coordinates": {
-        "latitude": -56.9071505,
-        "longitude": 39.077082
+        "latitude": -89.7491,
+        "longitude": 65.345452
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1018",
-      "name": "Смеяться",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 3,
+      "product_id": "prd-1008",
+      "name": "Увеличиваться",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 143.87,
-      "total_price": 431.61,
+      "price_per_unit": 298.83,
+      "total_price": 597.66,
       "kbju": {
-        "calories": 175.7,
-        "protein": 9.9,
-        "fat": 11.6,
-        "carbohydrates": 36.9
+        "calories": 57.9,
+        "protein": 1.9,
+        "fat": 5.5,
+        "carbohydrates": 26.7
       },
       "manufacturer": {
-        "name": "АО «Архипов»",
+        "name": "АО «Горбунов»",
         "country": "Россия",
-        "website": "https://zao.org",
-        "inn": "6430660253"
+        "website": "https://oao.ru",
+        "inn": "1791173907"
       }
     }
   ],
-  "total_amount": 431.61,
-  "payment_method": "card",
+  "total_amount": 597.66,
+  "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Александровск",
-    "street": "ул. Щорса",
-    "house": "317",
-    "apartment": "82",
-    "postal_code": "128877"
+    "city": "ст. Шелехов",
+    "street": "наб. Томская",
+    "house": "9",
+    "apartment": "64",
+    "postal_code": "321740"
   },
-  "purchase_datetime": "2026-10-31T16:08:40.586565"
+  "purchase_datetime": "2026-09-21T12:46:39.817015"
 }

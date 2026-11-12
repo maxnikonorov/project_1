@@ -1,6 +1,6 @@
 {
   "store_id": "store-038",
-  "store_name": "Маленькая Пикча — Магазин на пер. Трактовый",
+  "store_name": "Маленькая Пикча — Магазин на пер. Весенний",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Прохор Бориславович Агафонов",
-    "phone": "8 (281) 706-19-54",
-    "email": "kondrat2013@example.net"
+    "name": "Акулина Яковлевна Фомичева",
+    "phone": "8 906 613 9330",
+    "email": "hpoljakov@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "к. Ижевск",
-    "street": "ш. Кольцова",
-    "house": "41",
-    "postal_code": "025390",
+    "city": "ст. Каменск-Уральский",
+    "street": "бул. Бульварный",
+    "house": "94",
+    "postal_code": "410592",
     "coordinates": {
-      "latitude": -85.3445585,
-      "longitude": 168.771964
+      "latitude": -77.446573,
+      "longitude": 164.029875
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "last_inventory_date": "2026-11-12"
 }

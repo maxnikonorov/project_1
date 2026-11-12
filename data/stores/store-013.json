@@ -1,6 +1,6 @@
 {
   "store_id": "store-013",
-  "store_name": "Большая Пикча — Магазин на алл. Болотная",
+  "store_name": "Большая Пикча — Магазин на бул. Полярный",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Нина Максимовна Савина",
-    "phone": "89843233817",
-    "email": "ljubomir_98@example.com"
+    "name": "Маслов Радован Еремеевич",
+    "phone": "8 (293) 691-8713",
+    "email": "lorakononova@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "д. Камышин",
-    "street": "ш. Социалистическое",
-    "house": "2/5",
-    "postal_code": "848360",
+    "city": "п. Волгодонск",
+    "street": "наб. Дружбы",
+    "house": "769",
+    "postal_code": "521421",
     "coordinates": {
-      "latitude": -60.309096,
-      "longitude": -35.018249
+      "latitude": -18.577635,
+      "longitude": 118.281469
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": false,
-  "last_inventory_date": "2026-11-10"
+  "warehouse_connected": true,
+  "last_inventory_date": "2026-11-12"
 }

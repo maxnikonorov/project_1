@@ -1,6 +1,6 @@
 {
   "store_id": "store-005",
-  "store_name": "Большая Пикча — Магазин на пр. Донской",
+  "store_name": "Большая Пикча — Магазин на ул. Сурикова",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Лапина Екатерина Владимировна",
-    "phone": "+7 298 970 47 28",
-    "email": "nikonovagalina@example.org"
+    "name": "Нина Болеславовна Дементьева",
+    "phone": "83278984385",
+    "email": "miheromanov@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "к. Бузулук",
-    "street": "бул. Енисейский",
-    "house": "736",
-    "postal_code": "369079",
+    "city": "с. Абакан",
+    "street": "ш. Загородное",
+    "house": "44",
+    "postal_code": "836911",
     "coordinates": {
-      "latitude": -17.571044,
-      "longitude": 161.569143
+      "latitude": 43.8106095,
+      "longitude": -167.42383
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": false,
-  "last_inventory_date": "2026-11-10"
+  "warehouse_connected": true,
+  "last_inventory_date": "2026-11-12"
 }

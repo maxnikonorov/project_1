@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00190",
   "customer": {
-    "customer_id": "cus-1015",
-    "first_name": "Ипат",
-    "last_name": "Панова"
+    "customer_id": "cus-1040",
+    "first_name": "Гордей",
+    "last_name": "Михайлова"
   },
   "store": {
-    "store_id": "store-041",
-    "store_name": "Маленькая Пикча — Магазин на пер. Красный",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-017",
+    "store_name": "Большая Пикча — Магазин на ш. Осипенко",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "г. Соловки",
-      "street": "пер. Космический",
-      "house": "7",
-      "postal_code": "821818",
+      "city": "с. Горно-Алтайск",
+      "street": "ул. Мичурина",
+      "house": "1",
+      "postal_code": "034077",
       "coordinates": {
-        "latitude": -8.30231,
-        "longitude": 144.533567
+        "latitude": -80.043716,
+        "longitude": -138.203922
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1015",
-      "name": "Пространство",
-      "category": "🥛 Молочные продукты",
+      "product_id": "prd-1012",
+      "name": "Июнь",
+      "category": "🍏 Фрукты и ягоды",
       "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 169.18,
-      "total_price": 507.54,
+      "price_per_unit": 64.74,
+      "total_price": 194.22,
       "kbju": {
-        "calories": 244.0,
-        "protein": 13.8,
-        "fat": 6.9,
-        "carbohydrates": 6.3
+        "calories": 74.5,
+        "protein": 16.4,
+        "fat": 3.9,
+        "carbohydrates": 41.7
       },
       "manufacturer": {
-        "name": "ИП «Силин, Лапина и Федосеев»",
+        "name": "Корпорация Гринн",
         "country": "Россия",
-        "website": "https://rao.com",
-        "inn": "0793948672"
+        "website": "https://shcherbakova.ru",
+        "inn": "1467725699"
+      }
+    },
+    {
+      "product_id": "prd-1008",
+      "name": "Увеличиваться",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 298.83,
+      "total_price": 597.66,
+      "kbju": {
+        "calories": 57.9,
+        "protein": 1.9,
+        "fat": 5.5,
+        "carbohydrates": 26.7
+      },
+      "manufacturer": {
+        "name": "АО «Горбунов»",
+        "country": "Россия",
+        "website": "https://oao.ru",
+        "inn": "1791173907"
+      }
+    },
+    {
+      "product_id": "prd-1007",
+      "name": "Нож",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 89.52,
+      "total_price": 447.6,
+      "kbju": {
+        "calories": 54.8,
+        "protein": 10.0,
+        "fat": 8.5,
+        "carbohydrates": 49.1
+      },
+      "manufacturer": {
+        "name": "Кабанов Инк",
+        "country": "Россия",
+        "website": "https://ip.info",
+        "inn": "3919742285"
       }
     }
   ],
-  "total_amount": 507.54,
-  "payment_method": "cash",
-  "is_delivery": false,
+  "total_amount": 1239.48,
+  "payment_method": "card",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "ст. Нижний Новгород",
-    "street": "ш. Ярославское",
-    "house": "59",
-    "apartment": "36",
-    "postal_code": "793316"
+    "city": "клх Вологда",
+    "street": "наб. Белорусская",
+    "house": "6/2",
+    "apartment": "21",
+    "postal_code": "073555"
   },
-  "purchase_datetime": "2026-10-26T16:08:40.866671"
+  "purchase_datetime": "2026-11-09T12:46:39.840016"
 }

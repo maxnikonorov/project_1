@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00172",
   "customer": {
-    "customer_id": "cus-1035",
-    "first_name": "Евсей",
-    "last_name": "Гордеева"
+    "customer_id": "cus-1036",
+    "first_name": "Стоян",
+    "last_name": "Наумов"
   },
   "store": {
-    "store_id": "store-008",
-    "store_name": "Большая Пикча — Магазин на пер. Карьерный",
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на ул. Войкова",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Кажим",
-      "street": "алл. Зои Космодемьянской",
-      "house": "673",
-      "postal_code": "831404",
+      "city": "д. Курск",
+      "street": "наб. Королева",
+      "house": "220",
+      "postal_code": "140036",
       "coordinates": {
-        "latitude": -84.04877,
-        "longitude": -153.592169
+        "latitude": -45.5219915,
+        "longitude": 41.178766
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1001",
-      "name": "Природа",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 2,
+      "product_id": "prd-1003",
+      "name": "Палец",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 270.47,
-      "total_price": 540.94,
+      "price_per_unit": 123.81,
+      "total_price": 619.05,
       "kbju": {
-        "calories": 82.7,
-        "protein": 5.3,
-        "fat": 7.1,
-        "carbohydrates": 48.4
+        "calories": 287.5,
+        "protein": 19.7,
+        "fat": 14.4,
+        "carbohydrates": 47.2
       },
       "manufacturer": {
-        "name": "ОАО «Аксенов-Елисеева»",
+        "name": "АО «Воронцов»",
         "country": "Россия",
-        "website": "https://npo.biz",
-        "inn": "2579256074"
+        "website": "https://zao.edu",
+        "inn": "2681589498"
       }
     }
   ],
-  "total_amount": 540.94,
-  "payment_method": "card",
+  "total_amount": 619.05,
+  "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Борзя",
-    "street": "ш. Набережное",
-    "house": "700",
-    "apartment": "69",
-    "postal_code": "777744"
+    "city": "к. Сорочинск",
+    "street": "бул. Московский",
+    "house": "28",
+    "apartment": "37",
+    "postal_code": "695102"
   },
-  "purchase_datetime": "2026-11-02T16:08:40.833264"
+  "purchase_datetime": "2026-09-28T12:46:39.837772"
 }

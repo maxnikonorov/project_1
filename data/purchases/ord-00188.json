@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00188",
   "customer": {
-    "customer_id": "cus-1044",
-    "first_name": "Владимир",
-    "last_name": "Нестерова"
+    "customer_id": "cus-1023",
+    "first_name": "Лукьян",
+    "last_name": "Мясников"
   },
   "store": {
-    "store_id": "store-025",
-    "store_name": "Большая Пикча — Магазин на пр. Виноградный",
-    "store_network": "Большая Пикча",
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на бул. Красный",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Кабанск",
-      "street": "наб. Ватутина",
-      "house": "71",
-      "postal_code": "430475",
+      "city": "клх Вологда",
+      "street": "ул. 40 лет Победы",
+      "house": "50",
+      "postal_code": "861238",
       "coordinates": {
-        "latitude": 56.1539,
-        "longitude": -125.144973
+        "latitude": -20.6290965,
+        "longitude": 76.652447
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1018",
-      "name": "Смеяться",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "product_id": "prd-1008",
+      "name": "Увеличиваться",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 143.87,
-      "total_price": 143.87,
+      "price_per_unit": 298.83,
+      "total_price": 298.83,
       "kbju": {
-        "calories": 175.7,
-        "protein": 9.9,
-        "fat": 11.6,
-        "carbohydrates": 36.9
+        "calories": 57.9,
+        "protein": 1.9,
+        "fat": 5.5,
+        "carbohydrates": 26.7
       },
       "manufacturer": {
-        "name": "АО «Архипов»",
+        "name": "АО «Горбунов»",
         "country": "Россия",
-        "website": "https://zao.org",
-        "inn": "6430660253"
+        "website": "https://oao.ru",
+        "inn": "1791173907"
       }
     }
   ],
-  "total_amount": 143.87,
-  "payment_method": "cash",
-  "is_delivery": false,
+  "total_amount": 298.83,
+  "payment_method": "card",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Зеленоград",
-    "street": "ш. Цветочное",
-    "house": "3",
-    "apartment": "97",
-    "postal_code": "979941"
+    "city": "ст. Амдерма",
+    "street": "ул. Фурманова",
+    "house": "4/7",
+    "apartment": "30",
+    "postal_code": "700333"
   },
-  "purchase_datetime": "2026-09-21T16:08:40.858141"
+  "purchase_datetime": "2026-09-12T12:46:39.839780"
 }

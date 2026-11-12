@@ -1,101 +1,59 @@
 {
   "purchase_id": "ord-00037",
   "customer": {
-    "customer_id": "cus-1017",
-    "first_name": "Дмитрий",
-    "last_name": "Наумов"
+    "customer_id": "cus-1011",
+    "first_name": "Мина",
+    "last_name": "Суворов"
   },
   "store": {
-    "store_id": "store-033",
-    "store_name": "Маленькая Пикча — Магазин на ул. Больничная",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-024",
+    "store_name": "Большая Пикча — Магазин на наб. 1 Мая",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Домбай",
-      "street": "ул. Заливная",
-      "house": "77",
-      "postal_code": "721769",
+      "city": "ст. Амдерма",
+      "street": "пр. Партизанский",
+      "house": "9/3",
+      "postal_code": "779296",
       "coordinates": {
-        "latitude": -79.236949,
-        "longitude": -85.283823
+        "latitude": -18.131733,
+        "longitude": 80.250356
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1001",
-      "name": "Природа",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 2,
+      "product_id": "prd-1005",
+      "name": "Конструкция",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 270.47,
-      "total_price": 540.94,
+      "price_per_unit": 204.55,
+      "total_price": 204.55,
       "kbju": {
-        "calories": 82.7,
-        "protein": 5.3,
-        "fat": 7.1,
-        "carbohydrates": 48.4
+        "calories": 86.4,
+        "protein": 1.8,
+        "fat": 13.4,
+        "carbohydrates": 19.0
       },
       "manufacturer": {
-        "name": "ОАО «Аксенов-Елисеева»",
+        "name": "ОАО «Гордеев, Никитин и Кулакова»",
         "country": "Россия",
-        "website": "https://npo.biz",
-        "inn": "2579256074"
-      }
-    },
-    {
-      "product_id": "prd-1015",
-      "name": "Пространство",
-      "category": "🥛 Молочные продукты",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 169.18,
-      "total_price": 338.36,
-      "kbju": {
-        "calories": 244.0,
-        "protein": 13.8,
-        "fat": 6.9,
-        "carbohydrates": 6.3
-      },
-      "manufacturer": {
-        "name": "ИП «Силин, Лапина и Федосеев»",
-        "country": "Россия",
-        "website": "https://rao.com",
-        "inn": "0793948672"
-      }
-    },
-    {
-      "product_id": "prd-1017",
-      "name": "Пол",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 150.17,
-      "total_price": 300.34,
-      "kbju": {
-        "calories": 127.5,
-        "protein": 3.3,
-        "fat": 7.5,
-        "carbohydrates": 41.2
-      },
-      "manufacturer": {
-        "name": "ОАО «Родионова-Осипов»",
-        "country": "Россия",
-        "website": "https://ip.ru",
-        "inn": "4308518530"
+        "website": "https://ooo.org",
+        "inn": "4077468251"
       }
     }
   ],
-  "total_amount": 1179.64,
+  "total_amount": 204.55,
   "payment_method": "card",
-  "is_delivery": false,
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Бологое",
-    "street": "пр. Толбухина",
-    "house": "625",
-    "apartment": "20",
-    "postal_code": "483680"
+    "city": "д. Агата",
+    "street": "наб. Розы Люксембург",
+    "house": "7",
+    "apartment": "10",
+    "postal_code": "073241"
   },
-  "purchase_datetime": "2026-11-02T16:08:40.617175"
+  "purchase_datetime": "2026-09-13T12:46:39.820635"
 }

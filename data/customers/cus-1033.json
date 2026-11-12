@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1033",
-  "first_name": "Владлен",
-  "last_name": "Киселев",
-  "email": "kalashnikovakira@example.com",
-  "phone": "+7 794 619 61 18",
-  "birth_date": "2005-04-30",
+  "first_name": "Милица",
+  "last_name": "Агафонов",
+  "email": "miroslav_2007@example.com",
+  "phone": "8 576 463 7005",
+  "birth_date": "2005-08-10",
   "gender": "female",
-  "registration_date": "2026-11-10T16:08:40.551511",
+  "registration_date": "2026-11-12T12:46:39.810811",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-A71D81520B",
+  "loyalty_card_number": "LOYAL-3483BECD97",
   "purchase_location": {
     "country": "Россия",
-    "city": "п. Нефтегорск (Самар.)",
-    "street": "ул. Свободная",
-    "house": "40",
-    "postal_code": "707821",
+    "city": "г. Томск",
+    "street": "алл. Некрасова",
+    "house": "426",
+    "postal_code": "502356",
     "coordinates": {
-      "latitude": -68.899129,
-      "longitude": 28.922537
+      "latitude": 44.727022,
+      "longitude": 163.9814
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "п. Нефтегорск (Самар.)",
-    "street": "ш. Ясное",
-    "house": "1",
-    "apartment": "52",
-    "postal_code": "256820"
+    "city": "г. Томск",
+    "street": "наб. Азовская",
+    "house": "15",
+    "apartment": "6",
+    "postal_code": "233034"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "card",
-    "receive_promotions": false
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
   }
 }

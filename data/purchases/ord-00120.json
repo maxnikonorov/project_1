@@ -1,101 +1,101 @@
 {
   "purchase_id": "ord-00120",
   "customer": {
-    "customer_id": "cus-1015",
-    "first_name": "Ипат",
-    "last_name": "Панова"
+    "customer_id": "cus-1019",
+    "first_name": "Венедикт",
+    "last_name": "Карпова"
   },
   "store": {
-    "store_id": "store-038",
-    "store_name": "Маленькая Пикча — Магазин на пер. Трактовый",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-013",
+    "store_name": "Большая Пикча — Магазин на бул. Полярный",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Ижевск",
-      "street": "ш. Кольцова",
-      "house": "41",
-      "postal_code": "025390",
+      "city": "п. Волгодонск",
+      "street": "наб. Дружбы",
+      "house": "769",
+      "postal_code": "521421",
       "coordinates": {
-        "latitude": -85.3445585,
-        "longitude": 168.771964
+        "latitude": -18.577635,
+        "longitude": 118.281469
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1005",
-      "name": "Тысяча",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 3,
-      "unit": "шт",
-      "price_per_unit": 109.23,
-      "total_price": 327.69,
-      "kbju": {
-        "calories": 215.7,
-        "protein": 8.5,
-        "fat": 8.5,
-        "carbohydrates": 5.4
-      },
-      "manufacturer": {
-        "name": "Исаева Групп",
-        "country": "Россия",
-        "website": "https://ao.com",
-        "inn": "0005832495"
-      }
-    },
-    {
-      "product_id": "prd-1009",
-      "name": "Левый",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 55.63,
-      "total_price": 111.26,
-      "kbju": {
-        "calories": 284.1,
-        "protein": 6.2,
-        "fat": 12.8,
-        "carbohydrates": 31.9
-      },
-      "manufacturer": {
-        "name": "ООО «Беляков-Ермаков»",
-        "country": "Россия",
-        "website": "https://ao.edu",
-        "inn": "2315160346"
-      }
-    },
-    {
-      "product_id": "prd-1002",
-      "name": "Единый",
+      "product_id": "prd-1004",
+      "name": "Сверкающий",
       "category": "🥛 Молочные продукты",
       "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 289.68,
-      "total_price": 869.04,
+      "price_per_unit": 42.31,
+      "total_price": 126.93,
       "kbju": {
-        "calories": 265.0,
-        "protein": 19.8,
-        "fat": 7.9,
-        "carbohydrates": 44.8
+        "calories": 260.1,
+        "protein": 7.8,
+        "fat": 9.0,
+        "carbohydrates": 43.0
       },
       "manufacturer": {
-        "name": "ИП «Мартынова»",
+        "name": "Продо",
         "country": "Россия",
-        "website": "https://ao.ru",
-        "inn": "6920417941"
+        "website": "https://ip.org",
+        "inn": "2875238332"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "name": "Решение",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 272.65,
+      "total_price": 1090.6,
+      "kbju": {
+        "calories": 165.7,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 22.6
+      },
+      "manufacturer": {
+        "name": "ЗАО «Владимирова Федосеева»",
+        "country": "Россия",
+        "website": "https://ip.com",
+        "inn": "0567872472"
+      }
+    },
+    {
+      "product_id": "prd-1011",
+      "name": "Плясать",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 281.59,
+      "total_price": 281.59,
+      "kbju": {
+        "calories": 282.3,
+        "protein": 0.5,
+        "fat": 10.2,
+        "carbohydrates": 38.8
+      },
+      "manufacturer": {
+        "name": "Кононова Инк",
+        "country": "Россия",
+        "website": "https://rao.org",
+        "inn": "8513715002"
       }
     }
   ],
-  "total_amount": 1307.99,
-  "payment_method": "card",
-  "is_delivery": false,
+  "total_amount": 1499.12,
+  "payment_method": "cash",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "ст. Нижний Новгород",
-    "street": "ш. Ярославское",
-    "house": "59",
-    "apartment": "36",
-    "postal_code": "793316"
+    "city": "г. Киржач",
+    "street": "ул. Короткая",
+    "house": "4/8",
+    "apartment": "43",
+    "postal_code": "336350"
   },
-  "purchase_datetime": "2026-11-01T16:08:40.743537"
+  "purchase_datetime": "2026-09-19T12:46:39.831320"
 }

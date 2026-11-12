@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1036",
-  "first_name": "Марина",
-  "last_name": "Пахомова",
-  "email": "ziminafaina@example.com",
-  "phone": "8 (954) 773-32-77",
-  "birth_date": "1980-10-13",
+  "first_name": "Стоян",
+  "last_name": "Наумов",
+  "email": "vikenti_2000@example.com",
+  "phone": "+7 (658) 404-89-70",
+  "birth_date": "1977-10-20",
   "gender": "female",
-  "registration_date": "2026-11-10T16:08:40.555514",
+  "registration_date": "2026-11-12T12:46:39.811391",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-19C4CF892C",
+  "loyalty_card_number": "LOYAL-B232BAD829",
   "purchase_location": {
     "country": "Россия",
-    "city": "к. Кудымкар",
-    "street": "бул. Путевой",
-    "house": "6/5",
-    "postal_code": "462437",
+    "city": "к. Сорочинск",
+    "street": "ш. Транспортное",
+    "house": "3",
+    "postal_code": "390720",
     "coordinates": {
-      "latitude": 86.5741415,
-      "longitude": -36.177029
+      "latitude": -1.119707,
+      "longitude": 150.890431
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "к. Кудымкар",
-    "street": "пер. Ореховый",
-    "house": "1",
-    "apartment": "84",
-    "postal_code": "619231"
+    "city": "к. Сорочинск",
+    "street": "бул. Московский",
+    "house": "28",
+    "apartment": "37",
+    "postal_code": "695102"
   },
   "preferences": {
     "preferred_language": "ru",
     "preferred_payment_method": "cash",
-    "receive_promotions": true
+    "receive_promotions": false
   }
 }

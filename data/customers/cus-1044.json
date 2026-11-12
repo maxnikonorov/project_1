@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1044",
-  "first_name": "Владимир",
-  "last_name": "Нестерова",
-  "email": "irina_2008@example.net",
-  "phone": "8 809 615 11 19",
-  "birth_date": "1976-07-04",
-  "gender": "male",
-  "registration_date": "2026-11-10T16:08:40.567041",
+  "first_name": "Виктория",
+  "last_name": "Горшков",
+  "email": "samsonovasvetlana@example.com",
+  "phone": "+72260044631",
+  "birth_date": "1975-10-13",
+  "gender": "female",
+  "registration_date": "2026-11-12T12:46:39.813149",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-3F43316A77",
+  "loyalty_card_number": "LOYAL-C89FB9C867",
   "purchase_location": {
     "country": "Россия",
-    "city": "клх Зеленоград",
-    "street": "пр. Цветочный",
-    "house": "4",
-    "postal_code": "546752",
+    "city": "г. Яр-Сале",
+    "street": "алл. Железнодорожная",
+    "house": "133",
+    "postal_code": "360004",
     "coordinates": {
-      "latitude": -37.668492,
-      "longitude": 170.691745
+      "latitude": -88.296027,
+      "longitude": -30.594842
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Зеленоград",
-    "street": "ш. Цветочное",
-    "house": "3",
-    "apartment": "97",
-    "postal_code": "979941"
+    "city": "г. Яр-Сале",
+    "street": "пер. Сенной",
+    "house": "57",
+    "apartment": "7",
+    "postal_code": "004515"
   },
   "preferences": {
     "preferred_language": "ru",
     "preferred_payment_method": "cash",
-    "receive_promotions": true
+    "receive_promotions": false
   }
 }

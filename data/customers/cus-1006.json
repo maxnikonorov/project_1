@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1006",
-  "first_name": "Агафья",
-  "last_name": "Гурьева",
-  "email": "oleg_2018@example.net",
-  "phone": "+7 303 986 5592",
-  "birth_date": "1975-07-20",
-  "gender": "male",
-  "registration_date": "2026-11-10T16:08:40.501906",
+  "first_name": "Фома",
+  "last_name": "Муравьев",
+  "email": "lnazarova@example.org",
+  "phone": "84455584156",
+  "birth_date": "1970-11-20",
+  "gender": "female",
+  "registration_date": "2026-11-12T12:46:39.806532",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-DD38D0EDAF",
+  "loyalty_card_number": "LOYAL-073A96D8ED",
   "purchase_location": {
     "country": "Россия",
-    "city": "с. Лагань",
-    "street": "пр. Тополиный",
-    "house": "6/4",
-    "postal_code": "084092",
+    "city": "с. Елатьма",
+    "street": "ул. Ермака",
+    "house": "59",
+    "postal_code": "319739",
     "coordinates": {
-      "latitude": 49.030439,
-      "longitude": -59.077561
+      "latitude": -85.932494,
+      "longitude": -119.144742
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "с. Лагань",
-    "street": "пр. Просвещения",
-    "house": "61",
-    "apartment": "60",
-    "postal_code": "059264"
+    "city": "с. Елатьма",
+    "street": "бул. Пригородный",
+    "house": "7",
+    "apartment": "96",
+    "postal_code": "217898"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "card",
-    "receive_promotions": true
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
   }
 }

@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00157",
   "customer": {
-    "customer_id": "cus-1006",
-    "first_name": "Агафья",
-    "last_name": "Гурьева"
+    "customer_id": "cus-1041",
+    "first_name": "Светозар",
+    "last_name": "Миронов"
   },
   "store": {
-    "store_id": "store-014",
-    "store_name": "Большая Пикча — Магазин на бул. Школьный",
+    "store_id": "store-015",
+    "store_name": "Большая Пикча — Магазин на пер. Песочный",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "с. Завьялиха",
-      "street": "пр. Октябрьский",
-      "house": "25",
-      "postal_code": "058240",
+      "city": "п. Буденновск",
+      "street": "наб. Ушакова",
+      "house": "7/3",
+      "postal_code": "566530",
       "coordinates": {
-        "latitude": 25.905304,
-        "longitude": -6.320316
+        "latitude": -69.920769,
+        "longitude": -170.838449
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1015",
-      "name": "Пространство",
+      "product_id": "prd-1004",
+      "name": "Сверкающий",
       "category": "🥛 Молочные продукты",
-      "quantity": 3,
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 169.18,
-      "total_price": 507.54,
+      "price_per_unit": 42.31,
+      "total_price": 84.62,
       "kbju": {
-        "calories": 244.0,
-        "protein": 13.8,
-        "fat": 6.9,
-        "carbohydrates": 6.3
+        "calories": 260.1,
+        "protein": 7.8,
+        "fat": 9.0,
+        "carbohydrates": 43.0
       },
       "manufacturer": {
-        "name": "ИП «Силин, Лапина и Федосеев»",
+        "name": "Продо",
         "country": "Россия",
-        "website": "https://rao.com",
-        "inn": "0793948672"
+        "website": "https://ip.org",
+        "inn": "2875238332"
       }
     }
   ],
-  "total_amount": 507.54,
-  "payment_method": "cash",
+  "total_amount": 84.62,
+  "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "с. Лагань",
-    "street": "пр. Просвещения",
-    "house": "61",
-    "apartment": "60",
-    "postal_code": "059264"
+    "city": "п. Апшеронск",
+    "street": "наб. Декабристов",
+    "house": "765",
+    "apartment": "9",
+    "postal_code": "304657"
   },
-  "purchase_datetime": "2026-09-27T16:08:40.806231"
+  "purchase_datetime": "2026-09-03T12:46:39.835844"
 }

@@ -1,32 +1,32 @@
 {
   "customer_id": "cus-1004",
-  "first_name": "Нина",
-  "last_name": "Моисеева",
-  "email": "radovan14@example.com",
-  "phone": "+78542162648",
-  "birth_date": "1986-03-11",
-  "gender": "male",
-  "registration_date": "2026-11-10T16:08:40.497908",
+  "first_name": "Всеволод",
+  "last_name": "Гуляева",
+  "email": "feofan68@example.net",
+  "phone": "+7 844 541 49 31",
+  "birth_date": "1966-11-25",
+  "gender": "female",
+  "registration_date": "2026-11-12T12:46:39.806259",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-112E6139CC",
+  "loyalty_card_number": "LOYAL-C5A27E3514",
   "purchase_location": {
     "country": "Россия",
-    "city": "к. Бузулук",
-    "street": "бул. Енисейский",
-    "house": "736",
-    "postal_code": "369079",
+    "city": "с. Абакан",
+    "street": "ш. Загородное",
+    "house": "44",
+    "postal_code": "836911",
     "coordinates": {
-      "latitude": -17.571044,
-      "longitude": 161.569143
+      "latitude": 43.8106095,
+      "longitude": -167.42383
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "к. Бузулук",
-    "street": "пр. Рабочий",
-    "house": "8",
-    "apartment": "100",
-    "postal_code": "083430"
+    "city": "с. Абакан",
+    "street": "ш. 40 лет Победы",
+    "house": "7/2",
+    "apartment": "23",
+    "postal_code": "682455"
   },
   "preferences": {
     "preferred_language": "ru",

@@ -1,24 +1,24 @@
 {
   "id": "prd-1003",
-  "name": "Порт",
-  "group": "🥦 Овощи и зелень",
-  "description": "Медицина передо художественный природа тревога болото.",
+  "name": "Палец",
+  "group": "🥛 Молочные продукты",
+  "description": "Ремень вчера интернет провинция призыв очередной задрать.",
   "kbju": {
-    "calories": 129.9,
-    "protein": 1.0,
-    "fat": 9.4,
-    "carbohydrates": 17.8
+    "calories": 287.5,
+    "protein": 19.7,
+    "fat": 14.4,
+    "carbohydrates": 47.2
   },
-  "price": 300.0,
+  "price": 123.81,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 18,
+  "expiry_days": 11,
   "is_organic": false,
-  "barcode": "1409338468763",
+  "barcode": "9373754754453",
   "manufacturer": {
-    "name": "Абрамов и партнеры",
+    "name": "АО «Воронцов»",
     "country": "Россия",
-    "website": "https://koka-kola.biz",
-    "inn": "0599854783"
+    "website": "https://zao.edu",
+    "inn": "2681589498"
   }
 }

@@ -1,80 +1,101 @@
 {
   "purchase_id": "ord-00042",
   "customer": {
-    "customer_id": "cus-1001",
-    "first_name": "Варлаам",
-    "last_name": "Лаврентьева"
+    "customer_id": "cus-1023",
+    "first_name": "Лукьян",
+    "last_name": "Мясников"
   },
   "store": {
-    "store_id": "store-037",
-    "store_name": "Маленькая Пикча — Магазин на ш. Омское",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-018",
+    "store_name": "Большая Пикча — Магазин на пер. Островского",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Кудымкар",
-      "street": "бул. Путевой",
-      "house": "6/5",
-      "postal_code": "462437",
+      "city": "г. Шумиха",
+      "street": "пр. Новоселов",
+      "house": "7/6",
+      "postal_code": "361058",
       "coordinates": {
-        "latitude": 86.5741415,
-        "longitude": -36.177029
+        "latitude": 72.98693,
+        "longitude": 72.832457
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1011",
-      "name": "Через",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 5,
+      "product_id": "prd-1019",
+      "name": "Военный",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 205.21,
-      "total_price": 1026.05,
+      "price_per_unit": 166.7,
+      "total_price": 166.7,
       "kbju": {
-        "calories": 277.9,
-        "protein": 10.7,
-        "fat": 14.2,
-        "carbohydrates": 1.5
+        "calories": 160.4,
+        "protein": 11.7,
+        "fat": 4.3,
+        "carbohydrates": 21.4
       },
       "manufacturer": {
-        "name": "НПО «Бурова»",
+        "name": "ИП «Голубева»",
         "country": "Россия",
-        "website": "https://zao.org",
-        "inn": "3200066091"
+        "website": "https://gruppa.ru",
+        "inn": "3931722625"
       }
     },
     {
-      "product_id": "prd-1014",
-      "name": "Что",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 4,
+      "product_id": "prd-1007",
+      "name": "Нож",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 139.68,
-      "total_price": 558.72,
+      "price_per_unit": 89.52,
+      "total_price": 268.56,
       "kbju": {
-        "calories": 231.7,
-        "protein": 17.6,
-        "fat": 9.2,
-        "carbohydrates": 6.7
+        "calories": 54.8,
+        "protein": 10.0,
+        "fat": 8.5,
+        "carbohydrates": 49.1
       },
       "manufacturer": {
-        "name": "Петухова Лимитед",
+        "name": "Кабанов Инк",
         "country": "Россия",
-        "website": "https://ip.net",
-        "inn": "2487454296"
+        "website": "https://ip.info",
+        "inn": "3919742285"
+      }
+    },
+    {
+      "product_id": "prd-1011",
+      "name": "Плясать",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 281.59,
+      "total_price": 1407.95,
+      "kbju": {
+        "calories": 282.3,
+        "protein": 0.5,
+        "fat": 10.2,
+        "carbohydrates": 38.8
+      },
+      "manufacturer": {
+        "name": "Кононова Инк",
+        "country": "Россия",
+        "website": "https://rao.org",
+        "inn": "8513715002"
       }
     }
   ],
-  "total_amount": 1584.77,
+  "total_amount": 1843.21,
   "payment_method": "cash",
-  "is_delivery": false,
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "ст. Горячий Ключ",
-    "street": "бул. Щетинкина",
-    "house": "3",
-    "apartment": "39",
-    "postal_code": "329085"
+    "city": "ст. Амдерма",
+    "street": "ул. Фурманова",
+    "house": "4/7",
+    "apartment": "30",
+    "postal_code": "700333"
   },
-  "purchase_datetime": "2026-08-16T16:08:40.625683"
+  "purchase_datetime": "2026-09-07T12:46:39.821269"
 }

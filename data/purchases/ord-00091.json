@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00091",
   "customer": {
-    "customer_id": "cus-1016",
-    "first_name": "Зосима",
-    "last_name": "Шубина"
+    "customer_id": "cus-1039",
+    "first_name": "Серафим",
+    "last_name": "Гаврилова"
   },
   "store": {
-    "store_id": "store-023",
-    "store_name": "Большая Пикча — Магазин на пр. Красногвардейский",
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на ул. Войкова",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "с. Далматово",
-      "street": "бул. 50 лет ВЛКСМ",
-      "house": "59",
-      "postal_code": "821629",
+      "city": "д. Курск",
+      "street": "наб. Королева",
+      "house": "220",
+      "postal_code": "140036",
       "coordinates": {
-        "latitude": 19.1968455,
-        "longitude": -119.926477
+        "latitude": -45.5219915,
+        "longitude": 41.178766
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1004",
-      "name": "Социалистический",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 4,
+      "product_id": "prd-1010",
+      "name": "Пасть",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 254.38,
-      "total_price": 1017.52,
+      "price_per_unit": 219.53,
+      "total_price": 439.06,
       "kbju": {
-        "calories": 104.4,
-        "protein": 6.0,
-        "fat": 0.7,
-        "carbohydrates": 13.6
+        "calories": 262.9,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 35.0
       },
       "manufacturer": {
-        "name": "ООО «Савельев»",
+        "name": "ЗАО «Юдин»",
         "country": "Россия",
-        "website": "https://rao.info",
-        "inn": "2063622252"
+        "website": "https://ip.ru",
+        "inn": "6266618289"
+      }
+    },
+    {
+      "product_id": "prd-1012",
+      "name": "Июнь",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 64.74,
+      "total_price": 258.96,
+      "kbju": {
+        "calories": 74.5,
+        "protein": 16.4,
+        "fat": 3.9,
+        "carbohydrates": 41.7
+      },
+      "manufacturer": {
+        "name": "Корпорация Гринн",
+        "country": "Россия",
+        "website": "https://shcherbakova.ru",
+        "inn": "1467725699"
+      }
+    },
+    {
+      "product_id": "prd-1008",
+      "name": "Увеличиваться",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 298.83,
+      "total_price": 1494.15,
+      "kbju": {
+        "calories": 57.9,
+        "protein": 1.9,
+        "fat": 5.5,
+        "carbohydrates": 26.7
+      },
+      "manufacturer": {
+        "name": "АО «Горбунов»",
+        "country": "Россия",
+        "website": "https://oao.ru",
+        "inn": "1791173907"
       }
     }
   ],
-  "total_amount": 1017.52,
-  "payment_method": "cash",
-  "is_delivery": true,
+  "total_amount": 2192.17,
+  "payment_method": "card",
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Калевала",
-    "street": "пер. Городской",
-    "house": "6/1",
-    "apartment": "91",
-    "postal_code": "325594"
+    "city": "г. Кинешма",
+    "street": "ул. Черноморская",
+    "house": "4",
+    "apartment": "64",
+    "postal_code": "369435"
   },
-  "purchase_datetime": "2026-09-02T16:08:40.701924"
+  "purchase_datetime": "2026-09-27T12:46:39.827733"
 }

@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00113",
   "customer": {
-    "customer_id": "cus-1003",
-    "first_name": "Трофим",
-    "last_name": "Мамонтова"
+    "customer_id": "cus-1037",
+    "first_name": "Владлен",
+    "last_name": "Лобанова"
   },
   "store": {
-    "store_id": "store-026",
-    "store_name": "Большая Пикча — Магазин на пр. Лазурный",
-    "store_network": "Большая Пикча",
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на ул. Нахимова",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Кингисепп",
-      "street": "ш. Смоленское",
-      "house": "9/3",
-      "postal_code": "469008",
+      "city": "п. Апшеронск",
+      "street": "наб. Инженерная",
+      "house": "6",
+      "postal_code": "746141",
       "coordinates": {
-        "latitude": -78.4942005,
-        "longitude": -6.090966
+        "latitude": -83.1501905,
+        "longitude": 84.215661
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1003",
-      "name": "Порт",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 5,
+      "product_id": "prd-1012",
+      "name": "Июнь",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 300.0,
-      "total_price": 1500.0,
+      "price_per_unit": 64.74,
+      "total_price": 258.96,
       "kbju": {
-        "calories": 129.9,
-        "protein": 1.0,
-        "fat": 9.4,
-        "carbohydrates": 17.8
+        "calories": 74.5,
+        "protein": 16.4,
+        "fat": 3.9,
+        "carbohydrates": 41.7
       },
       "manufacturer": {
-        "name": "Абрамов и партнеры",
+        "name": "Корпорация Гринн",
         "country": "Россия",
-        "website": "https://koka-kola.biz",
-        "inn": "0599854783"
+        "website": "https://shcherbakova.ru",
+        "inn": "1467725699"
+      }
+    },
+    {
+      "product_id": "prd-1005",
+      "name": "Конструкция",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 204.55,
+      "total_price": 613.65,
+      "kbju": {
+        "calories": 86.4,
+        "protein": 1.8,
+        "fat": 13.4,
+        "carbohydrates": 19.0
+      },
+      "manufacturer": {
+        "name": "ОАО «Гордеев, Никитин и Кулакова»",
+        "country": "Россия",
+        "website": "https://ooo.org",
+        "inn": "4077468251"
+      }
+    },
+    {
+      "product_id": "prd-1001",
+      "name": "Пропадать",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 34.92,
+      "total_price": 34.92,
+      "kbju": {
+        "calories": 116.0,
+        "protein": 4.4,
+        "fat": 8.2,
+        "carbohydrates": 17.1
+      },
+      "manufacturer": {
+        "name": "ОАО «Аксенова-Брагина»",
+        "country": "Россия",
+        "website": "https://zao.info",
+        "inn": "4796377459"
       }
     }
   ],
-  "total_amount": 1500.0,
+  "total_amount": 907.53,
   "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "ст. Арзамас",
-    "street": "бул. Рылеева",
-    "house": "6/3",
-    "apartment": "8",
-    "postal_code": "348548"
+    "city": "ст. Каменск-Уральский",
+    "street": "ул. Ватутина",
+    "house": "3",
+    "apartment": "59",
+    "postal_code": "945194"
   },
-  "purchase_datetime": "2026-11-02T16:08:40.733946"
+  "purchase_datetime": "2026-11-06T12:46:39.830482"
 }

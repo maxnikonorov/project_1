@@ -1,6 +1,6 @@
 {
   "store_id": "store-032",
-  "store_name": "Маленькая Пикча — Магазин на ш. Овражное",
+  "store_name": "Маленькая Пикча — Магазин на ш. Мелиоративное",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Трофимов Тарас Даниилович",
-    "phone": "+71911516261",
-    "email": "emilija2017@example.net"
+    "name": "Белоусов Эрнст Елисеевич",
+    "phone": "+7 577 714 25 57",
+    "email": "vasilisatarasova@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "г. Оренбург",
-    "street": "бул. Первомайский",
-    "house": "5",
-    "postal_code": "215822",
+    "city": "п. Карачаевск",
+    "street": "бул. 70 лет Октября",
+    "house": "8",
+    "postal_code": "805685",
     "coordinates": {
-      "latitude": -49.481629,
-      "longitude": -31.452333
+      "latitude": -86.624785,
+      "longitude": -164.661451
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-11-12"
 }

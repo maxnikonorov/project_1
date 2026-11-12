@@ -1,101 +1,101 @@
 {
   "purchase_id": "ord-00058",
   "customer": {
-    "customer_id": "cus-1039",
-    "first_name": "Моисей",
-    "last_name": "Юдин"
+    "customer_id": "cus-1032",
+    "first_name": "Феликс",
+    "last_name": "Громова"
   },
   "store": {
-    "store_id": "store-038",
-    "store_name": "Маленькая Пикча — Магазин на пер. Трактовый",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-001",
+    "store_name": "Большая Пикча — Магазин на пр. Лермонтова",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Ижевск",
-      "street": "ш. Кольцова",
-      "house": "41",
-      "postal_code": "025390",
+      "city": "клх Тында",
+      "street": "ул. Родниковая",
+      "house": "9",
+      "postal_code": "054196",
       "coordinates": {
-        "latitude": -85.3445585,
-        "longitude": 168.771964
+        "latitude": 63.4883305,
+        "longitude": -143.170056
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1016",
-      "name": "Вытаскивать",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 5,
+      "product_id": "prd-1006",
+      "name": "Медицина",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 53.87,
-      "total_price": 269.35,
+      "price_per_unit": 196.38,
+      "total_price": 589.14,
       "kbju": {
-        "calories": 56.8,
-        "protein": 6.1,
-        "fat": 2.9,
-        "carbohydrates": 30.8
+        "calories": 217.8,
+        "protein": 15.1,
+        "fat": 12.2,
+        "carbohydrates": 4.8
       },
       "manufacturer": {
-        "name": "ОАО «Беспалова»",
+        "name": "Ковалев Групп",
         "country": "Россия",
-        "website": "https://smirnova.com",
-        "inn": "3793340215"
+        "website": "https://rao.biz",
+        "inn": "9365070690"
       }
     },
     {
-      "product_id": "prd-1009",
-      "name": "Левый",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "product_id": "prd-1010",
+      "name": "Пасть",
+      "category": "🥦 Овощи и зелень",
       "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 55.63,
-      "total_price": 111.26,
+      "price_per_unit": 219.53,
+      "total_price": 439.06,
       "kbju": {
-        "calories": 284.1,
-        "protein": 6.2,
-        "fat": 12.8,
-        "carbohydrates": 31.9
+        "calories": 262.9,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 35.0
       },
       "manufacturer": {
-        "name": "ООО «Беляков-Ермаков»",
+        "name": "ЗАО «Юдин»",
         "country": "Россия",
-        "website": "https://ao.edu",
-        "inn": "2315160346"
+        "website": "https://ip.ru",
+        "inn": "6266618289"
       }
     },
     {
-      "product_id": "prd-1019",
-      "name": "Выражение",
-      "category": "🥛 Молочные продукты",
-      "quantity": 5,
+      "product_id": "prd-1011",
+      "name": "Плясать",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 211.74,
-      "total_price": 1058.7,
+      "price_per_unit": 281.59,
+      "total_price": 563.18,
       "kbju": {
-        "calories": 157.2,
-        "protein": 13.4,
-        "fat": 2.7,
-        "carbohydrates": 6.2
+        "calories": 282.3,
+        "protein": 0.5,
+        "fat": 10.2,
+        "carbohydrates": 38.8
       },
       "manufacturer": {
-        "name": "Ковалева Инкорпорэйтед",
+        "name": "Кононова Инк",
         "country": "Россия",
-        "website": "https://zao.ru",
-        "inn": "4325136422"
+        "website": "https://rao.org",
+        "inn": "8513715002"
       }
     }
   ],
-  "total_amount": 1439.31,
-  "payment_method": "card",
+  "total_amount": 1591.38,
+  "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Карпинск",
-    "street": "пер. Чехова",
-    "house": "489",
-    "apartment": "2",
-    "postal_code": "128871"
+    "city": "с. Миасс",
+    "street": "наб. Нижняя",
+    "house": "741",
+    "apartment": "71",
+    "postal_code": "519114"
   },
-  "purchase_datetime": "2026-09-22T16:08:40.651263"
+  "purchase_datetime": "2026-10-31T12:46:39.823387"
 }

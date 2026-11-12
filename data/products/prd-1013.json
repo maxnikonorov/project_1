@@ -1,24 +1,24 @@
 {
   "id": "prd-1013",
-  "name": "Крутой",
-  "group": "🥦 Овощи и зелень",
-  "description": "Передо левый запустить славный набор горький кожа.",
+  "name": "Решение",
+  "group": "🥛 Молочные продукты",
+  "description": "Вариант порог чувство голубчик.",
   "kbju": {
-    "calories": 246.6,
-    "protein": 5.6,
-    "fat": 14.7,
-    "carbohydrates": 20.5
+    "calories": 165.7,
+    "protein": 7.0,
+    "fat": 7.7,
+    "carbohydrates": 22.6
   },
-  "price": 209.78,
+  "price": 272.65,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 20,
-  "is_organic": true,
-  "barcode": "0522517080592",
+  "expiry_days": 21,
+  "is_organic": false,
+  "barcode": "2589333291739",
   "manufacturer": {
-    "name": "ОАО «Костин Крюкова»",
+    "name": "ЗАО «Владимирова Федосеева»",
     "country": "Россия",
-    "website": "https://mmk.info",
-    "inn": "9008610160"
+    "website": "https://ip.com",
+    "inn": "0567872472"
   }
 }

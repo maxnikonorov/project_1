@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1012",
-  "first_name": "Панкратий",
-  "last_name": "Ильина",
-  "email": "petrovfedor@example.com",
-  "phone": "+72358414009",
-  "birth_date": "2005-01-06",
+  "first_name": "Онуфрий",
+  "last_name": "Маркова",
+  "email": "jgorbunova@example.org",
+  "phone": "+7 652 260 4964",
+  "birth_date": "1998-06-08",
   "gender": "male",
-  "registration_date": "2026-11-10T16:08:40.512444",
+  "registration_date": "2026-11-12T12:46:39.807563",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-CEDFD5758D",
+  "loyalty_card_number": "LOYAL-75E9A6A72A",
   "purchase_location": {
     "country": "Россия",
-    "city": "д. Камышин",
-    "street": "ш. Социалистическое",
-    "house": "2/5",
-    "postal_code": "848360",
+    "city": "п. Волгодонск",
+    "street": "наб. Дружбы",
+    "house": "769",
+    "postal_code": "521421",
     "coordinates": {
-      "latitude": -60.309096,
-      "longitude": -35.018249
+      "latitude": -18.577635,
+      "longitude": 118.281469
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Камышин",
-    "street": "алл. Родниковая",
-    "house": "8",
-    "apartment": "56",
-    "postal_code": "623582"
+    "city": "п. Волгодонск",
+    "street": "алл. Ульянова",
+    "house": "936",
+    "apartment": "52",
+    "postal_code": "758644"
   },
   "preferences": {
     "preferred_language": "ru",
     "preferred_payment_method": "cash",
-    "receive_promotions": false
+    "receive_promotions": true
   }
 }

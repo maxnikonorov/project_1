@@ -1,101 +1,59 @@
 {
   "purchase_id": "ord-00111",
   "customer": {
-    "customer_id": "cus-1035",
-    "first_name": "Евсей",
-    "last_name": "Гордеева"
+    "customer_id": "cus-1002",
+    "first_name": "Ирина",
+    "last_name": "Шарова"
   },
   "store": {
-    "store_id": "store-020",
-    "store_name": "Большая Пикча — Магазин на пр. Красноармейский",
+    "store_id": "store-028",
+    "store_name": "Большая Пикча — Магазин на наб. Комсомольская",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "клх Коломна",
-      "street": "пр. Социалистический",
-      "house": "2",
-      "postal_code": "948719",
+      "city": "д. Нефтекамск",
+      "street": "пер. 9 Января",
+      "house": "690",
+      "postal_code": "306481",
       "coordinates": {
-        "latitude": 55.7082815,
-        "longitude": 95.496798
+        "latitude": -67.993054,
+        "longitude": 57.769615
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1010",
-      "name": "Наткнуться",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 4,
-      "unit": "шт",
-      "price_per_unit": 109.99,
-      "total_price": 439.96,
-      "kbju": {
-        "calories": 111.4,
-        "protein": 5.0,
-        "fat": 2.9,
-        "carbohydrates": 48.1
-      },
-      "manufacturer": {
-        "name": "АО «Третьяков, Кабанов и Казакова»",
-        "country": "Россия",
-        "website": "https://rao.edu",
-        "inn": "0018510627"
-      }
-    },
-    {
-      "product_id": "prd-1009",
-      "name": "Левый",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "product_id": "prd-1003",
+      "name": "Палец",
+      "category": "🥛 Молочные продукты",
       "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 55.63,
-      "total_price": 55.63,
+      "price_per_unit": 123.81,
+      "total_price": 123.81,
       "kbju": {
-        "calories": 284.1,
-        "protein": 6.2,
-        "fat": 12.8,
-        "carbohydrates": 31.9
+        "calories": 287.5,
+        "protein": 19.7,
+        "fat": 14.4,
+        "carbohydrates": 47.2
       },
       "manufacturer": {
-        "name": "ООО «Беляков-Ермаков»",
+        "name": "АО «Воронцов»",
         "country": "Россия",
-        "website": "https://ao.edu",
-        "inn": "2315160346"
-      }
-    },
-    {
-      "product_id": "prd-1003",
-      "name": "Порт",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 300.0,
-      "total_price": 600.0,
-      "kbju": {
-        "calories": 129.9,
-        "protein": 1.0,
-        "fat": 9.4,
-        "carbohydrates": 17.8
-      },
-      "manufacturer": {
-        "name": "Абрамов и партнеры",
-        "country": "Россия",
-        "website": "https://koka-kola.biz",
-        "inn": "0599854783"
+        "website": "https://zao.edu",
+        "inn": "2681589498"
       }
     }
   ],
-  "total_amount": 1095.59,
-  "payment_method": "card",
+  "total_amount": 123.81,
+  "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Борзя",
-    "street": "ш. Набережное",
-    "house": "700",
-    "apartment": "69",
-    "postal_code": "777744"
+    "city": "ст. Малая Вишера",
+    "street": "пер. Леваневского",
+    "house": "61",
+    "apartment": "57",
+    "postal_code": "712187"
   },
-  "purchase_datetime": "2026-10-21T16:08:40.731537"
+  "purchase_datetime": "2026-10-15T12:46:39.830263"
 }

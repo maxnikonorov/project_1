@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00005",
   "customer": {
-    "customer_id": "cus-1030",
-    "first_name": "Феофан",
-    "last_name": "Полякова"
+    "customer_id": "cus-1024",
+    "first_name": "Галина",
+    "last_name": "Костин"
   },
   "store": {
-    "store_id": "store-012",
-    "store_name": "Большая Пикча — Магазин на пр. Учительский",
-    "store_network": "Большая Пикча",
+    "store_id": "store-031",
+    "store_name": "Маленькая Пикча — Магазин на алл. Полтавская",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Чита",
-      "street": "ул. Солнечная",
-      "house": "9",
-      "postal_code": "424493",
+      "city": "ст. Цимлянск",
+      "street": "наб. Индустриальная",
+      "house": "3",
+      "postal_code": "593716",
       "coordinates": {
-        "latitude": -80.5563485,
-        "longitude": 94.276817
+        "latitude": -60.422421,
+        "longitude": -111.181048
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1004",
-      "name": "Социалистический",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 5,
+      "product_id": "prd-1018",
+      "name": "Пища",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 254.38,
-      "total_price": 1271.9,
+      "price_per_unit": 48.83,
+      "total_price": 146.49,
       "kbju": {
-        "calories": 104.4,
-        "protein": 6.0,
-        "fat": 0.7,
-        "carbohydrates": 13.6
+        "calories": 275.1,
+        "protein": 12.4,
+        "fat": 0.2,
+        "carbohydrates": 34.3
       },
       "manufacturer": {
-        "name": "ООО «Савельев»",
+        "name": "НПО «Алексеева, Русакова и Лебедев»",
         "country": "Россия",
-        "website": "https://rao.info",
-        "inn": "2063622252"
+        "website": "https://zao.org",
+        "inn": "6006312092"
+      }
+    },
+    {
+      "product_id": "prd-1012",
+      "name": "Июнь",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 64.74,
+      "total_price": 194.22,
+      "kbju": {
+        "calories": 74.5,
+        "protein": 16.4,
+        "fat": 3.9,
+        "carbohydrates": 41.7
+      },
+      "manufacturer": {
+        "name": "Корпорация Гринн",
+        "country": "Россия",
+        "website": "https://shcherbakova.ru",
+        "inn": "1467725699"
       }
     }
   ],
-  "total_amount": 1271.9,
-  "payment_method": "card",
-  "is_delivery": false,
+  "total_amount": 340.71,
+  "payment_method": "cash",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Александровск",
-    "street": "ул. Щорса",
-    "house": "317",
-    "apartment": "82",
-    "postal_code": "128877"
+    "city": "д. Курск",
+    "street": "алл. Красноярская",
+    "house": "86",
+    "apartment": "74",
+    "postal_code": "091675"
   },
-  "purchase_datetime": "2026-10-31T16:08:40.574573"
+  "purchase_datetime": "2026-09-01T12:46:39.813953"
 }

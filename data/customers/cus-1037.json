@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1037",
-  "first_name": "Лукьян",
-  "last_name": "Ершов",
-  "email": "luchezar06@example.com",
-  "phone": "8 802 098 77 39",
-  "birth_date": "1969-03-29",
+  "first_name": "Владлен",
+  "last_name": "Лобанова",
+  "email": "jaroslav2026@example.org",
+  "phone": "8 (618) 939-60-62",
+  "birth_date": "1988-02-11",
   "gender": "male",
-  "registration_date": "2026-11-10T16:08:40.557525",
+  "registration_date": "2026-11-12T12:46:39.811567",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-081CC53C86",
+  "loyalty_card_number": "LOYAL-38DBAB5FE6",
   "purchase_location": {
     "country": "Россия",
-    "city": "к. Ижевск",
-    "street": "ш. Кольцова",
-    "house": "41",
-    "postal_code": "025390",
+    "city": "ст. Каменск-Уральский",
+    "street": "бул. Бульварный",
+    "house": "94",
+    "postal_code": "410592",
     "coordinates": {
-      "latitude": -85.3445585,
-      "longitude": 168.771964
+      "latitude": -77.446573,
+      "longitude": 164.029875
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "к. Ижевск",
-    "street": "алл. Отрадная",
-    "house": "2/5",
-    "apartment": "54",
-    "postal_code": "688111"
+    "city": "ст. Каменск-Уральский",
+    "street": "ул. Ватутина",
+    "house": "3",
+    "apartment": "59",
+    "postal_code": "945194"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "card",
-    "receive_promotions": true
+    "preferred_payment_method": "cash",
+    "receive_promotions": false
   }
 }

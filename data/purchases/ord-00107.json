@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00107",
   "customer": {
-    "customer_id": "cus-1007",
-    "first_name": "Владимир",
-    "last_name": "Меркушева"
+    "customer_id": "cus-1020",
+    "first_name": "Тихон",
+    "last_name": "Жданова"
   },
   "store": {
-    "store_id": "store-004",
-    "store_name": "Большая Пикча — Магазин на пр. Донской",
+    "store_id": "store-020",
+    "store_name": "Большая Пикча — Магазин на ш. Ручейное",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "ст. Арзамас",
-      "street": "ул. Войкова",
-      "house": "709",
-      "postal_code": "686059",
+      "city": "г. Киржач",
+      "street": "наб. Жукова",
+      "house": "9",
+      "postal_code": "173871",
       "coordinates": {
-        "latitude": 27.408209,
-        "longitude": -47.579346
+        "latitude": -14.7170285,
+        "longitude": 99.308574
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1014",
-      "name": "Что",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 5,
+      "product_id": "prd-1003",
+      "name": "Палец",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 139.68,
-      "total_price": 698.4,
+      "price_per_unit": 123.81,
+      "total_price": 247.62,
       "kbju": {
-        "calories": 231.7,
-        "protein": 17.6,
-        "fat": 9.2,
-        "carbohydrates": 6.7
+        "calories": 287.5,
+        "protein": 19.7,
+        "fat": 14.4,
+        "carbohydrates": 47.2
       },
       "manufacturer": {
-        "name": "Петухова Лимитед",
+        "name": "АО «Воронцов»",
         "country": "Россия",
-        "website": "https://ip.net",
-        "inn": "2487454296"
+        "website": "https://zao.edu",
+        "inn": "2681589498"
       }
     }
   ],
-  "total_amount": 698.4,
+  "total_amount": 247.62,
   "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "к. Кажим",
-    "street": "пер. Таманский",
-    "house": "86",
-    "apartment": "80",
-    "postal_code": "389065"
+    "city": "п. Фатеж",
+    "street": "наб. Сибирская",
+    "house": "223",
+    "apartment": "44",
+    "postal_code": "490239"
   },
-  "purchase_datetime": "2026-09-23T16:08:40.725000"
+  "purchase_datetime": "2026-08-31T12:46:39.829803"
 }

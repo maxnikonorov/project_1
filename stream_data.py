@@ -76,6 +76,15 @@ def run_producer():
     client.close()
 
 
+def flush_batches(ch_client, batch_data):
+    for t, rows in batch_data.items():
+        if rows:
+            ch_table = COLLECTIONS_MAP[t]
+            ch_client.insert(ch_table, rows, column_names=['data'])
+            print(f"Записан пакет {len(rows)} строк в [{ch_table}]")
+            batch_data[t] = []
+
+
 def run_consumer():
     ch_client = clickhouse_connect.get_client(host='localhost', port=8123)
 
@@ -84,38 +93,35 @@ def run_consumer():
         bootstrap_servers=['localhost:9092'],
         auto_offset_reset='earliest',
         enable_auto_commit=True,
-        group_id='clickhouse-json-loader-group'
+        group_id='clickhouse-json-loader-group',
+        consumer_timeout_ms=1000  # Прерываем ожидание, если 1 сек нет сообщений
     )
 
     batch_data = {topic: [] for topic in TOPICS}
     last_flush_time = time.time()
 
-    print("Ожидание стриминга сообщений из Kafka(нажмите Ctrl+C для выхода)")
+    print("Ожидание стриминга сообщений из Kafka (нажмите Ctrl+C для выхода)")
     try:
-        for message in consumer:
-            topic = message.topic
-            # Декодируем байты из Kafka обратно в строку (сырой JSON)
-            raw_json_string = message.value.decode('utf-8')
+        while True:
+            for message in consumer:
+                topic = message.topic
+                raw_json_string = message.value.decode('utf-8')
+                batch_data[topic].append((raw_json_string,))
 
-            # Добавляем в буфер как кортеж с одним элементом, так как в stg_* таблицах всего одна колонка `data`
-            batch_data[topic].append((raw_json_string,))
+                total_buffered = sum(len(v) for v in batch_data.values())
+                if total_buffered >= 200 or (time.time() - last_flush_time) > 3:
+                    flush_batches(ch_client, batch_data)
+                    last_flush_time = time.time()
 
-            # Условие сброса пакета: накопилось 200 записей суммарно или прошло более 3 секунд
-            total_buffered = sum(len(v) for v in batch_data.values())
-            if total_buffered >= 200 or (time.time() - last_flush_time) > 3:
-                for t, rows in batch_data.items():
-                    if rows:
-                        ch_table = COLLECTIONS_MAP[t]
-                        # Вставляем данные пакетно в колонку `data`
-                        ch_client.insert(ch_table, rows, column_names=['data'])
-                        print(f"Записан пакет {len(rows)} строк в [{ch_table}]")
-                        batch_data[t] = [] # Очищаем буфер для этого топика
-
+            # Срабатывает раз в секунду, когда поток сообщений временно иссяк
+            if sum(len(v) for v in batch_data.values()) > 0 and (time.time() - last_flush_time) > 3:
+                flush_batches(ch_client, batch_data)
                 last_flush_time = time.time()
 
     except KeyboardInterrupt:
         print("Стриминг остановлен пользователем.")
     finally:
+        flush_batches(ch_client, batch_data)
         consumer.close()
 
 

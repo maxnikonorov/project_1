@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1026",
-  "first_name": "Исай",
-  "last_name": "Яковлева",
-  "email": "demid_70@example.com",
-  "phone": "85560151743",
-  "birth_date": "1969-08-26",
-  "gender": "female",
-  "registration_date": "2026-11-10T16:08:40.539988",
+  "first_name": "Лука",
+  "last_name": "Романов",
+  "email": "emeljanovefim@example.org",
+  "phone": "+7 (669) 918-07-31",
+  "birth_date": "1974-02-08",
+  "gender": "male",
+  "registration_date": "2026-11-12T12:46:39.809738",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-BB086546DF",
+  "loyalty_card_number": "LOYAL-0C75950AD7",
   "purchase_location": {
     "country": "Россия",
-    "city": "п. Дно",
-    "street": "пр. Мая 1",
-    "house": "5/5",
-    "postal_code": "183496",
+    "city": "к. Юровск",
+    "street": "алл. Щетинкина",
+    "house": "83",
+    "postal_code": "468663",
     "coordinates": {
-      "latitude": 20.9920365,
-      "longitude": -71.498795
+      "latitude": 8.4289995,
+      "longitude": 69.613872
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "п. Дно",
-    "street": "наб. Мичурина",
-    "house": "869",
-    "apartment": "60",
-    "postal_code": "124806"
+    "city": "к. Юровск",
+    "street": "наб. Раздольная",
+    "house": "27",
+    "apartment": "54",
+    "postal_code": "651820"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "card",
-    "receive_promotions": false
+    "preferred_payment_method": "cash",
+    "receive_promotions": true
   }
 }

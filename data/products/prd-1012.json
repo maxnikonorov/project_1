@@ -1,24 +1,24 @@
 {
   "id": "prd-1012",
-  "name": "Помолчать",
-  "group": "🥛 Молочные продукты",
-  "description": "Непривычный забирать низкий слать что пламя.",
+  "name": "Июнь",
+  "group": "🍏 Фрукты и ягоды",
+  "description": "Радость зарплата слишком висеть.",
   "kbju": {
-    "calories": 142.7,
-    "protein": 15.3,
-    "fat": 9.2,
-    "carbohydrates": 1.7
+    "calories": 74.5,
+    "protein": 16.4,
+    "fat": 3.9,
+    "carbohydrates": 41.7
   },
-  "price": 177.06,
+  "price": 64.74,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 26,
-  "is_organic": true,
-  "barcode": "6437654566097",
+  "expiry_days": 17,
+  "is_organic": false,
+  "barcode": "9578027819369",
   "manufacturer": {
-    "name": "НПО «Силин-Богданова»",
+    "name": "Корпорация Гринн",
     "country": "Россия",
-    "website": "https://ip.org",
-    "inn": "8788386125"
+    "website": "https://shcherbakova.ru",
+    "inn": "1467725699"
   }
 }

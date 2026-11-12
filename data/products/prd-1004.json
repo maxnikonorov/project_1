@@ -1,24 +1,24 @@
 {
   "id": "prd-1004",
-  "name": "Социалистический",
-  "group": "🥩 Мясо, рыба, яйца и бобовые",
-  "description": "Зима господь сбросить коробка.",
+  "name": "Сверкающий",
+  "group": "🥛 Молочные продукты",
+  "description": "Естественный командир темнеть нажать некоторый.",
   "kbju": {
-    "calories": 104.4,
-    "protein": 6.0,
-    "fat": 0.7,
-    "carbohydrates": 13.6
+    "calories": 260.1,
+    "protein": 7.8,
+    "fat": 9.0,
+    "carbohydrates": 43.0
   },
-  "price": 254.38,
+  "price": 42.31,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 24,
+  "expiry_days": 11,
   "is_organic": true,
-  "barcode": "6110809386329",
+  "barcode": "7131405015917",
   "manufacturer": {
-    "name": "ООО «Савельев»",
+    "name": "Продо",
     "country": "Россия",
-    "website": "https://rao.info",
-    "inn": "2063622252"
+    "website": "https://ip.org",
+    "inn": "2875238332"
   }
 }

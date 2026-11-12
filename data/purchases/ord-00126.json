@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00126",
   "customer": {
-    "customer_id": "cus-1025",
-    "first_name": "Спартак",
-    "last_name": "Афанасьева"
+    "customer_id": "cus-1036",
+    "first_name": "Стоян",
+    "last_name": "Наумов"
   },
   "store": {
-    "store_id": "store-002",
-    "store_name": "Большая Пикча — Магазин на наб. Тельмана",
-    "store_network": "Большая Пикча",
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на пер. Горького",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "ст. Горячий Ключ",
-      "street": "ул. Олега Кошевого",
-      "house": "884",
-      "postal_code": "992826",
+      "city": "г. Яр-Сале",
+      "street": "алл. Железнодорожная",
+      "house": "133",
+      "postal_code": "360004",
       "coordinates": {
-        "latitude": -71.5740635,
-        "longitude": 119.930479
+        "latitude": -88.296027,
+        "longitude": -30.594842
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1007",
-      "name": "Соответствие",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 5,
+      "product_id": "prd-1004",
+      "name": "Сверкающий",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 254.38,
-      "total_price": 1271.9,
+      "price_per_unit": 42.31,
+      "total_price": 126.93,
       "kbju": {
-        "calories": 250.9,
-        "protein": 11.5,
-        "fat": 3.2,
-        "carbohydrates": 44.9
+        "calories": 260.1,
+        "protein": 7.8,
+        "fat": 9.0,
+        "carbohydrates": 43.0
       },
       "manufacturer": {
-        "name": "Терентьев Инкорпорэйтед",
+        "name": "Продо",
         "country": "Россия",
-        "website": "https://ip.info",
-        "inn": "3390887494"
+        "website": "https://ip.org",
+        "inn": "2875238332"
+      }
+    },
+    {
+      "product_id": "prd-1014",
+      "name": "Еврейский",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 228.93,
+      "total_price": 228.93,
+      "kbju": {
+        "calories": 224.9,
+        "protein": 11.4,
+        "fat": 13.1,
+        "carbohydrates": 22.4
+      },
+      "manufacturer": {
+        "name": "ООО «Котова-Белякова»",
+        "country": "Россия",
+        "website": "https://yakushev.org",
+        "inn": "1032222274"
+      }
+    },
+    {
+      "product_id": "prd-1010",
+      "name": "Пасть",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 219.53,
+      "total_price": 439.06,
+      "kbju": {
+        "calories": 262.9,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 35.0
+      },
+      "manufacturer": {
+        "name": "ЗАО «Юдин»",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "6266618289"
       }
     }
   ],
-  "total_amount": 1271.9,
+  "total_amount": 794.92,
   "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "к. Кингисепп",
-    "street": "бул. Гастелло",
-    "house": "445",
-    "apartment": "72",
-    "postal_code": "138900"
+    "city": "к. Сорочинск",
+    "street": "бул. Московский",
+    "house": "28",
+    "apartment": "37",
+    "postal_code": "695102"
   },
-  "purchase_datetime": "2026-09-03T16:08:40.751543"
+  "purchase_datetime": "2026-10-23T12:46:39.832093"
 }

@@ -1,6 +1,6 @@
 {
   "store_id": "store-034",
-  "store_name": "Маленькая Пикча — Магазин на бул. Энергетиков",
+  "store_name": "Маленькая Пикча — Магазин на наб. Металлистов",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Сидорова Василиса Кузьминична",
-    "phone": "8 776 019 4402",
-    "email": "anani_2007@example.com"
+    "name": "Филарет Богданович Сидоров",
+    "phone": "8 159 840 87 86",
+    "email": "avolkova@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "п. Нефтегорск (Самар.)",
-    "street": "ул. Свободная",
-    "house": "40",
-    "postal_code": "707821",
+    "city": "г. Томск",
+    "street": "алл. Некрасова",
+    "house": "426",
+    "postal_code": "502356",
     "coordinates": {
-      "latitude": -68.899129,
-      "longitude": 28.922537
+      "latitude": 44.727022,
+      "longitude": 163.9814
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-11-12"
 }

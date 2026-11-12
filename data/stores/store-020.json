@@ -1,6 +1,6 @@
 {
   "store_id": "store-020",
-  "store_name": "Большая Пикча — Магазин на пр. Красноармейский",
+  "store_name": "Большая Пикча — Магазин на ш. Ручейное",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Панфилов Эмиль Ануфриевич",
-    "phone": "+7 177 334 7192",
-    "email": "zaharovvitali@example.org"
+    "name": "Морозова Пелагея Геннадиевна",
+    "phone": "+7 193 061 3437",
+    "email": "karp_2008@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "клх Коломна",
-    "street": "пр. Социалистический",
-    "house": "2",
-    "postal_code": "948719",
+    "city": "г. Киржач",
+    "street": "наб. Жукова",
+    "house": "9",
+    "postal_code": "173871",
     "coordinates": {
-      "latitude": 55.7082815,
-      "longitude": 95.496798
+      "latitude": -14.7170285,
+      "longitude": 99.308574
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "last_inventory_date": "2026-11-12"
 }

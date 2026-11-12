@@ -1,6 +1,6 @@
 {
   "store_id": "store-009",
-  "store_name": "Большая Пикча — Магазин на ул. Моховая",
+  "store_name": "Большая Пикча — Магазин на пер. 50 лет Октября",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Котова Эмилия Натановна",
-    "phone": "8 (645) 739-9292",
-    "email": "julianeliseev@example.com"
+    "name": "Ипат Эдгардович Королев",
+    "phone": "8 (708) 345-9868",
+    "email": "nadezhda_00@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "клх Юрюзань",
-    "street": "наб. Заозерная",
-    "house": "5/4",
-    "postal_code": "194830",
+    "city": "клх Ессентуки",
+    "street": "пер. Дорожников",
+    "house": "5",
+    "postal_code": "580869",
     "coordinates": {
-      "latitude": 81.654657,
-      "longitude": -154.844563
+      "latitude": -63.4804455,
+      "longitude": 155.539662
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": false,
-  "last_inventory_date": "2026-11-10"
+  "warehouse_connected": true,
+  "last_inventory_date": "2026-11-12"
 }

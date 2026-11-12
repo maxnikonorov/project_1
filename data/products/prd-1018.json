@@ -1,24 +1,24 @@
 {
   "id": "prd-1018",
-  "name": "Смеяться",
-  "group": "🥩 Мясо, рыба, яйца и бобовые",
-  "description": "Коричневый полюбить гулять свежий вскинуть.",
+  "name": "Пища",
+  "group": "🍏 Фрукты и ягоды",
+  "description": "Нажать способ танцевать строительство.",
   "kbju": {
-    "calories": 175.7,
-    "protein": 9.9,
-    "fat": 11.6,
-    "carbohydrates": 36.9
+    "calories": 275.1,
+    "protein": 12.4,
+    "fat": 0.2,
+    "carbohydrates": 34.3
   },
-  "price": 143.87,
+  "price": 48.83,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 30,
+  "expiry_days": 10,
   "is_organic": false,
-  "barcode": "8414542853260",
+  "barcode": "9087827646971",
   "manufacturer": {
-    "name": "АО «Архипов»",
+    "name": "НПО «Алексеева, Русакова и Лебедев»",
     "country": "Россия",
     "website": "https://zao.org",
-    "inn": "6430660253"
+    "inn": "6006312092"
   }
 }

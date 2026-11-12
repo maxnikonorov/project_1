@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00125",
   "customer": {
-    "customer_id": "cus-1020",
-    "first_name": "Севастьян",
-    "last_name": "Павлова"
+    "customer_id": "cus-1009",
+    "first_name": "Матвей",
+    "last_name": "Лапин"
   },
   "store": {
-    "store_id": "store-044",
-    "store_name": "Маленькая Пикча — Магазин на пр. Иванова",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-030",
+    "store_name": "Большая Пикча — Магазин на ш. Космодемьянской",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Калач-на-Дону",
-      "street": "бул. Дарвина",
-      "house": "6/7",
-      "postal_code": "484693",
+      "city": "ст. Шелехов",
+      "street": "ул. Титова",
+      "house": "8",
+      "postal_code": "296629",
       "coordinates": {
-        "latitude": -56.9071505,
-        "longitude": 39.077082
+        "latitude": 42.7402805,
+        "longitude": -99.295106
       }
     }
   },
   "items": [
     {
       "product_id": "prd-1008",
-      "name": "Горький",
-      "category": "🥦 Овощи и зелень",
+      "name": "Увеличиваться",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 203.15,
-      "total_price": 609.45,
+      "price_per_unit": 298.83,
+      "total_price": 896.49,
       "kbju": {
-        "calories": 271.9,
-        "protein": 15.0,
-        "fat": 7.2,
-        "carbohydrates": 40.0
+        "calories": 57.9,
+        "protein": 1.9,
+        "fat": 5.5,
+        "carbohydrates": 26.7
       },
       "manufacturer": {
-        "name": "Шарапов Групп",
+        "name": "АО «Горбунов»",
         "country": "Россия",
-        "website": "https://ooo.edu",
-        "inn": "3346683207"
-      }
-    },
-    {
-      "product_id": "prd-1013",
-      "name": "Крутой",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 3,
-      "unit": "шт",
-      "price_per_unit": 209.78,
-      "total_price": 629.34,
-      "kbju": {
-        "calories": 246.6,
-        "protein": 5.6,
-        "fat": 14.7,
-        "carbohydrates": 20.5
-      },
-      "manufacturer": {
-        "name": "ОАО «Костин Крюкова»",
-        "country": "Россия",
-        "website": "https://mmk.info",
-        "inn": "9008610160"
+        "website": "https://oao.ru",
+        "inn": "1791173907"
       }
     }
   ],
-  "total_amount": 1238.79,
+  "total_amount": 896.49,
   "payment_method": "cash",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Соль-Илецк",
-    "street": "ш. Лесозаводское",
-    "house": "316",
-    "apartment": "11",
-    "postal_code": "278229"
+    "city": "клх Биробиджан",
+    "street": "наб. Прудная",
+    "house": "4/7",
+    "apartment": "51",
+    "postal_code": "179772"
   },
-  "purchase_datetime": "2026-09-17T16:08:40.750539"
+  "purchase_datetime": "2026-08-14T12:46:39.831976"
 }

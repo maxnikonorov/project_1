@@ -1,32 +1,32 @@
 {
   "customer_id": "cus-1040",
-  "first_name": "Богдан",
-  "last_name": "Терентьев",
-  "email": "sofijafomina@example.org",
-  "phone": "8 906 436 7490",
-  "birth_date": "1975-01-02",
-  "gender": "female",
-  "registration_date": "2026-11-10T16:08:40.562042",
+  "first_name": "Гордей",
+  "last_name": "Михайлова",
+  "email": "beljaevadarja@example.com",
+  "phone": "+76175515856",
+  "birth_date": "1995-09-03",
+  "gender": "male",
+  "registration_date": "2026-11-12T12:46:39.812171",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-C77535013D",
+  "loyalty_card_number": "LOYAL-8C095053B6",
   "purchase_location": {
     "country": "Россия",
-    "city": "г. Соловки",
-    "street": "пер. Космический",
-    "house": "7",
-    "postal_code": "821818",
+    "city": "клх Вологда",
+    "street": "ул. 40 лет Победы",
+    "house": "50",
+    "postal_code": "861238",
     "coordinates": {
-      "latitude": -8.30231,
-      "longitude": 144.533567
+      "latitude": -20.6290965,
+      "longitude": 76.652447
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "г. Соловки",
-    "street": "алл. Блюхера",
-    "house": "259",
-    "apartment": "94",
-    "postal_code": "602320"
+    "city": "клх Вологда",
+    "street": "наб. Белорусская",
+    "house": "6/2",
+    "apartment": "21",
+    "postal_code": "073555"
   },
   "preferences": {
     "preferred_language": "ru",

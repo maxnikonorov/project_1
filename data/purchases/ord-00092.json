@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00092",
   "customer": {
-    "customer_id": "cus-1040",
-    "first_name": "Богдан",
-    "last_name": "Терентьев"
+    "customer_id": "cus-1043",
+    "first_name": "Силантий",
+    "last_name": "Третьяков"
   },
   "store": {
-    "store_id": "store-036",
-    "store_name": "Маленькая Пикча — Магазин на пер. 50 лет Октября",
+    "store_id": "store-031",
+    "store_name": "Маленькая Пикча — Магазин на алл. Полтавская",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Борзя",
-      "street": "пер. Тенистый",
-      "house": "45",
-      "postal_code": "771850",
+      "city": "ст. Цимлянск",
+      "street": "наб. Индустриальная",
+      "house": "3",
+      "postal_code": "593716",
       "coordinates": {
-        "latitude": -65.3852585,
-        "longitude": -79.050702
+        "latitude": -60.422421,
+        "longitude": -111.181048
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1017",
-      "name": "Пол",
+      "product_id": "prd-1001",
+      "name": "Пропадать",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 34.92,
+      "total_price": 34.92,
+      "kbju": {
+        "calories": 116.0,
+        "protein": 4.4,
+        "fat": 8.2,
+        "carbohydrates": 17.1
+      },
+      "manufacturer": {
+        "name": "ОАО «Аксенова-Брагина»",
+        "country": "Россия",
+        "website": "https://zao.info",
+        "inn": "4796377459"
+      }
+    },
+    {
+      "product_id": "prd-1000",
+      "name": "Наступать",
       "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 150.17,
-      "total_price": 450.51,
+      "price_per_unit": 49.11,
+      "total_price": 147.33,
       "kbju": {
-        "calories": 127.5,
-        "protein": 3.3,
-        "fat": 7.5,
-        "carbohydrates": 41.2
+        "calories": 261.8,
+        "protein": 10.9,
+        "fat": 3.4,
+        "carbohydrates": 22.6
       },
       "manufacturer": {
-        "name": "ОАО «Родионова-Осипов»",
+        "name": "ИП «Шилов»",
         "country": "Россия",
-        "website": "https://ip.ru",
-        "inn": "4308518530"
+        "website": "https://zao.com",
+        "inn": "6198265072"
       }
     }
   ],
-  "total_amount": 450.51,
-  "payment_method": "card",
+  "total_amount": 182.25,
+  "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "г. Соловки",
-    "street": "алл. Блюхера",
-    "house": "259",
-    "apartment": "94",
-    "postal_code": "602320"
+    "city": "с. Киров (Вятка)",
+    "street": "наб. Свободная",
+    "house": "685",
+    "apartment": "98",
+    "postal_code": "356036"
   },
-  "purchase_datetime": "2026-10-10T16:08:40.702934"
+  "purchase_datetime": "2026-10-20T12:46:39.827872"
 }

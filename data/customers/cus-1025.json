@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1025",
-  "first_name": "Спартак",
-  "last_name": "Афанасьева",
-  "email": "kasjan98@example.com",
-  "phone": "8 (802) 269-08-51",
-  "birth_date": "1996-10-27",
-  "gender": "female",
-  "registration_date": "2026-11-10T16:08:40.538984",
+  "first_name": "Богдан",
+  "last_name": "Моисеева",
+  "email": "ribakovevse@example.net",
+  "phone": "+7 632 233 91 23",
+  "birth_date": "1973-09-25",
+  "gender": "male",
+  "registration_date": "2026-11-12T12:46:39.809598",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-BEE1DE2A73",
+  "loyalty_card_number": "LOYAL-1A7767995F",
   "purchase_location": {
     "country": "Россия",
-    "city": "к. Кингисепп",
-    "street": "ш. Смоленское",
-    "house": "9/3",
-    "postal_code": "469008",
+    "city": "с. Сочи",
+    "street": "бул. Ангарский",
+    "house": "402",
+    "postal_code": "209220",
     "coordinates": {
-      "latitude": -78.4942005,
-      "longitude": -6.090966
+      "latitude": -44.7970055,
+      "longitude": 10.439543
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "к. Кингисепп",
-    "street": "бул. Гастелло",
-    "house": "445",
-    "apartment": "72",
-    "postal_code": "138900"
+    "city": "с. Сочи",
+    "street": "ул. К.Маркса",
+    "house": "92",
+    "apartment": "79",
+    "postal_code": "814611"
   },
   "preferences": {
     "preferred_language": "ru",
     "preferred_payment_method": "cash",
-    "receive_promotions": false
+    "receive_promotions": true
   }
 }

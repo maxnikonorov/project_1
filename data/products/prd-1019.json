@@ -1,24 +1,24 @@
 {
   "id": "prd-1019",
-  "name": "Выражение",
-  "group": "🥛 Молочные продукты",
-  "description": "Анализ ручей карандаш полюбить фонарик соответствие поздравлять.",
+  "name": "Военный",
+  "group": "🥩 Мясо, рыба, яйца и бобовые",
+  "description": "Призыв коммунизм табак пространство неудобно зеленый.",
   "kbju": {
-    "calories": 157.2,
-    "protein": 13.4,
-    "fat": 2.7,
-    "carbohydrates": 6.2
+    "calories": 160.4,
+    "protein": 11.7,
+    "fat": 4.3,
+    "carbohydrates": 21.4
   },
-  "price": 211.74,
+  "price": 166.7,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 22,
+  "expiry_days": 11,
   "is_organic": false,
-  "barcode": "8186127115673",
+  "barcode": "3334367042494",
   "manufacturer": {
-    "name": "Ковалева Инкорпорэйтед",
+    "name": "ИП «Голубева»",
     "country": "Россия",
-    "website": "https://zao.ru",
-    "inn": "4325136422"
+    "website": "https://gruppa.ru",
+    "inn": "3931722625"
   }
 }

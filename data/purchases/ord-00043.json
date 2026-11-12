@@ -1,101 +1,59 @@
 {
   "purchase_id": "ord-00043",
   "customer": {
-    "customer_id": "cus-1032",
-    "first_name": "Флорентин",
-    "last_name": "Рогов"
+    "customer_id": "cus-1020",
+    "first_name": "Тихон",
+    "last_name": "Жданова"
   },
   "store": {
-    "store_id": "store-021",
-    "store_name": "Большая Пикча — Магазин на пер. Ильича",
+    "store_id": "store-013",
+    "store_name": "Большая Пикча — Магазин на бул. Полярный",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "клх Соль-Илецк",
-      "street": "пр. Беляева",
-      "house": "70",
-      "postal_code": "700510",
+      "city": "п. Волгодонск",
+      "street": "наб. Дружбы",
+      "house": "769",
+      "postal_code": "521421",
       "coordinates": {
-        "latitude": -3.1154965,
-        "longitude": -45.366801
+        "latitude": -18.577635,
+        "longitude": 118.281469
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1018",
-      "name": "Смеяться",
+      "product_id": "prd-1014",
+      "name": "Еврейский",
       "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 143.87,
-      "total_price": 287.74,
-      "kbju": {
-        "calories": 175.7,
-        "protein": 9.9,
-        "fat": 11.6,
-        "carbohydrates": 36.9
-      },
-      "manufacturer": {
-        "name": "АО «Архипов»",
-        "country": "Россия",
-        "website": "https://zao.org",
-        "inn": "6430660253"
-      }
-    },
-    {
-      "product_id": "prd-1009",
-      "name": "Левый",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 55.63,
-      "total_price": 278.15,
+      "price_per_unit": 228.93,
+      "total_price": 1144.65,
       "kbju": {
-        "calories": 284.1,
-        "protein": 6.2,
-        "fat": 12.8,
-        "carbohydrates": 31.9
+        "calories": 224.9,
+        "protein": 11.4,
+        "fat": 13.1,
+        "carbohydrates": 22.4
       },
       "manufacturer": {
-        "name": "ООО «Беляков-Ермаков»",
+        "name": "ООО «Котова-Белякова»",
         "country": "Россия",
-        "website": "https://ao.edu",
-        "inn": "2315160346"
-      }
-    },
-    {
-      "product_id": "prd-1008",
-      "name": "Горький",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 203.15,
-      "total_price": 203.15,
-      "kbju": {
-        "calories": 271.9,
-        "protein": 15.0,
-        "fat": 7.2,
-        "carbohydrates": 40.0
-      },
-      "manufacturer": {
-        "name": "Шарапов Групп",
-        "country": "Россия",
-        "website": "https://ooo.edu",
-        "inn": "3346683207"
+        "website": "https://yakushev.org",
+        "inn": "1032222274"
       }
     }
   ],
-  "total_amount": 769.04,
-  "payment_method": "card",
+  "total_amount": 1144.65,
+  "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Домбай",
-    "street": "пер. Докучаева",
-    "house": "17",
-    "apartment": "97",
-    "postal_code": "921129"
+    "city": "п. Фатеж",
+    "street": "наб. Сибирская",
+    "house": "223",
+    "apartment": "44",
+    "postal_code": "490239"
   },
-  "purchase_datetime": "2026-09-08T16:08:40.626426"
+  "purchase_datetime": "2026-10-04T12:46:39.821400"
 }

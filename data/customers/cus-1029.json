@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1029",
-  "first_name": "Родион",
-  "last_name": "Дьячкова",
-  "email": "frjabov@example.org",
-  "phone": "8 (180) 631-46-63",
-  "birth_date": "1960-05-12",
-  "gender": "female",
-  "registration_date": "2026-11-10T16:08:40.544986",
+  "first_name": "Устин",
+  "last_name": "Крюков",
+  "email": "savvasavin@example.org",
+  "phone": "+7 352 282 95 11",
+  "birth_date": "1989-01-14",
+  "gender": "male",
+  "registration_date": "2026-11-12T12:46:39.810174",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-CE5EA2A77D",
+  "loyalty_card_number": "LOYAL-F9C68A6A39",
   "purchase_location": {
     "country": "Россия",
-    "city": "п. Адлер",
-    "street": "ул. Поселковая",
-    "house": "7",
-    "postal_code": "712439",
+    "city": "ст. Шелехов",
+    "street": "ул. Титова",
+    "house": "8",
+    "postal_code": "296629",
     "coordinates": {
-      "latitude": -25.411828,
-      "longitude": -49.198765
+      "latitude": 42.7402805,
+      "longitude": -99.295106
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "п. Адлер",
-    "street": "алл. Интернациональная",
-    "house": "71",
-    "apartment": "50",
-    "postal_code": "925676"
+    "city": "ст. Шелехов",
+    "street": "наб. Томская",
+    "house": "9",
+    "apartment": "64",
+    "postal_code": "321740"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "cash",
+    "preferred_payment_method": "card",
     "receive_promotions": true
   }
 }

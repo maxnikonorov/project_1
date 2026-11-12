@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1028",
-  "first_name": "Милован",
-  "last_name": "Тарасов",
-  "email": "averjan_78@example.org",
-  "phone": "8 (939) 549-6902",
-  "birth_date": "1970-03-02",
+  "first_name": "Прокл",
+  "last_name": "Потапова",
+  "email": "guristrelkov@example.net",
+  "phone": "82692062331",
+  "birth_date": "1975-12-24",
   "gender": "male",
-  "registration_date": "2026-11-10T16:08:40.542988",
+  "registration_date": "2026-11-12T12:46:39.810031",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-389CDAFF7A",
+  "loyalty_card_number": "LOYAL-E34A42F353",
   "purchase_location": {
     "country": "Россия",
-    "city": "д. Новгород Великий",
-    "street": "алл. Культуры",
-    "house": "2/2",
-    "postal_code": "193662",
+    "city": "г. Астрахань",
+    "street": "ш. Огородное",
+    "house": "6",
+    "postal_code": "307664",
     "coordinates": {
-      "latitude": 52.706471,
-      "longitude": -141.974096
+      "latitude": -48.22529,
+      "longitude": -9.595417
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Новгород Великий",
-    "street": "ул. Октябрьская",
-    "house": "864",
-    "apartment": "80",
-    "postal_code": "848349"
+    "city": "г. Астрахань",
+    "street": "пр. Толбухина",
+    "house": "7",
+    "apartment": "44",
+    "postal_code": "038161"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "cash",
+    "preferred_payment_method": "card",
     "receive_promotions": false
   }
 }

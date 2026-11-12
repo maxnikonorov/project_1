@@ -1,80 +1,101 @@
 {
   "purchase_id": "ord-00064",
   "customer": {
-    "customer_id": "cus-1017",
-    "first_name": "Дмитрий",
-    "last_name": "Наумов"
+    "customer_id": "cus-1039",
+    "first_name": "Серафим",
+    "last_name": "Гаврилова"
   },
   "store": {
-    "store_id": "store-004",
-    "store_name": "Большая Пикча — Магазин на пр. Донской",
+    "store_id": "store-025",
+    "store_name": "Большая Пикча — Магазин на ул. Войкова",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "ст. Арзамас",
-      "street": "ул. Войкова",
-      "house": "709",
-      "postal_code": "686059",
+      "city": "д. Курск",
+      "street": "наб. Королева",
+      "house": "220",
+      "postal_code": "140036",
       "coordinates": {
-        "latitude": 27.408209,
-        "longitude": -47.579346
+        "latitude": -45.5219915,
+        "longitude": 41.178766
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1008",
-      "name": "Горький",
+      "product_id": "prd-1015",
+      "name": "Падать",
       "category": "🥦 Овощи и зелень",
-      "quantity": 4,
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 203.15,
-      "total_price": 812.6,
+      "price_per_unit": 124.57,
+      "total_price": 124.57,
       "kbju": {
-        "calories": 271.9,
-        "protein": 15.0,
-        "fat": 7.2,
-        "carbohydrates": 40.0
+        "calories": 259.4,
+        "protein": 12.0,
+        "fat": 0.9,
+        "carbohydrates": 11.7
       },
       "manufacturer": {
-        "name": "Шарапов Групп",
+        "name": "СДС Азот",
         "country": "Россия",
-        "website": "https://ooo.edu",
-        "inn": "3346683207"
+        "website": "https://ip.biz",
+        "inn": "7509245881"
       }
     },
     {
-      "product_id": "prd-1000",
-      "name": "Приятель",
-      "category": "🥦 Овощи и зелень",
+      "product_id": "prd-1004",
+      "name": "Сверкающий",
+      "category": "🥛 Молочные продукты",
       "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 105.42,
-      "total_price": 316.26,
+      "price_per_unit": 42.31,
+      "total_price": 126.93,
       "kbju": {
-        "calories": 94.5,
-        "protein": 2.3,
-        "fat": 1.3,
-        "carbohydrates": 23.5
+        "calories": 260.1,
+        "protein": 7.8,
+        "fat": 9.0,
+        "carbohydrates": 43.0
       },
       "manufacturer": {
-        "name": "ЗАО «Соболев»",
+        "name": "Продо",
         "country": "Россия",
-        "website": "https://zao.net",
-        "inn": "3597427512"
+        "website": "https://ip.org",
+        "inn": "2875238332"
+      }
+    },
+    {
+      "product_id": "prd-1009",
+      "name": "Трясти",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 242.58,
+      "total_price": 242.58,
+      "kbju": {
+        "calories": 217.7,
+        "protein": 17.1,
+        "fat": 5.8,
+        "carbohydrates": 15.7
+      },
+      "manufacturer": {
+        "name": "РАО «Рябова-Фадеев»",
+        "country": "Россия",
+        "website": "https://kargill.biz",
+        "inn": "3583516885"
       }
     }
   ],
-  "total_amount": 1128.86,
+  "total_amount": 494.08,
   "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Бологое",
-    "street": "пр. Толбухина",
-    "house": "625",
-    "apartment": "20",
-    "postal_code": "483680"
+    "city": "г. Кинешма",
+    "street": "ул. Черноморская",
+    "house": "4",
+    "apartment": "64",
+    "postal_code": "369435"
   },
-  "purchase_datetime": "2026-09-29T16:08:40.662286"
+  "purchase_datetime": "2026-10-08T12:46:39.824313"
 }

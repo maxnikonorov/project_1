@@ -1,80 +1,101 @@
 {
   "purchase_id": "ord-00033",
   "customer": {
-    "customer_id": "cus-1015",
-    "first_name": "Ипат",
-    "last_name": "Панова"
+    "customer_id": "cus-1033",
+    "first_name": "Милица",
+    "last_name": "Агафонов"
   },
   "store": {
-    "store_id": "store-022",
-    "store_name": "Большая Пикча — Магазин на алл. Пригородная",
+    "store_id": "store-015",
+    "store_name": "Большая Пикча — Магазин на пер. Песочный",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Нарткала",
-      "street": "ул. Труда",
-      "house": "62",
-      "postal_code": "710312",
+      "city": "п. Буденновск",
+      "street": "наб. Ушакова",
+      "house": "7/3",
+      "postal_code": "566530",
       "coordinates": {
-        "latitude": -12.1783105,
-        "longitude": 146.648455
+        "latitude": -69.920769,
+        "longitude": -170.838449
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1018",
-      "name": "Смеяться",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 143.87,
-      "total_price": 143.87,
-      "kbju": {
-        "calories": 175.7,
-        "protein": 9.9,
-        "fat": 11.6,
-        "carbohydrates": 36.9
-      },
-      "manufacturer": {
-        "name": "АО «Архипов»",
-        "country": "Россия",
-        "website": "https://zao.org",
-        "inn": "6430660253"
-      }
-    },
-    {
-      "product_id": "prd-1006",
-      "name": "Иной",
+      "product_id": "prd-1001",
+      "name": "Пропадать",
       "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 38.14,
-      "total_price": 38.14,
+      "price_per_unit": 34.92,
+      "total_price": 34.92,
       "kbju": {
-        "calories": 240.4,
-        "protein": 11.6,
-        "fat": 4.1,
-        "carbohydrates": 46.3
+        "calories": 116.0,
+        "protein": 4.4,
+        "fat": 8.2,
+        "carbohydrates": 17.1
       },
       "manufacturer": {
-        "name": "Шарова Лтд",
+        "name": "ОАО «Аксенова-Брагина»",
         "country": "Россия",
-        "website": "https://trofimov.net",
-        "inn": "2302699549"
+        "website": "https://zao.info",
+        "inn": "4796377459"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "name": "Решение",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 272.65,
+      "total_price": 1090.6,
+      "kbju": {
+        "calories": 165.7,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 22.6
+      },
+      "manufacturer": {
+        "name": "ЗАО «Владимирова Федосеева»",
+        "country": "Россия",
+        "website": "https://ip.com",
+        "inn": "0567872472"
+      }
+    },
+    {
+      "product_id": "prd-1011",
+      "name": "Плясать",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 281.59,
+      "total_price": 844.77,
+      "kbju": {
+        "calories": 282.3,
+        "protein": 0.5,
+        "fat": 10.2,
+        "carbohydrates": 38.8
+      },
+      "manufacturer": {
+        "name": "Кононова Инк",
+        "country": "Россия",
+        "website": "https://rao.org",
+        "inn": "8513715002"
       }
     }
   ],
-  "total_amount": 182.01,
-  "payment_method": "card",
+  "total_amount": 1970.29,
+  "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "ст. Нижний Новгород",
-    "street": "ш. Ярославское",
-    "house": "59",
-    "apartment": "36",
-    "postal_code": "793316"
+    "city": "г. Томск",
+    "street": "наб. Азовская",
+    "house": "15",
+    "apartment": "6",
+    "postal_code": "233034"
   },
-  "purchase_datetime": "2026-10-09T16:08:40.612160"
+  "purchase_datetime": "2026-08-27T12:46:39.820134"
 }

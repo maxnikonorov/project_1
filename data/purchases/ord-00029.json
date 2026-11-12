@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00029",
   "customer": {
-    "customer_id": "cus-1024",
-    "first_name": "Бажен",
-    "last_name": "Меркушева"
+    "customer_id": "cus-1039",
+    "first_name": "Серафим",
+    "last_name": "Гаврилова"
   },
   "store": {
-    "store_id": "store-019",
-    "store_name": "Большая Пикча — Магазин на ул. 50 лет ВЛКСМ",
+    "store_id": "store-008",
+    "store_name": "Большая Пикча — Магазин на пер. Омский",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "клх Казань",
-      "street": "наб. Лазо",
-      "house": "14",
-      "postal_code": "597074",
+      "city": "г. Петушки",
+      "street": "наб. Серафимовича",
+      "house": "45",
+      "postal_code": "183117",
       "coordinates": {
-        "latitude": 10.7166325,
-        "longitude": 152.518277
+        "latitude": 9.743765,
+        "longitude": 155.815209
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1017",
-      "name": "Пол",
+      "product_id": "prd-1000",
+      "name": "Наступать",
       "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 150.17,
-      "total_price": 600.68,
+      "price_per_unit": 49.11,
+      "total_price": 196.44,
       "kbju": {
-        "calories": 127.5,
-        "protein": 3.3,
-        "fat": 7.5,
-        "carbohydrates": 41.2
+        "calories": 261.8,
+        "protein": 10.9,
+        "fat": 3.4,
+        "carbohydrates": 22.6
       },
       "manufacturer": {
-        "name": "ОАО «Родионова-Осипов»",
+        "name": "ИП «Шилов»",
         "country": "Россия",
-        "website": "https://ip.ru",
-        "inn": "4308518530"
+        "website": "https://zao.com",
+        "inn": "6198265072"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "name": "Падать",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 124.57,
+      "total_price": 249.14,
+      "kbju": {
+        "calories": 259.4,
+        "protein": 12.0,
+        "fat": 0.9,
+        "carbohydrates": 11.7
+      },
+      "manufacturer": {
+        "name": "СДС Азот",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "7509245881"
       }
     }
   ],
-  "total_amount": 600.68,
+  "total_amount": 445.58,
   "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Кабанск",
-    "street": "пр. Высоковольтный",
-    "house": "9",
-    "apartment": "34",
-    "postal_code": "100346"
+    "city": "г. Кинешма",
+    "street": "ул. Черноморская",
+    "house": "4",
+    "apartment": "64",
+    "postal_code": "369435"
   },
-  "purchase_datetime": "2026-09-26T16:08:40.605634"
+  "purchase_datetime": "2026-10-17T12:46:39.819288"
 }

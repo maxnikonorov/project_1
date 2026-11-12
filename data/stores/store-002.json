@@ -1,6 +1,6 @@
 {
   "store_id": "store-002",
-  "store_name": "Большая Пикча — Магазин на наб. Тельмана",
+  "store_name": "Большая Пикча — Магазин на ул. Пригородная",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Турова Октябрина Юльевна",
-    "phone": "+7 (941) 820-5691",
-    "email": "januari_1974@example.net"
+    "name": "Евстафий Иосифович Федоров",
+    "phone": "8 907 536 03 65",
+    "email": "agafon_1971@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "ст. Горячий Ключ",
-    "street": "ул. Олега Кошевого",
-    "house": "884",
-    "postal_code": "992826",
+    "city": "к. Пятигорск",
+    "street": "бул. Тукая",
+    "house": "3",
+    "postal_code": "161546",
     "coordinates": {
-      "latitude": -71.5740635,
-      "longitude": 119.930479
+      "latitude": 41.910977,
+      "longitude": -132.837972
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": false,
-  "last_inventory_date": "2026-11-10"
+  "last_inventory_date": "2026-11-12"
 }

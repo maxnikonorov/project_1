@@ -1,24 +1,24 @@
 {
   "id": "prd-1010",
-  "name": "Наткнуться",
-  "group": "🍏 Фрукты и ягоды",
-  "description": "Неожиданно подробность изучить очутиться уточнить выраженный расстегнуть.",
+  "name": "Пасть",
+  "group": "🥦 Овощи и зелень",
+  "description": "Монета печатать рай неожиданно выгнать висеть написать.",
   "kbju": {
-    "calories": 111.4,
-    "protein": 5.0,
-    "fat": 2.9,
-    "carbohydrates": 48.1
+    "calories": 262.9,
+    "protein": 7.0,
+    "fat": 7.7,
+    "carbohydrates": 35.0
   },
-  "price": 109.99,
+  "price": 219.53,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 29,
-  "is_organic": true,
-  "barcode": "7151875489780",
+  "expiry_days": 21,
+  "is_organic": false,
+  "barcode": "7977418985133",
   "manufacturer": {
-    "name": "АО «Третьяков, Кабанов и Казакова»",
+    "name": "ЗАО «Юдин»",
     "country": "Россия",
-    "website": "https://rao.edu",
-    "inn": "0018510627"
+    "website": "https://ip.ru",
+    "inn": "6266618289"
   }
 }

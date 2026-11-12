@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00152",
   "customer": {
-    "customer_id": "cus-1032",
-    "first_name": "Флорентин",
-    "last_name": "Рогов"
+    "customer_id": "cus-1018",
+    "first_name": "Ипполит",
+    "last_name": "Павлов"
   },
   "store": {
-    "store_id": "store-022",
-    "store_name": "Большая Пикча — Магазин на алл. Пригородная",
+    "store_id": "store-017",
+    "store_name": "Большая Пикча — Магазин на ш. Осипенко",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Нарткала",
-      "street": "ул. Труда",
-      "house": "62",
-      "postal_code": "710312",
+      "city": "с. Горно-Алтайск",
+      "street": "ул. Мичурина",
+      "house": "1",
+      "postal_code": "034077",
       "coordinates": {
-        "latitude": -12.1783105,
-        "longitude": 146.648455
+        "latitude": -80.043716,
+        "longitude": -138.203922
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1008",
-      "name": "Горький",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 4,
+      "product_id": "prd-1009",
+      "name": "Трясти",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 203.15,
-      "total_price": 812.6,
+      "price_per_unit": 242.58,
+      "total_price": 1212.9,
       "kbju": {
-        "calories": 271.9,
-        "protein": 15.0,
-        "fat": 7.2,
-        "carbohydrates": 40.0
+        "calories": 217.7,
+        "protein": 17.1,
+        "fat": 5.8,
+        "carbohydrates": 15.7
       },
       "manufacturer": {
-        "name": "Шарапов Групп",
+        "name": "РАО «Рябова-Фадеев»",
         "country": "Россия",
-        "website": "https://ooo.edu",
-        "inn": "3346683207"
+        "website": "https://kargill.biz",
+        "inn": "3583516885"
+      }
+    },
+    {
+      "product_id": "prd-1003",
+      "name": "Палец",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 123.81,
+      "total_price": 371.43,
+      "kbju": {
+        "calories": 287.5,
+        "protein": 19.7,
+        "fat": 14.4,
+        "carbohydrates": 47.2
+      },
+      "manufacturer": {
+        "name": "АО «Воронцов»",
+        "country": "Россия",
+        "website": "https://zao.edu",
+        "inn": "2681589498"
       }
     }
   ],
-  "total_amount": 812.6,
+  "total_amount": 1584.33,
   "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Домбай",
-    "street": "пер. Докучаева",
-    "house": "17",
-    "apartment": "97",
-    "postal_code": "921129"
+    "city": "п. Медногорск",
+    "street": "ул. Буденного",
+    "house": "24",
+    "apartment": "37",
+    "postal_code": "429476"
   },
-  "purchase_datetime": "2026-10-09T16:08:40.798698"
+  "purchase_datetime": "2026-10-05T12:46:39.835259"
 }

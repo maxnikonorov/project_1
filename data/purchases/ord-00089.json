@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00089",
   "customer": {
-    "customer_id": "cus-1020",
-    "first_name": "Севастьян",
-    "last_name": "Павлова"
+    "customer_id": "cus-1026",
+    "first_name": "Лука",
+    "last_name": "Романов"
   },
   "store": {
-    "store_id": "store-007",
-    "store_name": "Большая Пикча — Магазин на алл. Жуковского",
+    "store_id": "store-019",
+    "store_name": "Большая Пикча — Магазин на пер. Высоковольтный",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "с. Лагань",
-      "street": "пр. Тополиный",
-      "house": "6/4",
-      "postal_code": "084092",
+      "city": "п. Медногорск",
+      "street": "наб. Нефтяников",
+      "house": "2",
+      "postal_code": "042798",
       "coordinates": {
-        "latitude": 49.030439,
-        "longitude": -59.077561
+        "latitude": -23.424117,
+        "longitude": -61.00885
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1007",
-      "name": "Соответствие",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 3,
+      "product_id": "prd-1010",
+      "name": "Пасть",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 254.38,
-      "total_price": 763.14,
+      "price_per_unit": 219.53,
+      "total_price": 219.53,
       "kbju": {
-        "calories": 250.9,
-        "protein": 11.5,
-        "fat": 3.2,
-        "carbohydrates": 44.9
+        "calories": 262.9,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 35.0
       },
       "manufacturer": {
-        "name": "Терентьев Инкорпорэйтед",
+        "name": "ЗАО «Юдин»",
         "country": "Россия",
-        "website": "https://ip.info",
-        "inn": "3390887494"
+        "website": "https://ip.ru",
+        "inn": "6266618289"
+      }
+    },
+    {
+      "product_id": "prd-1018",
+      "name": "Пища",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 48.83,
+      "total_price": 97.66,
+      "kbju": {
+        "calories": 275.1,
+        "protein": 12.4,
+        "fat": 0.2,
+        "carbohydrates": 34.3
+      },
+      "manufacturer": {
+        "name": "НПО «Алексеева, Русакова и Лебедев»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "6006312092"
+      }
+    },
+    {
+      "product_id": "prd-1005",
+      "name": "Конструкция",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 204.55,
+      "total_price": 409.1,
+      "kbju": {
+        "calories": 86.4,
+        "protein": 1.8,
+        "fat": 13.4,
+        "carbohydrates": 19.0
+      },
+      "manufacturer": {
+        "name": "ОАО «Гордеев, Никитин и Кулакова»",
+        "country": "Россия",
+        "website": "https://ooo.org",
+        "inn": "4077468251"
       }
     }
   ],
-  "total_amount": 763.14,
-  "payment_method": "card",
+  "total_amount": 726.29,
+  "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Соль-Илецк",
-    "street": "ш. Лесозаводское",
-    "house": "316",
-    "apartment": "11",
-    "postal_code": "278229"
+    "city": "к. Юровск",
+    "street": "наб. Раздольная",
+    "house": "27",
+    "apartment": "54",
+    "postal_code": "651820"
   },
-  "purchase_datetime": "2026-08-21T16:08:40.698402"
+  "purchase_datetime": "2026-09-20T12:46:39.827468"
 }

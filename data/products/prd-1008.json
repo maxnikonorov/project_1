@@ -1,24 +1,24 @@
 {
   "id": "prd-1008",
-  "name": "Горький",
-  "group": "🥦 Овощи и зелень",
-  "description": "Витрина прошептать виднеться палец поставить.",
+  "name": "Увеличиваться",
+  "group": "🥖 Зерновые и хлебобулочные изделия",
+  "description": "Домашний коммунизм спалить смелый.",
   "kbju": {
-    "calories": 271.9,
-    "protein": 15.0,
-    "fat": 7.2,
-    "carbohydrates": 40.0
+    "calories": 57.9,
+    "protein": 1.9,
+    "fat": 5.5,
+    "carbohydrates": 26.7
   },
-  "price": 203.15,
+  "price": 298.83,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 28,
+  "expiry_days": 26,
   "is_organic": true,
-  "barcode": "9211906256458",
+  "barcode": "5835840285509",
   "manufacturer": {
-    "name": "Шарапов Групп",
+    "name": "АО «Горбунов»",
     "country": "Россия",
-    "website": "https://ooo.edu",
-    "inn": "3346683207"
+    "website": "https://oao.ru",
+    "inn": "1791173907"
   }
 }

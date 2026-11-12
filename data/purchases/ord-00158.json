@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00158",
   "customer": {
-    "customer_id": "cus-1009",
-    "first_name": "Иннокентий",
-    "last_name": "Ларионова"
+    "customer_id": "cus-1012",
+    "first_name": "Онуфрий",
+    "last_name": "Маркова"
   },
   "store": {
-    "store_id": "store-025",
-    "store_name": "Большая Пикча — Магазин на пр. Виноградный",
-    "store_network": "Большая Пикча",
+    "store_id": "store-035",
+    "store_name": "Маленькая Пикча — Магазин на бул. Астраханский",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Кабанск",
-      "street": "наб. Ватутина",
-      "house": "71",
-      "postal_code": "430475",
+      "city": "г. Щелково",
+      "street": "ул. Лермонтова",
+      "house": "3",
+      "postal_code": "487343",
       "coordinates": {
-        "latitude": 56.1539,
-        "longitude": -125.144973
+        "latitude": 88.94456,
+        "longitude": -139.903279
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1019",
-      "name": "Выражение",
-      "category": "🥛 Молочные продукты",
-      "quantity": 3,
+      "product_id": "prd-1015",
+      "name": "Падать",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 211.74,
-      "total_price": 635.22,
+      "price_per_unit": 124.57,
+      "total_price": 124.57,
       "kbju": {
-        "calories": 157.2,
-        "protein": 13.4,
-        "fat": 2.7,
-        "carbohydrates": 6.2
+        "calories": 259.4,
+        "protein": 12.0,
+        "fat": 0.9,
+        "carbohydrates": 11.7
       },
       "manufacturer": {
-        "name": "Ковалева Инкорпорэйтед",
+        "name": "СДС Азот",
         "country": "Россия",
-        "website": "https://zao.ru",
-        "inn": "4325136422"
+        "website": "https://ip.biz",
+        "inn": "7509245881"
+      }
+    },
+    {
+      "product_id": "prd-1008",
+      "name": "Увеличиваться",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 298.83,
+      "total_price": 597.66,
+      "kbju": {
+        "calories": 57.9,
+        "protein": 1.9,
+        "fat": 5.5,
+        "carbohydrates": 26.7
+      },
+      "manufacturer": {
+        "name": "АО «Горбунов»",
+        "country": "Россия",
+        "website": "https://oao.ru",
+        "inn": "1791173907"
+      }
+    },
+    {
+      "product_id": "prd-1011",
+      "name": "Плясать",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 281.59,
+      "total_price": 844.77,
+      "kbju": {
+        "calories": 282.3,
+        "protein": 0.5,
+        "fat": 10.2,
+        "carbohydrates": 38.8
+      },
+      "manufacturer": {
+        "name": "Кононова Инк",
+        "country": "Россия",
+        "website": "https://rao.org",
+        "inn": "8513715002"
       }
     }
   ],
-  "total_amount": 635.22,
-  "payment_method": "card",
+  "total_amount": 1567.0,
+  "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "п. Бронницы",
-    "street": "пер. Деповский",
-    "house": "12",
-    "apartment": "36",
-    "postal_code": "187304"
+    "city": "п. Волгодонск",
+    "street": "алл. Ульянова",
+    "house": "936",
+    "apartment": "52",
+    "postal_code": "758644"
   },
-  "purchase_datetime": "2026-08-28T16:08:40.807259"
+  "purchase_datetime": "2026-10-23T12:46:39.835955"
 }

@@ -1,32 +1,32 @@
 {
   "customer_id": "cus-1009",
-  "first_name": "Иннокентий",
-  "last_name": "Ларионова",
-  "email": "shubinaalevtina@example.net",
-  "phone": "8 (164) 221-55-80",
-  "birth_date": "1974-03-26",
+  "first_name": "Матвей",
+  "last_name": "Лапин",
+  "email": "dobromisl_10@example.com",
+  "phone": "82127688759",
+  "birth_date": "1998-06-13",
   "gender": "male",
-  "registration_date": "2026-11-10T16:08:40.506904",
+  "registration_date": "2026-11-12T12:46:39.806942",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-C4AC59A9C8",
+  "loyalty_card_number": "LOYAL-44A644EE7B",
   "purchase_location": {
     "country": "Россия",
-    "city": "п. Бронницы",
-    "street": "алл. Геологов",
-    "house": "8/6",
-    "postal_code": "153671",
+    "city": "клх Биробиджан",
+    "street": "пр. Нижний",
+    "house": "473",
+    "postal_code": "438884",
     "coordinates": {
-      "latitude": 37.778015,
-      "longitude": 47.325165
+      "latitude": -40.675062,
+      "longitude": -151.419085
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "п. Бронницы",
-    "street": "пер. Деповский",
-    "house": "12",
-    "apartment": "36",
-    "postal_code": "187304"
+    "city": "клх Биробиджан",
+    "street": "наб. Прудная",
+    "house": "4/7",
+    "apartment": "51",
+    "postal_code": "179772"
   },
   "preferences": {
     "preferred_language": "ru",

@@ -1,101 +1,59 @@
 {
   "purchase_id": "ord-00110",
   "customer": {
-    "customer_id": "cus-1010",
-    "first_name": "Ипполит",
-    "last_name": "Гаврилова"
+    "customer_id": "cus-1019",
+    "first_name": "Венедикт",
+    "last_name": "Карпова"
   },
   "store": {
-    "store_id": "store-005",
-    "store_name": "Большая Пикча — Магазин на пр. Донской",
-    "store_network": "Большая Пикча",
+    "store_id": "store-032",
+    "store_name": "Маленькая Пикча — Магазин на ш. Мелиоративное",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Бузулук",
-      "street": "бул. Енисейский",
-      "house": "736",
-      "postal_code": "369079",
+      "city": "п. Карачаевск",
+      "street": "бул. 70 лет Октября",
+      "house": "8",
+      "postal_code": "805685",
       "coordinates": {
-        "latitude": -17.571044,
-        "longitude": 161.569143
+        "latitude": -86.624785,
+        "longitude": -164.661451
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1002",
-      "name": "Единый",
-      "category": "🥛 Молочные продукты",
-      "quantity": 1,
+      "product_id": "prd-1011",
+      "name": "Плясать",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 289.68,
-      "total_price": 289.68,
+      "price_per_unit": 281.59,
+      "total_price": 844.77,
       "kbju": {
-        "calories": 265.0,
-        "protein": 19.8,
-        "fat": 7.9,
-        "carbohydrates": 44.8
+        "calories": 282.3,
+        "protein": 0.5,
+        "fat": 10.2,
+        "carbohydrates": 38.8
       },
       "manufacturer": {
-        "name": "ИП «Мартынова»",
+        "name": "Кононова Инк",
         "country": "Россия",
-        "website": "https://ao.ru",
-        "inn": "6920417941"
-      }
-    },
-    {
-      "product_id": "prd-1005",
-      "name": "Тысяча",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 5,
-      "unit": "шт",
-      "price_per_unit": 109.23,
-      "total_price": 546.15,
-      "kbju": {
-        "calories": 215.7,
-        "protein": 8.5,
-        "fat": 8.5,
-        "carbohydrates": 5.4
-      },
-      "manufacturer": {
-        "name": "Исаева Групп",
-        "country": "Россия",
-        "website": "https://ao.com",
-        "inn": "0005832495"
-      }
-    },
-    {
-      "product_id": "prd-1014",
-      "name": "Что",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 139.68,
-      "total_price": 279.36,
-      "kbju": {
-        "calories": 231.7,
-        "protein": 17.6,
-        "fat": 9.2,
-        "carbohydrates": 6.7
-      },
-      "manufacturer": {
-        "name": "Петухова Лимитед",
-        "country": "Россия",
-        "website": "https://ip.net",
-        "inn": "2487454296"
+        "website": "https://rao.org",
+        "inn": "8513715002"
       }
     }
   ],
-  "total_amount": 1115.19,
-  "payment_method": "cash",
+  "total_amount": 844.77,
+  "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "г. Асино",
-    "street": "бул. Кузнецова",
-    "house": "8",
-    "apartment": "18",
-    "postal_code": "222108"
+    "city": "г. Киржач",
+    "street": "ул. Короткая",
+    "house": "4/8",
+    "apartment": "43",
+    "postal_code": "336350"
   },
-  "purchase_datetime": "2026-10-01T16:08:40.729527"
+  "purchase_datetime": "2026-09-29T12:46:39.830156"
 }

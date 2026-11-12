@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1022",
-  "first_name": "Анастасия",
-  "last_name": "Крылов",
-  "email": "militsa57@example.com",
-  "phone": "87652057007",
-  "birth_date": "1991-04-23",
+  "first_name": "Назар",
+  "last_name": "Елисеева",
+  "email": "andreevalora@example.net",
+  "phone": "+7 448 926 3283",
+  "birth_date": "2002-03-20",
   "gender": "male",
-  "registration_date": "2026-11-10T16:08:40.533002",
+  "registration_date": "2026-11-12T12:46:39.809125",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-D7636313EA",
+  "loyalty_card_number": "LOYAL-7AA5759877",
   "purchase_location": {
     "country": "Россия",
-    "city": "с. Далматово",
-    "street": "бул. 50 лет ВЛКСМ",
-    "house": "59",
-    "postal_code": "821629",
+    "city": "д. Муром",
+    "street": "ш. Рябиновое",
+    "house": "87",
+    "postal_code": "036540",
     "coordinates": {
-      "latitude": 19.1968455,
-      "longitude": -119.926477
+      "latitude": 13.359529,
+      "longitude": 75.524317
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "с. Далматово",
-    "street": "ш. Гафури",
-    "house": "2",
-    "apartment": "72",
-    "postal_code": "185055"
+    "city": "д. Муром",
+    "street": "пр. Кирова",
+    "house": "850",
+    "apartment": "64",
+    "postal_code": "426953"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "cash",
-    "receive_promotions": false
+    "preferred_payment_method": "card",
+    "receive_promotions": true
   }
 }

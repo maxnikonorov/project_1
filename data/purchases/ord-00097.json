@@ -1,80 +1,101 @@
 {
   "purchase_id": "ord-00097",
   "customer": {
-    "customer_id": "cus-1006",
-    "first_name": "Агафья",
-    "last_name": "Гурьева"
+    "customer_id": "cus-1005",
+    "first_name": "Бронислав",
+    "last_name": "Сазонов"
   },
   "store": {
-    "store_id": "store-008",
-    "store_name": "Большая Пикча — Магазин на пер. Карьерный",
-    "store_network": "Большая Пикча",
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на ул. Нахимова",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Кажим",
-      "street": "алл. Зои Космодемьянской",
-      "house": "673",
-      "postal_code": "831404",
+      "city": "п. Апшеронск",
+      "street": "наб. Инженерная",
+      "house": "6",
+      "postal_code": "746141",
       "coordinates": {
-        "latitude": -84.04877,
-        "longitude": -153.592169
+        "latitude": -83.1501905,
+        "longitude": 84.215661
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1017",
-      "name": "Пол",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 4,
+      "product_id": "prd-1018",
+      "name": "Пища",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 150.17,
-      "total_price": 600.68,
+      "price_per_unit": 48.83,
+      "total_price": 146.49,
       "kbju": {
-        "calories": 127.5,
-        "protein": 3.3,
-        "fat": 7.5,
-        "carbohydrates": 41.2
+        "calories": 275.1,
+        "protein": 12.4,
+        "fat": 0.2,
+        "carbohydrates": 34.3
       },
       "manufacturer": {
-        "name": "ОАО «Родионова-Осипов»",
+        "name": "НПО «Алексеева, Русакова и Лебедев»",
         "country": "Россия",
-        "website": "https://ip.ru",
-        "inn": "4308518530"
+        "website": "https://zao.org",
+        "inn": "6006312092"
       }
     },
     {
-      "product_id": "prd-1003",
-      "name": "Порт",
+      "product_id": "prd-1007",
+      "name": "Нож",
       "category": "🥦 Овощи и зелень",
-      "quantity": 4,
+      "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 300.0,
-      "total_price": 1200.0,
+      "price_per_unit": 89.52,
+      "total_price": 447.6,
       "kbju": {
-        "calories": 129.9,
-        "protein": 1.0,
-        "fat": 9.4,
-        "carbohydrates": 17.8
+        "calories": 54.8,
+        "protein": 10.0,
+        "fat": 8.5,
+        "carbohydrates": 49.1
       },
       "manufacturer": {
-        "name": "Абрамов и партнеры",
+        "name": "Кабанов Инк",
         "country": "Россия",
-        "website": "https://koka-kola.biz",
-        "inn": "0599854783"
+        "website": "https://ip.info",
+        "inn": "3919742285"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "name": "Решение",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 272.65,
+      "total_price": 817.95,
+      "kbju": {
+        "calories": 165.7,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 22.6
+      },
+      "manufacturer": {
+        "name": "ЗАО «Владимирова Федосеева»",
+        "country": "Россия",
+        "website": "https://ip.com",
+        "inn": "0567872472"
       }
     }
   ],
-  "total_amount": 1800.68,
-  "payment_method": "cash",
+  "total_amount": 1412.04,
+  "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "с. Лагань",
-    "street": "пр. Просвещения",
-    "house": "61",
-    "apartment": "60",
-    "postal_code": "059264"
+    "city": "ст. Нефтеюганск",
+    "street": "наб. Мелиоративная",
+    "house": "8",
+    "apartment": "53",
+    "postal_code": "753470"
   },
-  "purchase_datetime": "2026-11-01T16:08:40.710466"
+  "purchase_datetime": "2026-09-02T12:46:39.828476"
 }

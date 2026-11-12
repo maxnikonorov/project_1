@@ -1,101 +1,59 @@
 {
   "purchase_id": "ord-00072",
   "customer": {
-    "customer_id": "cus-1001",
-    "first_name": "Варлаам",
-    "last_name": "Лаврентьева"
+    "customer_id": "cus-1016",
+    "first_name": "Доброслав",
+    "last_name": "Кондратьева"
   },
   "store": {
-    "store_id": "store-013",
-    "store_name": "Большая Пикча — Магазин на алл. Болотная",
+    "store_id": "store-017",
+    "store_name": "Большая Пикча — Магазин на ш. Осипенко",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Камышин",
-      "street": "ш. Социалистическое",
-      "house": "2/5",
-      "postal_code": "848360",
+      "city": "с. Горно-Алтайск",
+      "street": "ул. Мичурина",
+      "house": "1",
+      "postal_code": "034077",
       "coordinates": {
-        "latitude": -60.309096,
-        "longitude": -35.018249
+        "latitude": -80.043716,
+        "longitude": -138.203922
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1007",
-      "name": "Соответствие",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 5,
+      "product_id": "prd-1010",
+      "name": "Пасть",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 254.38,
-      "total_price": 1271.9,
+      "price_per_unit": 219.53,
+      "total_price": 878.12,
       "kbju": {
-        "calories": 250.9,
-        "protein": 11.5,
-        "fat": 3.2,
-        "carbohydrates": 44.9
+        "calories": 262.9,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 35.0
       },
       "manufacturer": {
-        "name": "Терентьев Инкорпорэйтед",
+        "name": "ЗАО «Юдин»",
         "country": "Россия",
-        "website": "https://ip.info",
-        "inn": "3390887494"
-      }
-    },
-    {
-      "product_id": "prd-1005",
-      "name": "Тысяча",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 3,
-      "unit": "шт",
-      "price_per_unit": 109.23,
-      "total_price": 327.69,
-      "kbju": {
-        "calories": 215.7,
-        "protein": 8.5,
-        "fat": 8.5,
-        "carbohydrates": 5.4
-      },
-      "manufacturer": {
-        "name": "Исаева Групп",
-        "country": "Россия",
-        "website": "https://ao.com",
-        "inn": "0005832495"
-      }
-    },
-    {
-      "product_id": "prd-1015",
-      "name": "Пространство",
-      "category": "🥛 Молочные продукты",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 169.18,
-      "total_price": 338.36,
-      "kbju": {
-        "calories": 244.0,
-        "protein": 13.8,
-        "fat": 6.9,
-        "carbohydrates": 6.3
-      },
-      "manufacturer": {
-        "name": "ИП «Силин, Лапина и Федосеев»",
-        "country": "Россия",
-        "website": "https://rao.com",
-        "inn": "0793948672"
+        "website": "https://ip.ru",
+        "inn": "6266618289"
       }
     }
   ],
-  "total_amount": 1937.95,
-  "payment_method": "card",
-  "is_delivery": true,
+  "total_amount": 878.12,
+  "payment_method": "cash",
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "ст. Горячий Ключ",
-    "street": "бул. Щетинкина",
-    "house": "3",
-    "apartment": "39",
-    "postal_code": "329085"
+    "city": "с. Горно-Алтайск",
+    "street": "пр. Громова",
+    "house": "17",
+    "apartment": "98",
+    "postal_code": "268737"
   },
-  "purchase_datetime": "2026-10-23T16:08:40.673811"
+  "purchase_datetime": "2026-10-17T12:46:39.825304"
 }

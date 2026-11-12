@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00167",
   "customer": {
-    "customer_id": "cus-1033",
-    "first_name": "Владлен",
-    "last_name": "Киселев"
+    "customer_id": "cus-1005",
+    "first_name": "Бронислав",
+    "last_name": "Сазонов"
   },
   "store": {
-    "store_id": "store-041",
-    "store_name": "Маленькая Пикча — Магазин на пер. Красный",
+    "store_id": "store-036",
+    "store_name": "Маленькая Пикча — Магазин на ш. Волгоградское",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "г. Соловки",
-      "street": "пер. Космический",
-      "house": "7",
-      "postal_code": "821818",
+      "city": "ст. Кунгур",
+      "street": "пр. Белинского",
+      "house": "920",
+      "postal_code": "534443",
       "coordinates": {
-        "latitude": -8.30231,
-        "longitude": 144.533567
+        "latitude": -82.2828455,
+        "longitude": -140.859879
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1011",
-      "name": "Через",
+      "product_id": "prd-1015",
+      "name": "Падать",
       "category": "🥦 Овощи и зелень",
-      "quantity": 5,
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 205.21,
-      "total_price": 1026.05,
+      "price_per_unit": 124.57,
+      "total_price": 373.71,
       "kbju": {
-        "calories": 277.9,
-        "protein": 10.7,
-        "fat": 14.2,
-        "carbohydrates": 1.5
+        "calories": 259.4,
+        "protein": 12.0,
+        "fat": 0.9,
+        "carbohydrates": 11.7
       },
       "manufacturer": {
-        "name": "НПО «Бурова»",
+        "name": "СДС Азот",
         "country": "Россия",
-        "website": "https://zao.org",
-        "inn": "3200066091"
+        "website": "https://ip.biz",
+        "inn": "7509245881"
       }
     }
   ],
-  "total_amount": 1026.05,
+  "total_amount": 373.71,
   "payment_method": "card",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "п. Нефтегорск (Самар.)",
-    "street": "ш. Ясное",
-    "house": "1",
-    "apartment": "52",
-    "postal_code": "256820"
+    "city": "ст. Нефтеюганск",
+    "street": "наб. Мелиоративная",
+    "house": "8",
+    "apartment": "53",
+    "postal_code": "753470"
   },
-  "purchase_datetime": "2026-09-28T16:08:40.823354"
+  "purchase_datetime": "2026-09-26T12:46:39.837195"
 }

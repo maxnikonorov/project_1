@@ -1,6 +1,6 @@
 {
   "store_id": "store-018",
-  "store_name": "Большая Пикча — Магазин на наб. Щетинкина",
+  "store_name": "Большая Пикча — Магазин на пер. Островского",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Натан Фомич Журавлев",
-    "phone": "+7 314 537 79 14",
-    "email": "panfil2016@example.net"
+    "name": "Колесникова Елена Тимофеевна",
+    "phone": "+75894607817",
+    "email": "braginpimen@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "клх Бологое",
-    "street": "ш. Стахановское",
-    "house": "2/7",
-    "postal_code": "892181",
+    "city": "г. Шумиха",
+    "street": "пр. Новоселов",
+    "house": "7/6",
+    "postal_code": "361058",
     "coordinates": {
-      "latitude": 71.681777,
-      "longitude": 39.954897
+      "latitude": 72.98693,
+      "longitude": 72.832457
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "last_inventory_date": "2026-11-12"
 }

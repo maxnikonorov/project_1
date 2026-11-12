@@ -1,101 +1,101 @@
 {
   "purchase_id": "ord-00129",
   "customer": {
-    "customer_id": "cus-1015",
-    "first_name": "Ипат",
-    "last_name": "Панова"
+    "customer_id": "cus-1011",
+    "first_name": "Мина",
+    "last_name": "Суворов"
   },
   "store": {
-    "store_id": "store-028",
-    "store_name": "Большая Пикча — Магазин на пер. Приморский",
+    "store_id": "store-016",
+    "store_name": "Большая Пикча — Магазин на наб. Саратовская",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "п. Учалы",
-      "street": "алл. Клубная",
-      "house": "625",
-      "postal_code": "972146",
+      "city": "ст. Курчатов",
+      "street": "ул. Физкультурная",
+      "house": "828",
+      "postal_code": "910837",
       "coordinates": {
-        "latitude": -62.261145,
-        "longitude": 122.407164
+        "latitude": -53.416018,
+        "longitude": 139.893617
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1005",
-      "name": "Тысяча",
+      "product_id": "prd-1009",
+      "name": "Трясти",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 242.58,
+      "total_price": 242.58,
+      "kbju": {
+        "calories": 217.7,
+        "protein": 17.1,
+        "fat": 5.8,
+        "carbohydrates": 15.7
+      },
+      "manufacturer": {
+        "name": "РАО «Рябова-Фадеев»",
+        "country": "Россия",
+        "website": "https://kargill.biz",
+        "inn": "3583516885"
+      }
+    },
+    {
+      "product_id": "prd-1018",
+      "name": "Пища",
       "category": "🍏 Фрукты и ягоды",
-      "quantity": 4,
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 109.23,
-      "total_price": 436.92,
+      "price_per_unit": 48.83,
+      "total_price": 48.83,
       "kbju": {
-        "calories": 215.7,
-        "protein": 8.5,
-        "fat": 8.5,
-        "carbohydrates": 5.4
+        "calories": 275.1,
+        "protein": 12.4,
+        "fat": 0.2,
+        "carbohydrates": 34.3
       },
       "manufacturer": {
-        "name": "Исаева Групп",
-        "country": "Россия",
-        "website": "https://ao.com",
-        "inn": "0005832495"
-      }
-    },
-    {
-      "product_id": "prd-1000",
-      "name": "Приятель",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 4,
-      "unit": "шт",
-      "price_per_unit": 105.42,
-      "total_price": 421.68,
-      "kbju": {
-        "calories": 94.5,
-        "protein": 2.3,
-        "fat": 1.3,
-        "carbohydrates": 23.5
-      },
-      "manufacturer": {
-        "name": "ЗАО «Соболев»",
-        "country": "Россия",
-        "website": "https://zao.net",
-        "inn": "3597427512"
-      }
-    },
-    {
-      "product_id": "prd-1011",
-      "name": "Через",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 205.21,
-      "total_price": 410.42,
-      "kbju": {
-        "calories": 277.9,
-        "protein": 10.7,
-        "fat": 14.2,
-        "carbohydrates": 1.5
-      },
-      "manufacturer": {
-        "name": "НПО «Бурова»",
+        "name": "НПО «Алексеева, Русакова и Лебедев»",
         "country": "Россия",
         "website": "https://zao.org",
-        "inn": "3200066091"
+        "inn": "6006312092"
+      }
+    },
+    {
+      "product_id": "prd-1019",
+      "name": "Военный",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 166.7,
+      "total_price": 833.5,
+      "kbju": {
+        "calories": 160.4,
+        "protein": 11.7,
+        "fat": 4.3,
+        "carbohydrates": 21.4
+      },
+      "manufacturer": {
+        "name": "ИП «Голубева»",
+        "country": "Россия",
+        "website": "https://gruppa.ru",
+        "inn": "3931722625"
       }
     }
   ],
-  "total_amount": 1269.02,
+  "total_amount": 1124.91,
   "payment_method": "cash",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "ст. Нижний Новгород",
-    "street": "ш. Ярославское",
-    "house": "59",
-    "apartment": "36",
-    "postal_code": "793316"
+    "city": "д. Агата",
+    "street": "наб. Розы Люксембург",
+    "house": "7",
+    "apartment": "10",
+    "postal_code": "073241"
   },
-  "purchase_datetime": "2026-08-24T16:08:40.757073"
+  "purchase_datetime": "2026-08-30T12:46:39.832491"
 }

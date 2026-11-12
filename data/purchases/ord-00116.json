@@ -1,80 +1,80 @@
 {
   "purchase_id": "ord-00116",
   "customer": {
-    "customer_id": "cus-1012",
-    "first_name": "Панкратий",
-    "last_name": "Ильина"
+    "customer_id": "cus-1022",
+    "first_name": "Назар",
+    "last_name": "Елисеева"
   },
   "store": {
-    "store_id": "store-042",
-    "store_name": "Маленькая Пикча — Магазин на ул. Высоковольтная",
+    "store_id": "store-038",
+    "store_name": "Маленькая Пикча — Магазин на пер. Весенний",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "г. Усть-Кут",
-      "street": "ул. Профсоюзная",
-      "house": "4/5",
-      "postal_code": "679522",
+      "city": "ст. Каменск-Уральский",
+      "street": "бул. Бульварный",
+      "house": "94",
+      "postal_code": "410592",
       "coordinates": {
-        "latitude": -71.6251535,
-        "longitude": 126.315479
+        "latitude": -77.446573,
+        "longitude": 164.029875
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1004",
-      "name": "Социалистический",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 1,
+      "product_id": "prd-1007",
+      "name": "Нож",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 254.38,
-      "total_price": 254.38,
+      "price_per_unit": 89.52,
+      "total_price": 447.6,
       "kbju": {
-        "calories": 104.4,
-        "protein": 6.0,
-        "fat": 0.7,
-        "carbohydrates": 13.6
+        "calories": 54.8,
+        "protein": 10.0,
+        "fat": 8.5,
+        "carbohydrates": 49.1
       },
       "manufacturer": {
-        "name": "ООО «Савельев»",
+        "name": "Кабанов Инк",
         "country": "Россия",
-        "website": "https://rao.info",
-        "inn": "2063622252"
+        "website": "https://ip.info",
+        "inn": "3919742285"
       }
     },
     {
-      "product_id": "prd-1018",
-      "name": "Смеяться",
+      "product_id": "prd-1019",
+      "name": "Военный",
       "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 5,
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 143.87,
-      "total_price": 719.35,
+      "price_per_unit": 166.7,
+      "total_price": 666.8,
       "kbju": {
-        "calories": 175.7,
-        "protein": 9.9,
-        "fat": 11.6,
-        "carbohydrates": 36.9
+        "calories": 160.4,
+        "protein": 11.7,
+        "fat": 4.3,
+        "carbohydrates": 21.4
       },
       "manufacturer": {
-        "name": "АО «Архипов»",
+        "name": "ИП «Голубева»",
         "country": "Россия",
-        "website": "https://zao.org",
-        "inn": "6430660253"
+        "website": "https://gruppa.ru",
+        "inn": "3931722625"
       }
     }
   ],
-  "total_amount": 973.73,
+  "total_amount": 1114.4,
   "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Камышин",
-    "street": "алл. Родниковая",
-    "house": "8",
-    "apartment": "56",
-    "postal_code": "623582"
+    "city": "д. Муром",
+    "street": "пр. Кирова",
+    "house": "850",
+    "apartment": "64",
+    "postal_code": "426953"
   },
-  "purchase_datetime": "2026-09-14T16:08:40.738536"
+  "purchase_datetime": "2026-11-02T12:46:39.830829"
 }

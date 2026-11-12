@@ -1,24 +1,24 @@
 {
   "id": "prd-1016",
-  "name": "Вытаскивать",
-  "group": "🥩 Мясо, рыба, яйца и бобовые",
-  "description": "Выбирать миллиард исследование полностью приходить уничтожение миллиард затянуться.",
+  "name": "Слать",
+  "group": "🥛 Молочные продукты",
+  "description": "Сомнительный ставить белье посидеть.",
   "kbju": {
-    "calories": 56.8,
-    "protein": 6.1,
-    "fat": 2.9,
-    "carbohydrates": 30.8
+    "calories": 238.6,
+    "protein": 7.6,
+    "fat": 7.0,
+    "carbohydrates": 27.5
   },
-  "price": 53.87,
+  "price": 171.77,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 22,
+  "expiry_days": 27,
   "is_organic": true,
-  "barcode": "0495028190893",
+  "barcode": "7656435510718",
   "manufacturer": {
-    "name": "ОАО «Беспалова»",
+    "name": "ЗАО «Белова, Кудряшов и Федоров»",
     "country": "Россия",
-    "website": "https://smirnova.com",
-    "inn": "3793340215"
+    "website": "https://rao.com",
+    "inn": "5049040702"
   }
 }

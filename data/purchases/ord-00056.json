@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00056",
   "customer": {
-    "customer_id": "cus-1008",
-    "first_name": "Тимофей",
-    "last_name": "Наумов"
+    "customer_id": "cus-1039",
+    "first_name": "Серафим",
+    "last_name": "Гаврилова"
   },
   "store": {
-    "store_id": "store-022",
-    "store_name": "Большая Пикча — Магазин на алл. Пригородная",
-    "store_network": "Большая Пикча",
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на бул. Красный",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Нарткала",
-      "street": "ул. Труда",
-      "house": "62",
-      "postal_code": "710312",
+      "city": "клх Вологда",
+      "street": "ул. 40 лет Победы",
+      "house": "50",
+      "postal_code": "861238",
       "coordinates": {
-        "latitude": -12.1783105,
-        "longitude": 146.648455
+        "latitude": -20.6290965,
+        "longitude": 76.652447
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1004",
-      "name": "Социалистический",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "product_id": "prd-1015",
+      "name": "Падать",
+      "category": "🥦 Овощи и зелень",
       "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 254.38,
-      "total_price": 1271.9,
+      "price_per_unit": 124.57,
+      "total_price": 622.85,
       "kbju": {
-        "calories": 104.4,
-        "protein": 6.0,
-        "fat": 0.7,
-        "carbohydrates": 13.6
+        "calories": 259.4,
+        "protein": 12.0,
+        "fat": 0.9,
+        "carbohydrates": 11.7
       },
       "manufacturer": {
-        "name": "ООО «Савельев»",
+        "name": "СДС Азот",
         "country": "Россия",
-        "website": "https://rao.info",
-        "inn": "2063622252"
+        "website": "https://ip.biz",
+        "inn": "7509245881"
+      }
+    },
+    {
+      "product_id": "prd-1011",
+      "name": "Плясать",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 281.59,
+      "total_price": 1407.95,
+      "kbju": {
+        "calories": 282.3,
+        "protein": 0.5,
+        "fat": 10.2,
+        "carbohydrates": 38.8
+      },
+      "manufacturer": {
+        "name": "Кононова Инк",
+        "country": "Россия",
+        "website": "https://rao.org",
+        "inn": "8513715002"
+      }
+    },
+    {
+      "product_id": "prd-1016",
+      "name": "Слать",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 171.77,
+      "total_price": 858.85,
+      "kbju": {
+        "calories": 238.6,
+        "protein": 7.6,
+        "fat": 7.0,
+        "carbohydrates": 27.5
+      },
+      "manufacturer": {
+        "name": "ЗАО «Белова, Кудряшов и Федоров»",
+        "country": "Россия",
+        "website": "https://rao.com",
+        "inn": "5049040702"
       }
     }
   ],
-  "total_amount": 1271.9,
+  "total_amount": 2889.65,
   "payment_method": "card",
-  "is_delivery": false,
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Юрюзань",
-    "street": "пр. Севастопольский",
+    "city": "г. Кинешма",
+    "street": "ул. Черноморская",
     "house": "4",
-    "apartment": "19",
-    "postal_code": "740336"
+    "apartment": "64",
+    "postal_code": "369435"
   },
-  "purchase_datetime": "2026-08-25T16:08:40.647267"
+  "purchase_datetime": "2026-09-08T12:46:39.823128"
 }

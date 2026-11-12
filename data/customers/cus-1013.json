@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1013",
-  "first_name": "Майя",
-  "last_name": "Третьякова",
-  "email": "silanti_1998@example.net",
-  "phone": "8 431 251 0414",
-  "birth_date": "2008-08-24",
-  "gender": "male",
-  "registration_date": "2026-11-10T16:08:40.514443",
+  "first_name": "Тарас",
+  "last_name": "Фадеев",
+  "email": "roman_1974@example.net",
+  "phone": "8 (925) 993-6683",
+  "birth_date": "1959-09-25",
+  "gender": "female",
+  "registration_date": "2026-11-12T12:46:39.807712",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-0B65ECFFD5",
+  "loyalty_card_number": "LOYAL-CFBD4144BE",
   "purchase_location": {
     "country": "Россия",
-    "city": "с. Завьялиха",
-    "street": "пр. Октябрьский",
-    "house": "25",
-    "postal_code": "058240",
+    "city": "к. Норильск",
+    "street": "наб. М.Горького",
+    "house": "67",
+    "postal_code": "266232",
     "coordinates": {
-      "latitude": 25.905304,
-      "longitude": -6.320316
+      "latitude": -72.7223925,
+      "longitude": 8.13973
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "с. Завьялиха",
-    "street": "пр. Первомайский",
-    "house": "58",
-    "apartment": "88",
-    "postal_code": "991132"
+    "city": "к. Норильск",
+    "street": "ш. Нижнее",
+    "house": "40",
+    "apartment": "85",
+    "postal_code": "408722"
   },
   "preferences": {
     "preferred_language": "ru",
     "preferred_payment_method": "cash",
-    "receive_promotions": false
+    "receive_promotions": true
   }
 }

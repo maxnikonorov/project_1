@@ -1,0 +1,3 @@
+{"timestamp":"2026-11-12T15:01:00.626050Z","level":"info","event":"::group::Pre Execute","ti_id":"01a1d046-be16-79a3-b76c-19ec24929218","logger":"task","filename":"task_runner.py","lineno":2580}
+{"timestamp":"2026-11-12T15:01:07.824555Z","level":"info","event":"::endgroup::","ti_id":"01a1d046-be16-79a3-b76c-19ec24929218","logger":"task"}
+{"timestamp":"2026-11-12T15:01:07.824774Z","level":"error","event":"Could not reach the Execution API server. Verify the `[core] execution_api_server_url` (or `[api] base_url`) setting points at a reachable Airflow API server.","ti_id":"01a1d046-be16-79a3-b76c-19ec24929218","server":"http://localhost:8080/execution/","error":"[Errno 111] Connection refused","logger":"task"}

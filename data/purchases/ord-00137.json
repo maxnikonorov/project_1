@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00137",
   "customer": {
-    "customer_id": "cus-1026",
-    "first_name": "Исай",
-    "last_name": "Яковлева"
+    "customer_id": "cus-1015",
+    "first_name": "Христофор",
+    "last_name": "Медведев"
   },
   "store": {
-    "store_id": "store-037",
-    "store_name": "Маленькая Пикча — Магазин на ш. Омское",
+    "store_id": "store-043",
+    "store_name": "Маленькая Пикча — Магазин на алл. Вокзальная",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Кудымкар",
-      "street": "бул. Путевой",
-      "house": "6/5",
-      "postal_code": "462437",
+      "city": "г. Яхрома",
+      "street": "пер. Дарвина",
+      "house": "3",
+      "postal_code": "287876",
       "coordinates": {
-        "latitude": 86.5741415,
-        "longitude": -36.177029
+        "latitude": -43.7625855,
+        "longitude": -81.421788
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1001",
-      "name": "Природа",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 5,
+      "product_id": "prd-1018",
+      "name": "Пища",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 270.47,
-      "total_price": 1352.35,
+      "price_per_unit": 48.83,
+      "total_price": 48.83,
       "kbju": {
-        "calories": 82.7,
-        "protein": 5.3,
-        "fat": 7.1,
-        "carbohydrates": 48.4
+        "calories": 275.1,
+        "protein": 12.4,
+        "fat": 0.2,
+        "carbohydrates": 34.3
       },
       "manufacturer": {
-        "name": "ОАО «Аксенов-Елисеева»",
+        "name": "НПО «Алексеева, Русакова и Лебедев»",
         "country": "Россия",
-        "website": "https://npo.biz",
-        "inn": "2579256074"
+        "website": "https://zao.org",
+        "inn": "6006312092"
+      }
+    },
+    {
+      "product_id": "prd-1016",
+      "name": "Слать",
+      "category": "🥛 Молочные продукты",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 171.77,
+      "total_price": 687.08,
+      "kbju": {
+        "calories": 238.6,
+        "protein": 7.6,
+        "fat": 7.0,
+        "carbohydrates": 27.5
+      },
+      "manufacturer": {
+        "name": "ЗАО «Белова, Кудряшов и Федоров»",
+        "country": "Россия",
+        "website": "https://rao.com",
+        "inn": "5049040702"
+      }
+    },
+    {
+      "product_id": "prd-1008",
+      "name": "Увеличиваться",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 298.83,
+      "total_price": 1195.32,
+      "kbju": {
+        "calories": 57.9,
+        "protein": 1.9,
+        "fat": 5.5,
+        "carbohydrates": 26.7
+      },
+      "manufacturer": {
+        "name": "АО «Горбунов»",
+        "country": "Россия",
+        "website": "https://oao.ru",
+        "inn": "1791173907"
       }
     }
   ],
-  "total_amount": 1352.35,
+  "total_amount": 1931.23,
   "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "п. Дно",
-    "street": "наб. Мичурина",
-    "house": "869",
-    "apartment": "60",
-    "postal_code": "124806"
+    "city": "ст. Курчатов",
+    "street": "ш. Маркса",
+    "house": "2",
+    "apartment": "69",
+    "postal_code": "914357"
   },
-  "purchase_datetime": "2026-08-20T16:08:40.768611"
+  "purchase_datetime": "2026-09-26T12:46:39.833445"
 }

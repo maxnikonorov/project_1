@@ -1,6 +1,6 @@
 {
   "store_id": "store-031",
-  "store_name": "Маленькая Пикча — Магазин на пр. Громова",
+  "store_name": "Маленькая Пикча — Магазин на алл. Полтавская",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Фаина Антоновна Фомичева",
-    "phone": "+7 (169) 821-71-90",
-    "email": "filimon2000@example.net"
+    "name": "Ефремова Лариса Ильинична",
+    "phone": "8 (511) 318-40-83",
+    "email": "ovchinnikovstepan@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "д. Александровск",
-    "street": "пер. Енисейский",
-    "house": "274",
-    "postal_code": "929656",
+    "city": "ст. Цимлянск",
+    "street": "наб. Индустриальная",
+    "house": "3",
+    "postal_code": "593716",
     "coordinates": {
-      "latitude": 38.393706,
-      "longitude": -51.525823
+      "latitude": -60.422421,
+      "longitude": -111.181048
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": false,
-  "last_inventory_date": "2026-11-10"
+  "last_inventory_date": "2026-11-12"
 }

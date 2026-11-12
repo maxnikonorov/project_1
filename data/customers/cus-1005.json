@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1005",
-  "first_name": "Гурий",
-  "last_name": "Панова",
-  "email": "suvorovafevronija@example.com",
-  "phone": "82082183901",
-  "birth_date": "1995-05-21",
+  "first_name": "Бронислав",
+  "last_name": "Сазонов",
+  "email": "varvararibakova@example.org",
+  "phone": "+7 (892) 723-57-99",
+  "birth_date": "2006-04-30",
   "gender": "female",
-  "registration_date": "2026-11-10T16:08:40.499906",
+  "registration_date": "2026-11-12T12:46:39.806400",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-5D0B4E53B6",
+  "loyalty_card_number": "LOYAL-0A704931DC",
   "purchase_location": {
     "country": "Россия",
-    "city": "г. Апшеронск",
-    "street": "ш. Казанское",
-    "house": "5/5",
-    "postal_code": "235044",
+    "city": "ст. Нефтеюганск",
+    "street": "пер. Театральный",
+    "house": "618",
+    "postal_code": "050186",
     "coordinates": {
-      "latitude": -57.042003,
-      "longitude": 103.845308
+      "latitude": -31.9835125,
+      "longitude": -84.55101
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "г. Апшеронск",
-    "street": "бул. Полевой",
-    "house": "900",
-    "apartment": "34",
-    "postal_code": "114573"
+    "city": "ст. Нефтеюганск",
+    "street": "наб. Мелиоративная",
+    "house": "8",
+    "apartment": "53",
+    "postal_code": "753470"
   },
   "preferences": {
     "preferred_language": "ru",
     "preferred_payment_method": "cash",
-    "receive_promotions": true
+    "receive_promotions": false
   }
 }

@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00019",
   "customer": {
-    "customer_id": "cus-1034",
-    "first_name": "Агап",
-    "last_name": "Гусева"
+    "customer_id": "cus-1031",
+    "first_name": "Изяслав",
+    "last_name": "Филатов"
   },
   "store": {
-    "store_id": "store-032",
-    "store_name": "Маленькая Пикча — Магазин на ш. Овражное",
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на пер. Горького",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "г. Оренбург",
-      "street": "бул. Первомайский",
-      "house": "5",
-      "postal_code": "215822",
+      "city": "г. Яр-Сале",
+      "street": "алл. Железнодорожная",
+      "house": "133",
+      "postal_code": "360004",
       "coordinates": {
-        "latitude": -49.481629,
-        "longitude": -31.452333
+        "latitude": -88.296027,
+        "longitude": -30.594842
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1008",
-      "name": "Горький",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 3,
+      "product_id": "prd-1001",
+      "name": "Пропадать",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 203.15,
-      "total_price": 609.45,
+      "price_per_unit": 34.92,
+      "total_price": 139.68,
       "kbju": {
-        "calories": 271.9,
-        "protein": 15.0,
-        "fat": 7.2,
-        "carbohydrates": 40.0
+        "calories": 116.0,
+        "protein": 4.4,
+        "fat": 8.2,
+        "carbohydrates": 17.1
       },
       "manufacturer": {
-        "name": "Шарапов Групп",
+        "name": "ОАО «Аксенова-Брагина»",
         "country": "Россия",
-        "website": "https://ooo.edu",
-        "inn": "3346683207"
+        "website": "https://zao.info",
+        "inn": "4796377459"
+      }
+    },
+    {
+      "product_id": "prd-1010",
+      "name": "Пасть",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 219.53,
+      "total_price": 219.53,
+      "kbju": {
+        "calories": 262.9,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 35.0
+      },
+      "manufacturer": {
+        "name": "ЗАО «Юдин»",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "6266618289"
       }
     }
   ],
-  "total_amount": 609.45,
-  "payment_method": "cash",
+  "total_amount": 359.21,
+  "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "г. Адыгейск",
-    "street": "наб. Высоцкого",
-    "house": "8/2",
-    "apartment": "23",
-    "postal_code": "002931"
+    "city": "п. Карачаевск",
+    "street": "бул. 8 Марта",
+    "house": "84",
+    "apartment": "62",
+    "postal_code": "549334"
   },
-  "purchase_datetime": "2026-10-23T16:08:40.591579"
+  "purchase_datetime": "2026-08-15T12:46:39.818025"
 }

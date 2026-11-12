@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00049",
   "customer": {
-    "customer_id": "cus-1003",
-    "first_name": "Трофим",
-    "last_name": "Мамонтова"
+    "customer_id": "cus-1037",
+    "first_name": "Владлен",
+    "last_name": "Лобанова"
   },
   "store": {
-    "store_id": "store-030",
-    "store_name": "Большая Пикча — Магазин на ш. Центральное",
+    "store_id": "store-012",
+    "store_name": "Большая Пикча — Магазин на наб. Шишкина",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "п. Адлер",
-      "street": "ул. Поселковая",
-      "house": "7",
-      "postal_code": "712439",
+      "city": "д. Агата",
+      "street": "наб. Циолковского",
+      "house": "3",
+      "postal_code": "369956",
       "coordinates": {
-        "latitude": -25.411828,
-        "longitude": -49.198765
+        "latitude": 26.12203,
+        "longitude": 29.74753
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1003",
-      "name": "Порт",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 4,
+      "product_id": "prd-1019",
+      "name": "Военный",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 300.0,
-      "total_price": 1200.0,
+      "price_per_unit": 166.7,
+      "total_price": 333.4,
       "kbju": {
-        "calories": 129.9,
-        "protein": 1.0,
-        "fat": 9.4,
-        "carbohydrates": 17.8
+        "calories": 160.4,
+        "protein": 11.7,
+        "fat": 4.3,
+        "carbohydrates": 21.4
       },
       "manufacturer": {
-        "name": "Абрамов и партнеры",
+        "name": "ИП «Голубева»",
         "country": "Россия",
-        "website": "https://koka-kola.biz",
-        "inn": "0599854783"
+        "website": "https://gruppa.ru",
+        "inn": "3931722625"
       }
     }
   ],
-  "total_amount": 1200.0,
+  "total_amount": 333.4,
   "payment_method": "card",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "ст. Арзамас",
-    "street": "бул. Рылеева",
-    "house": "6/3",
-    "apartment": "8",
-    "postal_code": "348548"
+    "city": "ст. Каменск-Уральский",
+    "street": "ул. Ватутина",
+    "house": "3",
+    "apartment": "59",
+    "postal_code": "945194"
   },
-  "purchase_datetime": "2026-09-13T16:08:40.635960"
+  "purchase_datetime": "2026-09-20T12:46:39.822125"
 }

@@ -1,6 +1,6 @@
 {
   "store_id": "store-014",
-  "store_name": "Большая Пикча — Магазин на бул. Школьный",
+  "store_name": "Большая Пикча — Магазин на ул. Веселая",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Логинов Радим Ильич",
-    "phone": "8 458 346 89 29",
-    "email": "leonid2005@example.net"
+    "name": "Бобылев Серафим Эдуардович",
+    "phone": "85913741748",
+    "email": "gusevaija@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "с. Завьялиха",
-    "street": "пр. Октябрьский",
-    "house": "25",
-    "postal_code": "058240",
+    "city": "к. Норильск",
+    "street": "наб. М.Горького",
+    "house": "67",
+    "postal_code": "266232",
     "coordinates": {
-      "latitude": 25.905304,
-      "longitude": -6.320316
+      "latitude": -72.7223925,
+      "longitude": 8.13973
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": false,
-  "last_inventory_date": "2026-11-10"
+  "warehouse_connected": true,
+  "last_inventory_date": "2026-11-12"
 }

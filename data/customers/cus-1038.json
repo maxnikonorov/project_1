@@ -1,32 +1,32 @@
 {
   "customer_id": "cus-1038",
-  "first_name": "Радислав",
-  "last_name": "Костина",
-  "email": "onufri1998@example.com",
-  "phone": "+7 572 516 53 16",
-  "birth_date": "1999-08-11",
-  "gender": "male",
-  "registration_date": "2026-11-10T16:08:40.559517",
+  "first_name": "Любовь",
+  "last_name": "Александров",
+  "email": "modest27@example.net",
+  "phone": "8 (311) 506-9924",
+  "birth_date": "1984-04-18",
+  "gender": "female",
+  "registration_date": "2026-11-12T12:46:39.811713",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-546EA596EF",
+  "loyalty_card_number": "LOYAL-8B7DC86990",
   "purchase_location": {
     "country": "Россия",
-    "city": "д. Орск",
-    "street": "ул. Фурманова",
-    "house": "7",
-    "postal_code": "936758",
+    "city": "п. Тулпан",
+    "street": "наб. Степная",
+    "house": "3",
+    "postal_code": "238277",
     "coordinates": {
-      "latitude": 82.9780965,
-      "longitude": 145.602677
+      "latitude": 37.367648,
+      "longitude": -89.135618
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Орск",
-    "street": "бул. Учительский",
-    "house": "3",
-    "apartment": "13",
-    "postal_code": "389971"
+    "city": "п. Тулпан",
+    "street": "алл. Таежная",
+    "house": "7",
+    "apartment": "67",
+    "postal_code": "781943"
   },
   "preferences": {
     "preferred_language": "ru",

@@ -1,6 +1,6 @@
 {
   "store_id": "store-025",
-  "store_name": "Большая Пикча — Магазин на пр. Виноградный",
+  "store_name": "Большая Пикча — Магазин на ул. Войкова",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Василиса Харитоновна Воронцова",
-    "phone": "8 198 899 6669",
-    "email": "varfolome75@example.net"
+    "name": "Панова Зоя Ивановна",
+    "phone": "8 (169) 032-19-51",
+    "email": "bikovaivanna@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "д. Кабанск",
-    "street": "наб. Ватутина",
-    "house": "71",
-    "postal_code": "430475",
+    "city": "д. Курск",
+    "street": "наб. Королева",
+    "house": "220",
+    "postal_code": "140036",
     "coordinates": {
-      "latitude": 56.1539,
-      "longitude": -125.144973
+      "latitude": -45.5219915,
+      "longitude": 41.178766
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": false,
-  "last_inventory_date": "2026-11-10"
+  "warehouse_connected": true,
+  "last_inventory_date": "2026-11-12"
 }

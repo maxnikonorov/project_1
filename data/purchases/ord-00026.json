@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00026",
   "customer": {
-    "customer_id": "cus-1035",
-    "first_name": "Евсей",
-    "last_name": "Гордеева"
+    "customer_id": "cus-1042",
+    "first_name": "Феоктист",
+    "last_name": "Дементьев"
   },
   "store": {
-    "store_id": "store-016",
-    "store_name": "Большая Пикча — Магазин на бул. Станиславского",
-    "store_network": "Большая Пикча",
+    "store_id": "store-039",
+    "store_name": "Маленькая Пикча — Магазин на пер. Вишневый",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "ст. Нижний Новгород",
-      "street": "пр. Ручейный",
-      "house": "530",
-      "postal_code": "705935",
+      "city": "п. Тулпан",
+      "street": "наб. Степная",
+      "house": "3",
+      "postal_code": "238277",
       "coordinates": {
-        "latitude": 61.581504,
-        "longitude": 58.143602
+        "latitude": 37.367648,
+        "longitude": -89.135618
       }
     }
   },
   "items": [
     {
       "product_id": "prd-1001",
-      "name": "Природа",
+      "name": "Пропадать",
       "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 270.47,
-      "total_price": 540.94,
+      "price_per_unit": 34.92,
+      "total_price": 69.84,
       "kbju": {
-        "calories": 82.7,
-        "protein": 5.3,
-        "fat": 7.1,
-        "carbohydrates": 48.4
+        "calories": 116.0,
+        "protein": 4.4,
+        "fat": 8.2,
+        "carbohydrates": 17.1
       },
       "manufacturer": {
-        "name": "ОАО «Аксенов-Елисеева»",
+        "name": "ОАО «Аксенова-Брагина»",
         "country": "Россия",
-        "website": "https://npo.biz",
-        "inn": "2579256074"
+        "website": "https://zao.info",
+        "inn": "4796377459"
       }
     }
   ],
-  "total_amount": 540.94,
-  "payment_method": "card",
+  "total_amount": 69.84,
+  "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Борзя",
-    "street": "ш. Набережное",
-    "house": "700",
-    "apartment": "69",
-    "postal_code": "777744"
+    "city": "г. Яхрома",
+    "street": "бул. Островского",
+    "house": "41",
+    "apartment": "85",
+    "postal_code": "053104"
   },
-  "purchase_datetime": "2026-11-07T16:08:40.601111"
+  "purchase_datetime": "2026-08-23T12:46:39.818895"
 }

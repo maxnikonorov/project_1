@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00099",
   "customer": {
-    "customer_id": "cus-1011",
-    "first_name": "Елисей",
-    "last_name": "Фролов"
+    "customer_id": "cus-1008",
+    "first_name": "Серафим",
+    "last_name": "Терентьев"
   },
   "store": {
-    "store_id": "store-036",
-    "store_name": "Маленькая Пикча — Магазин на пер. 50 лет Октября",
+    "store_id": "store-038",
+    "store_name": "Маленькая Пикча — Магазин на пер. Весенний",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Борзя",
-      "street": "пер. Тенистый",
-      "house": "45",
-      "postal_code": "771850",
+      "city": "ст. Каменск-Уральский",
+      "street": "бул. Бульварный",
+      "house": "94",
+      "postal_code": "410592",
       "coordinates": {
-        "latitude": -65.3852585,
-        "longitude": -79.050702
+        "latitude": -77.446573,
+        "longitude": 164.029875
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1006",
-      "name": "Иной",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 5,
+      "product_id": "prd-1005",
+      "name": "Конструкция",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 38.14,
-      "total_price": 190.7,
+      "price_per_unit": 204.55,
+      "total_price": 613.65,
       "kbju": {
-        "calories": 240.4,
-        "protein": 11.6,
-        "fat": 4.1,
-        "carbohydrates": 46.3
+        "calories": 86.4,
+        "protein": 1.8,
+        "fat": 13.4,
+        "carbohydrates": 19.0
       },
       "manufacturer": {
-        "name": "Шарова Лтд",
+        "name": "ОАО «Гордеев, Никитин и Кулакова»",
         "country": "Россия",
-        "website": "https://trofimov.net",
-        "inn": "2302699549"
+        "website": "https://ooo.org",
+        "inn": "4077468251"
       }
     }
   ],
-  "total_amount": 190.7,
+  "total_amount": 613.65,
   "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "к. Чита",
-    "street": "бул. Братский",
-    "house": "53",
-    "apartment": "3",
-    "postal_code": "373485"
+    "city": "клх Ессентуки",
+    "street": "ш. Станционное",
+    "house": "4/8",
+    "apartment": "27",
+    "postal_code": "732508"
   },
-  "purchase_datetime": "2026-10-20T16:08:40.713472"
+  "purchase_datetime": "2026-10-17T12:46:39.828908"
 }

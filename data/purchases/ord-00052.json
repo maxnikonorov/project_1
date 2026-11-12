@@ -1,101 +1,80 @@
 {
   "purchase_id": "ord-00052",
   "customer": {
-    "customer_id": "cus-1039",
-    "first_name": "Моисей",
-    "last_name": "Юдин"
+    "customer_id": "cus-1013",
+    "first_name": "Тарас",
+    "last_name": "Фадеев"
   },
   "store": {
-    "store_id": "store-029",
-    "store_name": "Большая Пикча — Магазин на ш. Макаренко",
-    "store_network": "Большая Пикча",
+    "store_id": "store-031",
+    "store_name": "Маленькая Пикча — Магазин на алл. Полтавская",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Новгород Великий",
-      "street": "алл. Культуры",
-      "house": "2/2",
-      "postal_code": "193662",
+      "city": "ст. Цимлянск",
+      "street": "наб. Индустриальная",
+      "house": "3",
+      "postal_code": "593716",
       "coordinates": {
-        "latitude": 52.706471,
-        "longitude": -141.974096
+        "latitude": -60.422421,
+        "longitude": -111.181048
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1013",
-      "name": "Крутой",
-      "category": "🥦 Овощи и зелень",
+      "product_id": "prd-1005",
+      "name": "Конструкция",
+      "category": "🍏 Фрукты и ягоды",
       "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 209.78,
-      "total_price": 839.12,
+      "price_per_unit": 204.55,
+      "total_price": 818.2,
       "kbju": {
-        "calories": 246.6,
-        "protein": 5.6,
-        "fat": 14.7,
-        "carbohydrates": 20.5
+        "calories": 86.4,
+        "protein": 1.8,
+        "fat": 13.4,
+        "carbohydrates": 19.0
       },
       "manufacturer": {
-        "name": "ОАО «Костин Крюкова»",
+        "name": "ОАО «Гордеев, Никитин и Кулакова»",
         "country": "Россия",
-        "website": "https://mmk.info",
-        "inn": "9008610160"
+        "website": "https://ooo.org",
+        "inn": "4077468251"
       }
     },
     {
-      "product_id": "prd-1005",
-      "name": "Тысяча",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 1,
+      "product_id": "prd-1006",
+      "name": "Медицина",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 109.23,
-      "total_price": 109.23,
+      "price_per_unit": 196.38,
+      "total_price": 589.14,
       "kbju": {
-        "calories": 215.7,
-        "protein": 8.5,
-        "fat": 8.5,
-        "carbohydrates": 5.4
+        "calories": 217.8,
+        "protein": 15.1,
+        "fat": 12.2,
+        "carbohydrates": 4.8
       },
       "manufacturer": {
-        "name": "Исаева Групп",
+        "name": "Ковалев Групп",
         "country": "Россия",
-        "website": "https://ao.com",
-        "inn": "0005832495"
-      }
-    },
-    {
-      "product_id": "prd-1010",
-      "name": "Наткнуться",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 5,
-      "unit": "шт",
-      "price_per_unit": 109.99,
-      "total_price": 549.95,
-      "kbju": {
-        "calories": 111.4,
-        "protein": 5.0,
-        "fat": 2.9,
-        "carbohydrates": 48.1
-      },
-      "manufacturer": {
-        "name": "АО «Третьяков, Кабанов и Казакова»",
-        "country": "Россия",
-        "website": "https://rao.edu",
-        "inn": "0018510627"
+        "website": "https://rao.biz",
+        "inn": "9365070690"
       }
     }
   ],
-  "total_amount": 1498.3,
+  "total_amount": 1407.34,
   "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Карпинск",
-    "street": "пер. Чехова",
-    "house": "489",
-    "apartment": "2",
-    "postal_code": "128871"
+    "city": "к. Норильск",
+    "street": "ш. Нижнее",
+    "house": "40",
+    "apartment": "85",
+    "postal_code": "408722"
   },
-  "purchase_datetime": "2026-10-27T16:08:40.641438"
+  "purchase_datetime": "2026-10-26T12:46:39.822490"
 }

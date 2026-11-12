@@ -1,32 +1,32 @@
 {
   "customer_id": "cus-1017",
-  "first_name": "Дмитрий",
-  "last_name": "Наумов",
-  "email": "tvorimir1981@example.net",
-  "phone": "+7 (676) 010-7499",
-  "birth_date": "1981-07-15",
+  "first_name": "Изот",
+  "last_name": "Бирюкова",
+  "email": "innokenti2018@example.net",
+  "phone": "+72849407589",
+  "birth_date": "2002-01-01",
   "gender": "female",
-  "registration_date": "2026-11-10T16:08:40.523454",
+  "registration_date": "2026-11-12T12:46:39.808293",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-ED61379C67",
+  "loyalty_card_number": "LOYAL-10FDF83237",
   "purchase_location": {
     "country": "Россия",
-    "city": "клх Бологое",
-    "street": "ш. Стахановское",
-    "house": "2/7",
-    "postal_code": "892181",
+    "city": "г. Шумиха",
+    "street": "пр. Новоселов",
+    "house": "7/6",
+    "postal_code": "361058",
     "coordinates": {
-      "latitude": 71.681777,
-      "longitude": 39.954897
+      "latitude": 72.98693,
+      "longitude": 72.832457
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Бологое",
-    "street": "пр. Толбухина",
-    "house": "625",
-    "apartment": "20",
-    "postal_code": "483680"
+    "city": "г. Шумиха",
+    "street": "ш. Советов",
+    "house": "16",
+    "apartment": "17",
+    "postal_code": "675061"
   },
   "preferences": {
     "preferred_language": "ru",

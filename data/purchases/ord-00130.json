@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00130",
   "customer": {
-    "customer_id": "cus-1001",
-    "first_name": "Варлаам",
-    "last_name": "Лаврентьева"
+    "customer_id": "cus-1015",
+    "first_name": "Христофор",
+    "last_name": "Медведев"
   },
   "store": {
-    "store_id": "store-006",
-    "store_name": "Большая Пикча — Магазин на ул. Проезжая",
+    "store_id": "store-028",
+    "store_name": "Большая Пикча — Магазин на наб. Комсомольская",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "г. Апшеронск",
-      "street": "ш. Казанское",
-      "house": "5/5",
-      "postal_code": "235044",
+      "city": "д. Нефтекамск",
+      "street": "пер. 9 Января",
+      "house": "690",
+      "postal_code": "306481",
       "coordinates": {
-        "latitude": -57.042003,
-        "longitude": 103.845308
+        "latitude": -67.993054,
+        "longitude": 57.769615
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1007",
-      "name": "Соответствие",
+      "product_id": "prd-1012",
+      "name": "Июнь",
       "category": "🍏 Фрукты и ягоды",
-      "quantity": 4,
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 254.38,
-      "total_price": 1017.52,
+      "price_per_unit": 64.74,
+      "total_price": 129.48,
       "kbju": {
-        "calories": 250.9,
-        "protein": 11.5,
-        "fat": 3.2,
-        "carbohydrates": 44.9
+        "calories": 74.5,
+        "protein": 16.4,
+        "fat": 3.9,
+        "carbohydrates": 41.7
       },
       "manufacturer": {
-        "name": "Терентьев Инкорпорэйтед",
+        "name": "Корпорация Гринн",
         "country": "Россия",
-        "website": "https://ip.info",
-        "inn": "3390887494"
-      }
-    },
-    {
-      "product_id": "prd-1019",
-      "name": "Выражение",
-      "category": "🥛 Молочные продукты",
-      "quantity": 3,
-      "unit": "шт",
-      "price_per_unit": 211.74,
-      "total_price": 635.22,
-      "kbju": {
-        "calories": 157.2,
-        "protein": 13.4,
-        "fat": 2.7,
-        "carbohydrates": 6.2
-      },
-      "manufacturer": {
-        "name": "Ковалева Инкорпорэйтед",
-        "country": "Россия",
-        "website": "https://zao.ru",
-        "inn": "4325136422"
+        "website": "https://shcherbakova.ru",
+        "inn": "1467725699"
       }
     }
   ],
-  "total_amount": 1652.74,
-  "payment_method": "card",
+  "total_amount": 129.48,
+  "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "ст. Горячий Ключ",
-    "street": "бул. Щетинкина",
-    "house": "3",
-    "apartment": "39",
-    "postal_code": "329085"
+    "city": "ст. Курчатов",
+    "street": "ш. Маркса",
+    "house": "2",
+    "apartment": "69",
+    "postal_code": "914357"
   },
-  "purchase_datetime": "2026-09-24T16:08:40.758079"
+  "purchase_datetime": "2026-09-13T12:46:39.832629"
 }

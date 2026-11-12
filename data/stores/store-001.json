@@ -1,6 +1,6 @@
 {
   "store_id": "store-001",
-  "store_name": "Большая Пикча — Магазин на бул. Профсоюзный",
+  "store_name": "Большая Пикча — Магазин на пр. Лермонтова",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Игнатова Глафира Степановна",
-    "phone": "+7 107 516 75 17",
-    "email": "valerivladimirov@example.org"
+    "name": "Силин Сократ Арсеньевич",
+    "phone": "8 (651) 885-0209",
+    "email": "ivan1983@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "п. Инта",
-    "street": "бул. Элеваторный",
-    "house": "1",
-    "postal_code": "499383",
+    "city": "клх Тында",
+    "street": "ул. Родниковая",
+    "house": "9",
+    "postal_code": "054196",
     "coordinates": {
-      "latitude": -4.584087,
-      "longitude": 138.935818
+      "latitude": 63.4883305,
+      "longitude": -143.170056
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": false,
-  "last_inventory_date": "2026-11-10"
+  "warehouse_connected": true,
+  "last_inventory_date": "2026-11-12"
 }

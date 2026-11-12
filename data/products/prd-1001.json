@@ -1,24 +1,24 @@
 {
   "id": "prd-1001",
-  "name": "Природа",
+  "name": "Пропадать",
   "group": "🥖 Зерновые и хлебобулочные изделия",
-  "description": "Советовать применяться поздравлять неудобно школьный.",
+  "description": "А налоговый школьный услать тесно изменение голубчик порог.",
   "kbju": {
-    "calories": 82.7,
-    "protein": 5.3,
-    "fat": 7.1,
-    "carbohydrates": 48.4
+    "calories": 116.0,
+    "protein": 4.4,
+    "fat": 8.2,
+    "carbohydrates": 17.1
   },
-  "price": 270.47,
+  "price": 34.92,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 21,
-  "is_organic": true,
-  "barcode": "9918993045872",
+  "expiry_days": 9,
+  "is_organic": false,
+  "barcode": "0533420314346",
   "manufacturer": {
-    "name": "ОАО «Аксенов-Елисеева»",
+    "name": "ОАО «Аксенова-Брагина»",
     "country": "Россия",
-    "website": "https://npo.biz",
-    "inn": "2579256074"
+    "website": "https://zao.info",
+    "inn": "4796377459"
   }
 }

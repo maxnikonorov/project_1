@@ -1,6 +1,6 @@
 {
   "store_id": "store-040",
-  "store_name": "Маленькая Пикча — Магазин на пер. Славянский",
+  "store_name": "Маленькая Пикча — Магазин на ул. Совхозная",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Наумова Ксения Робертовна",
-    "phone": "8 (292) 593-54-07",
-    "email": "edavidov@example.com"
+    "name": "Зыков Исидор Устинович",
+    "phone": "+7 (379) 541-81-83",
+    "email": "savva84@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "клх Карпинск",
-    "street": "ш. 8-е Марта",
-    "house": "3",
-    "postal_code": "247366",
+    "city": "г. Кинешма",
+    "street": "наб. Северная",
+    "house": "8",
+    "postal_code": "681912",
     "coordinates": {
-      "latitude": 22.14391,
-      "longitude": 31.509525
+      "latitude": 48.176152,
+      "longitude": 166.679013
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-11-12"
 }

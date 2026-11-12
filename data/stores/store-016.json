@@ -1,6 +1,6 @@
 {
   "store_id": "store-016",
-  "store_name": "Большая Пикча — Магазин на бул. Станиславского",
+  "store_name": "Большая Пикча — Магазин на наб. Саратовская",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Егоров Кир Авдеевич",
-    "phone": "8 597 852 15 79",
-    "email": "marina2008@example.net"
+    "name": "Гуляева Лукия Аскольдовна",
+    "phone": "+7 (536) 773-6722",
+    "email": "agafjapanfilova@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "ст. Нижний Новгород",
-    "street": "пр. Ручейный",
-    "house": "530",
-    "postal_code": "705935",
+    "city": "ст. Курчатов",
+    "street": "ул. Физкультурная",
+    "house": "828",
+    "postal_code": "910837",
     "coordinates": {
-      "latitude": 61.581504,
-      "longitude": 58.143602
+      "latitude": -53.416018,
+      "longitude": 139.893617
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "last_inventory_date": "2026-11-12"
 }

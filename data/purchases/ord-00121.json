@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00121",
   "customer": {
-    "customer_id": "cus-1004",
-    "first_name": "Нина",
-    "last_name": "Моисеева"
+    "customer_id": "cus-1042",
+    "first_name": "Феоктист",
+    "last_name": "Дементьев"
   },
   "store": {
-    "store_id": "store-028",
-    "store_name": "Большая Пикча — Магазин на пер. Приморский",
+    "store_id": "store-030",
+    "store_name": "Большая Пикча — Магазин на ш. Космодемьянской",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "п. Учалы",
-      "street": "алл. Клубная",
-      "house": "625",
-      "postal_code": "972146",
+      "city": "ст. Шелехов",
+      "street": "ул. Титова",
+      "house": "8",
+      "postal_code": "296629",
       "coordinates": {
-        "latitude": -62.261145,
-        "longitude": 122.407164
+        "latitude": 42.7402805,
+        "longitude": -99.295106
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1008",
-      "name": "Горький",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 3,
+      "product_id": "prd-1001",
+      "name": "Пропадать",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 203.15,
-      "total_price": 609.45,
+      "price_per_unit": 34.92,
+      "total_price": 174.6,
       "kbju": {
-        "calories": 271.9,
-        "protein": 15.0,
-        "fat": 7.2,
-        "carbohydrates": 40.0
+        "calories": 116.0,
+        "protein": 4.4,
+        "fat": 8.2,
+        "carbohydrates": 17.1
       },
       "manufacturer": {
-        "name": "Шарапов Групп",
+        "name": "ОАО «Аксенова-Брагина»",
         "country": "Россия",
-        "website": "https://ooo.edu",
-        "inn": "3346683207"
+        "website": "https://zao.info",
+        "inn": "4796377459"
+      }
+    },
+    {
+      "product_id": "prd-1003",
+      "name": "Палец",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 123.81,
+      "total_price": 371.43,
+      "kbju": {
+        "calories": 287.5,
+        "protein": 19.7,
+        "fat": 14.4,
+        "carbohydrates": 47.2
+      },
+      "manufacturer": {
+        "name": "АО «Воронцов»",
+        "country": "Россия",
+        "website": "https://zao.edu",
+        "inn": "2681589498"
       }
     }
   ],
-  "total_amount": 609.45,
-  "payment_method": "card",
-  "is_delivery": false,
+  "total_amount": 546.03,
+  "payment_method": "cash",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "к. Бузулук",
-    "street": "пр. Рабочий",
-    "house": "8",
-    "apartment": "100",
-    "postal_code": "083430"
+    "city": "г. Яхрома",
+    "street": "бул. Островского",
+    "house": "41",
+    "apartment": "85",
+    "postal_code": "053104"
   },
-  "purchase_datetime": "2026-09-13T16:08:40.745539"
+  "purchase_datetime": "2026-10-26T12:46:39.831455"
 }

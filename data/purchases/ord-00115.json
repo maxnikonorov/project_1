@@ -1,101 +1,59 @@
 {
   "purchase_id": "ord-00115",
   "customer": {
-    "customer_id": "cus-1031",
-    "first_name": "Софрон",
-    "last_name": "Савин"
+    "customer_id": "cus-1043",
+    "first_name": "Силантий",
+    "last_name": "Третьяков"
   },
   "store": {
-    "store_id": "store-037",
-    "store_name": "Маленькая Пикча — Магазин на ш. Омское",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-029",
+    "store_name": "Большая Пикча — Магазин на алл. Геологическая",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Кудымкар",
-      "street": "бул. Путевой",
-      "house": "6/5",
-      "postal_code": "462437",
+      "city": "г. Астрахань",
+      "street": "ш. Огородное",
+      "house": "6",
+      "postal_code": "307664",
       "coordinates": {
-        "latitude": 86.5741415,
-        "longitude": -36.177029
+        "latitude": -48.22529,
+        "longitude": -9.595417
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1010",
-      "name": "Наткнуться",
-      "category": "🍏 Фрукты и ягоды",
+      "product_id": "prd-1013",
+      "name": "Решение",
+      "category": "🥛 Молочные продукты",
       "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 109.99,
-      "total_price": 549.95,
+      "price_per_unit": 272.65,
+      "total_price": 1363.25,
       "kbju": {
-        "calories": 111.4,
-        "protein": 5.0,
-        "fat": 2.9,
-        "carbohydrates": 48.1
+        "calories": 165.7,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 22.6
       },
       "manufacturer": {
-        "name": "АО «Третьяков, Кабанов и Казакова»",
+        "name": "ЗАО «Владимирова Федосеева»",
         "country": "Россия",
-        "website": "https://rao.edu",
-        "inn": "0018510627"
-      }
-    },
-    {
-      "product_id": "prd-1007",
-      "name": "Соответствие",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 254.38,
-      "total_price": 508.76,
-      "kbju": {
-        "calories": 250.9,
-        "protein": 11.5,
-        "fat": 3.2,
-        "carbohydrates": 44.9
-      },
-      "manufacturer": {
-        "name": "Терентьев Инкорпорэйтед",
-        "country": "Россия",
-        "website": "https://ip.info",
-        "inn": "3390887494"
-      }
-    },
-    {
-      "product_id": "prd-1005",
-      "name": "Тысяча",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 4,
-      "unit": "шт",
-      "price_per_unit": 109.23,
-      "total_price": 436.92,
-      "kbju": {
-        "calories": 215.7,
-        "protein": 8.5,
-        "fat": 8.5,
-        "carbohydrates": 5.4
-      },
-      "manufacturer": {
-        "name": "Исаева Групп",
-        "country": "Россия",
-        "website": "https://ao.com",
-        "inn": "0005832495"
+        "website": "https://ip.com",
+        "inn": "0567872472"
       }
     }
   ],
-  "total_amount": 1495.63,
-  "payment_method": "card",
-  "is_delivery": false,
+  "total_amount": 1363.25,
+  "payment_method": "cash",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "г. Оренбург",
-    "street": "наб. 60 лет СССР",
-    "house": "8/3",
-    "apartment": "63",
-    "postal_code": "955944"
+    "city": "с. Киров (Вятка)",
+    "street": "наб. Свободная",
+    "house": "685",
+    "apartment": "98",
+    "postal_code": "356036"
   },
-  "purchase_datetime": "2026-10-23T16:08:40.736538"
+  "purchase_datetime": "2026-10-07T12:46:39.830729"
 }

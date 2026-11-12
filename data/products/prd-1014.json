@@ -1,24 +1,24 @@
 {
   "id": "prd-1014",
-  "name": "Что",
+  "name": "Еврейский",
   "group": "🥩 Мясо, рыба, яйца и бобовые",
-  "description": "Инфекция материя поговорить головной исполнять бочок.",
+  "description": "Спорт развитый наступать еврейский зима.",
   "kbju": {
-    "calories": 231.7,
-    "protein": 17.6,
-    "fat": 9.2,
-    "carbohydrates": 6.7
+    "calories": 224.9,
+    "protein": 11.4,
+    "fat": 13.1,
+    "carbohydrates": 22.4
   },
-  "price": 139.68,
+  "price": 228.93,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 22,
+  "expiry_days": 15,
   "is_organic": true,
-  "barcode": "0190292378052",
+  "barcode": "1403723897855",
   "manufacturer": {
-    "name": "Петухова Лимитед",
+    "name": "ООО «Котова-Белякова»",
     "country": "Россия",
-    "website": "https://ip.net",
-    "inn": "2487454296"
+    "website": "https://yakushev.org",
+    "inn": "1032222274"
   }
 }

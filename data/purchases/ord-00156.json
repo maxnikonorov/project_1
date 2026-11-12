@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00156",
   "customer": {
-    "customer_id": "cus-1002",
-    "first_name": "Лора",
-    "last_name": "Фомина"
+    "customer_id": "cus-1041",
+    "first_name": "Светозар",
+    "last_name": "Миронов"
   },
   "store": {
-    "store_id": "store-010",
-    "store_name": "Большая Пикча — Магазин на ш. Светлое",
-    "store_network": "Большая Пикча",
+    "store_id": "store-044",
+    "store_name": "Маленькая Пикча — Магазин на бул. Поперечный",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "п. Бронницы",
-      "street": "алл. Геологов",
-      "house": "8/6",
-      "postal_code": "153671",
+      "city": "с. Киров (Вятка)",
+      "street": "пр. Победа",
+      "house": "875",
+      "postal_code": "988800",
       "coordinates": {
-        "latitude": 37.778015,
-        "longitude": 47.325165
+        "latitude": -9.700511,
+        "longitude": 68.825643
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1017",
-      "name": "Пол",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "product_id": "prd-1014",
+      "name": "Еврейский",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
       "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 150.17,
-      "total_price": 300.34,
+      "price_per_unit": 228.93,
+      "total_price": 457.86,
       "kbju": {
-        "calories": 127.5,
-        "protein": 3.3,
-        "fat": 7.5,
-        "carbohydrates": 41.2
+        "calories": 224.9,
+        "protein": 11.4,
+        "fat": 13.1,
+        "carbohydrates": 22.4
       },
       "manufacturer": {
-        "name": "ОАО «Родионова-Осипов»",
+        "name": "ООО «Котова-Белякова»",
         "country": "Россия",
-        "website": "https://ip.ru",
-        "inn": "4308518530"
-      }
-    },
-    {
-      "product_id": "prd-1006",
-      "name": "Иной",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 38.14,
-      "total_price": 38.14,
-      "kbju": {
-        "calories": 240.4,
-        "protein": 11.6,
-        "fat": 4.1,
-        "carbohydrates": 46.3
-      },
-      "manufacturer": {
-        "name": "Шарова Лтд",
-        "country": "Россия",
-        "website": "https://trofimov.net",
-        "inn": "2302699549"
+        "website": "https://yakushev.org",
+        "inn": "1032222274"
       }
     }
   ],
-  "total_amount": 338.48,
+  "total_amount": 457.86,
   "payment_method": "card",
-  "is_delivery": false,
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Калач-на-Дону",
-    "street": "пр. Серова",
-    "house": "9",
-    "apartment": "81",
-    "postal_code": "868446"
+    "city": "п. Апшеронск",
+    "street": "наб. Декабристов",
+    "house": "765",
+    "apartment": "9",
+    "postal_code": "304657"
   },
-  "purchase_datetime": "2026-09-13T16:08:40.804704"
+  "purchase_datetime": "2026-09-14T12:46:39.835740"
 }

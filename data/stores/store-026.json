@@ -1,6 +1,6 @@
 {
   "store_id": "store-026",
-  "store_name": "Большая Пикча — Магазин на пр. Лазурный",
+  "store_name": "Большая Пикча — Магазин на алл. Брянская",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Федотов Эммануил Фокич",
-    "phone": "+7 811 631 4806",
-    "email": "evstigneagafonov@example.org"
+    "name": "Орлова Анна Максимовна",
+    "phone": "+7 (323) 659-05-54",
+    "email": "naina01@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "к. Кингисепп",
-    "street": "ш. Смоленское",
-    "house": "9/3",
-    "postal_code": "469008",
+    "city": "с. Сочи",
+    "street": "бул. Ангарский",
+    "house": "402",
+    "postal_code": "209220",
     "coordinates": {
-      "latitude": -78.4942005,
-      "longitude": -6.090966
+      "latitude": -44.7970055,
+      "longitude": 10.439543
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": false,
-  "last_inventory_date": "2026-11-10"
+  "last_inventory_date": "2026-11-12"
 }

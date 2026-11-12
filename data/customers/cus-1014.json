@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1014",
-  "first_name": "Якуб",
-  "last_name": "Кондратьева",
-  "email": "anzhela21@example.net",
-  "phone": "81546249799",
-  "birth_date": "1978-10-09",
-  "gender": "female",
-  "registration_date": "2026-11-10T16:08:40.516444",
+  "first_name": "Дементий",
+  "last_name": "Кудряшов",
+  "email": "fainaagafonova@example.com",
+  "phone": "+7 561 031 4771",
+  "birth_date": "1980-01-21",
+  "gender": "male",
+  "registration_date": "2026-11-12T12:46:39.807847",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-612D347A4B",
+  "loyalty_card_number": "LOYAL-1D3452A78A",
   "purchase_location": {
     "country": "Россия",
-    "city": "п. Руза",
-    "street": "ш. Радужное",
-    "house": "7/7",
-    "postal_code": "372559",
+    "city": "п. Буденновск",
+    "street": "наб. Ушакова",
+    "house": "7/3",
+    "postal_code": "566530",
     "coordinates": {
-      "latitude": -51.107463,
-      "longitude": 85.868379
+      "latitude": -69.920769,
+      "longitude": -170.838449
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "п. Руза",
-    "street": "бул. Славянский",
-    "house": "43",
-    "apartment": "66",
-    "postal_code": "478987"
+    "city": "п. Буденновск",
+    "street": "пр. Пионерский",
+    "house": "18",
+    "apartment": "5",
+    "postal_code": "207686"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "card",
+    "preferred_payment_method": "cash",
     "receive_promotions": false
   }
 }

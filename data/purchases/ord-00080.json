@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00080",
   "customer": {
-    "customer_id": "cus-1004",
-    "first_name": "Нина",
-    "last_name": "Моисеева"
+    "customer_id": "cus-1018",
+    "first_name": "Ипполит",
+    "last_name": "Павлов"
   },
   "store": {
-    "store_id": "store-005",
-    "store_name": "Большая Пикча — Магазин на пр. Донской",
+    "store_id": "store-002",
+    "store_name": "Большая Пикча — Магазин на ул. Пригородная",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Бузулук",
-      "street": "бул. Енисейский",
-      "house": "736",
-      "postal_code": "369079",
+      "city": "к. Пятигорск",
+      "street": "бул. Тукая",
+      "house": "3",
+      "postal_code": "161546",
       "coordinates": {
-        "latitude": -17.571044,
-        "longitude": 161.569143
+        "latitude": 41.910977,
+        "longitude": -132.837972
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1004",
-      "name": "Социалистический",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 5,
+      "product_id": "prd-1000",
+      "name": "Наступать",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 254.38,
-      "total_price": 1271.9,
+      "price_per_unit": 49.11,
+      "total_price": 49.11,
       "kbju": {
-        "calories": 104.4,
-        "protein": 6.0,
-        "fat": 0.7,
-        "carbohydrates": 13.6
+        "calories": 261.8,
+        "protein": 10.9,
+        "fat": 3.4,
+        "carbohydrates": 22.6
       },
       "manufacturer": {
-        "name": "ООО «Савельев»",
+        "name": "ИП «Шилов»",
         "country": "Россия",
-        "website": "https://rao.info",
-        "inn": "2063622252"
+        "website": "https://zao.com",
+        "inn": "6198265072"
+      }
+    },
+    {
+      "product_id": "prd-1016",
+      "name": "Слать",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 171.77,
+      "total_price": 515.31,
+      "kbju": {
+        "calories": 238.6,
+        "protein": 7.6,
+        "fat": 7.0,
+        "carbohydrates": 27.5
+      },
+      "manufacturer": {
+        "name": "ЗАО «Белова, Кудряшов и Федоров»",
+        "country": "Россия",
+        "website": "https://rao.com",
+        "inn": "5049040702"
+      }
+    },
+    {
+      "product_id": "prd-1002",
+      "name": "Разводить",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 118.06,
+      "total_price": 354.18,
+      "kbju": {
+        "calories": 260.2,
+        "protein": 13.0,
+        "fat": 3.0,
+        "carbohydrates": 17.6
+      },
+      "manufacturer": {
+        "name": "РАО «Ковалев Шестакова»",
+        "country": "Россия",
+        "website": "https://rao.org",
+        "inn": "6087012080"
       }
     }
   ],
-  "total_amount": 1271.9,
+  "total_amount": 918.6,
   "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "к. Бузулук",
-    "street": "пр. Рабочий",
-    "house": "8",
-    "apartment": "100",
-    "postal_code": "083430"
+    "city": "п. Медногорск",
+    "street": "ул. Буденного",
+    "house": "24",
+    "apartment": "37",
+    "postal_code": "429476"
   },
-  "purchase_datetime": "2026-08-15T16:08:40.685345"
+  "purchase_datetime": "2026-10-30T12:46:39.826293"
 }

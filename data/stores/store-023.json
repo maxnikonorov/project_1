@@ -1,6 +1,6 @@
 {
   "store_id": "store-023",
-  "store_name": "Большая Пикча — Магазин на пр. Красногвардейский",
+  "store_name": "Большая Пикча — Магазин на ш. Казачье",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Кононов Лонгин Георгиевич",
-    "phone": "85701038780",
-    "email": "anikitalazarev@example.com"
+    "name": "Воронцов Будимир Эдуардович",
+    "phone": "83987569315",
+    "email": "osip94@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "с. Далматово",
-    "street": "бул. 50 лет ВЛКСМ",
-    "house": "59",
-    "postal_code": "821629",
+    "city": "д. Муром",
+    "street": "ш. Рябиновое",
+    "house": "87",
+    "postal_code": "036540",
     "coordinates": {
-      "latitude": 19.1968455,
-      "longitude": -119.926477
+      "latitude": 13.359529,
+      "longitude": 75.524317
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-11-12"
 }

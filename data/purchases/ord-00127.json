@@ -1,80 +1,80 @@
 {
   "purchase_id": "ord-00127",
   "customer": {
-    "customer_id": "cus-1003",
-    "first_name": "Трофим",
-    "last_name": "Мамонтова"
+    "customer_id": "cus-1043",
+    "first_name": "Силантий",
+    "last_name": "Третьяков"
   },
   "store": {
-    "store_id": "store-010",
-    "store_name": "Большая Пикча — Магазин на ш. Светлое",
+    "store_id": "store-015",
+    "store_name": "Большая Пикча — Магазин на пер. Песочный",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "п. Бронницы",
-      "street": "алл. Геологов",
-      "house": "8/6",
-      "postal_code": "153671",
+      "city": "п. Буденновск",
+      "street": "наб. Ушакова",
+      "house": "7/3",
+      "postal_code": "566530",
       "coordinates": {
-        "latitude": 37.778015,
-        "longitude": 47.325165
+        "latitude": -69.920769,
+        "longitude": -170.838449
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1015",
-      "name": "Пространство",
+      "product_id": "prd-1013",
+      "name": "Решение",
       "category": "🥛 Молочные продукты",
       "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 169.18,
-      "total_price": 507.54,
+      "price_per_unit": 272.65,
+      "total_price": 817.95,
       "kbju": {
-        "calories": 244.0,
-        "protein": 13.8,
-        "fat": 6.9,
-        "carbohydrates": 6.3
+        "calories": 165.7,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 22.6
       },
       "manufacturer": {
-        "name": "ИП «Силин, Лапина и Федосеев»",
+        "name": "ЗАО «Владимирова Федосеева»",
         "country": "Россия",
-        "website": "https://rao.com",
-        "inn": "0793948672"
+        "website": "https://ip.com",
+        "inn": "0567872472"
       }
     },
     {
-      "product_id": "prd-1008",
-      "name": "Горький",
-      "category": "🥦 Овощи и зелень",
+      "product_id": "prd-1003",
+      "name": "Палец",
+      "category": "🥛 Молочные продукты",
       "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 203.15,
-      "total_price": 203.15,
+      "price_per_unit": 123.81,
+      "total_price": 123.81,
       "kbju": {
-        "calories": 271.9,
-        "protein": 15.0,
-        "fat": 7.2,
-        "carbohydrates": 40.0
+        "calories": 287.5,
+        "protein": 19.7,
+        "fat": 14.4,
+        "carbohydrates": 47.2
       },
       "manufacturer": {
-        "name": "Шарапов Групп",
+        "name": "АО «Воронцов»",
         "country": "Россия",
-        "website": "https://ooo.edu",
-        "inn": "3346683207"
+        "website": "https://zao.edu",
+        "inn": "2681589498"
       }
     }
   ],
-  "total_amount": 710.69,
-  "payment_method": "card",
+  "total_amount": 941.76,
+  "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "ст. Арзамас",
-    "street": "бул. Рылеева",
-    "house": "6/3",
-    "apartment": "8",
-    "postal_code": "348548"
+    "city": "с. Киров (Вятка)",
+    "street": "наб. Свободная",
+    "house": "685",
+    "apartment": "98",
+    "postal_code": "356036"
   },
-  "purchase_datetime": "2026-09-07T16:08:40.753057"
+  "purchase_datetime": "2026-09-03T12:46:39.832230"
 }

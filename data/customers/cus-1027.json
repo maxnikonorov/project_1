@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1027",
-  "first_name": "Поликарп",
-  "last_name": "Виноградова",
-  "email": "bobrovamargarita@example.com",
-  "phone": "83742678305",
-  "birth_date": "1983-05-27",
-  "gender": "female",
-  "registration_date": "2026-11-10T16:08:40.541991",
+  "first_name": "Егор",
+  "last_name": "Волков",
+  "email": "oktjabrinamjasnikova@example.org",
+  "phone": "8 (397) 315-7133",
+  "birth_date": "2002-06-28",
+  "gender": "male",
+  "registration_date": "2026-11-12T12:46:39.809880",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-0367D3C21A",
+  "loyalty_card_number": "LOYAL-393BF1DCF5",
   "purchase_location": {
     "country": "Россия",
-    "city": "п. Учалы",
-    "street": "алл. Клубная",
-    "house": "625",
-    "postal_code": "972146",
+    "city": "д. Нефтекамск",
+    "street": "пер. 9 Января",
+    "house": "690",
+    "postal_code": "306481",
     "coordinates": {
-      "latitude": -62.261145,
-      "longitude": 122.407164
+      "latitude": -67.993054,
+      "longitude": 57.769615
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "п. Учалы",
-    "street": "пр. 70 лет Октября",
-    "house": "1/7",
-    "apartment": "80",
-    "postal_code": "258817"
+    "city": "д. Нефтекамск",
+    "street": "алл. Карьерная",
+    "house": "640",
+    "apartment": "68",
+    "postal_code": "936463"
   },
   "preferences": {
     "preferred_language": "ru",
     "preferred_payment_method": "cash",
-    "receive_promotions": true
+    "receive_promotions": false
   }
 }

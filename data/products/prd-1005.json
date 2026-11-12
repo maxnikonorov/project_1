@@ -1,24 +1,24 @@
 {
   "id": "prd-1005",
-  "name": "Тысяча",
+  "name": "Конструкция",
   "group": "🍏 Фрукты и ягоды",
-  "description": "Мягкий степь четко находить изображать.",
+  "description": "Трясти написать монета степь вздрагивать собеседник висеть.",
   "kbju": {
-    "calories": 215.7,
-    "protein": 8.5,
-    "fat": 8.5,
-    "carbohydrates": 5.4
+    "calories": 86.4,
+    "protein": 1.8,
+    "fat": 13.4,
+    "carbohydrates": 19.0
   },
-  "price": 109.23,
+  "price": 204.55,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 13,
-  "is_organic": false,
-  "barcode": "2606203780459",
+  "expiry_days": 17,
+  "is_organic": true,
+  "barcode": "2414409780025",
   "manufacturer": {
-    "name": "Исаева Групп",
+    "name": "ОАО «Гордеев, Никитин и Кулакова»",
     "country": "Россия",
-    "website": "https://ao.com",
-    "inn": "0005832495"
+    "website": "https://ooo.org",
+    "inn": "4077468251"
   }
 }

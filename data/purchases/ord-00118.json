@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00118",
   "customer": {
-    "customer_id": "cus-1018",
-    "first_name": "Клавдий",
-    "last_name": "Воробьева"
+    "customer_id": "cus-1038",
+    "first_name": "Любовь",
+    "last_name": "Александров"
   },
   "store": {
-    "store_id": "store-042",
-    "store_name": "Маленькая Пикча — Магазин на ул. Высоковольтная",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-024",
+    "store_name": "Большая Пикча — Магазин на наб. 1 Мая",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "г. Усть-Кут",
-      "street": "ул. Профсоюзная",
-      "house": "4/5",
-      "postal_code": "679522",
+      "city": "ст. Амдерма",
+      "street": "пр. Партизанский",
+      "house": "9/3",
+      "postal_code": "779296",
       "coordinates": {
-        "latitude": -71.6251535,
-        "longitude": 126.315479
+        "latitude": -18.131733,
+        "longitude": 80.250356
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1003",
-      "name": "Порт",
+      "product_id": "prd-1008",
+      "name": "Увеличиваться",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 298.83,
+      "total_price": 1494.15,
+      "kbju": {
+        "calories": 57.9,
+        "protein": 1.9,
+        "fat": 5.5,
+        "carbohydrates": 26.7
+      },
+      "manufacturer": {
+        "name": "АО «Горбунов»",
+        "country": "Россия",
+        "website": "https://oao.ru",
+        "inn": "1791173907"
+      }
+    },
+    {
+      "product_id": "prd-1007",
+      "name": "Нож",
       "category": "🥦 Овощи и зелень",
       "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 300.0,
-      "total_price": 1200.0,
+      "price_per_unit": 89.52,
+      "total_price": 358.08,
       "kbju": {
-        "calories": 129.9,
-        "protein": 1.0,
-        "fat": 9.4,
-        "carbohydrates": 17.8
+        "calories": 54.8,
+        "protein": 10.0,
+        "fat": 8.5,
+        "carbohydrates": 49.1
       },
       "manufacturer": {
-        "name": "Абрамов и партнеры",
+        "name": "Кабанов Инк",
         "country": "Россия",
-        "website": "https://koka-kola.biz",
-        "inn": "0599854783"
+        "website": "https://ip.info",
+        "inn": "3919742285"
       }
     }
   ],
-  "total_amount": 1200.0,
+  "total_amount": 1852.23,
   "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Казань",
-    "street": "ш. Энгельса",
-    "house": "3/6",
-    "apartment": "50",
-    "postal_code": "895132"
+    "city": "п. Тулпан",
+    "street": "алл. Таежная",
+    "house": "7",
+    "apartment": "67",
+    "postal_code": "781943"
   },
-  "purchase_datetime": "2026-09-21T16:08:40.741534"
+  "purchase_datetime": "2026-09-15T12:46:39.831084"
 }

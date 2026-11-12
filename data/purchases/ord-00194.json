@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00194",
   "customer": {
-    "customer_id": "cus-1011",
-    "first_name": "Елисей",
-    "last_name": "Фролов"
+    "customer_id": "cus-1025",
+    "first_name": "Богдан",
+    "last_name": "Моисеева"
   },
   "store": {
-    "store_id": "store-002",
-    "store_name": "Большая Пикча — Магазин на наб. Тельмана",
+    "store_id": "store-022",
+    "store_name": "Большая Пикча — Магазин на ш. Макарова",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "ст. Горячий Ключ",
-      "street": "ул. Олега Кошевого",
-      "house": "884",
-      "postal_code": "992826",
+      "city": "г. Пушкино (Моск.)",
+      "street": "ул. Учительская",
+      "house": "16",
+      "postal_code": "772187",
       "coordinates": {
-        "latitude": -71.5740635,
-        "longitude": 119.930479
+        "latitude": 36.759859,
+        "longitude": 71.357431
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1014",
-      "name": "Что",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 2,
+      "product_id": "prd-1006",
+      "name": "Медицина",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 139.68,
-      "total_price": 279.36,
+      "price_per_unit": 196.38,
+      "total_price": 589.14,
       "kbju": {
-        "calories": 231.7,
-        "protein": 17.6,
-        "fat": 9.2,
-        "carbohydrates": 6.7
+        "calories": 217.8,
+        "protein": 15.1,
+        "fat": 12.2,
+        "carbohydrates": 4.8
       },
       "manufacturer": {
-        "name": "Петухова Лимитед",
+        "name": "Ковалев Групп",
         "country": "Россия",
-        "website": "https://ip.net",
-        "inn": "2487454296"
+        "website": "https://rao.biz",
+        "inn": "9365070690"
       }
     }
   ],
-  "total_amount": 279.36,
-  "payment_method": "card",
+  "total_amount": 589.14,
+  "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "к. Чита",
-    "street": "бул. Братский",
-    "house": "53",
-    "apartment": "3",
-    "postal_code": "373485"
+    "city": "с. Сочи",
+    "street": "ул. К.Маркса",
+    "house": "92",
+    "apartment": "79",
+    "postal_code": "814611"
   },
-  "purchase_datetime": "2026-10-05T16:08:40.876195"
+  "purchase_datetime": "2026-10-24T12:46:39.840525"
 }

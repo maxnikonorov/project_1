@@ -1,6 +1,6 @@
 {
   "store_id": "store-015",
-  "store_name": "Большая Пикча — Магазин на бул. Буденного",
+  "store_name": "Большая Пикча — Магазин на пер. Песочный",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Агафья Оскаровна Некрасова",
-    "phone": "+7 441 822 52 68",
-    "email": "maksimovapelageja@example.org"
+    "name": "Шашков Соломон Юльевич",
+    "phone": "8 (932) 232-1601",
+    "email": "efremovazhanna@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "п. Руза",
-    "street": "ш. Радужное",
-    "house": "7/7",
-    "postal_code": "372559",
+    "city": "п. Буденновск",
+    "street": "наб. Ушакова",
+    "house": "7/3",
+    "postal_code": "566530",
     "coordinates": {
-      "latitude": -51.107463,
-      "longitude": 85.868379
+      "latitude": -69.920769,
+      "longitude": -170.838449
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": false,
-  "last_inventory_date": "2026-11-10"
+  "warehouse_connected": true,
+  "last_inventory_date": "2026-11-12"
 }

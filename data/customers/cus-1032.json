@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1032",
-  "first_name": "Флорентин",
-  "last_name": "Рогов",
-  "email": "modestmolchanov@example.net",
-  "phone": "+7 219 859 8557",
-  "birth_date": "1965-11-08",
-  "gender": "male",
-  "registration_date": "2026-11-10T16:08:40.550500",
+  "first_name": "Феликс",
+  "last_name": "Громова",
+  "email": "karpovaalina@example.net",
+  "phone": "8 (676) 931-79-00",
+  "birth_date": "1977-11-22",
+  "gender": "female",
+  "registration_date": "2026-11-12T12:46:39.810619",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-A3D2A5F840",
+  "loyalty_card_number": "LOYAL-E2F27ED326",
   "purchase_location": {
     "country": "Россия",
-    "city": "д. Домбай",
-    "street": "ул. Заливная",
-    "house": "77",
-    "postal_code": "721769",
+    "city": "с. Миасс",
+    "street": "пр. Блюхера",
+    "house": "8/1",
+    "postal_code": "133921",
     "coordinates": {
-      "latitude": -79.236949,
-      "longitude": -85.283823
+      "latitude": -45.7733475,
+      "longitude": 87.71629
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Домбай",
-    "street": "пер. Докучаева",
-    "house": "17",
-    "apartment": "97",
-    "postal_code": "921129"
+    "city": "с. Миасс",
+    "street": "наб. Нижняя",
+    "house": "741",
+    "apartment": "71",
+    "postal_code": "519114"
   },
   "preferences": {
     "preferred_language": "ru",
     "preferred_payment_method": "card",
-    "receive_promotions": false
+    "receive_promotions": true
   }
 }

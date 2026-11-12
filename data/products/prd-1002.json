@@ -1,24 +1,24 @@
 {
   "id": "prd-1002",
-  "name": "Единый",
+  "name": "Разводить",
   "group": "🥛 Молочные продукты",
-  "description": "Правильный обида прежний войти багровый зарплата.",
+  "description": "Тяжелый домашний гулять социалистический.",
   "kbju": {
-    "calories": 265.0,
-    "protein": 19.8,
-    "fat": 7.9,
-    "carbohydrates": 44.8
+    "calories": 260.2,
+    "protein": 13.0,
+    "fat": 3.0,
+    "carbohydrates": 17.6
   },
-  "price": 289.68,
+  "price": 118.06,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 17,
+  "expiry_days": 18,
   "is_organic": true,
-  "barcode": "9912878818100",
+  "barcode": "3735530991227",
   "manufacturer": {
-    "name": "ИП «Мартынова»",
+    "name": "РАО «Ковалев Шестакова»",
     "country": "Россия",
-    "website": "https://ao.ru",
-    "inn": "6920417941"
+    "website": "https://rao.org",
+    "inn": "6087012080"
   }
 }

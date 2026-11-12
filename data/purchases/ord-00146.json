@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00146",
   "customer": {
-    "customer_id": "cus-1011",
-    "first_name": "Елисей",
-    "last_name": "Фролов"
+    "customer_id": "cus-1012",
+    "first_name": "Онуфрий",
+    "last_name": "Маркова"
   },
   "store": {
-    "store_id": "store-040",
-    "store_name": "Маленькая Пикча — Магазин на пер. Славянский",
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на ул. Нахимова",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "клх Карпинск",
-      "street": "ш. 8-е Марта",
-      "house": "3",
-      "postal_code": "247366",
+      "city": "п. Апшеронск",
+      "street": "наб. Инженерная",
+      "house": "6",
+      "postal_code": "746141",
       "coordinates": {
-        "latitude": 22.14391,
-        "longitude": 31.509525
+        "latitude": -83.1501905,
+        "longitude": 84.215661
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1010",
-      "name": "Наткнуться",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 1,
+      "product_id": "prd-1006",
+      "name": "Медицина",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 109.99,
-      "total_price": 109.99,
+      "price_per_unit": 196.38,
+      "total_price": 392.76,
       "kbju": {
-        "calories": 111.4,
-        "protein": 5.0,
-        "fat": 2.9,
-        "carbohydrates": 48.1
+        "calories": 217.8,
+        "protein": 15.1,
+        "fat": 12.2,
+        "carbohydrates": 4.8
       },
       "manufacturer": {
-        "name": "АО «Третьяков, Кабанов и Казакова»",
+        "name": "Ковалев Групп",
         "country": "Россия",
-        "website": "https://rao.edu",
-        "inn": "0018510627"
+        "website": "https://rao.biz",
+        "inn": "9365070690"
       }
     }
   ],
-  "total_amount": 109.99,
+  "total_amount": 392.76,
   "payment_method": "card",
-  "is_delivery": false,
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "к. Чита",
-    "street": "бул. Братский",
-    "house": "53",
-    "apartment": "3",
-    "postal_code": "373485"
+    "city": "п. Волгодонск",
+    "street": "алл. Ульянова",
+    "house": "936",
+    "apartment": "52",
+    "postal_code": "758644"
   },
-  "purchase_datetime": "2026-11-01T16:08:40.783616"
+  "purchase_datetime": "2026-10-09T12:46:39.834569"
 }

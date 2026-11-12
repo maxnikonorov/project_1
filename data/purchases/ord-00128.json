@@ -1,80 +1,101 @@
 {
   "purchase_id": "ord-00128",
   "customer": {
-    "customer_id": "cus-1011",
-    "first_name": "Елисей",
-    "last_name": "Фролов"
+    "customer_id": "cus-1042",
+    "first_name": "Феоктист",
+    "last_name": "Дементьев"
   },
   "store": {
-    "store_id": "store-039",
-    "store_name": "Маленькая Пикча — Магазин на бул. Физкультурный",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-020",
+    "store_name": "Большая Пикча — Магазин на ш. Ручейное",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Орск",
-      "street": "ул. Фурманова",
-      "house": "7",
-      "postal_code": "936758",
+      "city": "г. Киржач",
+      "street": "наб. Жукова",
+      "house": "9",
+      "postal_code": "173871",
       "coordinates": {
-        "latitude": 82.9780965,
-        "longitude": 145.602677
+        "latitude": -14.7170285,
+        "longitude": 99.308574
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1019",
-      "name": "Выражение",
-      "category": "🥛 Молочные продукты",
-      "quantity": 3,
+      "product_id": "prd-1011",
+      "name": "Плясать",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 211.74,
-      "total_price": 635.22,
+      "price_per_unit": 281.59,
+      "total_price": 563.18,
       "kbju": {
-        "calories": 157.2,
-        "protein": 13.4,
-        "fat": 2.7,
-        "carbohydrates": 6.2
+        "calories": 282.3,
+        "protein": 0.5,
+        "fat": 10.2,
+        "carbohydrates": 38.8
       },
       "manufacturer": {
-        "name": "Ковалева Инкорпорэйтед",
+        "name": "Кононова Инк",
         "country": "Россия",
-        "website": "https://zao.ru",
-        "inn": "4325136422"
+        "website": "https://rao.org",
+        "inn": "8513715002"
       }
     },
     {
-      "product_id": "prd-1008",
-      "name": "Горький",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 5,
+      "product_id": "prd-1013",
+      "name": "Решение",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 203.15,
-      "total_price": 1015.75,
+      "price_per_unit": 272.65,
+      "total_price": 817.95,
       "kbju": {
-        "calories": 271.9,
-        "protein": 15.0,
-        "fat": 7.2,
-        "carbohydrates": 40.0
+        "calories": 165.7,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 22.6
       },
       "manufacturer": {
-        "name": "Шарапов Групп",
+        "name": "ЗАО «Владимирова Федосеева»",
         "country": "Россия",
-        "website": "https://ooo.edu",
-        "inn": "3346683207"
+        "website": "https://ip.com",
+        "inn": "0567872472"
+      }
+    },
+    {
+      "product_id": "prd-1006",
+      "name": "Медицина",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 196.38,
+      "total_price": 392.76,
+      "kbju": {
+        "calories": 217.8,
+        "protein": 15.1,
+        "fat": 12.2,
+        "carbohydrates": 4.8
+      },
+      "manufacturer": {
+        "name": "Ковалев Групп",
+        "country": "Россия",
+        "website": "https://rao.biz",
+        "inn": "9365070690"
       }
     }
   ],
-  "total_amount": 1650.97,
+  "total_amount": 1773.89,
   "payment_method": "card",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "к. Чита",
-    "street": "бул. Братский",
-    "house": "53",
-    "apartment": "3",
-    "postal_code": "373485"
+    "city": "г. Яхрома",
+    "street": "бул. Островского",
+    "house": "41",
+    "apartment": "85",
+    "postal_code": "053104"
   },
-  "purchase_datetime": "2026-10-23T16:08:40.754076"
+  "purchase_datetime": "2026-11-05T12:46:39.832351"
 }

@@ -1,6 +1,6 @@
 {
   "store_id": "store-004",
-  "store_name": "Большая Пикча — Магазин на пр. Донской",
+  "store_name": "Большая Пикча — Магазин на ул. Детская",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Фадеев Георгий Ефремович",
-    "phone": "+7 (435) 431-5375",
-    "email": "luchezarbelousov@example.com"
+    "name": "Евгения Леонидовна Чернова",
+    "phone": "+77061078803",
+    "email": "mitofan2008@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "ст. Арзамас",
-    "street": "ул. Войкова",
-    "house": "709",
-    "postal_code": "686059",
+    "city": "с. Ростов",
+    "street": "ул. Высоцкого",
+    "house": "4",
+    "postal_code": "184207",
     "coordinates": {
-      "latitude": 27.408209,
-      "longitude": -47.579346
+      "latitude": 80.817373,
+      "longitude": -66.913832
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-11-12"
 }

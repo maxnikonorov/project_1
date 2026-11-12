@@ -1,101 +1,101 @@
 {
   "purchase_id": "ord-00075",
   "customer": {
-    "customer_id": "cus-1020",
-    "first_name": "Севастьян",
-    "last_name": "Павлова"
+    "customer_id": "cus-1030",
+    "first_name": "Матвей",
+    "last_name": "Симонов"
   },
   "store": {
-    "store_id": "store-004",
-    "store_name": "Большая Пикча — Магазин на пр. Донской",
-    "store_network": "Большая Пикча",
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на пер. Горького",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "ст. Арзамас",
-      "street": "ул. Войкова",
-      "house": "709",
-      "postal_code": "686059",
+      "city": "г. Яр-Сале",
+      "street": "алл. Железнодорожная",
+      "house": "133",
+      "postal_code": "360004",
       "coordinates": {
-        "latitude": 27.408209,
-        "longitude": -47.579346
+        "latitude": -88.296027,
+        "longitude": -30.594842
       }
     }
   },
   "items": [
     {
+      "product_id": "prd-1018",
+      "name": "Пища",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 48.83,
+      "total_price": 97.66,
+      "kbju": {
+        "calories": 275.1,
+        "protein": 12.4,
+        "fat": 0.2,
+        "carbohydrates": 34.3
+      },
+      "manufacturer": {
+        "name": "НПО «Алексеева, Русакова и Лебедев»",
+        "country": "Россия",
+        "website": "https://zao.org",
+        "inn": "6006312092"
+      }
+    },
+    {
+      "product_id": "prd-1008",
+      "name": "Увеличиваться",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 298.83,
+      "total_price": 298.83,
+      "kbju": {
+        "calories": 57.9,
+        "protein": 1.9,
+        "fat": 5.5,
+        "carbohydrates": 26.7
+      },
+      "manufacturer": {
+        "name": "АО «Горбунов»",
+        "country": "Россия",
+        "website": "https://oao.ru",
+        "inn": "1791173907"
+      }
+    },
+    {
       "product_id": "prd-1009",
-      "name": "Левый",
+      "name": "Трясти",
       "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 5,
       "unit": "шт",
-      "price_per_unit": 55.63,
-      "total_price": 278.15,
+      "price_per_unit": 242.58,
+      "total_price": 1212.9,
       "kbju": {
-        "calories": 284.1,
-        "protein": 6.2,
-        "fat": 12.8,
-        "carbohydrates": 31.9
+        "calories": 217.7,
+        "protein": 17.1,
+        "fat": 5.8,
+        "carbohydrates": 15.7
       },
       "manufacturer": {
-        "name": "ООО «Беляков-Ермаков»",
+        "name": "РАО «Рябова-Фадеев»",
         "country": "Россия",
-        "website": "https://ao.edu",
-        "inn": "2315160346"
-      }
-    },
-    {
-      "product_id": "prd-1002",
-      "name": "Единый",
-      "category": "🥛 Молочные продукты",
-      "quantity": 5,
-      "unit": "шт",
-      "price_per_unit": 289.68,
-      "total_price": 1448.4,
-      "kbju": {
-        "calories": 265.0,
-        "protein": 19.8,
-        "fat": 7.9,
-        "carbohydrates": 44.8
-      },
-      "manufacturer": {
-        "name": "ИП «Мартынова»",
-        "country": "Россия",
-        "website": "https://ao.ru",
-        "inn": "6920417941"
-      }
-    },
-    {
-      "product_id": "prd-1004",
-      "name": "Социалистический",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 4,
-      "unit": "шт",
-      "price_per_unit": 254.38,
-      "total_price": 1017.52,
-      "kbju": {
-        "calories": 104.4,
-        "protein": 6.0,
-        "fat": 0.7,
-        "carbohydrates": 13.6
-      },
-      "manufacturer": {
-        "name": "ООО «Савельев»",
-        "country": "Россия",
-        "website": "https://rao.info",
-        "inn": "2063622252"
+        "website": "https://kargill.biz",
+        "inn": "3583516885"
       }
     }
   ],
-  "total_amount": 2744.07,
+  "total_amount": 1609.39,
   "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Соль-Илецк",
-    "street": "ш. Лесозаводское",
-    "house": "316",
-    "apartment": "11",
-    "postal_code": "278229"
+    "city": "ст. Цимлянск",
+    "street": "ш. Марта 8",
+    "house": "586",
+    "apartment": "67",
+    "postal_code": "861195"
   },
-  "purchase_datetime": "2026-09-04T16:08:40.678326"
+  "purchase_datetime": "2026-10-19T12:46:39.825672"
 }

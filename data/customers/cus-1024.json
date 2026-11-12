@@ -1,32 +1,32 @@
 {
   "customer_id": "cus-1024",
-  "first_name": "Бажен",
-  "last_name": "Меркушева",
-  "email": "nkuznetsov@example.com",
-  "phone": "8 088 630 53 87",
-  "birth_date": "1958-08-13",
+  "first_name": "Галина",
+  "last_name": "Костин",
+  "email": "izot_2004@example.com",
+  "phone": "+7 (803) 998-96-87",
+  "birth_date": "1985-07-03",
   "gender": "male",
-  "registration_date": "2026-11-10T16:08:40.536989",
+  "registration_date": "2026-11-12T12:46:39.809451",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-38A4A0E4D3",
+  "loyalty_card_number": "LOYAL-7BF2BB396D",
   "purchase_location": {
     "country": "Россия",
-    "city": "д. Кабанск",
-    "street": "наб. Ватутина",
-    "house": "71",
-    "postal_code": "430475",
+    "city": "д. Курск",
+    "street": "наб. Королева",
+    "house": "220",
+    "postal_code": "140036",
     "coordinates": {
-      "latitude": 56.1539,
-      "longitude": -125.144973
+      "latitude": -45.5219915,
+      "longitude": 41.178766
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Кабанск",
-    "street": "пр. Высоковольтный",
-    "house": "9",
-    "apartment": "34",
-    "postal_code": "100346"
+    "city": "д. Курск",
+    "street": "алл. Красноярская",
+    "house": "86",
+    "apartment": "74",
+    "postal_code": "091675"
   },
   "preferences": {
     "preferred_language": "ru",

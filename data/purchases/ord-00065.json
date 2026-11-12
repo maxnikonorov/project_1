@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00065",
   "customer": {
-    "customer_id": "cus-1035",
-    "first_name": "Евсей",
-    "last_name": "Гордеева"
+    "customer_id": "cus-1040",
+    "first_name": "Гордей",
+    "last_name": "Михайлова"
   },
   "store": {
-    "store_id": "store-026",
-    "store_name": "Большая Пикча — Магазин на пр. Лазурный",
+    "store_id": "store-005",
+    "store_name": "Большая Пикча — Магазин на ул. Сурикова",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Кингисепп",
-      "street": "ш. Смоленское",
-      "house": "9/3",
-      "postal_code": "469008",
+      "city": "с. Абакан",
+      "street": "ш. Загородное",
+      "house": "44",
+      "postal_code": "836911",
       "coordinates": {
-        "latitude": -78.4942005,
-        "longitude": -6.090966
+        "latitude": 43.8106095,
+        "longitude": -167.42383
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1007",
-      "name": "Соответствие",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 4,
+      "product_id": "prd-1017",
+      "name": "Академик",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 254.38,
-      "total_price": 1017.52,
+      "price_per_unit": 281.63,
+      "total_price": 844.89,
       "kbju": {
-        "calories": 250.9,
-        "protein": 11.5,
-        "fat": 3.2,
-        "carbohydrates": 44.9
+        "calories": 57.7,
+        "protein": 17.3,
+        "fat": 1.3,
+        "carbohydrates": 0.5
       },
       "manufacturer": {
-        "name": "Терентьев Инкорпорэйтед",
+        "name": "ЗАО «Симонов Колесников»",
         "country": "Россия",
-        "website": "https://ip.info",
-        "inn": "3390887494"
+        "website": "https://ip.org",
+        "inn": "6779612478"
+      }
+    },
+    {
+      "product_id": "prd-1010",
+      "name": "Пасть",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 219.53,
+      "total_price": 439.06,
+      "kbju": {
+        "calories": 262.9,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 35.0
+      },
+      "manufacturer": {
+        "name": "ЗАО «Юдин»",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "6266618289"
       }
     }
   ],
-  "total_amount": 1017.52,
+  "total_amount": 1283.95,
   "payment_method": "cash",
-  "is_delivery": false,
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Борзя",
-    "street": "ш. Набережное",
-    "house": "700",
-    "apartment": "69",
-    "postal_code": "777744"
+    "city": "клх Вологда",
+    "street": "наб. Белорусская",
+    "house": "6/2",
+    "apartment": "21",
+    "postal_code": "073555"
   },
-  "purchase_datetime": "2026-10-19T16:08:40.664321"
+  "purchase_datetime": "2026-09-26T12:46:39.824448"
 }

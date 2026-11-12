@@ -1,6 +1,6 @@
 {
   "store_id": "store-024",
-  "store_name": "Большая Пикча — Магазин на наб. Коминтерна",
+  "store_name": "Большая Пикча — Магазин на наб. 1 Мая",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Надежда Константиновна Авдеева",
-    "phone": "8 061 602 23 48",
-    "email": "nikodim_69@example.net"
+    "name": "Бобылева Ксения Анатольевна",
+    "phone": "+7 713 700 7893",
+    "email": "ivanna2009@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "с. Бирск",
-    "street": "ул. Солнечная",
-    "house": "17",
-    "postal_code": "499651",
+    "city": "ст. Амдерма",
+    "street": "пр. Партизанский",
+    "house": "9/3",
+    "postal_code": "779296",
     "coordinates": {
-      "latitude": 5.2410395,
-      "longitude": 119.571827
+      "latitude": -18.131733,
+      "longitude": 80.250356
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": false,
-  "last_inventory_date": "2026-11-10"
+  "last_inventory_date": "2026-11-12"
 }

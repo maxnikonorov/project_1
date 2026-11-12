@@ -1,6 +1,6 @@
 {
   "store_id": "store-030",
-  "store_name": "Большая Пикча — Магазин на ш. Центральное",
+  "store_name": "Большая Пикча — Магазин на ш. Космодемьянской",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Филимон Викентьевич Авдеев",
-    "phone": "+7 725 047 0605",
-    "email": "evfrosinijaorlova@example.org"
+    "name": "Носова Синклитикия Захаровна",
+    "phone": "8 887 016 9445",
+    "email": "ljubosmisl_21@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "п. Адлер",
-    "street": "ул. Поселковая",
-    "house": "7",
-    "postal_code": "712439",
+    "city": "ст. Шелехов",
+    "street": "ул. Титова",
+    "house": "8",
+    "postal_code": "296629",
     "coordinates": {
-      "latitude": -25.411828,
-      "longitude": -49.198765
+      "latitude": 42.7402805,
+      "longitude": -99.295106
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "last_inventory_date": "2026-11-12"
 }

@@ -1,32 +1,32 @@
 {
   "customer_id": "cus-1003",
-  "first_name": "Трофим",
-  "last_name": "Мамонтова",
-  "email": "savva2022@example.com",
-  "phone": "+7 (697) 939-2854",
-  "birth_date": "1979-07-27",
+  "first_name": "Максим",
+  "last_name": "Филиппова",
+  "email": "feklakonstantinova@example.com",
+  "phone": "8 (103) 710-3430",
+  "birth_date": "1982-10-01",
   "gender": "male",
-  "registration_date": "2026-11-10T16:08:40.495890",
+  "registration_date": "2026-11-12T12:46:39.806119",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-C5410BA990",
+  "loyalty_card_number": "LOYAL-716A763C93",
   "purchase_location": {
     "country": "Россия",
-    "city": "ст. Арзамас",
-    "street": "ул. Войкова",
-    "house": "709",
-    "postal_code": "686059",
+    "city": "с. Ростов",
+    "street": "ул. Высоцкого",
+    "house": "4",
+    "postal_code": "184207",
     "coordinates": {
-      "latitude": 27.408209,
-      "longitude": -47.579346
+      "latitude": 80.817373,
+      "longitude": -66.913832
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "ст. Арзамас",
-    "street": "бул. Рылеева",
-    "house": "6/3",
-    "apartment": "8",
-    "postal_code": "348548"
+    "city": "с. Ростов",
+    "street": "наб. Безымянная",
+    "house": "85",
+    "apartment": "32",
+    "postal_code": "283541"
   },
   "preferences": {
     "preferred_language": "ru",

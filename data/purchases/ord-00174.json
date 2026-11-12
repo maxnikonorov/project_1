@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00174",
   "customer": {
-    "customer_id": "cus-1009",
-    "first_name": "Иннокентий",
-    "last_name": "Ларионова"
+    "customer_id": "cus-1033",
+    "first_name": "Милица",
+    "last_name": "Агафонов"
   },
   "store": {
-    "store_id": "store-041",
-    "store_name": "Маленькая Пикча — Магазин на пер. Красный",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-001",
+    "store_name": "Большая Пикча — Магазин на пр. Лермонтова",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "г. Соловки",
-      "street": "пер. Космический",
-      "house": "7",
-      "postal_code": "821818",
+      "city": "клх Тында",
+      "street": "ул. Родниковая",
+      "house": "9",
+      "postal_code": "054196",
       "coordinates": {
-        "latitude": -8.30231,
-        "longitude": 144.533567
+        "latitude": 63.4883305,
+        "longitude": -143.170056
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1004",
-      "name": "Социалистический",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 2,
+      "product_id": "prd-1001",
+      "name": "Пропадать",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 254.38,
-      "total_price": 508.76,
+      "price_per_unit": 34.92,
+      "total_price": 139.68,
       "kbju": {
-        "calories": 104.4,
-        "protein": 6.0,
-        "fat": 0.7,
-        "carbohydrates": 13.6
+        "calories": 116.0,
+        "protein": 4.4,
+        "fat": 8.2,
+        "carbohydrates": 17.1
       },
       "manufacturer": {
-        "name": "ООО «Савельев»",
+        "name": "ОАО «Аксенова-Брагина»",
         "country": "Россия",
-        "website": "https://rao.info",
-        "inn": "2063622252"
-      }
-    },
-    {
-      "product_id": "prd-1015",
-      "name": "Пространство",
-      "category": "🥛 Молочные продукты",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 169.18,
-      "total_price": 338.36,
-      "kbju": {
-        "calories": 244.0,
-        "protein": 13.8,
-        "fat": 6.9,
-        "carbohydrates": 6.3
-      },
-      "manufacturer": {
-        "name": "ИП «Силин, Лапина и Федосеев»",
-        "country": "Россия",
-        "website": "https://rao.com",
-        "inn": "0793948672"
+        "website": "https://zao.info",
+        "inn": "4796377459"
       }
     }
   ],
-  "total_amount": 847.12,
+  "total_amount": 139.68,
   "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "п. Бронницы",
-    "street": "пер. Деповский",
-    "house": "12",
-    "apartment": "36",
-    "postal_code": "187304"
+    "city": "г. Томск",
+    "street": "наб. Азовская",
+    "house": "15",
+    "apartment": "6",
+    "postal_code": "233034"
   },
-  "purchase_datetime": "2026-10-06T16:08:40.836271"
+  "purchase_datetime": "2026-09-17T12:46:39.838002"
 }

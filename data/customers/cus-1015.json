@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1015",
-  "first_name": "Ипат",
-  "last_name": "Панова",
-  "email": "bronislav_2008@example.org",
-  "phone": "+7 (988) 565-83-38",
-  "birth_date": "1971-07-23",
-  "gender": "male",
-  "registration_date": "2026-11-10T16:08:40.519455",
+  "first_name": "Христофор",
+  "last_name": "Медведев",
+  "email": "antonovafaina@example.net",
+  "phone": "+78108634978",
+  "birth_date": "1962-05-18",
+  "gender": "female",
+  "registration_date": "2026-11-12T12:46:39.807983",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-71D073253E",
+  "loyalty_card_number": "LOYAL-92434731F8",
   "purchase_location": {
     "country": "Россия",
-    "city": "ст. Нижний Новгород",
-    "street": "пр. Ручейный",
-    "house": "530",
-    "postal_code": "705935",
+    "city": "ст. Курчатов",
+    "street": "ул. Физкультурная",
+    "house": "828",
+    "postal_code": "910837",
     "coordinates": {
-      "latitude": 61.581504,
-      "longitude": 58.143602
+      "latitude": -53.416018,
+      "longitude": 139.893617
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "ст. Нижний Новгород",
-    "street": "ш. Ярославское",
-    "house": "59",
-    "apartment": "36",
-    "postal_code": "793316"
+    "city": "ст. Курчатов",
+    "street": "ш. Маркса",
+    "house": "2",
+    "apartment": "69",
+    "postal_code": "914357"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "card",
+    "preferred_payment_method": "cash",
     "receive_promotions": false
   }
 }

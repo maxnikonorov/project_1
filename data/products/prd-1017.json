@@ -1,24 +1,24 @@
 {
   "id": "prd-1017",
-  "name": "Пол",
+  "name": "Академик",
   "group": "🥖 Зерновые и хлебобулочные изделия",
-  "description": "Способ проход бровь одиннадцать спасть монета призыв.",
+  "description": "Возникновение желание означать покидать растеряться эпоха.",
   "kbju": {
-    "calories": 127.5,
-    "protein": 3.3,
-    "fat": 7.5,
-    "carbohydrates": 41.2
+    "calories": 57.7,
+    "protein": 17.3,
+    "fat": 1.3,
+    "carbohydrates": 0.5
   },
-  "price": 150.17,
+  "price": 281.63,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 17,
-  "is_organic": true,
-  "barcode": "6110605883374",
+  "expiry_days": 12,
+  "is_organic": false,
+  "barcode": "2547520468333",
   "manufacturer": {
-    "name": "ОАО «Родионова-Осипов»",
+    "name": "ЗАО «Симонов Колесников»",
     "country": "Россия",
-    "website": "https://ip.ru",
-    "inn": "4308518530"
+    "website": "https://ip.org",
+    "inn": "6779612478"
   }
 }

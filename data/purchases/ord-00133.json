@@ -1,101 +1,59 @@
 {
   "purchase_id": "ord-00133",
   "customer": {
-    "customer_id": "cus-1028",
-    "first_name": "Милован",
-    "last_name": "Тарасов"
+    "customer_id": "cus-1035",
+    "first_name": "Виссарион",
+    "last_name": "Блохин"
   },
   "store": {
-    "store_id": "store-043",
-    "store_name": "Маленькая Пикча — Магазин на наб. Воровского",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-029",
+    "store_name": "Большая Пикча — Магазин на алл. Геологическая",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Александровск",
-      "street": "ш. Комсомольское",
-      "house": "1",
-      "postal_code": "044769",
+      "city": "г. Астрахань",
+      "street": "ш. Огородное",
+      "house": "6",
+      "postal_code": "307664",
       "coordinates": {
-        "latitude": -8.57721,
-        "longitude": 52.71837
+        "latitude": -48.22529,
+        "longitude": -9.595417
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1010",
-      "name": "Наткнуться",
-      "category": "🍏 Фрукты и ягоды",
+      "product_id": "prd-1007",
+      "name": "Нож",
+      "category": "🥦 Овощи и зелень",
       "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 109.99,
-      "total_price": 329.97,
+      "price_per_unit": 89.52,
+      "total_price": 268.56,
       "kbju": {
-        "calories": 111.4,
-        "protein": 5.0,
-        "fat": 2.9,
-        "carbohydrates": 48.1
+        "calories": 54.8,
+        "protein": 10.0,
+        "fat": 8.5,
+        "carbohydrates": 49.1
       },
       "manufacturer": {
-        "name": "АО «Третьяков, Кабанов и Казакова»",
+        "name": "Кабанов Инк",
         "country": "Россия",
-        "website": "https://rao.edu",
-        "inn": "0018510627"
-      }
-    },
-    {
-      "product_id": "prd-1014",
-      "name": "Что",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 139.68,
-      "total_price": 139.68,
-      "kbju": {
-        "calories": 231.7,
-        "protein": 17.6,
-        "fat": 9.2,
-        "carbohydrates": 6.7
-      },
-      "manufacturer": {
-        "name": "Петухова Лимитед",
-        "country": "Россия",
-        "website": "https://ip.net",
-        "inn": "2487454296"
-      }
-    },
-    {
-      "product_id": "prd-1019",
-      "name": "Выражение",
-      "category": "🥛 Молочные продукты",
-      "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 211.74,
-      "total_price": 211.74,
-      "kbju": {
-        "calories": 157.2,
-        "protein": 13.4,
-        "fat": 2.7,
-        "carbohydrates": 6.2
-      },
-      "manufacturer": {
-        "name": "Ковалева Инкорпорэйтед",
-        "country": "Россия",
-        "website": "https://zao.ru",
-        "inn": "4325136422"
+        "website": "https://ip.info",
+        "inn": "3919742285"
       }
     }
   ],
-  "total_amount": 681.39,
-  "payment_method": "card",
-  "is_delivery": true,
+  "total_amount": 268.56,
+  "payment_method": "cash",
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Новгород Великий",
-    "street": "ул. Октябрьская",
-    "house": "864",
-    "apartment": "80",
-    "postal_code": "848349"
+    "city": "ст. Кунгур",
+    "street": "наб. Донская",
+    "house": "7/3",
+    "apartment": "94",
+    "postal_code": "878187"
   },
-  "purchase_datetime": "2026-10-14T16:08:40.762075"
+  "purchase_datetime": "2026-08-26T12:46:39.832988"
 }

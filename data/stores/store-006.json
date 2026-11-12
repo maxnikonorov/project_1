@@ -1,6 +1,6 @@
 {
   "store_id": "store-006",
-  "store_name": "Большая Пикча — Магазин на ул. Проезжая",
+  "store_name": "Большая Пикча — Магазин на наб. Луговая",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Корнилова Иванна Сергеевна",
-    "phone": "+7 536 916 30 12",
-    "email": "adrian04@example.net"
+    "name": "Карпова Майя Наумовна",
+    "phone": "88873283244",
+    "email": "komarovalora@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "г. Апшеронск",
-    "street": "ш. Казанское",
-    "house": "5/5",
-    "postal_code": "235044",
+    "city": "ст. Нефтеюганск",
+    "street": "пер. Театральный",
+    "house": "618",
+    "postal_code": "050186",
     "coordinates": {
-      "latitude": -57.042003,
-      "longitude": 103.845308
+      "latitude": -31.9835125,
+      "longitude": -84.55101
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": false,
-  "last_inventory_date": "2026-11-10"
+  "warehouse_connected": true,
+  "last_inventory_date": "2026-11-12"
 }

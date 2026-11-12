@@ -1,6 +1,6 @@
 {
   "store_id": "store-039",
-  "store_name": "Маленькая Пикча — Магазин на бул. Физкультурный",
+  "store_name": "Маленькая Пикча — Магазин на пер. Вишневый",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Лукия Наумовна Чернова",
-    "phone": "+77897837380",
-    "email": "bronislav1971@example.net"
+    "name": "Иванна Вячеславовна Хохлова",
+    "phone": "8 (424) 176-82-19",
+    "email": "odintsovdenis@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "д. Орск",
-    "street": "ул. Фурманова",
-    "house": "7",
-    "postal_code": "936758",
+    "city": "п. Тулпан",
+    "street": "наб. Степная",
+    "house": "3",
+    "postal_code": "238277",
     "coordinates": {
-      "latitude": 82.9780965,
-      "longitude": 145.602677
+      "latitude": 37.367648,
+      "longitude": -89.135618
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "last_inventory_date": "2026-11-12"
 }

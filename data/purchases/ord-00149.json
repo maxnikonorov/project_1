@@ -1,101 +1,101 @@
 {
   "purchase_id": "ord-00149",
   "customer": {
-    "customer_id": "cus-1043",
-    "first_name": "Мария",
-    "last_name": "Фомичев"
+    "customer_id": "cus-1030",
+    "first_name": "Матвей",
+    "last_name": "Симонов"
   },
   "store": {
-    "store_id": "store-026",
-    "store_name": "Большая Пикча — Магазин на пр. Лазурный",
+    "store_id": "store-028",
+    "store_name": "Большая Пикча — Магазин на наб. Комсомольская",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Кингисепп",
-      "street": "ш. Смоленское",
-      "house": "9/3",
-      "postal_code": "469008",
+      "city": "д. Нефтекамск",
+      "street": "пер. 9 Января",
+      "house": "690",
+      "postal_code": "306481",
       "coordinates": {
-        "latitude": -78.4942005,
-        "longitude": -6.090966
+        "latitude": -67.993054,
+        "longitude": 57.769615
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1003",
-      "name": "Порт",
-      "category": "🥦 Овощи и зелень",
+      "product_id": "prd-1006",
+      "name": "Медицина",
+      "category": "🥛 Молочные продукты",
       "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 300.0,
-      "total_price": 600.0,
+      "price_per_unit": 196.38,
+      "total_price": 392.76,
       "kbju": {
-        "calories": 129.9,
-        "protein": 1.0,
-        "fat": 9.4,
-        "carbohydrates": 17.8
+        "calories": 217.8,
+        "protein": 15.1,
+        "fat": 12.2,
+        "carbohydrates": 4.8
       },
       "manufacturer": {
-        "name": "Абрамов и партнеры",
+        "name": "Ковалев Групп",
         "country": "Россия",
-        "website": "https://koka-kola.biz",
-        "inn": "0599854783"
+        "website": "https://rao.biz",
+        "inn": "9365070690"
       }
     },
     {
-      "product_id": "prd-1017",
-      "name": "Пол",
+      "product_id": "prd-1001",
+      "name": "Пропадать",
       "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 5,
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 150.17,
-      "total_price": 750.85,
+      "price_per_unit": 34.92,
+      "total_price": 104.76,
       "kbju": {
-        "calories": 127.5,
-        "protein": 3.3,
-        "fat": 7.5,
-        "carbohydrates": 41.2
+        "calories": 116.0,
+        "protein": 4.4,
+        "fat": 8.2,
+        "carbohydrates": 17.1
       },
       "manufacturer": {
-        "name": "ОАО «Родионова-Осипов»",
+        "name": "ОАО «Аксенова-Брагина»",
         "country": "Россия",
-        "website": "https://ip.ru",
-        "inn": "4308518530"
+        "website": "https://zao.info",
+        "inn": "4796377459"
       }
     },
     {
-      "product_id": "prd-1011",
-      "name": "Через",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 5,
+      "product_id": "prd-1013",
+      "name": "Решение",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 205.21,
-      "total_price": 1026.05,
+      "price_per_unit": 272.65,
+      "total_price": 545.3,
       "kbju": {
-        "calories": 277.9,
-        "protein": 10.7,
-        "fat": 14.2,
-        "carbohydrates": 1.5
+        "calories": 165.7,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 22.6
       },
       "manufacturer": {
-        "name": "НПО «Бурова»",
+        "name": "ЗАО «Владимирова Федосеева»",
         "country": "Россия",
-        "website": "https://zao.org",
-        "inn": "3200066091"
+        "website": "https://ip.com",
+        "inn": "0567872472"
       }
     }
   ],
-  "total_amount": 2376.9,
-  "payment_method": "card",
+  "total_amount": 1042.82,
+  "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Калач-на-Дону",
-    "street": "ул. Харьковская",
-    "house": "4",
-    "apartment": "43",
-    "postal_code": "419155"
+    "city": "ст. Цимлянск",
+    "street": "ш. Марта 8",
+    "house": "586",
+    "apartment": "67",
+    "postal_code": "861195"
   },
-  "purchase_datetime": "2026-10-02T16:08:40.793157"
+  "purchase_datetime": "2026-10-19T12:46:39.834895"
 }

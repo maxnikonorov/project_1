@@ -1,6 +1,6 @@
 {
   "store_id": "store-008",
-  "store_name": "Большая Пикча — Магазин на пер. Карьерный",
+  "store_name": "Большая Пикча — Магазин на пер. Омский",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "тов. Васильев Степан Брониславович",
-    "phone": "+7 (023) 091-43-04",
-    "email": "rjurik1974@example.com"
+    "name": "Елизавета Игоревна Соловьева",
+    "phone": "+7 164 632 0273",
+    "email": "milan_2024@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "к. Кажим",
-    "street": "алл. Зои Космодемьянской",
-    "house": "673",
-    "postal_code": "831404",
+    "city": "г. Петушки",
+    "street": "наб. Серафимовича",
+    "house": "45",
+    "postal_code": "183117",
     "coordinates": {
-      "latitude": -84.04877,
-      "longitude": -153.592169
+      "latitude": 9.743765,
+      "longitude": 155.815209
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-11-12"
 }

@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00132",
   "customer": {
-    "customer_id": "cus-1002",
-    "first_name": "Лора",
-    "last_name": "Фомина"
+    "customer_id": "cus-1012",
+    "first_name": "Онуфрий",
+    "last_name": "Маркова"
   },
   "store": {
-    "store_id": "store-027",
-    "store_name": "Большая Пикча — Магазин на пр. Тельмана",
+    "store_id": "store-026",
+    "store_name": "Большая Пикча — Магазин на алл. Брянская",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "п. Дно",
-      "street": "пр. Мая 1",
-      "house": "5/5",
-      "postal_code": "183496",
+      "city": "с. Сочи",
+      "street": "бул. Ангарский",
+      "house": "402",
+      "postal_code": "209220",
       "coordinates": {
-        "latitude": 20.9920365,
-        "longitude": -71.498795
+        "latitude": -44.7970055,
+        "longitude": 10.439543
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1019",
-      "name": "Выражение",
-      "category": "🥛 Молочные продукты",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 211.74,
-      "total_price": 423.48,
-      "kbju": {
-        "calories": 157.2,
-        "protein": 13.4,
-        "fat": 2.7,
-        "carbohydrates": 6.2
-      },
-      "manufacturer": {
-        "name": "Ковалева Инкорпорэйтед",
-        "country": "Россия",
-        "website": "https://zao.ru",
-        "inn": "4325136422"
-      }
-    },
-    {
-      "product_id": "prd-1006",
-      "name": "Иной",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "product_id": "prd-1014",
+      "name": "Еврейский",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
       "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 38.14,
-      "total_price": 114.42,
+      "price_per_unit": 228.93,
+      "total_price": 686.79,
       "kbju": {
-        "calories": 240.4,
-        "protein": 11.6,
-        "fat": 4.1,
-        "carbohydrates": 46.3
+        "calories": 224.9,
+        "protein": 11.4,
+        "fat": 13.1,
+        "carbohydrates": 22.4
       },
       "manufacturer": {
-        "name": "Шарова Лтд",
+        "name": "ООО «Котова-Белякова»",
         "country": "Россия",
-        "website": "https://trofimov.net",
-        "inn": "2302699549"
+        "website": "https://yakushev.org",
+        "inn": "1032222274"
       }
     }
   ],
-  "total_amount": 537.9,
-  "payment_method": "card",
-  "is_delivery": false,
+  "total_amount": 686.79,
+  "payment_method": "cash",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Калач-на-Дону",
-    "street": "пр. Серова",
-    "house": "9",
-    "apartment": "81",
-    "postal_code": "868446"
+    "city": "п. Волгодонск",
+    "street": "алл. Ульянова",
+    "house": "936",
+    "apartment": "52",
+    "postal_code": "758644"
   },
-  "purchase_datetime": "2026-11-10T16:08:40.761071"
+  "purchase_datetime": "2026-10-08T12:46:39.832881"
 }

@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1031",
-  "first_name": "Софрон",
-  "last_name": "Савин",
-  "email": "pavel2025@example.net",
-  "phone": "+7 (368) 774-83-68",
-  "birth_date": "1980-09-21",
-  "gender": "female",
-  "registration_date": "2026-11-10T16:08:40.548987",
+  "first_name": "Изяслав",
+  "last_name": "Филатов",
+  "email": "dlitkin@example.org",
+  "phone": "8 (984) 884-78-58",
+  "birth_date": "1976-09-15",
+  "gender": "male",
+  "registration_date": "2026-11-12T12:46:39.810478",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-BA0C423441",
+  "loyalty_card_number": "LOYAL-B652BC984D",
   "purchase_location": {
     "country": "Россия",
-    "city": "г. Оренбург",
-    "street": "бул. Первомайский",
-    "house": "5",
-    "postal_code": "215822",
+    "city": "п. Карачаевск",
+    "street": "бул. 70 лет Октября",
+    "house": "8",
+    "postal_code": "805685",
     "coordinates": {
-      "latitude": -49.481629,
-      "longitude": -31.452333
+      "latitude": -86.624785,
+      "longitude": -164.661451
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "г. Оренбург",
-    "street": "наб. 60 лет СССР",
-    "house": "8/3",
-    "apartment": "63",
-    "postal_code": "955944"
+    "city": "п. Карачаевск",
+    "street": "бул. 8 Марта",
+    "house": "84",
+    "apartment": "62",
+    "postal_code": "549334"
   },
   "preferences": {
     "preferred_language": "ru",
     "preferred_payment_method": "cash",
-    "receive_promotions": false
+    "receive_promotions": true
   }
 }

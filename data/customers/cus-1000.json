@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1000",
-  "first_name": "Поликарп",
-  "last_name": "Константинова",
-  "email": "lkozlova@example.com",
-  "phone": "+7 (381) 766-51-73",
-  "birth_date": "1960-12-24",
+  "first_name": "Виссарион",
+  "last_name": "Степанова",
+  "email": "ksenija_76@example.net",
+  "phone": "+79782862900",
+  "birth_date": "1982-10-22",
   "gender": "female",
-  "registration_date": "2026-11-10T16:08:40.488880",
+  "registration_date": "2026-11-12T12:46:39.805644",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-CCB4877A87",
+  "loyalty_card_number": "LOYAL-F2AADE96DB",
   "purchase_location": {
     "country": "Россия",
-    "city": "п. Инта",
-    "street": "бул. Элеваторный",
-    "house": "1",
-    "postal_code": "499383",
+    "city": "клх Тында",
+    "street": "ул. Родниковая",
+    "house": "9",
+    "postal_code": "054196",
     "coordinates": {
-      "latitude": -4.584087,
-      "longitude": 138.935818
+      "latitude": 63.4883305,
+      "longitude": -143.170056
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "п. Инта",
-    "street": "пр. Машиностроителей",
-    "house": "3/9",
-    "apartment": "71",
-    "postal_code": "023372"
+    "city": "клх Тында",
+    "street": "ш. Октябрьское",
+    "house": "68",
+    "apartment": "100",
+    "postal_code": "957197"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "card",
+    "preferred_payment_method": "cash",
     "receive_promotions": true
   }
 }

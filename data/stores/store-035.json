@@ -1,6 +1,6 @@
 {
   "store_id": "store-035",
-  "store_name": "Маленькая Пикча — Магазин на пер. Партизанский",
+  "store_name": "Маленькая Пикча — Магазин на бул. Астраханский",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Гусев Аскольд Виленович",
-    "phone": "+7 (033) 453-0305",
-    "email": "marijakozlova@example.org"
+    "name": "Варвара Владимировна Власова",
+    "phone": "8 (551) 127-34-36",
+    "email": "agata_45@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "г. Адыгейск",
-    "street": "ш. Тихое",
-    "house": "8/7",
-    "postal_code": "991184",
+    "city": "г. Щелково",
+    "street": "ул. Лермонтова",
+    "house": "3",
+    "postal_code": "487343",
     "coordinates": {
-      "latitude": 86.5739715,
-      "longitude": -158.142391
+      "latitude": 88.94456,
+      "longitude": -139.903279
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-11-12"
 }

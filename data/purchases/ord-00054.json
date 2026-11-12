@@ -1,101 +1,80 @@
 {
   "purchase_id": "ord-00054",
   "customer": {
-    "customer_id": "cus-1021",
-    "first_name": "Сила",
-    "last_name": "Голубева"
+    "customer_id": "cus-1018",
+    "first_name": "Ипполит",
+    "last_name": "Павлов"
   },
   "store": {
-    "store_id": "store-007",
-    "store_name": "Большая Пикча — Магазин на алл. Жуковского",
+    "store_id": "store-008",
+    "store_name": "Большая Пикча — Магазин на пер. Омский",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "с. Лагань",
-      "street": "пр. Тополиный",
-      "house": "6/4",
-      "postal_code": "084092",
+      "city": "г. Петушки",
+      "street": "наб. Серафимовича",
+      "house": "45",
+      "postal_code": "183117",
       "coordinates": {
-        "latitude": 49.030439,
-        "longitude": -59.077561
+        "latitude": 9.743765,
+        "longitude": 155.815209
       }
     }
   },
   "items": [
     {
       "product_id": "prd-1019",
-      "name": "Выражение",
-      "category": "🥛 Молочные продукты",
+      "name": "Военный",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 166.7,
+      "total_price": 166.7,
+      "kbju": {
+        "calories": 160.4,
+        "protein": 11.7,
+        "fat": 4.3,
+        "carbohydrates": 21.4
+      },
+      "manufacturer": {
+        "name": "ИП «Голубева»",
+        "country": "Россия",
+        "website": "https://gruppa.ru",
+        "inn": "3931722625"
+      }
+    },
+    {
+      "product_id": "prd-1017",
+      "name": "Академик",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 211.74,
-      "total_price": 635.22,
+      "price_per_unit": 281.63,
+      "total_price": 844.89,
       "kbju": {
-        "calories": 157.2,
-        "protein": 13.4,
-        "fat": 2.7,
-        "carbohydrates": 6.2
+        "calories": 57.7,
+        "protein": 17.3,
+        "fat": 1.3,
+        "carbohydrates": 0.5
       },
       "manufacturer": {
-        "name": "Ковалева Инкорпорэйтед",
+        "name": "ЗАО «Симонов Колесников»",
         "country": "Россия",
-        "website": "https://zao.ru",
-        "inn": "4325136422"
-      }
-    },
-    {
-      "product_id": "prd-1011",
-      "name": "Через",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 4,
-      "unit": "шт",
-      "price_per_unit": 205.21,
-      "total_price": 820.84,
-      "kbju": {
-        "calories": 277.9,
-        "protein": 10.7,
-        "fat": 14.2,
-        "carbohydrates": 1.5
-      },
-      "manufacturer": {
-        "name": "НПО «Бурова»",
-        "country": "Россия",
-        "website": "https://zao.org",
-        "inn": "3200066091"
-      }
-    },
-    {
-      "product_id": "prd-1001",
-      "name": "Природа",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 270.47,
-      "total_price": 540.94,
-      "kbju": {
-        "calories": 82.7,
-        "protein": 5.3,
-        "fat": 7.1,
-        "carbohydrates": 48.4
-      },
-      "manufacturer": {
-        "name": "ОАО «Аксенов-Елисеева»",
-        "country": "Россия",
-        "website": "https://npo.biz",
-        "inn": "2579256074"
+        "website": "https://ip.org",
+        "inn": "6779612478"
       }
     }
   ],
-  "total_amount": 1997.0,
-  "payment_method": "card",
-  "is_delivery": false,
+  "total_amount": 1011.59,
+  "payment_method": "cash",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Нарткала",
-    "street": "бул. Кооперативный",
-    "house": "573",
-    "apartment": "52",
-    "postal_code": "398005"
+    "city": "п. Медногорск",
+    "street": "ул. Буденного",
+    "house": "24",
+    "apartment": "37",
+    "postal_code": "429476"
   },
-  "purchase_datetime": "2026-09-06T16:08:40.644267"
+  "purchase_datetime": "2026-09-02T12:46:39.822871"
 }

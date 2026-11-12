@@ -1,101 +1,101 @@
 {
   "purchase_id": "ord-00189",
   "customer": {
-    "customer_id": "cus-1006",
-    "first_name": "Агафья",
-    "last_name": "Гурьева"
+    "customer_id": "cus-1015",
+    "first_name": "Христофор",
+    "last_name": "Медведев"
   },
   "store": {
-    "store_id": "store-039",
-    "store_name": "Маленькая Пикча — Магазин на бул. Физкультурный",
+    "store_id": "store-038",
+    "store_name": "Маленькая Пикча — Магазин на пер. Весенний",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Орск",
-      "street": "ул. Фурманова",
-      "house": "7",
-      "postal_code": "936758",
+      "city": "ст. Каменск-Уральский",
+      "street": "бул. Бульварный",
+      "house": "94",
+      "postal_code": "410592",
       "coordinates": {
-        "latitude": 82.9780965,
-        "longitude": 145.602677
+        "latitude": -77.446573,
+        "longitude": 164.029875
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1001",
-      "name": "Природа",
+      "product_id": "prd-1000",
+      "name": "Наступать",
       "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 270.47,
-      "total_price": 270.47,
+      "price_per_unit": 49.11,
+      "total_price": 49.11,
       "kbju": {
-        "calories": 82.7,
-        "protein": 5.3,
-        "fat": 7.1,
-        "carbohydrates": 48.4
+        "calories": 261.8,
+        "protein": 10.9,
+        "fat": 3.4,
+        "carbohydrates": 22.6
       },
       "manufacturer": {
-        "name": "ОАО «Аксенов-Елисеева»",
+        "name": "ИП «Шилов»",
         "country": "Россия",
-        "website": "https://npo.biz",
-        "inn": "2579256074"
+        "website": "https://zao.com",
+        "inn": "6198265072"
       }
     },
     {
-      "product_id": "prd-1009",
-      "name": "Левый",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 4,
-      "unit": "шт",
-      "price_per_unit": 55.63,
-      "total_price": 222.52,
-      "kbju": {
-        "calories": 284.1,
-        "protein": 6.2,
-        "fat": 12.8,
-        "carbohydrates": 31.9
-      },
-      "manufacturer": {
-        "name": "ООО «Беляков-Ермаков»",
-        "country": "Россия",
-        "website": "https://ao.edu",
-        "inn": "2315160346"
-      }
-    },
-    {
-      "product_id": "prd-1019",
-      "name": "Выражение",
-      "category": "🥛 Молочные продукты",
+      "product_id": "prd-1014",
+      "name": "Еврейский",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
       "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 211.74,
-      "total_price": 635.22,
+      "price_per_unit": 228.93,
+      "total_price": 686.79,
       "kbju": {
-        "calories": 157.2,
-        "protein": 13.4,
-        "fat": 2.7,
-        "carbohydrates": 6.2
+        "calories": 224.9,
+        "protein": 11.4,
+        "fat": 13.1,
+        "carbohydrates": 22.4
       },
       "manufacturer": {
-        "name": "Ковалева Инкорпорэйтед",
+        "name": "ООО «Котова-Белякова»",
         "country": "Россия",
-        "website": "https://zao.ru",
-        "inn": "4325136422"
+        "website": "https://yakushev.org",
+        "inn": "1032222274"
+      }
+    },
+    {
+      "product_id": "prd-1005",
+      "name": "Конструкция",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 204.55,
+      "total_price": 613.65,
+      "kbju": {
+        "calories": 86.4,
+        "protein": 1.8,
+        "fat": 13.4,
+        "carbohydrates": 19.0
+      },
+      "manufacturer": {
+        "name": "ОАО «Гордеев, Никитин и Кулакова»",
+        "country": "Россия",
+        "website": "https://ooo.org",
+        "inn": "4077468251"
       }
     }
   ],
-  "total_amount": 1128.21,
-  "payment_method": "cash",
+  "total_amount": 1349.55,
+  "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "с. Лагань",
-    "street": "пр. Просвещения",
-    "house": "61",
-    "apartment": "60",
-    "postal_code": "059264"
+    "city": "ст. Курчатов",
+    "street": "ш. Маркса",
+    "house": "2",
+    "apartment": "69",
+    "postal_code": "914357"
   },
-  "purchase_datetime": "2026-10-14T16:08:40.859659"
+  "purchase_datetime": "2026-08-18T12:46:39.839880"
 }

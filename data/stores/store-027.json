@@ -1,6 +1,6 @@
 {
   "store_id": "store-027",
-  "store_name": "Большая Пикча — Магазин на пр. Тельмана",
+  "store_name": "Большая Пикча — Магазин на ш. Дальневосточное",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Вишняков Архип Федосьевич",
-    "phone": "89805804513",
-    "email": "fedotovaevfrosinija@example.com"
+    "name": "Дмитриев Игорь Артемьевич",
+    "phone": "8 (746) 927-50-14",
+    "email": "haritonovruslan@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "п. Дно",
-    "street": "пр. Мая 1",
-    "house": "5/5",
-    "postal_code": "183496",
+    "city": "к. Юровск",
+    "street": "алл. Щетинкина",
+    "house": "83",
+    "postal_code": "468663",
     "coordinates": {
-      "latitude": 20.9920365,
-      "longitude": -71.498795
+      "latitude": 8.4289995,
+      "longitude": 69.613872
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-11-12"
 }

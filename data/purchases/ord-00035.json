@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00035",
   "customer": {
-    "customer_id": "cus-1031",
-    "first_name": "Софрон",
-    "last_name": "Савин"
+    "customer_id": "cus-1034",
+    "first_name": "Николай",
+    "last_name": "Гришина"
   },
   "store": {
-    "store_id": "store-025",
-    "store_name": "Большая Пикча — Магазин на пр. Виноградный",
-    "store_network": "Большая Пикча",
+    "store_id": "store-035",
+    "store_name": "Маленькая Пикча — Магазин на бул. Астраханский",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Кабанск",
-      "street": "наб. Ватутина",
-      "house": "71",
-      "postal_code": "430475",
+      "city": "г. Щелково",
+      "street": "ул. Лермонтова",
+      "house": "3",
+      "postal_code": "487343",
       "coordinates": {
-        "latitude": 56.1539,
-        "longitude": -125.144973
+        "latitude": 88.94456,
+        "longitude": -139.903279
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1008",
-      "name": "Горький",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 4,
+      "product_id": "prd-1012",
+      "name": "Июнь",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 203.15,
-      "total_price": 812.6,
+      "price_per_unit": 64.74,
+      "total_price": 64.74,
       "kbju": {
-        "calories": 271.9,
-        "protein": 15.0,
-        "fat": 7.2,
-        "carbohydrates": 40.0
+        "calories": 74.5,
+        "protein": 16.4,
+        "fat": 3.9,
+        "carbohydrates": 41.7
       },
       "manufacturer": {
-        "name": "Шарапов Групп",
+        "name": "Корпорация Гринн",
         "country": "Россия",
-        "website": "https://ooo.edu",
-        "inn": "3346683207"
+        "website": "https://shcherbakova.ru",
+        "inn": "1467725699"
+      }
+    },
+    {
+      "product_id": "prd-1019",
+      "name": "Военный",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 166.7,
+      "total_price": 166.7,
+      "kbju": {
+        "calories": 160.4,
+        "protein": 11.7,
+        "fat": 4.3,
+        "carbohydrates": 21.4
+      },
+      "manufacturer": {
+        "name": "ИП «Голубева»",
+        "country": "Россия",
+        "website": "https://gruppa.ru",
+        "inn": "3931722625"
       }
     }
   ],
-  "total_amount": 812.6,
-  "payment_method": "card",
-  "is_delivery": false,
+  "total_amount": 231.44,
+  "payment_method": "cash",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "г. Оренбург",
-    "street": "наб. 60 лет СССР",
-    "house": "8/3",
-    "apartment": "63",
-    "postal_code": "955944"
+    "city": "г. Щелково",
+    "street": "бул. Ильича",
+    "house": "616",
+    "apartment": "77",
+    "postal_code": "362223"
   },
-  "purchase_datetime": "2026-08-15T16:08:40.614174"
+  "purchase_datetime": "2026-09-02T12:46:39.820404"
 }

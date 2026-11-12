@@ -1,101 +1,80 @@
 {
   "purchase_id": "ord-00062",
   "customer": {
-    "customer_id": "cus-1036",
-    "first_name": "Марина",
-    "last_name": "Пахомова"
+    "customer_id": "cus-1040",
+    "first_name": "Гордей",
+    "last_name": "Михайлова"
   },
   "store": {
-    "store_id": "store-021",
-    "store_name": "Большая Пикча — Магазин на пер. Ильича",
+    "store_id": "store-013",
+    "store_name": "Большая Пикча — Магазин на бул. Полярный",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "клх Соль-Илецк",
-      "street": "пр. Беляева",
-      "house": "70",
-      "postal_code": "700510",
+      "city": "п. Волгодонск",
+      "street": "наб. Дружбы",
+      "house": "769",
+      "postal_code": "521421",
       "coordinates": {
-        "latitude": -3.1154965,
-        "longitude": -45.366801
+        "latitude": -18.577635,
+        "longitude": 118.281469
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1002",
-      "name": "Единый",
+      "product_id": "prd-1008",
+      "name": "Увеличиваться",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 298.83,
+      "total_price": 896.49,
+      "kbju": {
+        "calories": 57.9,
+        "protein": 1.9,
+        "fat": 5.5,
+        "carbohydrates": 26.7
+      },
+      "manufacturer": {
+        "name": "АО «Горбунов»",
+        "country": "Россия",
+        "website": "https://oao.ru",
+        "inn": "1791173907"
+      }
+    },
+    {
+      "product_id": "prd-1006",
+      "name": "Медицина",
       "category": "🥛 Молочные продукты",
-      "quantity": 5,
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 289.68,
-      "total_price": 1448.4,
+      "price_per_unit": 196.38,
+      "total_price": 785.52,
       "kbju": {
-        "calories": 265.0,
-        "protein": 19.8,
-        "fat": 7.9,
-        "carbohydrates": 44.8
+        "calories": 217.8,
+        "protein": 15.1,
+        "fat": 12.2,
+        "carbohydrates": 4.8
       },
       "manufacturer": {
-        "name": "ИП «Мартынова»",
+        "name": "Ковалев Групп",
         "country": "Россия",
-        "website": "https://ao.ru",
-        "inn": "6920417941"
-      }
-    },
-    {
-      "product_id": "prd-1013",
-      "name": "Крутой",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 5,
-      "unit": "шт",
-      "price_per_unit": 209.78,
-      "total_price": 1048.9,
-      "kbju": {
-        "calories": 246.6,
-        "protein": 5.6,
-        "fat": 14.7,
-        "carbohydrates": 20.5
-      },
-      "manufacturer": {
-        "name": "ОАО «Костин Крюкова»",
-        "country": "Россия",
-        "website": "https://mmk.info",
-        "inn": "9008610160"
-      }
-    },
-    {
-      "product_id": "prd-1018",
-      "name": "Смеяться",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 5,
-      "unit": "шт",
-      "price_per_unit": 143.87,
-      "total_price": 719.35,
-      "kbju": {
-        "calories": 175.7,
-        "protein": 9.9,
-        "fat": 11.6,
-        "carbohydrates": 36.9
-      },
-      "manufacturer": {
-        "name": "АО «Архипов»",
-        "country": "Россия",
-        "website": "https://zao.org",
-        "inn": "6430660253"
+        "website": "https://rao.biz",
+        "inn": "9365070690"
       }
     }
   ],
-  "total_amount": 3216.65,
+  "total_amount": 1682.01,
   "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "к. Кудымкар",
-    "street": "пер. Ореховый",
-    "house": "1",
-    "apartment": "84",
-    "postal_code": "619231"
+    "city": "клх Вологда",
+    "street": "наб. Белорусская",
+    "house": "6/2",
+    "apartment": "21",
+    "postal_code": "073555"
   },
-  "purchase_datetime": "2026-09-06T16:08:40.659290"
+  "purchase_datetime": "2026-09-18T12:46:39.824032"
 }

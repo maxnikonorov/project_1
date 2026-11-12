@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00057",
   "customer": {
-    "customer_id": "cus-1035",
-    "first_name": "Евсей",
-    "last_name": "Гордеева"
+    "customer_id": "cus-1022",
+    "first_name": "Назар",
+    "last_name": "Елисеева"
   },
   "store": {
-    "store_id": "store-041",
-    "store_name": "Маленькая Пикча — Магазин на пер. Красный",
+    "store_id": "store-035",
+    "store_name": "Маленькая Пикча — Магазин на бул. Астраханский",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "г. Соловки",
-      "street": "пер. Космический",
-      "house": "7",
-      "postal_code": "821818",
+      "city": "г. Щелково",
+      "street": "ул. Лермонтова",
+      "house": "3",
+      "postal_code": "487343",
       "coordinates": {
-        "latitude": -8.30231,
-        "longitude": 144.533567
+        "latitude": 88.94456,
+        "longitude": -139.903279
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1006",
-      "name": "Иной",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "product_id": "prd-1015",
+      "name": "Падать",
+      "category": "🥦 Овощи и зелень",
       "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 38.14,
-      "total_price": 152.56,
+      "price_per_unit": 124.57,
+      "total_price": 498.28,
       "kbju": {
-        "calories": 240.4,
-        "protein": 11.6,
-        "fat": 4.1,
-        "carbohydrates": 46.3
+        "calories": 259.4,
+        "protein": 12.0,
+        "fat": 0.9,
+        "carbohydrates": 11.7
       },
       "manufacturer": {
-        "name": "Шарова Лтд",
+        "name": "СДС Азот",
         "country": "Россия",
-        "website": "https://trofimov.net",
-        "inn": "2302699549"
+        "website": "https://ip.biz",
+        "inn": "7509245881"
       }
     }
   ],
-  "total_amount": 152.56,
+  "total_amount": 498.28,
   "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Борзя",
-    "street": "ш. Набережное",
-    "house": "700",
-    "apartment": "69",
-    "postal_code": "777744"
+    "city": "д. Муром",
+    "street": "пр. Кирова",
+    "house": "850",
+    "apartment": "64",
+    "postal_code": "426953"
   },
-  "purchase_datetime": "2026-11-05T16:08:40.649274"
+  "purchase_datetime": "2026-11-08T12:46:39.823266"
 }

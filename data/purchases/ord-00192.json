@@ -1,101 +1,80 @@
 {
   "purchase_id": "ord-00192",
   "customer": {
-    "customer_id": "cus-1025",
-    "first_name": "Спартак",
-    "last_name": "Афанасьева"
+    "customer_id": "cus-1042",
+    "first_name": "Феоктист",
+    "last_name": "Дементьев"
   },
   "store": {
-    "store_id": "store-037",
-    "store_name": "Маленькая Пикча — Магазин на ш. Омское",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-016",
+    "store_name": "Большая Пикча — Магазин на наб. Саратовская",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Кудымкар",
-      "street": "бул. Путевой",
-      "house": "6/5",
-      "postal_code": "462437",
+      "city": "ст. Курчатов",
+      "street": "ул. Физкультурная",
+      "house": "828",
+      "postal_code": "910837",
       "coordinates": {
-        "latitude": 86.5741415,
-        "longitude": -36.177029
+        "latitude": -53.416018,
+        "longitude": 139.893617
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1010",
-      "name": "Наткнуться",
+      "product_id": "prd-1005",
+      "name": "Конструкция",
       "category": "🍏 Фрукты и ягоды",
-      "quantity": 3,
-      "unit": "шт",
-      "price_per_unit": 109.99,
-      "total_price": 329.97,
-      "kbju": {
-        "calories": 111.4,
-        "protein": 5.0,
-        "fat": 2.9,
-        "carbohydrates": 48.1
-      },
-      "manufacturer": {
-        "name": "АО «Третьяков, Кабанов и Казакова»",
-        "country": "Россия",
-        "website": "https://rao.edu",
-        "inn": "0018510627"
-      }
-    },
-    {
-      "product_id": "prd-1004",
-      "name": "Социалистический",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 2,
-      "unit": "шт",
-      "price_per_unit": 254.38,
-      "total_price": 508.76,
-      "kbju": {
-        "calories": 104.4,
-        "protein": 6.0,
-        "fat": 0.7,
-        "carbohydrates": 13.6
-      },
-      "manufacturer": {
-        "name": "ООО «Савельев»",
-        "country": "Россия",
-        "website": "https://rao.info",
-        "inn": "2063622252"
-      }
-    },
-    {
-      "product_id": "prd-1003",
-      "name": "Порт",
-      "category": "🥦 Овощи и зелень",
       "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 300.0,
-      "total_price": 1200.0,
+      "price_per_unit": 204.55,
+      "total_price": 818.2,
       "kbju": {
-        "calories": 129.9,
-        "protein": 1.0,
-        "fat": 9.4,
-        "carbohydrates": 17.8
+        "calories": 86.4,
+        "protein": 1.8,
+        "fat": 13.4,
+        "carbohydrates": 19.0
       },
       "manufacturer": {
-        "name": "Абрамов и партнеры",
+        "name": "ОАО «Гордеев, Никитин и Кулакова»",
         "country": "Россия",
-        "website": "https://koka-kola.biz",
-        "inn": "0599854783"
+        "website": "https://ooo.org",
+        "inn": "4077468251"
+      }
+    },
+    {
+      "product_id": "prd-1011",
+      "name": "Плясать",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 281.59,
+      "total_price": 1407.95,
+      "kbju": {
+        "calories": 282.3,
+        "protein": 0.5,
+        "fat": 10.2,
+        "carbohydrates": 38.8
+      },
+      "manufacturer": {
+        "name": "Кононова Инк",
+        "country": "Россия",
+        "website": "https://rao.org",
+        "inn": "8513715002"
       }
     }
   ],
-  "total_amount": 2038.73,
-  "payment_method": "cash",
-  "is_delivery": false,
+  "total_amount": 2226.15,
+  "payment_method": "card",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "к. Кингисепп",
-    "street": "бул. Гастелло",
-    "house": "445",
-    "apartment": "72",
-    "postal_code": "138900"
+    "city": "г. Яхрома",
+    "street": "бул. Островского",
+    "house": "41",
+    "apartment": "85",
+    "postal_code": "053104"
   },
-  "purchase_datetime": "2026-10-30T16:08:40.872200"
+  "purchase_datetime": "2026-10-20T12:46:39.840267"
 }

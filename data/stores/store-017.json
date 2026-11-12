@@ -1,6 +1,6 @@
 {
   "store_id": "store-017",
-  "store_name": "Большая Пикча — Магазин на ш. Черноморское",
+  "store_name": "Большая Пикча — Магазин на ш. Осипенко",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Александрова Акулина Матвеевна",
-    "phone": "+7 (678) 360-01-98",
-    "email": "jan49@example.org"
+    "name": "Трофимова Алевтина Петровна",
+    "phone": "+7 (864) 150-5191",
+    "email": "marinadenisova@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "клх Калевала",
-    "street": "пр. Рылеева",
-    "house": "51",
-    "postal_code": "902361",
+    "city": "с. Горно-Алтайск",
+    "street": "ул. Мичурина",
+    "house": "1",
+    "postal_code": "034077",
     "coordinates": {
-      "latitude": -6.760841,
-      "longitude": 88.974374
+      "latitude": -80.043716,
+      "longitude": -138.203922
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": false,
-  "last_inventory_date": "2026-11-10"
+  "warehouse_connected": true,
+  "last_inventory_date": "2026-11-12"
 }

@@ -1,80 +1,80 @@
 {
   "purchase_id": "ord-00159",
   "customer": {
-    "customer_id": "cus-1005",
-    "first_name": "Гурий",
-    "last_name": "Панова"
+    "customer_id": "cus-1001",
+    "first_name": "Эдуард",
+    "last_name": "Стрелков"
   },
   "store": {
-    "store_id": "store-042",
-    "store_name": "Маленькая Пикча — Магазин на ул. Высоковольтная",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-005",
+    "store_name": "Большая Пикча — Магазин на ул. Сурикова",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "г. Усть-Кут",
-      "street": "ул. Профсоюзная",
-      "house": "4/5",
-      "postal_code": "679522",
+      "city": "с. Абакан",
+      "street": "ш. Загородное",
+      "house": "44",
+      "postal_code": "836911",
       "coordinates": {
-        "latitude": -71.6251535,
-        "longitude": 126.315479
+        "latitude": 43.8106095,
+        "longitude": -167.42383
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1007",
-      "name": "Соответствие",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 2,
+      "product_id": "prd-1010",
+      "name": "Пасть",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 254.38,
-      "total_price": 508.76,
+      "price_per_unit": 219.53,
+      "total_price": 878.12,
       "kbju": {
-        "calories": 250.9,
-        "protein": 11.5,
-        "fat": 3.2,
-        "carbohydrates": 44.9
+        "calories": 262.9,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 35.0
       },
       "manufacturer": {
-        "name": "Терентьев Инкорпорэйтед",
+        "name": "ЗАО «Юдин»",
         "country": "Россия",
-        "website": "https://ip.info",
-        "inn": "3390887494"
+        "website": "https://ip.ru",
+        "inn": "6266618289"
       }
     },
     {
-      "product_id": "prd-1002",
-      "name": "Единый",
-      "category": "🥛 Молочные продукты",
-      "quantity": 5,
+      "product_id": "prd-1008",
+      "name": "Увеличиваться",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 289.68,
-      "total_price": 1448.4,
+      "price_per_unit": 298.83,
+      "total_price": 1195.32,
       "kbju": {
-        "calories": 265.0,
-        "protein": 19.8,
-        "fat": 7.9,
-        "carbohydrates": 44.8
+        "calories": 57.9,
+        "protein": 1.9,
+        "fat": 5.5,
+        "carbohydrates": 26.7
       },
       "manufacturer": {
-        "name": "ИП «Мартынова»",
+        "name": "АО «Горбунов»",
         "country": "Россия",
-        "website": "https://ao.ru",
-        "inn": "6920417941"
+        "website": "https://oao.ru",
+        "inn": "1791173907"
       }
     }
   ],
-  "total_amount": 1957.16,
+  "total_amount": 2073.44,
   "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "г. Апшеронск",
-    "street": "бул. Полевой",
-    "house": "900",
-    "apartment": "34",
-    "postal_code": "114573"
+    "city": "к. Пятигорск",
+    "street": "бул. Окружной",
+    "house": "4/5",
+    "apartment": "45",
+    "postal_code": "749822"
   },
-  "purchase_datetime": "2026-09-11T16:08:40.808775"
+  "purchase_datetime": "2026-09-19T12:46:39.836088"
 }

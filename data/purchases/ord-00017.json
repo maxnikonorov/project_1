@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00017",
   "customer": {
-    "customer_id": "cus-1006",
-    "first_name": "Агафья",
-    "last_name": "Гурьева"
+    "customer_id": "cus-1036",
+    "first_name": "Стоян",
+    "last_name": "Наумов"
   },
   "store": {
-    "store_id": "store-008",
-    "store_name": "Большая Пикча — Магазин на пер. Карьерный",
-    "store_network": "Большая Пикча",
+    "store_id": "store-032",
+    "store_name": "Маленькая Пикча — Магазин на ш. Мелиоративное",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Кажим",
-      "street": "алл. Зои Космодемьянской",
-      "house": "673",
-      "postal_code": "831404",
+      "city": "п. Карачаевск",
+      "street": "бул. 70 лет Октября",
+      "house": "8",
+      "postal_code": "805685",
       "coordinates": {
-        "latitude": -84.04877,
-        "longitude": -153.592169
+        "latitude": -86.624785,
+        "longitude": -164.661451
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1005",
-      "name": "Тысяча",
-      "category": "🍏 Фрукты и ягоды",
-      "quantity": 5,
+      "product_id": "prd-1004",
+      "name": "Сверкающий",
+      "category": "🥛 Молочные продукты",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 109.23,
-      "total_price": 546.15,
+      "price_per_unit": 42.31,
+      "total_price": 126.93,
       "kbju": {
-        "calories": 215.7,
-        "protein": 8.5,
-        "fat": 8.5,
-        "carbohydrates": 5.4
+        "calories": 260.1,
+        "protein": 7.8,
+        "fat": 9.0,
+        "carbohydrates": 43.0
       },
       "manufacturer": {
-        "name": "Исаева Групп",
+        "name": "Продо",
         "country": "Россия",
-        "website": "https://ao.com",
-        "inn": "0005832495"
+        "website": "https://ip.org",
+        "inn": "2875238332"
+      }
+    },
+    {
+      "product_id": "prd-1002",
+      "name": "Разводить",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 118.06,
+      "total_price": 590.3,
+      "kbju": {
+        "calories": 260.2,
+        "protein": 13.0,
+        "fat": 3.0,
+        "carbohydrates": 17.6
+      },
+      "manufacturer": {
+        "name": "РАО «Ковалев Шестакова»",
+        "country": "Россия",
+        "website": "https://rao.org",
+        "inn": "6087012080"
+      }
+    },
+    {
+      "product_id": "prd-1007",
+      "name": "Нож",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
+      "unit": "шт",
+      "price_per_unit": 89.52,
+      "total_price": 358.08,
+      "kbju": {
+        "calories": 54.8,
+        "protein": 10.0,
+        "fat": 8.5,
+        "carbohydrates": 49.1
+      },
+      "manufacturer": {
+        "name": "Кабанов Инк",
+        "country": "Россия",
+        "website": "https://ip.info",
+        "inn": "3919742285"
       }
     }
   ],
-  "total_amount": 546.15,
-  "payment_method": "card",
+  "total_amount": 1075.31,
+  "payment_method": "cash",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "с. Лагань",
-    "street": "пр. Просвещения",
-    "house": "61",
-    "apartment": "60",
-    "postal_code": "059264"
+    "city": "к. Сорочинск",
+    "street": "бул. Московский",
+    "house": "28",
+    "apartment": "37",
+    "postal_code": "695102"
   },
-  "purchase_datetime": "2026-10-03T16:08:40.589575"
+  "purchase_datetime": "2026-10-18T12:46:39.817676"
 }

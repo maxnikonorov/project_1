@@ -1,24 +1,24 @@
 {
   "id": "prd-1015",
-  "name": "Пространство",
-  "group": "🥛 Молочные продукты",
-  "description": "Добиться дружно ход результат дрогнуть.",
+  "name": "Падать",
+  "group": "🥦 Овощи и зелень",
+  "description": "Призыв хлеб рай карман забирать юный.",
   "kbju": {
-    "calories": 244.0,
-    "protein": 13.8,
-    "fat": 6.9,
-    "carbohydrates": 6.3
+    "calories": 259.4,
+    "protein": 12.0,
+    "fat": 0.9,
+    "carbohydrates": 11.7
   },
-  "price": 169.18,
+  "price": 124.57,
   "unit": "шт",
   "origin_country": "Россия",
   "expiry_days": 14,
-  "is_organic": true,
-  "barcode": "4678928789176",
+  "is_organic": false,
+  "barcode": "4088082588773",
   "manufacturer": {
-    "name": "ИП «Силин, Лапина и Федосеев»",
+    "name": "СДС Азот",
     "country": "Россия",
-    "website": "https://rao.com",
-    "inn": "0793948672"
+    "website": "https://ip.biz",
+    "inn": "7509245881"
   }
 }

@@ -1,80 +1,80 @@
 {
   "purchase_id": "ord-00151",
   "customer": {
-    "customer_id": "cus-1033",
-    "first_name": "Владлен",
-    "last_name": "Киселев"
+    "customer_id": "cus-1020",
+    "first_name": "Тихон",
+    "last_name": "Жданова"
   },
   "store": {
-    "store_id": "store-025",
-    "store_name": "Большая Пикча — Магазин на пр. Виноградный",
+    "store_id": "store-021",
+    "store_name": "Большая Пикча — Магазин на алл. Ленинская",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Кабанск",
-      "street": "наб. Ватутина",
-      "house": "71",
-      "postal_code": "430475",
+      "city": "п. Фатеж",
+      "street": "ул. Нахимова",
+      "house": "1",
+      "postal_code": "673909",
       "coordinates": {
-        "latitude": 56.1539,
-        "longitude": -125.144973
+        "latitude": -89.7491,
+        "longitude": 65.345452
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1014",
-      "name": "Что",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 2,
+      "product_id": "prd-1009",
+      "name": "Трясти",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 139.68,
-      "total_price": 279.36,
+      "price_per_unit": 242.58,
+      "total_price": 970.32,
       "kbju": {
-        "calories": 231.7,
-        "protein": 17.6,
-        "fat": 9.2,
-        "carbohydrates": 6.7
+        "calories": 217.7,
+        "protein": 17.1,
+        "fat": 5.8,
+        "carbohydrates": 15.7
       },
       "manufacturer": {
-        "name": "Петухова Лимитед",
+        "name": "РАО «Рябова-Фадеев»",
         "country": "Россия",
-        "website": "https://ip.net",
-        "inn": "2487454296"
+        "website": "https://kargill.biz",
+        "inn": "3583516885"
       }
     },
     {
-      "product_id": "prd-1005",
-      "name": "Тысяча",
-      "category": "🍏 Фрукты и ягоды",
+      "product_id": "prd-1010",
+      "name": "Пасть",
+      "category": "🥦 Овощи и зелень",
       "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 109.23,
-      "total_price": 327.69,
+      "price_per_unit": 219.53,
+      "total_price": 658.59,
       "kbju": {
-        "calories": 215.7,
-        "protein": 8.5,
-        "fat": 8.5,
-        "carbohydrates": 5.4
+        "calories": 262.9,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 35.0
       },
       "manufacturer": {
-        "name": "Исаева Групп",
+        "name": "ЗАО «Юдин»",
         "country": "Россия",
-        "website": "https://ao.com",
-        "inn": "0005832495"
+        "website": "https://ip.ru",
+        "inn": "6266618289"
       }
     }
   ],
-  "total_amount": 607.05,
+  "total_amount": 1628.91,
   "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "п. Нефтегорск (Самар.)",
-    "street": "ш. Ясное",
-    "house": "1",
-    "apartment": "52",
-    "postal_code": "256820"
+    "city": "п. Фатеж",
+    "street": "наб. Сибирская",
+    "house": "223",
+    "apartment": "44",
+    "postal_code": "490239"
   },
-  "purchase_datetime": "2026-08-12T16:08:40.796698"
+  "purchase_datetime": "2026-09-30T12:46:39.835142"
 }

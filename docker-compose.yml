@@ -1,15 +1,114 @@
-version: '3.8'
-
-networks:
-  analytics_net:
-    driver: bridge
-
-volumes:
-  mongo_data:
-  ch_data:
-  grafana_data:
+x-airflow-common:
+  &airflow-common
+  build: .
+  environment:
+    &airflow-common-env
+    AIRFLOW__CORE__EXECUTOR: LocalExecutor
+    AIRFLOW__CORE__EXECUTION_API_SERVER_URL: 'http://airflow-apiserver:8080/execution/'
+    AIRFLOW__API__BASE_URL: 'http://airflow-apiserver:8080/'
+    AIRFLOW__CORE__SIMPLE_AUTH_MANAGER_USERS: "airflow:admin"
+    AIRFLOW__CORE__SIMPLE_AUTH_MANAGER_PASSWORDS_FILE: "/opt/airflow/config/passwords.json"
+    AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+    AIRFLOW__CORE__FERNET_KEY: ''
+    AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: 'true'
+    AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+    AIRFLOW__API__SECRET_KEY: 'super-secret-key-change-me'
+    AIRFLOW__API_AUTH__JWT_SECRET: 'super-secret-jwt-key-change-me'
+    AIRFLOW_CONN_MINIO_S3: 'aws://admin:supersecretpassword@/?endpoint_url=http%3A%2F%2Fminio%3A9000'
+  volumes:
+    - ./dags:/opt/airflow/dags
+    - ./logs:/opt/airflow/logs
+    - ./config:/opt/airflow/config
+    - ./plugins:/opt/airflow/plugins
+    - /Users/maxim/Desktop/projects_DE/project_1/csv_files:/opt/airflow/data_to_upload
+    - /Users/maxim/Desktop/projects_DE/project_1:/opt/airflow/project_1
+    - /var/run/docker.sock:/var/run/docker.sock
+  user: "${AIRFLOW_UID:-50000}:0"
+  depends_on:
+    postgres:
+      condition: service_healthy
 
 services:
+  # --- Блок Apache Airflow ---
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    volumes:
+      - postgres-db-volume:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "airflow"]
+      interval: 10s
+      retries: 5
+      start_period: 5s
+    restart: always
+
+  airflow-init:
+    <<: *airflow-common
+    entrypoint: /bin/bash
+    command:
+      - -c
+      - |
+        mkdir -p /opt/airflow/{logs,dags,plugins,config}
+        echo '{"airflow": "airflow"}' > /opt/airflow/config/passwords.json
+        chown -R "${AIRFLOW_UID:-50000}:0" /opt/airflow/{logs,dags,plugins,config}
+        airflow db migrate
+    user: "0:0"
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  airflow-apiserver:
+    <<: *airflow-common
+    command: api-server
+    ports:
+      - "8080:8080"
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:8080/api/v2/version"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+    restart: always
+    depends_on:
+      postgres:
+        condition: service_healthy
+      airflow-init:
+        condition: service_completed_successfully
+
+  airflow-scheduler:
+    <<: *airflow-common
+    command: scheduler
+    restart: always
+    depends_on:
+      postgres:
+        condition: service_healthy
+      airflow-init:
+        condition: service_completed_successfully
+
+  airflow-dag-processor:
+    <<: *airflow-common
+    command: dag-processor
+    restart: always
+    depends_on:
+      postgres:
+        condition: service_healthy
+      airflow-init:
+        condition: service_completed_successfully
+
+  airflow-triggerer:
+    <<: *airflow-common
+    command: triggerer
+    restart: always
+    depends_on:
+      postgres:
+        condition: service_healthy
+      airflow-init:
+        condition: service_completed_successfully
+
+  # --- Блок баз данных, очередей и аналитики ---
   mongodb:
     image: mongo:latest
     container_name: mongodb_container
@@ -20,8 +119,7 @@ services:
       MONGO_INITDB_ROOT_PASSWORD: secret_password
     volumes:
       - mongo_data:/data/db
-    networks:
-      - analytics_net
+    restart: unless-stopped
 
   mongo-express:
     image: mongo-express:latest
@@ -34,8 +132,7 @@ services:
       ME_CONFIG_MONGODB_SERVER: mongodb
     depends_on:
       - mongodb
-    networks:
-      - analytics_net
+    restart: unless-stopped
 
   zookeeper:
     image: confluentinc/cp-zookeeper:7.3.0
@@ -43,8 +140,7 @@ services:
     environment:
       ZOOKEEPER_CLIENT_PORT: 2181
       ZOOKEEPER_TICK_TIME: 2000
-    networks:
-      - analytics_net
+    restart: unless-stopped
 
   kafka:
     image: confluentinc/cp-kafka:7.3.0
@@ -56,13 +152,11 @@ services:
     environment:
       KAFKA_BROKER_ID: 1
       KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
-      # Внешние подключения идут через localhost:9092, внутренние между контейнерами — через kafka:29092
       KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://localhost:9092,PLAINTEXT_INTERNAL://kafka:29092
       KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_INTERNAL:PLAINTEXT
       KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT_INTERNAL
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
-    networks:
-      - analytics_net
+    restart: unless-stopped
 
   clickhouse:
     image: clickhouse/clickhouse-server:latest
@@ -71,6 +165,7 @@ services:
       - "8123:8123"
       - "9000:9000"
     environment:
+      - TZ=Europe/Moscow
       - CLICKHOUSE_USER=default
       - CLICKHOUSE_PASSWORD=
       - CLICKHOUSE_DEFAULT_ACCESS_MANAGEMENT=1
@@ -80,8 +175,7 @@ services:
         hard: 262144
     volumes:
       - ch_data:/var/lib/clickhouse
-    networks:
-      - analytics_net
+    restart: unless-stopped
 
   grafana:
     image: grafana/grafana:latest
@@ -96,35 +190,38 @@ services:
       - grafana_data:/var/lib/grafana
     depends_on:
       - clickhouse
-    networks:
-      - analytics_net
+    restart: unless-stopped
 
-  spark-master:
-    image: apache/spark:3.5.3-python3
-    container_name: spark-master
-    environment:
-      - SPARK_MODE=master
-    command: /opt/spark/bin/spark-class org.apache.spark.deploy.master.Master
+  minio:
+    image: alpine/minio:RELEASE.2025-10-15T17-29-55Z
+    container_name: minio_container
+    user: "0:0"
     ports:
-      - "8080:8080"
-      - "7077:7077"
-    volumes:
-      - ./data:/opt/spark/data
-      - ./jobs:/opt/spark/jobs
-    networks:
-      - analytics_net
-
-  spark-worker:
-    image: apache/spark:3.5.3-python3
-    container_name: spark-worker
+      - "9002:9000" # S3 API
+      - "9001:9001" # Веб-интерфейс
     environment:
-      - SPARK_MODE=worker
-      - SPARK_MASTER_URL=spark://spark-master:7077
-    command: /opt/spark/bin/spark-class org.apache.spark.deploy.worker.Worker spark://spark-master:7077
-    depends_on:
-      - spark-master
+      MINIO_ROOT_USER: admin
+      MINIO_ROOT_PASSWORD: supersecretpassword
     volumes:
-      - ./data:/opt/spark/data
-      - ./jobs:/opt/spark/jobs
-    networks:
-      - analytics_net
+      - minio_data:/data
+    command: server /data --console-address ":9001"
+    restart: unless-stopped
+
+  spark:
+    image: apache/spark:3.5.3-python3
+    container_name: spark-runner
+    user: root
+    entrypoint: ["tail", "-f", "/dev/null"]
+    volumes:
+      - /Users/maxim/Desktop/projects_DE/project_1:/opt/spark/work-dir
+    working_dir: /opt/spark/work-dir
+    environment:
+      - SPARK_DRIVER_MEMORY=2g
+
+
+volumes:
+  postgres-db-volume:
+  mongo_data:
+  ch_data:
+  grafana_data:
+  minio_data:

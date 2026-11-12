@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00095",
   "customer": {
-    "customer_id": "cus-1006",
-    "first_name": "Агафья",
-    "last_name": "Гурьева"
+    "customer_id": "cus-1001",
+    "first_name": "Эдуард",
+    "last_name": "Стрелков"
   },
   "store": {
-    "store_id": "store-009",
-    "store_name": "Большая Пикча — Магазин на ул. Моховая",
-    "store_network": "Большая Пикча",
+    "store_id": "store-034",
+    "store_name": "Маленькая Пикча — Магазин на наб. Металлистов",
+    "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "клх Юрюзань",
-      "street": "наб. Заозерная",
-      "house": "5/4",
-      "postal_code": "194830",
+      "city": "г. Томск",
+      "street": "алл. Некрасова",
+      "house": "426",
+      "postal_code": "502356",
       "coordinates": {
-        "latitude": 81.654657,
-        "longitude": -154.844563
+        "latitude": 44.727022,
+        "longitude": 163.9814
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1013",
-      "name": "Крутой",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 1,
+      "product_id": "prd-1014",
+      "name": "Еврейский",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 209.78,
-      "total_price": 209.78,
+      "price_per_unit": 228.93,
+      "total_price": 686.79,
       "kbju": {
-        "calories": 246.6,
-        "protein": 5.6,
-        "fat": 14.7,
-        "carbohydrates": 20.5
+        "calories": 224.9,
+        "protein": 11.4,
+        "fat": 13.1,
+        "carbohydrates": 22.4
       },
       "manufacturer": {
-        "name": "ОАО «Костин Крюкова»",
+        "name": "ООО «Котова-Белякова»",
         "country": "Россия",
-        "website": "https://mmk.info",
-        "inn": "9008610160"
+        "website": "https://yakushev.org",
+        "inn": "1032222274"
       }
     }
   ],
-  "total_amount": 209.78,
+  "total_amount": 686.79,
   "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "с. Лагань",
-    "street": "пр. Просвещения",
-    "house": "61",
-    "apartment": "60",
-    "postal_code": "059264"
+    "city": "к. Пятигорск",
+    "street": "бул. Окружной",
+    "house": "4/5",
+    "apartment": "45",
+    "postal_code": "749822"
   },
-  "purchase_datetime": "2026-09-14T16:08:40.707924"
+  "purchase_datetime": "2026-11-01T12:46:39.828243"
 }

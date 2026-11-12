@@ -1,59 +1,101 @@
 {
   "purchase_id": "ord-00187",
   "customer": {
-    "customer_id": "cus-1044",
-    "first_name": "Владимир",
-    "last_name": "Нестерова"
+    "customer_id": "cus-1035",
+    "first_name": "Виссарион",
+    "last_name": "Блохин"
   },
   "store": {
-    "store_id": "store-042",
-    "store_name": "Маленькая Пикча — Магазин на ул. Высоковольтная",
+    "store_id": "store-045",
+    "store_name": "Маленькая Пикча — Магазин на пер. Горького",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "г. Усть-Кут",
-      "street": "ул. Профсоюзная",
-      "house": "4/5",
-      "postal_code": "679522",
+      "city": "г. Яр-Сале",
+      "street": "алл. Железнодорожная",
+      "house": "133",
+      "postal_code": "360004",
       "coordinates": {
-        "latitude": -71.6251535,
-        "longitude": 126.315479
+        "latitude": -88.296027,
+        "longitude": -30.594842
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1013",
-      "name": "Крутой",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 2,
+      "product_id": "prd-1017",
+      "name": "Академик",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 209.78,
-      "total_price": 419.56,
+      "price_per_unit": 281.63,
+      "total_price": 1126.52,
       "kbju": {
-        "calories": 246.6,
-        "protein": 5.6,
-        "fat": 14.7,
-        "carbohydrates": 20.5
+        "calories": 57.7,
+        "protein": 17.3,
+        "fat": 1.3,
+        "carbohydrates": 0.5
       },
       "manufacturer": {
-        "name": "ОАО «Костин Крюкова»",
+        "name": "ЗАО «Симонов Колесников»",
         "country": "Россия",
-        "website": "https://mmk.info",
-        "inn": "9008610160"
+        "website": "https://ip.org",
+        "inn": "6779612478"
+      }
+    },
+    {
+      "product_id": "prd-1004",
+      "name": "Сверкающий",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 42.31,
+      "total_price": 84.62,
+      "kbju": {
+        "calories": 260.1,
+        "protein": 7.8,
+        "fat": 9.0,
+        "carbohydrates": 43.0
+      },
+      "manufacturer": {
+        "name": "Продо",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "2875238332"
+      }
+    },
+    {
+      "product_id": "prd-1010",
+      "name": "Пасть",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 1,
+      "unit": "шт",
+      "price_per_unit": 219.53,
+      "total_price": 219.53,
+      "kbju": {
+        "calories": 262.9,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 35.0
+      },
+      "manufacturer": {
+        "name": "ЗАО «Юдин»",
+        "country": "Россия",
+        "website": "https://ip.ru",
+        "inn": "6266618289"
       }
     }
   ],
-  "total_amount": 419.56,
+  "total_amount": 1430.67,
   "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Зеленоград",
-    "street": "ш. Цветочное",
-    "house": "3",
-    "apartment": "97",
-    "postal_code": "979941"
+    "city": "ст. Кунгур",
+    "street": "наб. Донская",
+    "house": "7/3",
+    "apartment": "94",
+    "postal_code": "878187"
   },
-  "purchase_datetime": "2026-10-23T16:08:40.856145"
+  "purchase_datetime": "2026-11-01T12:46:39.839643"
 }

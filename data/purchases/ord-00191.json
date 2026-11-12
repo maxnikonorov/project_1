@@ -1,80 +1,80 @@
 {
   "purchase_id": "ord-00191",
   "customer": {
-    "customer_id": "cus-1040",
-    "first_name": "Богдан",
-    "last_name": "Терентьев"
+    "customer_id": "cus-1018",
+    "first_name": "Ипполит",
+    "last_name": "Павлов"
   },
   "store": {
-    "store_id": "store-040",
-    "store_name": "Маленькая Пикча — Магазин на пер. Славянский",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на пер. Дружбы",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "клх Карпинск",
-      "street": "ш. 8-е Марта",
-      "house": "3",
-      "postal_code": "247366",
+      "city": "клх Биробиджан",
+      "street": "пр. Нижний",
+      "house": "473",
+      "postal_code": "438884",
       "coordinates": {
-        "latitude": 22.14391,
-        "longitude": 31.509525
+        "latitude": -40.675062,
+        "longitude": -151.419085
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1013",
-      "name": "Крутой",
+      "product_id": "prd-1015",
+      "name": "Падать",
       "category": "🥦 Овощи и зелень",
       "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 209.78,
-      "total_price": 629.34,
+      "price_per_unit": 124.57,
+      "total_price": 373.71,
       "kbju": {
-        "calories": 246.6,
-        "protein": 5.6,
-        "fat": 14.7,
-        "carbohydrates": 20.5
+        "calories": 259.4,
+        "protein": 12.0,
+        "fat": 0.9,
+        "carbohydrates": 11.7
       },
       "manufacturer": {
-        "name": "ОАО «Костин Крюкова»",
+        "name": "СДС Азот",
         "country": "Россия",
-        "website": "https://mmk.info",
-        "inn": "9008610160"
+        "website": "https://ip.biz",
+        "inn": "7509245881"
       }
     },
     {
-      "product_id": "prd-1015",
-      "name": "Пространство",
-      "category": "🥛 Молочные продукты",
-      "quantity": 5,
+      "product_id": "prd-1010",
+      "name": "Пасть",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 169.18,
-      "total_price": 845.9,
+      "price_per_unit": 219.53,
+      "total_price": 878.12,
       "kbju": {
-        "calories": 244.0,
-        "protein": 13.8,
-        "fat": 6.9,
-        "carbohydrates": 6.3
+        "calories": 262.9,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 35.0
       },
       "manufacturer": {
-        "name": "ИП «Силин, Лапина и Федосеев»",
+        "name": "ЗАО «Юдин»",
         "country": "Россия",
-        "website": "https://rao.com",
-        "inn": "0793948672"
+        "website": "https://ip.ru",
+        "inn": "6266618289"
       }
     }
   ],
-  "total_amount": 1475.24,
-  "payment_method": "cash",
-  "is_delivery": false,
+  "total_amount": 1251.83,
+  "payment_method": "card",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "г. Соловки",
-    "street": "алл. Блюхера",
-    "house": "259",
-    "apartment": "94",
-    "postal_code": "602320"
+    "city": "п. Медногорск",
+    "street": "ул. Буденного",
+    "house": "24",
+    "apartment": "37",
+    "postal_code": "429476"
   },
-  "purchase_datetime": "2026-09-24T16:08:40.868672"
+  "purchase_datetime": "2026-10-24T12:46:39.840150"
 }

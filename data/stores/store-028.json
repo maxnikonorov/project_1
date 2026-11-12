@@ -1,6 +1,6 @@
 {
   "store_id": "store-028",
-  "store_name": "Большая Пикча — Магазин на пер. Приморский",
+  "store_name": "Большая Пикча — Магазин на наб. Комсомольская",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Беляков Аскольд Витальевич",
-    "phone": "8 555 695 9695",
-    "email": "fokinanina@example.org"
+    "name": "Федосеева Клавдия Федоровна",
+    "phone": "+75423003572",
+    "email": "danila_1992@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "п. Учалы",
-    "street": "алл. Клубная",
-    "house": "625",
-    "postal_code": "972146",
+    "city": "д. Нефтекамск",
+    "street": "пер. 9 Января",
+    "house": "690",
+    "postal_code": "306481",
     "coordinates": {
-      "latitude": -62.261145,
-      "longitude": 122.407164
+      "latitude": -67.993054,
+      "longitude": 57.769615
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-11-12"
 }

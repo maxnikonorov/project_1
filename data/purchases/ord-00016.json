@@ -1,101 +1,80 @@
 {
   "purchase_id": "ord-00016",
   "customer": {
-    "customer_id": "cus-1025",
-    "first_name": "Спартак",
-    "last_name": "Афанасьева"
+    "customer_id": "cus-1020",
+    "first_name": "Тихон",
+    "last_name": "Жданова"
   },
   "store": {
-    "store_id": "store-025",
-    "store_name": "Большая Пикча — Магазин на пр. Виноградный",
+    "store_id": "store-023",
+    "store_name": "Большая Пикча — Магазин на ш. Казачье",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Кабанск",
-      "street": "наб. Ватутина",
-      "house": "71",
-      "postal_code": "430475",
+      "city": "д. Муром",
+      "street": "ш. Рябиновое",
+      "house": "87",
+      "postal_code": "036540",
       "coordinates": {
-        "latitude": 56.1539,
-        "longitude": -125.144973
+        "latitude": 13.359529,
+        "longitude": 75.524317
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1002",
-      "name": "Единый",
+      "product_id": "prd-1003",
+      "name": "Палец",
       "category": "🥛 Молочные продукты",
-      "quantity": 5,
-      "unit": "шт",
-      "price_per_unit": 289.68,
-      "total_price": 1448.4,
-      "kbju": {
-        "calories": 265.0,
-        "protein": 19.8,
-        "fat": 7.9,
-        "carbohydrates": 44.8
-      },
-      "manufacturer": {
-        "name": "ИП «Мартынова»",
-        "country": "Россия",
-        "website": "https://ao.ru",
-        "inn": "6920417941"
-      }
-    },
-    {
-      "product_id": "prd-1004",
-      "name": "Социалистический",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 1,
-      "unit": "шт",
-      "price_per_unit": 254.38,
-      "total_price": 254.38,
-      "kbju": {
-        "calories": 104.4,
-        "protein": 6.0,
-        "fat": 0.7,
-        "carbohydrates": 13.6
-      },
-      "manufacturer": {
-        "name": "ООО «Савельев»",
-        "country": "Россия",
-        "website": "https://rao.info",
-        "inn": "2063622252"
-      }
-    },
-    {
-      "product_id": "prd-1018",
-      "name": "Смеяться",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
       "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 143.87,
-      "total_price": 575.48,
+      "price_per_unit": 123.81,
+      "total_price": 495.24,
       "kbju": {
-        "calories": 175.7,
-        "protein": 9.9,
-        "fat": 11.6,
-        "carbohydrates": 36.9
+        "calories": 287.5,
+        "protein": 19.7,
+        "fat": 14.4,
+        "carbohydrates": 47.2
       },
       "manufacturer": {
-        "name": "АО «Архипов»",
+        "name": "АО «Воронцов»",
         "country": "Россия",
-        "website": "https://zao.org",
-        "inn": "6430660253"
+        "website": "https://zao.edu",
+        "inn": "2681589498"
+      }
+    },
+    {
+      "product_id": "prd-1015",
+      "name": "Падать",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 3,
+      "unit": "шт",
+      "price_per_unit": 124.57,
+      "total_price": 373.71,
+      "kbju": {
+        "calories": 259.4,
+        "protein": 12.0,
+        "fat": 0.9,
+        "carbohydrates": 11.7
+      },
+      "manufacturer": {
+        "name": "СДС Азот",
+        "country": "Россия",
+        "website": "https://ip.biz",
+        "inn": "7509245881"
       }
     }
   ],
-  "total_amount": 2278.26,
-  "payment_method": "cash",
+  "total_amount": 868.95,
+  "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "к. Кингисепп",
-    "street": "бул. Гастелло",
-    "house": "445",
-    "apartment": "72",
-    "postal_code": "138900"
+    "city": "п. Фатеж",
+    "street": "наб. Сибирская",
+    "house": "223",
+    "apartment": "44",
+    "postal_code": "490239"
   },
-  "purchase_datetime": "2026-10-16T16:08:40.587576"
+  "purchase_datetime": "2026-09-28T12:46:39.817281"
 }

@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00182",
   "customer": {
-    "customer_id": "cus-1032",
-    "first_name": "Флорентин",
-    "last_name": "Рогов"
+    "customer_id": "cus-1044",
+    "first_name": "Виктория",
+    "last_name": "Горшков"
   },
   "store": {
-    "store_id": "store-035",
-    "store_name": "Маленькая Пикча — Магазин на пер. Партизанский",
+    "store_id": "store-042",
+    "store_name": "Маленькая Пикча — Магазин на ул. Нахимова",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "г. Адыгейск",
-      "street": "ш. Тихое",
-      "house": "8/7",
-      "postal_code": "991184",
+      "city": "п. Апшеронск",
+      "street": "наб. Инженерная",
+      "house": "6",
+      "postal_code": "746141",
       "coordinates": {
-        "latitude": 86.5739715,
-        "longitude": -158.142391
+        "latitude": -83.1501905,
+        "longitude": 84.215661
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1018",
-      "name": "Смеяться",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 1,
+      "product_id": "prd-1011",
+      "name": "Плясать",
+      "category": "🥦 Овощи и зелень",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 143.87,
-      "total_price": 143.87,
+      "price_per_unit": 281.59,
+      "total_price": 563.18,
       "kbju": {
-        "calories": 175.7,
-        "protein": 9.9,
-        "fat": 11.6,
-        "carbohydrates": 36.9
+        "calories": 282.3,
+        "protein": 0.5,
+        "fat": 10.2,
+        "carbohydrates": 38.8
       },
       "manufacturer": {
-        "name": "АО «Архипов»",
+        "name": "Кононова Инк",
         "country": "Россия",
-        "website": "https://zao.org",
-        "inn": "6430660253"
+        "website": "https://rao.org",
+        "inn": "8513715002"
       }
     }
   ],
-  "total_amount": 143.87,
+  "total_amount": 563.18,
   "payment_method": "card",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Домбай",
-    "street": "пер. Докучаева",
-    "house": "17",
-    "apartment": "97",
-    "postal_code": "921129"
+    "city": "г. Яр-Сале",
+    "street": "пер. Сенной",
+    "house": "57",
+    "apartment": "7",
+    "postal_code": "004515"
   },
-  "purchase_datetime": "2026-09-28T16:08:40.849124"
+  "purchase_datetime": "2026-09-08T12:46:39.838999"
 }

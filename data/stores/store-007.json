@@ -1,6 +1,6 @@
 {
   "store_id": "store-007",
-  "store_name": "Большая Пикча — Магазин на алл. Жуковского",
+  "store_name": "Большая Пикча — Магазин на наб. Халтурина",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Назарова Кира Игоревна",
-    "phone": "8 623 828 97 81",
-    "email": "evgenijasisoeva@example.net"
+    "name": "Нестеров Иосиф Ермилович",
+    "phone": "+7 (058) 957-3590",
+    "email": "zinovikoshelev@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "с. Лагань",
-    "street": "пр. Тополиный",
-    "house": "6/4",
-    "postal_code": "084092",
+    "city": "с. Елатьма",
+    "street": "ул. Ермака",
+    "house": "59",
+    "postal_code": "319739",
     "coordinates": {
-      "latitude": 49.030439,
-      "longitude": -59.077561
+      "latitude": -85.932494,
+      "longitude": -119.144742
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-11-12"
 }

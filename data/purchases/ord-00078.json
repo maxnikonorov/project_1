@@ -1,80 +1,101 @@
 {
   "purchase_id": "ord-00078",
   "customer": {
-    "customer_id": "cus-1029",
-    "first_name": "Родион",
-    "last_name": "Дьячкова"
+    "customer_id": "cus-1043",
+    "first_name": "Силантий",
+    "last_name": "Третьяков"
   },
   "store": {
-    "store_id": "store-009",
-    "store_name": "Большая Пикча — Магазин на ул. Моховая",
+    "store_id": "store-021",
+    "store_name": "Большая Пикча — Магазин на алл. Ленинская",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "клх Юрюзань",
-      "street": "наб. Заозерная",
-      "house": "5/4",
-      "postal_code": "194830",
+      "city": "п. Фатеж",
+      "street": "ул. Нахимова",
+      "house": "1",
+      "postal_code": "673909",
       "coordinates": {
-        "latitude": 81.654657,
-        "longitude": -154.844563
+        "latitude": -89.7491,
+        "longitude": 65.345452
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1018",
-      "name": "Смеяться",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 5,
+      "product_id": "prd-1006",
+      "name": "Медицина",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 143.87,
-      "total_price": 719.35,
+      "price_per_unit": 196.38,
+      "total_price": 392.76,
       "kbju": {
-        "calories": 175.7,
-        "protein": 9.9,
-        "fat": 11.6,
-        "carbohydrates": 36.9
+        "calories": 217.8,
+        "protein": 15.1,
+        "fat": 12.2,
+        "carbohydrates": 4.8
       },
       "manufacturer": {
-        "name": "АО «Архипов»",
+        "name": "Ковалев Групп",
         "country": "Россия",
-        "website": "https://zao.org",
-        "inn": "6430660253"
+        "website": "https://rao.biz",
+        "inn": "9365070690"
       }
     },
     {
-      "product_id": "prd-1006",
-      "name": "Иной",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
-      "quantity": 1,
+      "product_id": "prd-1016",
+      "name": "Слать",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 38.14,
-      "total_price": 38.14,
+      "price_per_unit": 171.77,
+      "total_price": 343.54,
       "kbju": {
-        "calories": 240.4,
-        "protein": 11.6,
-        "fat": 4.1,
-        "carbohydrates": 46.3
+        "calories": 238.6,
+        "protein": 7.6,
+        "fat": 7.0,
+        "carbohydrates": 27.5
       },
       "manufacturer": {
-        "name": "Шарова Лтд",
+        "name": "ЗАО «Белова, Кудряшов и Федоров»",
         "country": "Россия",
-        "website": "https://trofimov.net",
-        "inn": "2302699549"
+        "website": "https://rao.com",
+        "inn": "5049040702"
+      }
+    },
+    {
+      "product_id": "prd-1004",
+      "name": "Сверкающий",
+      "category": "🥛 Молочные продукты",
+      "quantity": 2,
+      "unit": "шт",
+      "price_per_unit": 42.31,
+      "total_price": 84.62,
+      "kbju": {
+        "calories": 260.1,
+        "protein": 7.8,
+        "fat": 9.0,
+        "carbohydrates": 43.0
+      },
+      "manufacturer": {
+        "name": "Продо",
+        "country": "Россия",
+        "website": "https://ip.org",
+        "inn": "2875238332"
       }
     }
   ],
-  "total_amount": 757.49,
-  "payment_method": "cash",
+  "total_amount": 820.92,
+  "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "п. Адлер",
-    "street": "алл. Интернациональная",
-    "house": "71",
-    "apartment": "50",
-    "postal_code": "925676"
+    "city": "с. Киров (Вятка)",
+    "street": "наб. Свободная",
+    "house": "685",
+    "apartment": "98",
+    "postal_code": "356036"
   },
-  "purchase_datetime": "2026-09-05T16:08:40.683344"
+  "purchase_datetime": "2026-09-15T12:46:39.826030"
 }

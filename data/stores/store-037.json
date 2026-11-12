@@ -1,6 +1,6 @@
 {
   "store_id": "store-037",
-  "store_name": "Маленькая Пикча — Магазин на ш. Омское",
+  "store_name": "Маленькая Пикча — Магазин на пер. Ворошилова",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Евфросиния Эльдаровна Пахомова",
-    "phone": "82680535615",
-    "email": "orest1983@example.org"
+    "name": "Ершова Алевтина Наумовна",
+    "phone": "8 (613) 767-7038",
+    "email": "denisovfeoktist@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "к. Кудымкар",
-    "street": "бул. Путевой",
-    "house": "6/5",
-    "postal_code": "462437",
+    "city": "к. Сорочинск",
+    "street": "ш. Транспортное",
+    "house": "3",
+    "postal_code": "390720",
     "coordinates": {
-      "latitude": 86.5741415,
-      "longitude": -36.177029
+      "latitude": -1.119707,
+      "longitude": 150.890431
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": false,
-  "last_inventory_date": "2026-11-10"
+  "last_inventory_date": "2026-11-12"
 }

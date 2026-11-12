@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1010",
-  "first_name": "Ипполит",
-  "last_name": "Гаврилова",
-  "email": "ljubov_1997@example.org",
-  "phone": "8 (119) 856-3059",
-  "birth_date": "2006-01-13",
-  "gender": "male",
-  "registration_date": "2026-11-10T16:08:40.509441",
+  "first_name": "Остап",
+  "last_name": "Лазарев",
+  "email": "julijakotova@example.org",
+  "phone": "8 (269) 426-97-00",
+  "birth_date": "1965-01-25",
+  "gender": "female",
+  "registration_date": "2026-11-12T12:46:39.807254",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-F8DC5DE202",
+  "loyalty_card_number": "LOYAL-7F9BC01BC0",
   "purchase_location": {
     "country": "Россия",
-    "city": "г. Асино",
-    "street": "наб. Байкальская",
-    "house": "517",
-    "postal_code": "930637",
+    "city": "п. Троицко-Печорск",
+    "street": "алл. Тюленина",
+    "house": "480",
+    "postal_code": "085570",
     "coordinates": {
-      "latitude": 55.229271,
-      "longitude": -50.234086
+      "latitude": 41.8025665,
+      "longitude": -20.208392
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "г. Асино",
-    "street": "бул. Кузнецова",
+    "city": "п. Троицко-Печорск",
+    "street": "бул. Радужный",
     "house": "8",
-    "apartment": "18",
-    "postal_code": "222108"
+    "apartment": "90",
+    "postal_code": "906811"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "cash",
+    "preferred_payment_method": "card",
     "receive_promotions": true
   }
 }

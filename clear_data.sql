@@ -99,6 +99,7 @@ WHERE product_id != ''
   AND isNotNull(name) AND trim(name) != ''
   AND price > 0;
 
+
 -- 3. Стриминг-очистка для Покупателей
 CREATE MATERIALIZED VIEW IF NOT EXISTS clean_dwh.mv_etl_customers TO clean_dwh.customers AS
 SELECT 
@@ -117,7 +118,7 @@ WHERE customer_id != ''
   AND birth_date <= today()
   -- Проверка адекватности: возраст не может быть менее 0 лет и более 120 лет
   AND birth_date >= (today() - INTERVAL 120 YEAR)
-  AND registration_date <= now();
+  AND registration_date <= (now() + INTERVAL 5 HOUR);
 
 -- 4. Стриминг-очистка для Покупок
 CREATE MATERIALIZED VIEW IF NOT EXISTS clean_dwh.mv_etl_purchases TO clean_dwh.purchases AS

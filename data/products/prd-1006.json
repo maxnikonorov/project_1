@@ -1,24 +1,24 @@
 {
   "id": "prd-1006",
-  "name": "Иной",
-  "group": "🥖 Зерновые и хлебобулочные изделия",
-  "description": "Выраженный запеть назначить сынок солнце выкинуть пространство.",
+  "name": "Медицина",
+  "group": "🥛 Молочные продукты",
+  "description": "Покидать назначить кольцо господь покинуть.",
   "kbju": {
-    "calories": 240.4,
-    "protein": 11.6,
-    "fat": 4.1,
-    "carbohydrates": 46.3
+    "calories": 217.8,
+    "protein": 15.1,
+    "fat": 12.2,
+    "carbohydrates": 4.8
   },
-  "price": 38.14,
+  "price": 196.38,
   "unit": "шт",
   "origin_country": "Россия",
-  "expiry_days": 13,
+  "expiry_days": 25,
   "is_organic": false,
-  "barcode": "0940482333220",
+  "barcode": "1777913154494",
   "manufacturer": {
-    "name": "Шарова Лтд",
+    "name": "Ковалев Групп",
     "country": "Россия",
-    "website": "https://trofimov.net",
-    "inn": "2302699549"
+    "website": "https://rao.biz",
+    "inn": "9365070690"
   }
 }

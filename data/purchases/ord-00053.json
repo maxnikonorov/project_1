@@ -1,80 +1,80 @@
 {
   "purchase_id": "ord-00053",
   "customer": {
-    "customer_id": "cus-1022",
-    "first_name": "Анастасия",
-    "last_name": "Крылов"
+    "customer_id": "cus-1031",
+    "first_name": "Изяслав",
+    "last_name": "Филатов"
   },
   "store": {
-    "store_id": "store-043",
-    "store_name": "Маленькая Пикча — Магазин на наб. Воровского",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-015",
+    "store_name": "Большая Пикча — Магазин на пер. Песочный",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "к. Александровск",
-      "street": "ш. Комсомольское",
-      "house": "1",
-      "postal_code": "044769",
+      "city": "п. Буденновск",
+      "street": "наб. Ушакова",
+      "house": "7/3",
+      "postal_code": "566530",
       "coordinates": {
-        "latitude": -8.57721,
-        "longitude": 52.71837
+        "latitude": -69.920769,
+        "longitude": -170.838449
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1019",
-      "name": "Выражение",
-      "category": "🥛 Молочные продукты",
-      "quantity": 3,
+      "product_id": "prd-1005",
+      "name": "Конструкция",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 211.74,
-      "total_price": 635.22,
+      "price_per_unit": 204.55,
+      "total_price": 818.2,
       "kbju": {
-        "calories": 157.2,
-        "protein": 13.4,
-        "fat": 2.7,
-        "carbohydrates": 6.2
+        "calories": 86.4,
+        "protein": 1.8,
+        "fat": 13.4,
+        "carbohydrates": 19.0
       },
       "manufacturer": {
-        "name": "Ковалева Инкорпорэйтед",
+        "name": "ОАО «Гордеев, Никитин и Кулакова»",
         "country": "Россия",
-        "website": "https://zao.ru",
-        "inn": "4325136422"
+        "website": "https://ooo.org",
+        "inn": "4077468251"
       }
     },
     {
-      "product_id": "prd-1010",
-      "name": "Наткнуться",
-      "category": "🍏 Фрукты и ягоды",
+      "product_id": "prd-1008",
+      "name": "Увеличиваться",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 109.99,
-      "total_price": 329.97,
+      "price_per_unit": 298.83,
+      "total_price": 896.49,
       "kbju": {
-        "calories": 111.4,
-        "protein": 5.0,
-        "fat": 2.9,
-        "carbohydrates": 48.1
+        "calories": 57.9,
+        "protein": 1.9,
+        "fat": 5.5,
+        "carbohydrates": 26.7
       },
       "manufacturer": {
-        "name": "АО «Третьяков, Кабанов и Казакова»",
+        "name": "АО «Горбунов»",
         "country": "Россия",
-        "website": "https://rao.edu",
-        "inn": "0018510627"
+        "website": "https://oao.ru",
+        "inn": "1791173907"
       }
     }
   ],
-  "total_amount": 965.19,
-  "payment_method": "cash",
+  "total_amount": 1714.69,
+  "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "с. Далматово",
-    "street": "ш. Гафури",
-    "house": "2",
-    "apartment": "72",
-    "postal_code": "185055"
+    "city": "п. Карачаевск",
+    "street": "бул. 8 Марта",
+    "house": "84",
+    "apartment": "62",
+    "postal_code": "549334"
   },
-  "purchase_datetime": "2026-08-28T16:08:40.643251"
+  "purchase_datetime": "2026-08-31T12:46:39.822609"
 }

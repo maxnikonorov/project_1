@@ -1,101 +1,101 @@
 {
   "purchase_id": "ord-00195",
   "customer": {
-    "customer_id": "cus-1019",
-    "first_name": "Андрон",
-    "last_name": "Матвеева"
+    "customer_id": "cus-1038",
+    "first_name": "Любовь",
+    "last_name": "Александров"
   },
   "store": {
-    "store_id": "store-010",
-    "store_name": "Большая Пикча — Магазин на ш. Светлое",
+    "store_id": "store-012",
+    "store_name": "Большая Пикча — Магазин на наб. Шишкина",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "п. Бронницы",
-      "street": "алл. Геологов",
-      "house": "8/6",
-      "postal_code": "153671",
+      "city": "д. Агата",
+      "street": "наб. Циолковского",
+      "house": "3",
+      "postal_code": "369956",
       "coordinates": {
-        "latitude": 37.778015,
-        "longitude": 47.325165
+        "latitude": 26.12203,
+        "longitude": 29.74753
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1002",
-      "name": "Единый",
-      "category": "🥛 Молочные продукты",
-      "quantity": 1,
+      "product_id": "prd-1000",
+      "name": "Наступать",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 3,
       "unit": "шт",
-      "price_per_unit": 289.68,
-      "total_price": 289.68,
+      "price_per_unit": 49.11,
+      "total_price": 147.33,
       "kbju": {
-        "calories": 265.0,
-        "protein": 19.8,
-        "fat": 7.9,
-        "carbohydrates": 44.8
+        "calories": 261.8,
+        "protein": 10.9,
+        "fat": 3.4,
+        "carbohydrates": 22.6
       },
       "manufacturer": {
-        "name": "ИП «Мартынова»",
+        "name": "ИП «Шилов»",
         "country": "Россия",
-        "website": "https://ao.ru",
-        "inn": "6920417941"
+        "website": "https://zao.com",
+        "inn": "6198265072"
       }
     },
     {
-      "product_id": "prd-1014",
-      "name": "Что",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
+      "product_id": "prd-1013",
+      "name": "Решение",
+      "category": "🥛 Молочные продукты",
       "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 139.68,
-      "total_price": 558.72,
+      "price_per_unit": 272.65,
+      "total_price": 1090.6,
       "kbju": {
-        "calories": 231.7,
-        "protein": 17.6,
-        "fat": 9.2,
-        "carbohydrates": 6.7
+        "calories": 165.7,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 22.6
       },
       "manufacturer": {
-        "name": "Петухова Лимитед",
+        "name": "ЗАО «Владимирова Федосеева»",
         "country": "Россия",
-        "website": "https://ip.net",
-        "inn": "2487454296"
+        "website": "https://ip.com",
+        "inn": "0567872472"
       }
     },
     {
-      "product_id": "prd-1008",
-      "name": "Горький",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 2,
+      "product_id": "prd-1018",
+      "name": "Пища",
+      "category": "🍏 Фрукты и ягоды",
+      "quantity": 4,
       "unit": "шт",
-      "price_per_unit": 203.15,
-      "total_price": 406.3,
+      "price_per_unit": 48.83,
+      "total_price": 195.32,
       "kbju": {
-        "calories": 271.9,
-        "protein": 15.0,
-        "fat": 7.2,
-        "carbohydrates": 40.0
+        "calories": 275.1,
+        "protein": 12.4,
+        "fat": 0.2,
+        "carbohydrates": 34.3
       },
       "manufacturer": {
-        "name": "Шарапов Групп",
+        "name": "НПО «Алексеева, Русакова и Лебедев»",
         "country": "Россия",
-        "website": "https://ooo.edu",
-        "inn": "3346683207"
+        "website": "https://zao.org",
+        "inn": "6006312092"
       }
     }
   ],
-  "total_amount": 1254.7,
+  "total_amount": 1433.25,
   "payment_method": "card",
   "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Коломна",
-    "street": "ул. 9 мая",
-    "house": "96",
-    "apartment": "100",
-    "postal_code": "378421"
+    "city": "п. Тулпан",
+    "street": "алл. Таежная",
+    "house": "7",
+    "apartment": "67",
+    "postal_code": "781943"
   },
-  "purchase_datetime": "2026-08-18T16:08:40.878197"
+  "purchase_datetime": "2026-10-05T12:46:39.840632"
 }

@@ -1,6 +1,6 @@
 {
   "store_id": "store-021",
-  "store_name": "Большая Пикча — Магазин на пер. Ильича",
+  "store_name": "Большая Пикча — Магазин на алл. Ленинская",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Брагин Савелий Трофимович",
-    "phone": "8 410 729 48 20",
-    "email": "dobromisl2008@example.com"
+    "name": "Кулаков Самуил Артурович",
+    "phone": "8 (333) 564-4621",
+    "email": "konon_1971@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "клх Соль-Илецк",
-    "street": "пр. Беляева",
-    "house": "70",
-    "postal_code": "700510",
+    "city": "п. Фатеж",
+    "street": "ул. Нахимова",
+    "house": "1",
+    "postal_code": "673909",
     "coordinates": {
-      "latitude": -3.1154965,
-      "longitude": -45.366801
+      "latitude": -89.7491,
+      "longitude": 65.345452
     }
   },
   "opening_hours": {
@@ -34,6 +34,6 @@
   },
   "accepts_online_orders": true,
   "delivery_available": true,
-  "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "warehouse_connected": false,
+  "last_inventory_date": "2026-11-12"
 }

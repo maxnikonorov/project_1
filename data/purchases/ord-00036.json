@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00036",
   "customer": {
-    "customer_id": "cus-1002",
-    "first_name": "Лора",
-    "last_name": "Фомина"
+    "customer_id": "cus-1024",
+    "first_name": "Галина",
+    "last_name": "Костин"
   },
   "store": {
-    "store_id": "store-031",
-    "store_name": "Маленькая Пикча — Магазин на пр. Громова",
+    "store_id": "store-038",
+    "store_name": "Маленькая Пикча — Магазин на пер. Весенний",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Александровск",
-      "street": "пер. Енисейский",
-      "house": "274",
-      "postal_code": "929656",
+      "city": "ст. Каменск-Уральский",
+      "street": "бул. Бульварный",
+      "house": "94",
+      "postal_code": "410592",
       "coordinates": {
-        "latitude": 38.393706,
-        "longitude": -51.525823
+        "latitude": -77.446573,
+        "longitude": 164.029875
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1011",
-      "name": "Через",
-      "category": "🥦 Овощи и зелень",
+      "product_id": "prd-1012",
+      "name": "Июнь",
+      "category": "🍏 Фрукты и ягоды",
       "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 205.21,
-      "total_price": 205.21,
+      "price_per_unit": 64.74,
+      "total_price": 64.74,
       "kbju": {
-        "calories": 277.9,
-        "protein": 10.7,
-        "fat": 14.2,
-        "carbohydrates": 1.5
+        "calories": 74.5,
+        "protein": 16.4,
+        "fat": 3.9,
+        "carbohydrates": 41.7
       },
       "manufacturer": {
-        "name": "НПО «Бурова»",
+        "name": "Корпорация Гринн",
         "country": "Россия",
-        "website": "https://zao.org",
-        "inn": "3200066091"
+        "website": "https://shcherbakova.ru",
+        "inn": "1467725699"
       }
     }
   ],
-  "total_amount": 205.21,
-  "payment_method": "cash",
-  "is_delivery": false,
+  "total_amount": 64.74,
+  "payment_method": "card",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Калач-на-Дону",
-    "street": "пр. Серова",
-    "house": "9",
-    "apartment": "81",
-    "postal_code": "868446"
+    "city": "д. Курск",
+    "street": "алл. Красноярская",
+    "house": "86",
+    "apartment": "74",
+    "postal_code": "091675"
   },
-  "purchase_datetime": "2026-09-03T16:08:40.616176"
+  "purchase_datetime": "2026-10-03T12:46:39.820528"
 }

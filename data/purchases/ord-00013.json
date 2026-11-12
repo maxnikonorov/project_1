@@ -1,80 +1,59 @@
 {
   "purchase_id": "ord-00013",
   "customer": {
-    "customer_id": "cus-1016",
-    "first_name": "Зосима",
-    "last_name": "Шубина"
+    "customer_id": "cus-1008",
+    "first_name": "Серафим",
+    "last_name": "Терентьев"
   },
   "store": {
-    "store_id": "store-039",
-    "store_name": "Маленькая Пикча — Магазин на бул. Физкультурный",
+    "store_id": "store-041",
+    "store_name": "Маленькая Пикча — Магазин на бул. Красный",
     "store_network": "Маленькая Пикча",
     "location": {
       "country": "Россия",
-      "city": "д. Орск",
-      "street": "ул. Фурманова",
-      "house": "7",
-      "postal_code": "936758",
+      "city": "клх Вологда",
+      "street": "ул. 40 лет Победы",
+      "house": "50",
+      "postal_code": "861238",
       "coordinates": {
-        "latitude": 82.9780965,
-        "longitude": 145.602677
+        "latitude": -20.6290965,
+        "longitude": 76.652447
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1018",
-      "name": "Смеяться",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 4,
-      "unit": "шт",
-      "price_per_unit": 143.87,
-      "total_price": 575.48,
-      "kbju": {
-        "calories": 175.7,
-        "protein": 9.9,
-        "fat": 11.6,
-        "carbohydrates": 36.9
-      },
-      "manufacturer": {
-        "name": "АО «Архипов»",
-        "country": "Россия",
-        "website": "https://zao.org",
-        "inn": "6430660253"
-      }
-    },
-    {
       "product_id": "prd-1013",
-      "name": "Крутой",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 4,
+      "name": "Решение",
+      "category": "🥛 Молочные продукты",
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 209.78,
-      "total_price": 839.12,
+      "price_per_unit": 272.65,
+      "total_price": 272.65,
       "kbju": {
-        "calories": 246.6,
-        "protein": 5.6,
-        "fat": 14.7,
-        "carbohydrates": 20.5
+        "calories": 165.7,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 22.6
       },
       "manufacturer": {
-        "name": "ОАО «Костин Крюкова»",
+        "name": "ЗАО «Владимирова Федосеева»",
         "country": "Россия",
-        "website": "https://mmk.info",
-        "inn": "9008610160"
+        "website": "https://ip.com",
+        "inn": "0567872472"
       }
     }
   ],
-  "total_amount": 1414.6,
-  "payment_method": "card",
+  "total_amount": 272.65,
+  "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "клх Калевала",
-    "street": "пер. Городской",
-    "house": "6/1",
-    "apartment": "91",
-    "postal_code": "325594"
+    "city": "клх Ессентуки",
+    "street": "ш. Станционное",
+    "house": "4/8",
+    "apartment": "27",
+    "postal_code": "732508"
   },
-  "purchase_datetime": "2026-10-03T16:08:40.584568"
+  "purchase_datetime": "2026-10-12T12:46:39.816671"
 }

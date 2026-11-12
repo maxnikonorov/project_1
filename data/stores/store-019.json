@@ -1,6 +1,6 @@
 {
   "store_id": "store-019",
-  "store_name": "Большая Пикча — Магазин на ул. 50 лет ВЛКСМ",
+  "store_name": "Большая Пикча — Магазин на пер. Высоковольтный",
   "store_network": "Большая Пикча",
   "store_type_description": "Супермаркет более 200 кв.м. Входит в сеть из 30 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Блинова Александра Тимуровна",
-    "phone": "88361824851",
-    "email": "olitkina@example.com"
+    "name": "Фома Аверьянович Костин",
+    "phone": "+7 (849) 878-7886",
+    "email": "agge_2022@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "клх Казань",
-    "street": "наб. Лазо",
-    "house": "14",
-    "postal_code": "597074",
+    "city": "п. Медногорск",
+    "street": "наб. Нефтяников",
+    "house": "2",
+    "postal_code": "042798",
     "coordinates": {
-      "latitude": 10.7166325,
-      "longitude": 152.518277
+      "latitude": -23.424117,
+      "longitude": -61.00885
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "last_inventory_date": "2026-11-12"
 }

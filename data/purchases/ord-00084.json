@@ -1,101 +1,59 @@
 {
   "purchase_id": "ord-00084",
   "customer": {
-    "customer_id": "cus-1033",
-    "first_name": "Владлен",
-    "last_name": "Киселев"
+    "customer_id": "cus-1040",
+    "first_name": "Гордей",
+    "last_name": "Михайлова"
   },
   "store": {
-    "store_id": "store-042",
-    "store_name": "Маленькая Пикча — Магазин на ул. Высоковольтная",
-    "store_network": "Маленькая Пикча",
+    "store_id": "store-024",
+    "store_name": "Большая Пикча — Магазин на наб. 1 Мая",
+    "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "г. Усть-Кут",
-      "street": "ул. Профсоюзная",
-      "house": "4/5",
-      "postal_code": "679522",
+      "city": "ст. Амдерма",
+      "street": "пр. Партизанский",
+      "house": "9/3",
+      "postal_code": "779296",
       "coordinates": {
-        "latitude": -71.6251535,
-        "longitude": 126.315479
+        "latitude": -18.131733,
+        "longitude": 80.250356
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1014",
-      "name": "Что",
-      "category": "🥩 Мясо, рыба, яйца и бобовые",
-      "quantity": 3,
-      "unit": "шт",
-      "price_per_unit": 139.68,
-      "total_price": 419.04,
-      "kbju": {
-        "calories": 231.7,
-        "protein": 17.6,
-        "fat": 9.2,
-        "carbohydrates": 6.7
-      },
-      "manufacturer": {
-        "name": "Петухова Лимитед",
-        "country": "Россия",
-        "website": "https://ip.net",
-        "inn": "2487454296"
-      }
-    },
-    {
-      "product_id": "prd-1011",
-      "name": "Через",
-      "category": "🥦 Овощи и зелень",
-      "quantity": 5,
-      "unit": "шт",
-      "price_per_unit": 205.21,
-      "total_price": 1026.05,
-      "kbju": {
-        "calories": 277.9,
-        "protein": 10.7,
-        "fat": 14.2,
-        "carbohydrates": 1.5
-      },
-      "manufacturer": {
-        "name": "НПО «Бурова»",
-        "country": "Россия",
-        "website": "https://zao.org",
-        "inn": "3200066091"
-      }
-    },
-    {
-      "product_id": "prd-1002",
-      "name": "Единый",
-      "category": "🥛 Молочные продукты",
+      "product_id": "prd-1009",
+      "name": "Трясти",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
       "quantity": 2,
       "unit": "шт",
-      "price_per_unit": 289.68,
-      "total_price": 579.36,
+      "price_per_unit": 242.58,
+      "total_price": 485.16,
       "kbju": {
-        "calories": 265.0,
-        "protein": 19.8,
-        "fat": 7.9,
-        "carbohydrates": 44.8
+        "calories": 217.7,
+        "protein": 17.1,
+        "fat": 5.8,
+        "carbohydrates": 15.7
       },
       "manufacturer": {
-        "name": "ИП «Мартынова»",
+        "name": "РАО «Рябова-Фадеев»",
         "country": "Россия",
-        "website": "https://ao.ru",
-        "inn": "6920417941"
+        "website": "https://kargill.biz",
+        "inn": "3583516885"
       }
     }
   ],
-  "total_amount": 2024.45,
-  "payment_method": "card",
-  "is_delivery": false,
+  "total_amount": 485.16,
+  "payment_method": "cash",
+  "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "п. Нефтегорск (Самар.)",
-    "street": "ш. Ясное",
-    "house": "1",
-    "apartment": "52",
-    "postal_code": "256820"
+    "city": "клх Вологда",
+    "street": "наб. Белорусская",
+    "house": "6/2",
+    "apartment": "21",
+    "postal_code": "073555"
   },
-  "purchase_datetime": "2026-11-03T16:08:40.692404"
+  "purchase_datetime": "2026-10-12T12:46:39.826839"
 }

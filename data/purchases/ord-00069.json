@@ -1,59 +1,80 @@
 {
   "purchase_id": "ord-00069",
   "customer": {
-    "customer_id": "cus-1027",
-    "first_name": "Поликарп",
-    "last_name": "Виноградова"
+    "customer_id": "cus-1022",
+    "first_name": "Назар",
+    "last_name": "Елисеева"
   },
   "store": {
-    "store_id": "store-003",
-    "store_name": "Большая Пикча — Магазин на ул. 30 лет Победы",
+    "store_id": "store-005",
+    "store_name": "Большая Пикча — Магазин на ул. Сурикова",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "клх Калач-на-Дону",
-      "street": "ул. Чайковского",
-      "house": "3",
-      "postal_code": "014762",
+      "city": "с. Абакан",
+      "street": "ш. Загородное",
+      "house": "44",
+      "postal_code": "836911",
       "coordinates": {
-        "latitude": -64.9630345,
-        "longitude": 97.600119
+        "latitude": 43.8106095,
+        "longitude": -167.42383
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1006",
-      "name": "Иной",
-      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "product_id": "prd-1019",
+      "name": "Военный",
+      "category": "🥩 Мясо, рыба, яйца и бобовые",
       "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 38.14,
-      "total_price": 38.14,
+      "price_per_unit": 166.7,
+      "total_price": 166.7,
       "kbju": {
-        "calories": 240.4,
-        "protein": 11.6,
-        "fat": 4.1,
-        "carbohydrates": 46.3
+        "calories": 160.4,
+        "protein": 11.7,
+        "fat": 4.3,
+        "carbohydrates": 21.4
       },
       "manufacturer": {
-        "name": "Шарова Лтд",
+        "name": "ИП «Голубева»",
         "country": "Россия",
-        "website": "https://trofimov.net",
-        "inn": "2302699549"
+        "website": "https://gruppa.ru",
+        "inn": "3931722625"
+      }
+    },
+    {
+      "product_id": "prd-1013",
+      "name": "Решение",
+      "category": "🥛 Молочные продукты",
+      "quantity": 5,
+      "unit": "шт",
+      "price_per_unit": 272.65,
+      "total_price": 1363.25,
+      "kbju": {
+        "calories": 165.7,
+        "protein": 7.0,
+        "fat": 7.7,
+        "carbohydrates": 22.6
+      },
+      "manufacturer": {
+        "name": "ЗАО «Владимирова Федосеева»",
+        "country": "Россия",
+        "website": "https://ip.com",
+        "inn": "0567872472"
       }
     }
   ],
-  "total_amount": 38.14,
+  "total_amount": 1529.95,
   "payment_method": "cash",
-  "is_delivery": true,
+  "is_delivery": false,
   "delivery_address": {
     "country": "Россия",
-    "city": "п. Учалы",
-    "street": "пр. 70 лет Октября",
-    "house": "1/7",
-    "apartment": "80",
-    "postal_code": "258817"
+    "city": "д. Муром",
+    "street": "пр. Кирова",
+    "house": "850",
+    "apartment": "64",
+    "postal_code": "426953"
   },
-  "purchase_datetime": "2026-09-05T16:08:40.669814"
+  "purchase_datetime": "2026-09-28T12:46:39.824936"
 }

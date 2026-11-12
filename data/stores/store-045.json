@@ -1,6 +1,6 @@
 {
   "store_id": "store-045",
-  "store_name": "Маленькая Пикча — Магазин на бул. 30 лет Победы",
+  "store_name": "Маленькая Пикча — Магазин на пер. Горького",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Всеволод Фокич Назаров",
-    "phone": "8 471 458 73 75",
-    "email": "alitkin@example.org"
+    "name": "Панов Дорофей Елизарович",
+    "phone": "86706266935",
+    "email": "bolshakovasinklitikija@example.com"
   },
   "location": {
     "country": "Россия",
-    "city": "клх Зеленоград",
-    "street": "пр. Цветочный",
-    "house": "4",
-    "postal_code": "546752",
+    "city": "г. Яр-Сале",
+    "street": "алл. Железнодорожная",
+    "house": "133",
+    "postal_code": "360004",
     "coordinates": {
-      "latitude": -37.668492,
-      "longitude": 170.691745
+      "latitude": -88.296027,
+      "longitude": -30.594842
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": false,
-  "last_inventory_date": "2026-11-10"
+  "last_inventory_date": "2026-11-12"
 }

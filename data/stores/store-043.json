@@ -1,6 +1,6 @@
 {
   "store_id": "store-043",
-  "store_name": "Маленькая Пикча — Магазин на наб. Воровского",
+  "store_name": "Маленькая Пикча — Магазин на алл. Вокзальная",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Попов Иван Андреевич",
-    "phone": "88023305422",
-    "email": "arhip66@example.com"
+    "name": "Исаева Клавдия Федоровна",
+    "phone": "+7 (041) 119-05-74",
+    "email": "orlovadarja@example.org"
   },
   "location": {
     "country": "Россия",
-    "city": "к. Александровск",
-    "street": "ш. Комсомольское",
-    "house": "1",
-    "postal_code": "044769",
+    "city": "г. Яхрома",
+    "street": "пер. Дарвина",
+    "house": "3",
+    "postal_code": "287876",
     "coordinates": {
-      "latitude": -8.57721,
-      "longitude": 52.71837
+      "latitude": -43.7625855,
+      "longitude": -81.421788
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": true,
-  "last_inventory_date": "2026-11-10"
+  "last_inventory_date": "2026-11-12"
 }

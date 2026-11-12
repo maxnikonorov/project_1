@@ -1,59 +1,59 @@
 {
   "purchase_id": "ord-00134",
   "customer": {
-    "customer_id": "cus-1015",
-    "first_name": "Ипат",
-    "last_name": "Панова"
+    "customer_id": "cus-1007",
+    "first_name": "Прасковья",
+    "last_name": "Гаврилов"
   },
   "store": {
-    "store_id": "store-007",
-    "store_name": "Большая Пикча — Магазин на алл. Жуковского",
+    "store_id": "store-010",
+    "store_name": "Большая Пикча — Магазин на пер. Дружбы",
     "store_network": "Большая Пикча",
     "location": {
       "country": "Россия",
-      "city": "с. Лагань",
-      "street": "пр. Тополиный",
-      "house": "6/4",
-      "postal_code": "084092",
+      "city": "клх Биробиджан",
+      "street": "пр. Нижний",
+      "house": "473",
+      "postal_code": "438884",
       "coordinates": {
-        "latitude": 49.030439,
-        "longitude": -59.077561
+        "latitude": -40.675062,
+        "longitude": -151.419085
       }
     }
   },
   "items": [
     {
-      "product_id": "prd-1012",
-      "name": "Помолчать",
-      "category": "🥛 Молочные продукты",
-      "quantity": 3,
+      "product_id": "prd-1001",
+      "name": "Пропадать",
+      "category": "🥖 Зерновые и хлебобулочные изделия",
+      "quantity": 1,
       "unit": "шт",
-      "price_per_unit": 177.06,
-      "total_price": 531.18,
+      "price_per_unit": 34.92,
+      "total_price": 34.92,
       "kbju": {
-        "calories": 142.7,
-        "protein": 15.3,
-        "fat": 9.2,
-        "carbohydrates": 1.7
+        "calories": 116.0,
+        "protein": 4.4,
+        "fat": 8.2,
+        "carbohydrates": 17.1
       },
       "manufacturer": {
-        "name": "НПО «Силин-Богданова»",
+        "name": "ОАО «Аксенова-Брагина»",
         "country": "Россия",
-        "website": "https://ip.org",
-        "inn": "8788386125"
+        "website": "https://zao.info",
+        "inn": "4796377459"
       }
     }
   ],
-  "total_amount": 531.18,
-  "payment_method": "card",
+  "total_amount": 34.92,
+  "payment_method": "cash",
   "is_delivery": true,
   "delivery_address": {
     "country": "Россия",
-    "city": "ст. Нижний Новгород",
-    "street": "ш. Ярославское",
-    "house": "59",
-    "apartment": "36",
-    "postal_code": "793316"
+    "city": "г. Петушки",
+    "street": "бул. Ломоносова",
+    "house": "2/1",
+    "apartment": "50",
+    "postal_code": "715027"
   },
-  "purchase_datetime": "2026-10-03T16:08:40.763594"
+  "purchase_datetime": "2026-11-09T12:46:39.833095"
 }

@@ -1,36 +1,36 @@
 {
   "customer_id": "cus-1021",
-  "first_name": "Сила",
-  "last_name": "Голубева",
-  "email": "viktorijamerkusheva@example.net",
-  "phone": "+7 (304) 501-94-32",
-  "birth_date": "1993-08-30",
-  "gender": "female",
-  "registration_date": "2026-11-10T16:08:40.530985",
+  "first_name": "Прокофий",
+  "last_name": "Шашков",
+  "email": "vgorbunova@example.com",
+  "phone": "+7 (998) 928-9959",
+  "birth_date": "1996-08-13",
+  "gender": "male",
+  "registration_date": "2026-11-12T12:46:39.808955",
   "is_loyalty_member": true,
-  "loyalty_card_number": "LOYAL-6F7FC3CF79",
+  "loyalty_card_number": "LOYAL-30EF4986E4",
   "purchase_location": {
     "country": "Россия",
-    "city": "д. Нарткала",
-    "street": "ул. Труда",
-    "house": "62",
-    "postal_code": "710312",
+    "city": "г. Пушкино (Моск.)",
+    "street": "ул. Учительская",
+    "house": "16",
+    "postal_code": "772187",
     "coordinates": {
-      "latitude": -12.1783105,
-      "longitude": 146.648455
+      "latitude": 36.759859,
+      "longitude": 71.357431
     }
   },
   "delivery_address": {
     "country": "Россия",
-    "city": "д. Нарткала",
-    "street": "бул. Кооперативный",
-    "house": "573",
-    "apartment": "52",
-    "postal_code": "398005"
+    "city": "г. Пушкино (Моск.)",
+    "street": "бул. Азовский",
+    "house": "4",
+    "apartment": "72",
+    "postal_code": "976622"
   },
   "preferences": {
     "preferred_language": "ru",
-    "preferred_payment_method": "cash",
-    "receive_promotions": true
+    "preferred_payment_method": "card",
+    "receive_promotions": false
   }
 }

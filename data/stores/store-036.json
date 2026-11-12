@@ -1,6 +1,6 @@
 {
   "store_id": "store-036",
-  "store_name": "Маленькая Пикча — Магазин на пер. 50 лет Октября",
+  "store_name": "Маленькая Пикча — Магазин на ш. Волгоградское",
   "store_network": "Маленькая Пикча",
   "store_type_description": "Магазин у дома менее 100 кв.м. Входит в сеть из 15 магазинов.",
   "type": "offline",
@@ -12,19 +12,19 @@
     "🥦 Овощи и зелень"
   ],
   "manager": {
-    "name": "Мариан Ермилович Никитин",
-    "phone": "+7 889 988 3928",
-    "email": "allashilova@example.net"
+    "name": "Виноградов Святослав Аксёнович",
+    "phone": "+7 (393) 470-0336",
+    "email": "ustinovapelageja@example.net"
   },
   "location": {
     "country": "Россия",
-    "city": "д. Борзя",
-    "street": "пер. Тенистый",
-    "house": "45",
-    "postal_code": "771850",
+    "city": "ст. Кунгур",
+    "street": "пр. Белинского",
+    "house": "920",
+    "postal_code": "534443",
     "coordinates": {
-      "latitude": -65.3852585,
-      "longitude": -79.050702
+      "latitude": -82.2828455,
+      "longitude": -140.859879
     }
   },
   "opening_hours": {
@@ -35,5 +35,5 @@
   "accepts_online_orders": true,
   "delivery_available": true,
   "warehouse_connected": false,
-  "last_inventory_date": "2026-11-10"
+  "last_inventory_date": "2026-11-12"
 }
